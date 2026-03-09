@@ -1,4 +1,4 @@
-#  Análisis de Artículos Científicos sobre Pinnípedos con IA
+#  Análisis de Artículos Científicos sobre focas
 
 ##  Description
 Este proyecto automatiza la extracción de metadata, abstracts y enlaces de artículos científicos en formato PDF. Utiliza **Grobid** (una herramienta de IA basada en Deep Learning para documentos técnicos) y un script personalizado de **Python**. El objetivo es analizar una muestra de 10 artículos sobre pinnípedos para generar visualizaciones que faciliten la comprensión rápida del estado de la investigación.
