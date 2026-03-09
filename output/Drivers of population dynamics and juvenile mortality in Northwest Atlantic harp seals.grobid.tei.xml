@@ -1,0 +1,2087 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Drivers of population dynamics and juvenile mortality in Northwest Atlantic harp seals</title>
+				<funder>
+					<orgName type="full">Fisheries and Oceans Canada</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">Department of Fisheries and Oceans Canada</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Wiley</publisher>
+				<availability status="unknown"><p>Copyright Wiley</p>
+				</availability>
+				<date type="published" when="2026-01">2026-01</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">M</forename><forename type="middle">Tim</forename><surname>Tinker</surname></persName>
+							<idno type="ORCID">0000-0002-3314-839X</idno>
+							<affiliation key="aff0">
+								<orgName type="department">Ecology &amp; Evolutionary Biology</orgName>
+								<orgName type="institution">University of California</orgName>
+								<address>
+									<settlement>Santa Cruz</settlement>
+									<region>California</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">Nhydra Ecological Consulting</orgName>
+								<orgName type="institution">Head of St</orgName>
+								<address>
+									<addrLine>Margaret&apos;s Bay</addrLine>
+									<settlement>Halifax</settlement>
+									<region>Nova Scotia</region>
+									<country key="CA">Canada</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Garry</forename><forename type="middle">B</forename><surname>Stenson</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="department">Fisheries and Oceans Canada</orgName>
+								<orgName type="institution">Northwest Atlantic Fisheries Centre</orgName>
+								<address>
+									<addrLine>St. John&apos;s</addrLine>
+									<region>Newfoundland and Labrador</region>
+									<country key="CA">Canada</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Arnaud</forename><surname>Mosnier</surname></persName>
+							<affiliation key="aff3">
+								<orgName type="department">Fisheries and Oceans Canada</orgName>
+								<orgName type="institution">Maurice Lamontagne Institute</orgName>
+								<address>
+									<addrLine>Mont Joli</addrLine>
+									<region>Québec</region>
+									<country key="CA">Canada</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Joanie</forename><surname>Van De Walle</surname></persName>
+							<affiliation key="aff3">
+								<orgName type="department">Fisheries and Oceans Canada</orgName>
+								<orgName type="institution">Maurice Lamontagne Institute</orgName>
+								<address>
+									<addrLine>Mont Joli</addrLine>
+									<region>Québec</region>
+									<country key="CA">Canada</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Shelley</forename><forename type="middle">L C</forename><surname>Lang</surname></persName>
+							<idno type="ORCID">0009-0006-1945-0003</idno>
+						</author>
+						<author>
+							<persName><forename type="first">Mike</forename><forename type="middle">O</forename><surname>Hammill</surname></persName>
+							<affiliation key="aff3">
+								<orgName type="department">Fisheries and Oceans Canada</orgName>
+								<orgName type="institution">Maurice Lamontagne Institute</orgName>
+								<address>
+									<addrLine>Mont Joli</addrLine>
+									<region>Québec</region>
+									<country key="CA">Canada</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff4">
+								<orgName type="institution" key="instit1">Bidesuk Consulting</orgName>
+								<orgName type="institution" key="instit2">St. John&apos;s</orgName>
+								<address>
+									<region>Newfoundland and Labrador</region>
+									<country key="CA">Canada</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff5">
+								<orgName type="department">Department of Fisheries</orgName>
+								<address>
+									<country key="CA">Canada</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Drivers of population dynamics and juvenile mortality in Northwest Atlantic harp seals</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Ecological Applications</title>
+						<title level="j" type="abbrev">Ecological Applications</title>
+						<idno type="ISSN">1051-0761</idno>
+						<idno type="eISSN">1939-5582</idno>
+						<imprint>
+							<publisher>Wiley</publisher>
+							<biblScope unit="volume">36</biblScope>
+							<biblScope unit="issue">1</biblScope>
+							<biblScope unit="page" from="1" to="25"/>
+							<date type="published" when="2026-01" />
+						</imprint>
+					</monogr>
+					<idno type="MD5">BD0DEAE4291D7D41470A8A0CCE882AA9</idno>
+					<idno type="DOI">10.1002/eap.70184</idno>
+					<note type="submission">Received: 27 January 2025 Revised: 12 August 2025 Accepted: 30 October 2025</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.0" ident="GROBID" when="2026-03-09T17:19+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Bayesian model</term>
+					<term>climate change</term>
+					<term>harp seal</term>
+					<term>integrated population model</term>
+					<term>juvenile survival</term>
+					<term>Pagophilous groenlandicus</term>
+					<term>population dynamics</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Human-induced threats to terrestrial and marine wildlife are on the rise, and while some species face a single major threat, others face multiple concurrent threats. Harp seals, an abundant pinniped in the North Atlantic that was historically depleted by human harvest, are one such species. Although commercial</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>and subsistence harvests remain a significant source of mortality, in recent decades their environment has undergone significant changes, which could also impact population dynamics. Inferring the relative importance of various threats as drivers of population dynamics can be challenging, particularly for marine species where monitoring abundance is difficult: the use of integrated population models (IPMs), which leverage multiple data sources to parameterize process-based models of population dynamics, provides one solution. We developed a hierarchical Bayesian IPM with which to explore the shifting roles of anthropogenic and environmental factors in driving trends. We used a competing hazards formulation for survival, enabling the partitioning of mortality into multiple discreet causes and allowing us to assess variation in hazards over 7 decades . We fit the model to available data on pup production, fecundity, age structure, human removals, and environmental conditions. We conducted a Bayesian life stage simulation analysis (LSA) to compare the contributions of various hazards to variation in population growth. We found that harvests of young of the year (YOY) and adults were the primary contributors to variation in trends from 1951 to 1982; however, after 1983, the relative importance of harvest mortality decreased while the impacts of natural mortality increased, especially for YOY. Since 2000, the impacts of YOY mortality from ice cover anomalies have become one of the strongest drivers of trends, while harvest mortality has declined. Based on current climate models, which project warmer water and decreasing ice cover, we expect continued high levels of YOY mortality from environmental factors such as deteriorating ice conditions. These climate-related hazards are likely to become the dominant drivers of population dynamics in coming decades, which will in turn affect sustainable harvest levels</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>INTRODUCTION</head><p>Anthropogenic disturbances are causing major threats to biodiversity, with overexploitation, climate change, habitat loss, invasive species, and pollution being the five most pervasive human-induced threats worldwide <ref type="bibr">(Living Planet Report, 2016)</ref>. While some species may face a single major threat that is easily identifiable, many others face multiple concurrent threats <ref type="bibr" target="#b42">(Pelletier &amp; Coltman, 2018)</ref> that can act synergistically to drive population trajectories <ref type="bibr" target="#b6">(Brook et al., 2008)</ref>. Disentangling the relative contribution of multiple threats to population fluctuations over time is of great importance as it may help to explain the drivers of population trends. It may also help to identify the key drivers to monitor and where to direct conservation or management efforts in the future <ref type="bibr" target="#b6">(Brook et al., 2008)</ref>. However, this task is challenging since threats can exert varying levels of impact over time, the responses to different drivers may or may not be correlated <ref type="bibr" target="#b28">(Isaac &amp; Cowlishaw, 2004)</ref>, and, for longlived species, long-term ecological data may be lacking.</p><p>For many marine mammals, exploitation through large-scale commercial harvesting has been a primary driver of historical population declines <ref type="bibr" target="#b35">(Lotze &amp; Worm, 2009)</ref>. International conservation efforts since the latter half of the 20th century (e.g., International Whaling Commission, United States Marine Mammal Protection Act) <ref type="bibr" target="#b32">(Lavigne, 2006)</ref> have contributed to the recovery of some species, but for many species, the magnitude of recovery compared to historical baselines remains low <ref type="bibr" target="#b36">(Lotze et al., 2017;</ref><ref type="bibr" target="#b35">Lotze &amp; Worm, 2009)</ref>. In addition, unintended human-caused mortality (due primarily to bycatch in fisheries) and environmental degradation (e.g., habitat loss and collapse of prey populations from overfishing) remain significant threats, aggravated by the emerging impacts of climate change <ref type="bibr" target="#b40">(Nelms et al., 2021)</ref>. For depleted marine mammal populations, as with many other taxa, recovery (or lack thereof) can be determined by a combination of factors such as distribution limits, intrinsic life history traits, and extrinsic factors such as habitat disturbance, environmental drivers, anthropogenic mortality, and management efforts <ref type="bibr" target="#b36">(Lotze et al., 2017;</ref><ref type="bibr" target="#b37">Magera et al., 2013)</ref>. Understanding how these different factors may impact marine mammal populations is crucial to conservation and management <ref type="bibr" target="#b38">(McHuron et al., 2023</ref>); yet, their relative influence on population trends remains poorly known.</p><p>Integrated population models (IPMs) combine data from several sources into a single model to allow the simultaneous estimation of demographic parameters and the interpretation and projection of population trajectories <ref type="bibr" target="#b18">(Frost et al., 2023)</ref>. They are especially useful when survey data alone are insufficient to estimate precise vital rates and abundance, as their construction allows leveraging information from multiple data sources <ref type="bibr" target="#b0">(Abadi et al., 2010)</ref>. IPMs can facilitate understanding of mechanisms of population growth and decline (e.g., <ref type="bibr" target="#b39">Mosnier et al., 2015)</ref>. They can also be used to predict future population trajectories in novel circumstances, for example, by testing various scenarios of exploitation to help guide management actions (e.g., ringed seals, Phoca hispida, <ref type="bibr" target="#b17">Ersalman et al., 2025)</ref>, or to infer the demographic impacts of climate change (e.g., Emperor penguin, Aptenodytes forsteri; <ref type="bibr" target="#b29">Jenouvrier et al., 2025)</ref> and incidence of extreme climate events (e.g., black-browed albatrosses, Thalassarche melanophris; <ref type="bibr" target="#b65">Ventura et al., 2023)</ref>.</p><p>A key challenge for wildlife conservation in changing environments is understanding the relative importance of different drivers of vital rates. One of the major appeals of IPMs lies in their potential to explore relationships among multiple sources of mortality such as harvest, environmental stressors, changes in food resources, predation, and longer term factors such as climate change <ref type="bibr">(Riecke, Lohman, et al., 2022;</ref><ref type="bibr">Riecke, Sedinger, et al., 2022;</ref><ref type="bibr" target="#b46">Roberts et al., 2023)</ref>. This feature of IPMs can be particularly important in the case of marine mammal populations facing multiple threats <ref type="bibr" target="#b17">(Ersalman et al., 2025;</ref><ref type="bibr" target="#b30">Joly et al., 2009;</ref><ref type="bibr" target="#b39">Mosnier et al., 2015;</ref><ref type="bibr" target="#b59">Stewart et al., 2023;</ref><ref type="bibr" target="#b61">Tinker et al., 2021)</ref>.</p><p>Harp seals (Pagophilus groenlandicus) are an icedependent, migratory pinniped found over continental shelf regions of the North Atlantic and the adjacent Arctic Ocean <ref type="bibr" target="#b48">(Sergeant, 1991)</ref>. They are the most abundant pinniped in the North Atlantic, with three populations distinguished by their whelping (pupping) location: the White Sea/Barents Sea, the Greenland Sea, and the Northwest Atlantic (NWA; <ref type="bibr" target="#b57">Stenson, Haug, &amp; Hammill, 2020)</ref>. The NWA population, which whelps on the pack ice in Atlantic Canada (Figure <ref type="figure">1</ref>), is the largest of the three populations <ref type="bibr" target="#b57">(Stenson, Haug, &amp; Hammill, 2020)</ref>. This population summers in the eastern Canadian Arctic and off west Greenland, and then migrates southward to overwinter on the Newfoundland Shelf (Front) and in the Gulf of St. Lawrence (Gulf). Harp seals are an ice-obligate species that whelps on drifting, first-year pack ice during February-March in the Gulf and at the Front. Pups are nursed for approximately 12 days, after which the female weans her pup, mates, and disperses to feed <ref type="bibr" target="#b48">(Sergeant, 1991)</ref>. Following weaning, pups need stable ice for 4-6 weeks as they transition to nutritional independence and develop the physiological capacity for diving <ref type="bibr" target="#b10">(Burns et al., 2007;</ref><ref type="bibr" target="#b48">Sergeant, 1991)</ref>. If ice cover or thickness is not sufficient to withstand wave action and storms during the nursing and post-weaning periods, the ice can break up leading to high levels of pup mortality <ref type="bibr" target="#b53">(Stenson &amp; Hammill, 2014)</ref>. On the Newfoundland Shelf, variation in the mid-winter ice extent and the timing of ice retreat have also been shown to influence the biomass of harp seal prey and have been linked to changes in body condition and variability in reproductive rates <ref type="bibr" target="#b8">(Buren et al., 2014;</ref><ref type="bibr" target="#b55">Stenson et al., 2016;</ref><ref type="bibr" target="#b56">Stenson, Buren, &amp; Sheppard, 2020)</ref>.</p><p>The NWA is undergoing a period of significant change with modifications occurring in a variety of components including temperature, ocean circulation and sea ice cover <ref type="bibr">(IPCC, 2021)</ref>. If the current climate trends persist, the NWA harp seal population will likely face a substantial reduction in ice cover <ref type="bibr" target="#b24">(Han et al., 2015</ref><ref type="bibr" target="#b25">(Han et al., , 2019))</ref>. Understanding how removals and changes in environmental conditions affect life history parameters and ultimately population dynamics will be essential for the effective management of this population.</p><p>In this study, we develop an IPM to examine the relative impacts of harvesting and variation in environmental conditions on the dynamics of the NWA harp seal population over the last 70 years. Our primary objectives are to (1) describe trends in population abundance, (2) analyze the demographic processes responsible for driving those trends, and (3) explore the degree to which various environmental and anthropogenic factors affect demographic vital rates, and how those effects have changed over time. Our model is designed to provide data-driven estimates of age-specific survival and fecundity, density-dependent effects, mortality from ice anomalies and human removals, and effects of environmental conditions on fecundity and survival. We then retrospectively investigate how the relative contribution of different sources of mortality has varied, measuring their impact on past fluctuations in population abundance via a simulation-based sensitivity analysis. Model fitting was conducted using a hierarchical Bayesian state-space approach that allows for more robust characterization of uncertainty, disentanglement of process error from observer error <ref type="bibr" target="#b1">(Ahrestani et al., 2013)</ref>, and incorporation of multiple data sources with different distributions and variance structures <ref type="bibr" target="#b7">(Buckland et al., 2004;</ref><ref type="bibr" target="#b66">Wang, 2009;</ref><ref type="bibr" target="#b67">Williams et al., 2017)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>METHODS</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Data sources</head><p>The model relies on six sources of data: (1) pup production estimates from 1951 to 2017 (Appendix S1: Table <ref type="table">S1</ref>); (2) reproductive rates derived from samples collected between <ref type="bibr">October and</ref><ref type="bibr">February, 1979-2019, around</ref> Newfoundland and southern Labrador under licenses issued by the Department of Fisheries and Oceans (DFO) Canada (Appendix S1: Table <ref type="table">S2</ref>; <ref type="bibr" target="#b57">Stenson, Haug, &amp; Hammill, 2020)</ref>; (3) age composition data from seals collected for reproductive rates and as part of other sampling programs carried out by DFO since 1979 (Appendix S1: Table <ref type="table">S3</ref>); (4) reported human-caused deaths (removals) from four sources: (i) the commercial harvest in Atlantic Canada; personal and subsistence hunts in (ii) the Canadian Arctic, and (iii) Greenland; and (iv) incidental by-catch in commercial fishing gear (Appendix S1: Table <ref type="table">S4</ref>; <ref type="bibr" target="#b52">Stenson, 2010;</ref><ref type="bibr" target="#b54">Stenson &amp; Upward 2020)</ref>; (5) an ice index (IC) calculated from government ice cover data and used to provide a measure of ice availability and stability for each year of the study period (Figure <ref type="figure">2a</ref>); (6) the Newfoundland and Labrador Climate Index (NLCI; Figure <ref type="figure">2b</ref>), a mosaic of 10 environmental components that provides a measure of the overall state of environmental conditions and ecosystem variability in the NWA between 1951 and 2019 <ref type="bibr" target="#b14">(Cyr &amp; Galbraith, 2021)</ref>. We note that data sources 1-4 represent observed data used for model fitting, while data sources 5 and 6 were used as input variables for the process model (Figure <ref type="figure">3</ref>).</p><p>In the case of human removals, there were uncertainties in both the number of harvested animals and the age composition of harvests (animals less than 1 year old, or "young of the year" [YOY], vs. seals 1 year of age and older [referred to hereafter as adults]). These uncertainties were assessed and quantified based on previously published analyses (when possible) or expert opinion (see Appendix S1: Section S1). Not all animals that are harvested are successfully recovered and reported, a phenomenon typically referred to as "struck and loss." The fraction of struck and loss varies by age class (YOY vs. adults), harvest source, and over time: accordingly, we assigned a time-varying struck and loss rate for each harvest source based on previously published estimates <ref type="bibr" target="#b23">(Hammill et al., 2015;</ref><ref type="bibr" target="#b50">Sjare &amp; Stenson, 2002)</ref>: for the Arctic and Greenland hunts, YOY struck and loss was set to 50% and for the Canadian hunt, it was set to 1% prior to 1983 and 5% from 1983 onward. The struck and loss rate for adults was set to 50% for all sources of harvest <ref type="bibr" target="#b23">(Hammill et al., 2015)</ref>. Removals from bycatch were assumed to be fully reported, so the struck and loss rate  <ref type="bibr" target="#b14">Cyr and Galbraith (2021)</ref>. Positive anomalies reflect warmer conditions, while negative anomalies reflect cooler conditions. was set to 0% for this mortality source. For each human removal source, we defined variables Q 0,t and Q A,t as the proportion of deaths recovered and reported (for YOY and adults, respectively) in year t, calculated as 1-the rate of struck and loss.</p><p>To calculate the IC index, annual ice cover information  for whelping patch locations (Figure <ref type="figure">1</ref>) was extracted from the Canadian Ice Service of Environment Canada online repository of sea ice conditions (https://iceweb1.cis.ec.gc.ca/IceGraph/page1.xhtml? lang=en). Data were acquired from the Gulf of St Lawrence and southern Labrador ice charts for two periods ( p): whelping ( p = 1; defined for Gulf as week of 28 February, and for Front as week of 26 March) and post-weaning fast ( p = 2; defined for Gulf as week of 5 March, and for Front as week of 9 April). The IC index for each year (t) and breeding area (a) was calculated as the relative area of the whelping patch covered by first-year ice, expressed as a scaled deviation from typical ice cover, and averaged for the two periods ( p): where ICE a,t,p is the raw ice cover data and μ a,p and σ a,p represent (respectively) the mean and standard deviation in ICE for each area/period over reference years 1969-2000 (Figure <ref type="figure">2a</ref>).</p><formula xml:id="formula_0">IC a,t ¼ 1 p X p ICE a,t,p -μ a,p × σ -1 a,p<label>ð1Þ</label></formula><formula xml:id="formula_1">F I G U R E 3</formula></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Model overview</head><p>The methods for analyzing harp seal population dynamics can be described in three parts: (1) the process model, a series of equations that describe demographic transitions and predict dynamics in the variables of interest;</p><p>(2) the data model, which describes how empirical datasets are related to the predicted dynamics of the process model; and (3) model fitting. We describe each of these steps in the following sections, and we provide a graphical schematic of model structure to help illustrate the functional relationships between elements of the model (Figure <ref type="figure">3</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Process model</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Summary</head><p>Population dynamics are described using a female-based, age-structured matrix model with discrete annual time steps. The abundance of animals in each age class for a given year corresponds to the population state in late winter, that is, immediately before the annual pup survey. This formulation simplified interpretation of age samples and pregnancy rate data, as pup counts could be compared with expected births given the age structure and pregnancy rate of females sampled in the same year. The population vector n(t) describes the number of individuals in each age class, i (i = 1, 2… 36), at year t, and N(t) is the sum of n(t) across age classes. The first entry in the population vector (n(1,t)) corresponds to 1-year olds: that is, pups born the previous year that have survived until their first birthday. The last age class, i = 36, represents a multi-year class comprised of all animals older than 35 years of age. Although newborn YOY are not directly included in the population vector n(t), their numbers are separately tracked as the summed annual reproductive output of adult females. Demographic transitions between n(t) and n(t + 1) are calculated from annually varying vital rates: fecundity (F; the probability that a female gives birth at year t), YOY survival (S 0 , the probability that a newborn survives to its first birthday), and adult survival (S A ).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Survival</head><p>We used a competing hazards formulation to model survival, which provides a mathematically coherent way to incorporate multiple hazards into a population analysis (e.g., <ref type="bibr" target="#b4">Beyersmann et al., 2009;</ref><ref type="bibr" target="#b5">Brodie et al., 2013;</ref><ref type="bibr" target="#b19">Gelfand et al., 2000;</ref><ref type="bibr" target="#b26">Heisey &amp; Patterson, 2006)</ref>.</p><p>In this formulation, a discreet set of effectively independent causes of death (hazards) are considered: During each time step, individuals are exposed to risk from all hazards (the temporal sequence of exposure to different hazards within a time step is not explicitly considered), but at any instant, mortality from one hazard precludes mortality from all other hazards. Annual survival rates for both YOY (S 0 ) and adults (S A ) thus represent the joint probability of surviving all competing hazards, and were calculated as:</p><formula xml:id="formula_2">S 0 t ð Þ ¼ exp -h 0 t ð Þ + h IC t ð Þ + h H0 t ð Þ ½ ð Þ ð<label>2Þ</label></formula><formula xml:id="formula_3">S A i, t ð Þ¼ exp -h A i, t ð Þ+ h HA t ð Þ ½ ð Þ ð<label>3Þ</label></formula><p>The instantaneous hazard terms (h) in Equations ( <ref type="formula" target="#formula_2">2</ref>) and ( <ref type="formula" target="#formula_3">3</ref>) include natural hazards for YOY (h 0 ) and adults (h A ), hazards for YOY associated with poor ice conditions (h IC ), and hazards associated with human removals of YOY (h H0 ) and adults (h HA ). In the following sections, we describe calculations for each of these hazard terms, which we formulated in terms of log hazards (γ) to allow multiple predictor variables to be combined using simple additive equations.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Natural hazards</head><p>We define natural hazards to include all sources of mortality other than human removals and ice-related mortality for YOY, which we modeled separately (see below). We decompose natural hazards into sub-equations describing (1) the effects of age and (2) the effects of density dependence and environmental variation. We calculated age effects using a slightly modified formulation of a <ref type="bibr" target="#b49">Siler (1979)</ref> competing risk model:</p><formula xml:id="formula_4">γ A i ð Þ ¼ α 1 -α 2 × i -1 ð Þ+ α 3 × i -1 ð Þ 2<label>ð4Þ</label></formula><p>In Equation ( <ref type="formula" target="#formula_4">4</ref>), α 1 determines average hazards for a 1-year-old juvenile, α 2 allows for a reduction in hazards with age early in life, and α 3 allows for an increase in hazards with age late in life. For YOY, we assumed that natural log hazards (γ 0 ) are equivalent to those of a 1year-old juvenile with an added risk component (υ):</p><formula xml:id="formula_5">γ 0 ¼ γ A 1 ð Þ + υ<label>ð5Þ</label></formula><p>We next incorporated the effects of density dependence and environmental factors. For long-lived species such as harp seals, adult survival is typically buffered from effects of environmental variation and density dependence <ref type="bibr" target="#b16">(Eberhardt, 2002)</ref>. These effects were therefore expected to primarily impact YOY in their first year of life and were calculated as:</p><formula xml:id="formula_6">γ D0 ¼ ϕ S × N t ð Þ × exp δ × NLCI t ð Þ + ε S t ð Þ ð Þ ð<label>6Þ</label></formula><p>where parameter ϕ S determines the per capita strength of density-dependent effects under average conditions, δ determines the effect of environmental factors (as described by the NLCI), and random effect term ε S accounts for additional stochasticity and is drawn as a random normal variate with mean of 0 and standard deviation σ S . Our formulation of Equation <ref type="formula" target="#formula_6">6</ref>assumes that the survival impacts of variable environmental conditions will increase as the population approaches carrying capacity, and thus these effects were included as an exponentiated modifier of the density-dependent term following <ref type="bibr" target="#b60">Stewart et al. (2025)</ref>.</p><p>When NLCI and ε S are at their average values of 0, the exponentiated multiplier = 1, while deviations from average environmental conditions lead to increases or decreases in the strength of density-dependent effects.</p><p>For older age classes, we assumed that the magnitude of effects of environmental variation and density dependence would be proportionally lower than for YOY:</p><formula xml:id="formula_7">γ DA ¼ log exp γ D0 ð Þ-1 ½ × ζ + 1 ð Þ ð<label>7Þ</label></formula><p>Equation ( <ref type="formula" target="#formula_7">7</ref>) was formulated to facilitate interpretation of adjustment parameter ζ, which is constrained to the 0-1 scale: if ζ = 1, the per capita effects of density dependence and environmental variation on hazard rates are equivalent for YOY and adults; if ζ = 0.5, effects for adults (i.e., proportional increases in mortality) are half that for YOY; if ζ = 0 there are no density-dependent or environmental effects on adult survival.</p><p>We summed the log-hazard effects described in Equations ( <ref type="formula" target="#formula_4">4</ref>)-( <ref type="formula" target="#formula_7">7</ref>) and transformed by exponentiation to derive the natural hazard terms for YOY (h 0 ) and adults (h A ):</p><formula xml:id="formula_8">h 0 t ð Þ ¼ exp γ 0 + γ D0 ð Þ ð<label>8Þ</label></formula><formula xml:id="formula_9">h A i, t ð Þ¼ exp γ A i ð Þ + γ DA ð Þ ð<label>9Þ</label></formula></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Ice hazards</head><p>The log-transformed hazards of ice-related mortality for YOY in each breeding area, a, were calculated as a logit function of the ice anomaly index (IC):</p><formula xml:id="formula_10">γ IC a, t ð Þ¼logit -1 -ψ 0 + ψ a × IC a, t ð Þ ð Þ ð Þ ð<label>10Þ</label></formula><p>where parameter ψ 0 determines the range of ice anomaly values over which ice-related mortality increases and ψ a determines the magnitude of the effect of ice anomalies in area a on YOY mortality. This functional form was selected for consistency with previous research <ref type="bibr" target="#b53">(Stenson &amp; Hammill, 2014)</ref> suggesting that in years with average or above-average ice cover there is little or no ice-related mortality, but in years when the ice cover is significantly below average the mortality rate may increase sharply. To calculate the population-level hazards from area-specific ice anomalies, we transformed Equation ( <ref type="formula" target="#formula_10">10</ref>) by exponentiation and took the weighted average across breeding areas, with weighting determined by the proportion of YOY born in each breeding area (P(a,t)):</p><formula xml:id="formula_11">h IC t ð Þ ¼ X 3 a¼1 P a, t ð Þ× exp γ IC a, t ð Þ ð Þ ð<label>11Þ</label></formula><p>For years in which pup surveys were conducted (t s ), the values of P(a,t s ) were calculated directly from survey data: for all other years, P(a,t) was drawn from a Dirichlet distribution with parameters θ a calculated by pre-fitting a Dirichlet distribution (using maximum likelihood methods) to the observed values of P(a,t s ).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Human removal hazards</head><p>For YOY and adults, we calculated the annual hazards associated with each of the four sources of human mortality ( j) as derived hierarchical parameters:</p><formula xml:id="formula_12">γ H0,j t ð Þ $ normal γ H0,j , σ H,j<label>ð12Þ</label></formula><formula xml:id="formula_13">γ HA,j t ð Þ $ normal γ HA,j , σ H,j<label>ð13Þ</label></formula><p>where the hyper-parameters to be estimated include average source-specific log-hazards from human removals for YOY (γ H0,j ) and adults (γ HA,j ), and the magnitude of variance in hazards from year to year (σ H,j ). We then converted log hazards to hazard rates by exponentiation:</p><formula xml:id="formula_14">h H0,j t ð Þ ¼ exp γ H0,j t ð Þ<label>ð14Þ</label></formula><formula xml:id="formula_15">h HA,j t ð Þ ¼ exp γ HA,j t ð Þ<label>ð15Þ</label></formula><p>Fecundity Fecundity was calculated using an instantaneous hazard function (the hazard of not becoming pregnant) for consistency with survival rate calculations. Pregnancy rates for the first 3 age classes are negligible <ref type="bibr" target="#b56">(Stenson, Buren, &amp; Sheppard, 2020)</ref>, and consequently, we set fecundity to 0 for i &lt; 3 following <ref type="bibr" target="#b23">Hammill et al. (2015)</ref>. For older females, we calculated fecundity as:</p><formula xml:id="formula_16">F i, t ð Þ¼ exp -exp β 1 + β 2 × 8 -i ð Þ 2 + ϕ F × N t -1 ð Þ× r À Á Â Ã if 4 ≤ i ≤ 8 exp -exp β 1 + ϕ F × N t -1 ð Þ× r ð Þ ½ if i &gt; 8 , 8 &lt; : and r ¼ exp δ × NLCI t -1 ð Þ+ ε F t ð Þ f g<label>ð16Þ</label></formula><p>In Equation ( <ref type="formula" target="#formula_16">16</ref>), parameter β 1 determines the average pregnancy rate in the absence of other effects, and the additive terms to the right of β 1 can be interpreted as log hazard ratios, decreasing (in the case of terms &gt;0) or increasing (terms &lt;0) the probability of pregnancy. Parameter β 2 determines the effect of age for younger adults (pregnancy rates are assumed to reach an asymptote by age 8; <ref type="bibr" target="#b23">Hammill et al., 2015)</ref>, ϕ F determines the strength of density-dependent effects, δ determines the effect of environmental conditions assuming a 1-year lag (i.e., female fecundity in year t is primarily affected by the NLCI value in year t-1), while ε F is a year-specific random effect capturing annual variation in fecundity that affects all age classes, and was drawn from a normal distribution with mean of 0 and standard deviation σ F . As was the case for survival, our formulation of Equation ( <ref type="formula" target="#formula_16">16</ref>) assumed that the impact of variable environmental conditions on fecundity would increase as the population approaches carrying capacity, and these effects were therefore incorporated as an exponentiated modifier of the density-dependent term.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Estimated population dynamics</head><p>Vital rates were organized into an age-structured and time-varying projection matrix, M(t), <ref type="bibr" target="#b12">(Caswell, 2001)</ref> of dimensions 36 × 36, which describes all demographic transitions at year t: </p><formula xml:id="formula_17">M t ð Þ ¼ R 1, t ð Þ R 2, t ð Þ R 3, t ð Þ R 4, t ð Þ ÁÁÁ R 35, t ð Þ R 36, t ð Þ S A 1, t ð Þ 0 0 0 ÁÁÁ 0 0 0 S A 2, t ð Þ 0 0 ÁÁÁ 0 0 0 0 S A 3, t ð Þ 0 ÁÁÁ 0 0 0 0 0 S A 4, t ð Þ ÁÁÁ<label>0</label></formula><p>In Equation ( <ref type="formula" target="#formula_18">17</ref>), the terms R(i,t) in the first row of the matrix represent reproductive contributions of females to the 1-year-old age class the following year, and were calculated as the product of age-specific fecundity and YOY survival, adjusted for a 50:50 sex ratio:</p><formula xml:id="formula_19">R i, t ð Þ¼0:5 × F i, t ð Þ× S 0 t ð Þ<label>ð18Þ</label></formula><p>We calculated the expected population vector in the following year, n(t + 1), via matrix multiplication:</p><formula xml:id="formula_20">n t + 1 ð Þ¼M t ð Þ × n t ð Þ<label>ð19Þ</label></formula><p>We note that our computation of population dynamics by matrix projection does not explicitly account for demographic stochasticity; however, given the magnitude of abundance (in the millions), we expected that the impacts of demographic stochasticity would be negligible relative to the impacts of environmental stochasticity and thus could be safely ignored. To initiate the population vector at t = 0 we multiplied the starting abundance (N 0 , a parameter to be estimated) by the stationary age distribution (SAD) associated with the demographic schedule for t = 1. The SAD was calculated during model fitting by projecting the M(t) matrix forward in time until the stage distribution stabilized.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Model-predicted variables</head><p>We differentiate model-predicted, "observable" variables (derived from latent variables in the process model; Figure <ref type="figure">3</ref>) from their corresponding observed data variables, and for clarity, we identify the former using the superscript "prd," and the latter using the superscript "obs." The model-predicted number of YOY available for counting during a survey in year t was calculated as:</p><formula xml:id="formula_21">YOY prd t ð Þ ¼ 0:5 × X 36 i¼1 n i, t ð Þ× F i, t ð Þ ! × S nb t ð Þ, S nb t ð Þ ¼ S 0 t ð Þ ð Þ π t ð Þ<label>ð20Þ</label></formula><p>Equation (20) assumes a 50:50 sex ratio and adjusts the total number of pups born for newborn survival, S nb (t), which accounts for the fact that a small fraction of YOY mortality can occur prior to the pup survey (i.e., not all pups born are available to be counted). The fraction of first year mortality occurring before the survey was determined by annually varying parameter π(t), which was constrained to the 0-1 scale.</p><p>The predicted age frequency distribution at year t, Agedist prd (t), was calculated as a linear array:</p><formula xml:id="formula_22">Agedist prd t ð Þ ¼ n m, t ð Þ, n m + 1, t ð Þ , …n 36, t ð Þ ½ × X 36 i¼m n i, t ð Þ " # -1<label>ð21Þ</label></formula><p>where m is the minimum age of adults to be considered for comparison with observed age distributions. We set m = 5 years to avoid potential biases associated with collections of younger animals, and for consistency with previous analyses <ref type="bibr" target="#b62">(Tinker et al., 2023)</ref>.</p><p>The predicted number of reported human removals for YOY from source j was calculated in two steps: first, we calculated the expected fraction of all YOY deaths accounted for by source j in year t:</p><formula xml:id="formula_23">f H0,j t ð Þ ¼ h H0,j t ð Þ × h 0 t ð Þ + h IC t ð Þ + X j h H0,j t ð Þ " # -1<label>ð22Þ</label></formula><p>We note that Equation ( <ref type="formula" target="#formula_23">22</ref>) reflects the additive nature of competing instantaneous hazards, providing a straightforward estimator for the expected proportion of deaths attributable to cause j within a time step <ref type="bibr" target="#b26">(Heisey &amp; Patterson, 2006;</ref><ref type="bibr" target="#b30">Joly et al., 2009)</ref>, independent of their order of occurrence. Next, this fraction was used to calculate the predicted reported removals of YOY from source j in year t:</p><formula xml:id="formula_24">Hv prd 0,j t ð Þ ¼ 0:5 × X 36 i¼1 n i, t ð Þ× F i, t ð Þ ! " × 1 -S 0 t ð Þ ð Þ× f H0,j t ð Þ × Q 0,j t ð Þ i<label>ð23Þ</label></formula><p>where the term enclosed by square brackets gives the total expected deaths for YOY over the year, and Q 0,j t ð Þ represents the expected proportion of removals of YOY from source j that would be recovered and reported (i.e., inverse of struck-and-lost) in year t.</p><p>Similarly, the expected fraction of total adult deaths in each age class attributable to human removals from source j in year t was calculated as:</p><formula xml:id="formula_25">f HA,j i, t ð Þ¼ h HA,j t ð Þ × h A i, t ð Þ+ X j h HA,j t ð Þ " # -1<label>ð24Þ</label></formula><p>We note that Equation ( <ref type="formula" target="#formula_25">24</ref>) implicitly assumes that human removals for the adult age classes are proportional to the current age structure at time of harvest. The resulting fraction was used to calculate the predicted reported removals of adults in year t from source j:</p><formula xml:id="formula_26">Hv prd A,j t ð Þ ¼ X 36 i¼1 n i, t ð Þ× 1 -S A i, t ð Þ ð Þ ½ × f HA,j i, t ð Þ× Q A,j t ð Þ<label>ð25Þ</label></formula><p>where the term enclosed by square brackets gives the total expected deaths for each age class and Q A,j t ð Þ is the proportion of removals of adults from source j that were recovered and reported in year t. The total expected annual reported removals from each source, Hv prd j t ð Þ, was calculated as the sum of Hv prd 0,j t ð Þ and Hv prd A,j t ð Þ.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Data model</head><p>The observed YOY abundance estimates (YOY obs ; Appendix S1: Table <ref type="table">S1</ref>) at time t were assumed to follow a gamma distribution:</p><formula xml:id="formula_27">YOY obs t ð Þ $ gamma a ¼ YOY prd t ð Þ Â Ã 2 SE sv t ð Þ ½ 2 , b ¼ YOY prd t ð Þ SE sv t ð Þ ½ 2 !<label>ð26Þ</label></formula><p>where the error estimates associated with each YOY survey point estimate (SE sv ) were computed prior to model fitting according to the survey design methods (Appendix S1: Table <ref type="table">S1</ref>; <ref type="bibr" target="#b58">Stenson et al., 2022)</ref> and provided to the model as input data. Data on pregnancy rates of sampled females (Appendix S1: Table <ref type="table">S2</ref>) were treated as a beta-binomial variable: specifically, given a sample of females of age i in year t (NF(i, t)), the observed number of pregnant females (NPr obs (i, t)) was assumed to follow a beta-binomial distribution with probability determined by the model-predicted fecundity rates:</p><formula xml:id="formula_28">NPr obs i, t ð Þ$beta:binomial NF i, t ð Þ, η × F i, t ð Þ, η × 1 -F i, t ð Þ ½ ð Þ<label>ð27Þ</label></formula><p>where estimated inverse scale parameter η determines the magnitude of variability in sampled pregnancy rates over and above what would be expected from a simple binomial distribution.</p><p>Counts of adult animals of age i sampled in year t(NC (i,t); Appendix S1: Table <ref type="table">S3</ref>) were compiled into linear arrays for each year, Agedist obs (t) = [NC(m,t), NC(m + 1,t)… NC(36,t)], where m = 5 was the minimum age to be considered for model fitting <ref type="bibr" target="#b62">(Tinker et al., 2023)</ref>. The observed age distributions were compared to the modelpredicted age distribution (Agedist prd (t)), and to account for measurement uncertainty and sampling error in the age counts, we used a Dirichlet-multinomial formulation:</p><formula xml:id="formula_29">Agedist obs t ð Þ $ Dirichlet:multinomial X i¼m:36 NC i, t ð Þ, τ × Agedist prd t ð Þ !<label>ð28Þ</label></formula><p>where τ is an estimated precision parameter.</p><p>The annual reported human removals from source j (Appendix S1: Table <ref type="table">S4</ref>) were assumed to follow negative-binomial distributions with mean corresponding to the model-predicted values:</p><formula xml:id="formula_30">Hv obs j t ð Þ $ negative:binomial x ¼ Hv prd j t ð Þ, ξ j t ð Þ<label>ð29Þ</label></formula><p>In Equation ( <ref type="formula" target="#formula_30">29</ref>), the annually varying precision parameter (ξ) was calculated from the previously assigned coefficient of variation (CV) associated with each removal source and time period (Appendix S1: Table <ref type="table">S5</ref>):</p><formula xml:id="formula_31">ξ j t ð Þ ¼ Hv prd j t ð Þ 2 × CV j t ð Þ × Hv prd j t ð Þ t ð Þ 2 -Hv prd j t ð Þ ! -1<label>ð30Þ</label></formula><p>Next, to account for varying levels of uncertainty in the reported age composition of removal numbers from each source (i.e., YOY vs. adults), we treated reported numbers of harvested or by-caught YOY (Appendix S1: Table <ref type="table">S4</ref>) as draws from a beta-binomial distribution:</p><formula xml:id="formula_32">Hv obs 0,j t ð Þ $ beta:binomial Hv obs j t ð Þ, κ j t ð Þ × Hv prd 0,j t ð Þ Hv prd j t ð Þ , κ j t ð Þ × 1- Hv prd 0,j t ð Þ Hv prd j t ð Þ " # !<label>ð31Þ</label></formula><p>In Equation ( <ref type="formula" target="#formula_32">31</ref>), the precision parameter κ j (t) was set for each source and year based on previously assigned levels of uncertainty associated with reported age compositions (Appendix S1: Table <ref type="table">S5</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Model fitting</head><p>Posterior distributions for parameters were estimated using standard Markov chain Monte Carlo (MCMC) methods. We used vague prior distributions for most parameters (i.e., scaled based on biological feasibility but having no information specific to the analysis). The Cauchy distribution (and half-Cauchy for parameters logically constrained to be &gt;0) is an effective uninformative prior because it is leptokurtic ("fat tailed") and has no defined mean, and thus provides wide potential bounds on parameter space, a tendency to shrink towards 0 for non-significant parameters, and minimized influence of the prior on the estimation of the posterior <ref type="bibr" target="#b20">(Gelman, 2006;</ref><ref type="bibr" target="#b21">Gelman et al., 2008)</ref>. A Cauchy prior was used for unbounded parameter δ and half-Cauchy priors were used for N 0 , η, τ, all variance parameters (σ), and all log-hazard parameters (α, β, ϕ, γ), as these were constrained to be positive due to our inclusion of scaling constants in log-hazard equations (Appendix S1: Section-S1). For the remaining parameters (ψ, ζ, π, and υ), we set moderately informative priors based on published information and/or biological feasibility, and to improve model identifiability (Appendix S1: Section S1 and Table <ref type="table">S6</ref>).</p><p>We used R (R. <ref type="bibr">Core.Team, 2022)</ref> and Stan software <ref type="bibr" target="#b11">(Carpenter et al., 2017)</ref> to code and fit the model, saving 20,000 samples after a burn-in of 1000 samples. We evaluated model convergence by graphical examination of trace plots from 10 independent chains and by ensuring that Gelman-Rubin convergence diagnostic (R-hat) was &lt;1.1 for all fitted parameters. We plotted and visually compared prior and posterior distributions for all parameters to assess the degree to which posteriors were distinct from priors. We conducted graphical posterior predictive checking to evaluate model goodness of fit, ensuring that out-of-sample predictive distributions of YOY abundance, female pregnancy rates, and age distributions were consistent with distributions of observed data. We also calculated the posterior predictive Bayesian p values for each dataset (using summed Pearson residuals as the test statistic to compare observed vs. outof-sample predicted data), with reliable model fit indicated by 0.05 &lt; Bayesian p &lt; 0.95. We employed leaveout-one cross-validation approximation (R library "Loo"; <ref type="bibr" target="#b64">Vehtari et al., 2017)</ref> to estimate the expected log predictive density (ELPD) for a new dataset and used the Pareto k diagnostic to identify data observations exerting excessive influence on the joint posterior (we define excessive influence as Pareto-k &gt; 1). As an additional goodnessof-fit check, we created "out-of-sample" hindcast projections of population dynamics to compare to the fitted model projections. Specifically, for each out-of-sample projection, we initiated a "new" 1951 population at N 0 , and then projected forward for T years with the process model parameterized by drawing from the joint posteriors of all parameters and with hierarchical random effects drawn from their appropriate sampling distributions (except for hierarchical harvest hazard parameters, which were set to their mean estimated values). In the case of a well-fit model, the best-fit abundance trend should fall within the distribution of out-of-sample hindcast projections. Model results were summarized by reporting the mean and 95% Credible Interval (CI) of the posterior distributions for base model parameters and derived parameters.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Sensitivity analyses</head><p>We used samples from the joint posterior to parameterize a Bayesian life stage simulation analysis (LSA; <ref type="bibr" target="#b15">Eacker et al., 2017</ref><ref type="bibr" target="#b68">, Wisdom et al., 2000)</ref>, which we used to (1) assess the sensitivity of population growth rate (λ) to proportional perturbations in cause-specific hazard rates and fecundity (we back-transformed fecundity to instantaneous hazard units for comparison to survival hazards); and (2) evaluate the degree to which variation in each hazard rate contributed to variation in λ over three time <ref type="bibr">periods: 1951-1982, 1983-1999, and 2000-2019.</ref> Methods for the LSA were based on those described by <ref type="bibr" target="#b15">Eacker et al. (2017)</ref> and are described in detail in Appendix S1: Section S1. We also graphically evaluated trends in the magnitude of individual mortality sources for YOY and adults over the study period.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>RESULTS</head><p>Model fitting resulted in well-mixed chains, with R-hat &lt;1.1 for all parameters (Appendix S1: Table <ref type="table">S7</ref>). Graphical posterior predictive checks showed consistency between observed and out-of-sample distributions for all datasets (Appendix S1: Figure <ref type="figure">S1</ref>), although the Bayesian P value for YOY surveys (0.975) indicated marginal goodness of fit for this particular dataset. Leave-out-one cross-validation analysis revealed the cause of marginal goodness of fit, as three YOY survey data points <ref type="bibr">(1990,</ref><ref type="bibr">1994,</ref><ref type="bibr">2008)</ref> had Pareto k values &gt;1 and thus exerted excessive leverage on the overall model likelihood. This outcome was not surprising given that the observer error for this dataset was pre-computed rather than estimated by the model (as for reproductive rates and age composition data). Refitting the model with these three data points excluded resolved the goodness-of-fit issue (new Bayesian P for YOY surveys = 0.688, all Pareto-k values &lt;1) and had minimal impacts on other model parameters; however, because these survey results contributed important information about pup abundance during periods of rapid change, we decided to retain all data points and we report all further results for the initial model fit. The distribution of out-of-sample hind-cast projections of population trends were consistent with the best-fit projection (Appendix S1: Figure <ref type="figure">S2</ref>), and posterior distributions were distinct from prior distributions for all parameters except those with moderately informative priors (Appendix S1: Figure <ref type="figure">S3</ref>). Detailed statistics for all model parameters are provided in Appendix S1: Table <ref type="table">S7</ref>.</p><p>The model projections for each data series were consistent with observed raw datasets, effectively describing variation in observed adult pregnancy rates (Figure <ref type="figure">4a</ref>), relative age structure (Figure <ref type="figure">4b</ref>), and pup abundance (Figure <ref type="figure">4c</ref>). The pup survey estimates for 1990, 1994 and 2008 deviated most from expected pup trends, and indeed were the data points with elevated Pareto k estimates. Estimated pup production in 1951 was 430,000 (95% CI = 350,000-512,000), declining to a minimum of 308,000 (95% CI = 262,000-355,000) in 1968, then increasing to a maximum of 1.36 million (95% CI = 1,102,000-1,588,000) in 2008 (Figure <ref type="figure">4c</ref>). Pup production declined again to 685,000 (95% CI = 392,000-1,037,000) by 2011, but has since recovered to an estimated 846,000 (95% CI = 572,000-1,141,000) in 2019.</p><p>Estimated total abundance trends represent a latent parameter in the model, having no corresponding observed dataset (Figure <ref type="figure">5a</ref>). Estimated trends varied considerably over the study period: the estimated abundance in 1951 was 2.4 million (95% CI = 2.2-2.7 million), and the population then declined to a minimum of 1.5 million (95% CI = 1.3-1.7 million) in 1970, reflecting a mean intrinsic growth rate (where r = log(λ)) of r = -0.027 (Figure <ref type="figure">5b</ref>). After 1970, the population increased rapidly to a maximum of 7.4 million (95% CI = 6.5-8.4 million) in 1997 (Figure <ref type="figure">5a</ref>), reflecting a mean growth rate of r = 0.059 over this period (Figure <ref type="figure">5b</ref>). Estimated abundance began to decline again after 1997 with a mean growth rate of r = -0.030, reaching a low of 4.9 million (95% CI = 4.1-5.9 million) in 2011 (Figure <ref type="figure">5a,</ref><ref type="figure">b</ref>), but then stabilized and increased slightly to 5.5 million (95% CI: 4.5-6.6 million) by 2019.</p><p>Both pregnancy rates and YOY survival varied significantly with density, decreasing as population abundance increased (Figure <ref type="figure">6a,</ref><ref type="figure">b</ref>). Pregnancy rates and YOY survival were also negatively correlated with the NLCI (Figure <ref type="figure">6c,</ref><ref type="figure">d</ref>). Years with anomalously low ice cover in the Gulf of St. Lawrence and the Front were associated with increases in YOY mortality, although ice effects appeared to be most significant for the Front breeding patch (Figure <ref type="figure">7</ref>). Survival rates also varied with age, showing the inverted-U pattern typical of mammalian survivorship schedules <ref type="bibr" target="#b13">(Caughley, 1966)</ref> with densitydependent impacts mostly affecting YOY, juveniles, and very old individuals (Appendix S1: Figure <ref type="figure">S4</ref>).</p><p>The model successfully captured temporal trends in total removals, which were dominated by YOY in most years (Figure <ref type="figure">8a</ref>). The four sources of human removal differed dramatically in terms of their per capita hazard rates and the relative magnitude of hazards for YOY versus older age classes (Figure <ref type="figure">8b</ref>). The Canadian commercial harvest and Greenland harvest had substantially higher mean hazard rates than the Arctic hunt or bycatch mortality. YOY hazards were highest for Canadian commercial harvests, while adult hazards were highest for Greenland harvests. Similarly, hazard rates associated with the Arctic hunt were higher for adults than YOY, while bycatch hazards were greater for YOY than for adults (Figure <ref type="figure">8b</ref>). The results of the Bayesian LSA showed variable impacts on population growth (λ) of age-and causespecific hazards. While asymptotic lambda estimates generated by a Bayesian LSA (λ sim ) can potentially differ from realized population growth rates (λ obs ) in a time-variant environment, in the current analysis we found that the distributions of λ sim values for each period were reflective of (and did not differ significantly from) the corresponding distributions of λ obs values (Appendix S1: Figure <ref type="figure">S6</ref>), providing confidence in our LSA results. For a given magnitude of perturbation, the hazards with the strongest effects on λ were adult natural hazards and human removal hazards for adults (h A and h HA ), while the relative effects of YOY natural hazards (h 0 ), ice anomaly hazards (h IC ), YOY human removal hazards (h H0 ), and fecundity (F) were considerably lower (Appendix S1: Figure <ref type="figure">S5</ref>). These results are consistent with typical age-based patterns of vital rate elasticities for long-lived vertebrates <ref type="bibr" target="#b12">(Caswell, 2001)</ref>, but do not reflect the realized contributions of different hazards to historical variation in λ, which depend not only on elasticities but also on the actual patterns of variation in each rate <ref type="bibr" target="#b68">(Wisdom et al., 2000)</ref>. A comparison of the proportional contributions of hazards to observed variation in λ provided a clearer picture of the relative importance of ageand cause-specific hazards in this system (Figure <ref type="figure">9</ref>). In the first three decades of the study period , the strongest driver of variation in λ was the Canadian commercial harvest, both for YOY and for adults, although the adult Greenland harvest, fecundity, and YOY natural hazards also had substantial effects (Figure <ref type="figure">9a</ref>). Over the following two decades <ref type="bibr">(1983)</ref><ref type="bibr">(1984)</ref><ref type="bibr">(1985)</ref><ref type="bibr">(1986)</ref><ref type="bibr">(1987)</ref><ref type="bibr">(1988)</ref><ref type="bibr">(1989)</ref><ref type="bibr">(1990)</ref><ref type="bibr">(1991)</ref><ref type="bibr">(1992)</ref><ref type="bibr">(1993)</ref><ref type="bibr">(1994)</ref><ref type="bibr">(1995)</ref><ref type="bibr">(1996)</ref><ref type="bibr">(1997)</ref><ref type="bibr">(1998)</ref><ref type="bibr">(1999)</ref>, a period of mostly positive growth (Figure <ref type="figure">5b</ref>), the relative contribution of the adult commercial harvest declined, while the contributions of ice anomaly hazards and natural hazards for YOY and adults increased (Figure <ref type="figure">9b</ref>). In the most recent two decades <ref type="bibr">(2000)</ref><ref type="bibr">(2001)</ref><ref type="bibr">(2002)</ref><ref type="bibr">(2003)</ref><ref type="bibr">(2004)</ref><ref type="bibr">(2005)</ref><ref type="bibr">(2006)</ref><ref type="bibr">(2007)</ref><ref type="bibr">(2008)</ref><ref type="bibr">(2009)</ref><ref type="bibr">(2010)</ref><ref type="bibr">(2011)</ref><ref type="bibr">(2012)</ref><ref type="bibr">(2013)</ref><ref type="bibr">(2014)</ref><ref type="bibr">(2015)</ref><ref type="bibr">(2016)</ref><ref type="bibr">(2017)</ref><ref type="bibr">(2018)</ref><ref type="bibr">(2019)</ref>, the contributions of the commercial harvest hazards for adults further declined and were surpassed by the effects of the adult Greenland harvest, while the relative contributions of ice anomaly hazards and natural hazards for YOY and adults continued to increase (Figure <ref type="figure">9c</ref>). Considering the entire study period, our results indicate that most of the variation in λ has been explained by variation in natural hazards for YOY and commercial harvest hazards for YOY and adults, with slightly lower contributions from hazards associated with fecundity, ice anomalies, and the adult Greenland harvest (Figure <ref type="figure">9d</ref>). We also graphically evaluated how the magnitude of different mortality sources has varied over time. In the case of YOY, human removals (dominated by the Canadian commercial harvest) represented the largest component of mortality up until 1983 (Figure <ref type="figure">10a</ref>). Harvest hazards dropped sharply between 1985 and 1995, leading to greatly reduced YOY mortality overall. By 1995, an increase in abundance resulted in an uptick in natural mortality for YOY (Figure <ref type="figure">10a</ref>), due primarily to densitydependent effects. From 1995 to 2008, harvest mortality again increased, while mortality attributable to environmental factors and poor ice-conditions was elevated from 2000 to 2015 (Figure <ref type="figure">10a</ref>). More favorable environmental and ice conditions after 2015, combined with reduced human-caused mortality, resulted in a slight reduction in total mortality at the end of the time series (Figure <ref type="figure">10a</ref>).</p><p>The trends in adult hazards (Figure <ref type="figure">10b</ref>) displayed not only some similarities with YOY hazards but also some key differences. As with YOY, the Canadian commercial harvest was the dominant contributor to mortality during the early years of the time series ; Figure <ref type="figure">10b</ref>). However, after 1983 the impact of harvest on adult mortality dropped sharply, and mortality from   the Greenland hunt became the largest contributor to adult mortality for the rest of the time series (Figure <ref type="figure">10b</ref>). There was a slight increase in natural hazards after 1995, reflecting density-dependent effects; however, natural hazards remained relatively minor compared to mortality from human removals. Adult hazards from bycatch mortality, the Arctic hunt, and environmental effects have been minimal over the entire study period (Figure <ref type="figure">10b</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>DISCUSSION</head><p>The results presented here demonstrate the potential of IPMs to help in inferring the drivers of trends in wildlife populations. The competing hazards formulation of survival enabled the partitioning of mortality into multiple discreet causes and, combined with the results of the simulation-based sensitivity analysis, allowed us to assess the main drivers of harp seal mortality and population dynamics across seven decades in the NWA. We show that the NWA harp seal population, especially the juvenile component (YOY), faces multiple threats, but the relative influence of each of those threats has varied over time. Our model builds on the examples provided by other IPMs, which have explored mechanistic relationships between vital rates and environmental and anthropogenic processes (e.g., <ref type="bibr" target="#b15">Eacker et al., 2017;</ref><ref type="bibr" target="#b17">Ersalman et al., 2025;</ref><ref type="bibr">Riecke, Lohman, et al., 2022;</ref><ref type="bibr">Riecke, Sedinger, et al., 2022)</ref>. The results of our harp seal IPM demonstrate strong functional relationships between YOY survival and human removals (Figure <ref type="figure">10a</ref>), environmental conditions (as represented by the NLCI index; Figure <ref type="figure">6d</ref>), ice cover anomalies (Figure <ref type="figure">7</ref>), and densitydependent factors (Figure <ref type="figure">6b</ref>). The latter relationship presumably reflects bottom-up feedback processes such as intraspecific competition for prey resources <ref type="bibr" target="#b51">(Solomon, 1958)</ref>. Environmental conditions and density-dependent processes also affect female pregnancy rates (Figure <ref type="figure">6a,</ref><ref type="figure">c</ref>). In contrast, adult survival rates were largely buffered from environmental conditions and density-dependent processes, but were significantly impacted by human removals (Figures <ref type="figure">9d</ref> and<ref type="figure">10b</ref>). The NWA harp seal population has shown dramatic swings in abundance over the past 70 years (Figure <ref type="figure">5</ref>), and our results indicate that changes in the intensity of human removals-particularly the Canadian commercial harvest-are responsible for much of this volatility (Figure <ref type="figure">9d</ref>). Prior to the early 1970s, high levels of harvest removals were the predominant contributors to both YOY and adult mortality (Figure <ref type="figure">10</ref>) and thus the primary driver of population trends (Figure <ref type="figure">9a</ref>). The resulting annual mortality rates (50% per year for YOY and 5%-10% per year for adults) led to a decline in the population, with abundance reaching a minimum by 1971. At that time, harvest quotas were implemented <ref type="bibr" target="#b48">(Sergeant, 1991)</ref>, leading to a reduction in both YOY and adult removals, and the population began to increase (Figure <ref type="figure">5</ref>). Following the closure of the primary markets for whitecoats in 1983 <ref type="bibr" target="#b48">(Sergeant, 1991)</ref>, YOY harvests declined further (Figure <ref type="figure">8</ref>). Overall, natural mortality remained low and the reduced harvest levels caused a sharp drop in overall mortality rates for both YOY and adults (Figure <ref type="figure">10</ref>), permitting rapid population growth through the mid-1990s (Figure <ref type="figure">5a,</ref><ref type="figure">b</ref>). The trends in abundance leveled off after 1995 and then began to decline, reflecting both a resumption of YOY harvests (Figure <ref type="figure">8</ref>) as well as concurrent increases in density-dependent mortality (natural hazards) and mortality associated with climate effects and poor ice conditions (Figure <ref type="figure">10a</ref>). These combined factors led to a dramatic and unprecedented increase in YOY mortality, even surpassing levels seen in the 1970s. However, unlike the earlier period where mortality was primarily driven by harvest, recent mortality was more evenly split between increases in harvesting and higher natural mortality and ice-related hazards. YOY mortality from these three hazards has been the main driver of population trends since 2000 (Figure <ref type="figure">9c</ref>) and in addition to the decline in numbers (Figure <ref type="figure">5</ref>) has resulted in a sustained shift in the age structure (Figure <ref type="figure">3b</ref>). Some of the recent increases in natural mortality, including the growing impacts of climate variables (Figure <ref type="figure">10a</ref>), correspond to large-scale, decadal shifts in the NWA ecosystem. The NWA food web is best described as an ecological wasp-waist pattern in which the crucial intermediate trophic link between zooplankton and large vertebrates is dominated by a single species, capelin (Mallotus villosus) <ref type="bibr" target="#b8">(Buren et al., 2014</ref><ref type="bibr" target="#b9">(Buren et al., , 2019))</ref>. Capelin are a major prey species for many upper level predators such as piscivore fish, including F I G U R E 1 0 Plot showing temporal variation  in the relative contributions of various hazards to the total estimated mortality rate. Competing hazards include human removals from harvest or bycatch (partitioned by four sources), mortality attributable to anomalously poor ice conditions, excess mortality due to climate effects (as measured by NLCI), and all other natural hazards (which include density-dependent mortality and stochastic variation). (a) Estimated hazard trends for young of the year. (b) Estimated hazard trends for adults. To account for age-based differences in mortality, we have plotted here the weighted average of hazard rates across all adult age classes, with weights corresponding to the average stationary age distribution (i.e., the relative number of individuals in each year class).</p><p>Atlantic cod (Gadus morhua), sea birds, cetaceans, and harp seals <ref type="bibr" target="#b8">(Buren et al., 2014;</ref><ref type="bibr" target="#b3">Beck et al., 1993;</ref><ref type="bibr" target="#b33">Lawson &amp; Stenson, 1997;</ref><ref type="bibr" target="#b48">Sergeant 1991)</ref>. A regime shift in the early 1990s associated with a cold-water anomaly in the waters off Newfoundland and Labrador coincided with a collapse of the capelin stock off Newfoundland, as well as many groundfish stocks including Atlantic cod <ref type="bibr" target="#b8">(Buren et al., 2014</ref><ref type="bibr" target="#b9">(Buren et al., , 2019;;</ref><ref type="bibr" target="#b31">Koen-Alonso et al., 2021)</ref>. Initially, the cold water was beneficial to harp seals as ice conditions improved. However, by 2000, both bottom temperatures and overall climate had largely returned to their prior state; yet, fish stocks did not substantially recover <ref type="bibr" target="#b41">(Pedersen et al., 2017)</ref>. Moreover, ice conditions began to deteriorate after 2000, while capelin stocks showed no signs of improvement, and other key prey for harp seal, such as Arctic cod (Boreogadus saida), which inhabit cold water, also declined in areas around Newfoundland <ref type="bibr" target="#b57">(Stenson, Haug, &amp; Hammill, 2020)</ref>. The collapse in capelin abundance, along with changes in mid-winter ice conditions, impacted YOY survival and female productivity <ref type="bibr" target="#b55">(Stenson et al., 2016;</ref><ref type="bibr" target="#b56">Stenson, Buren, &amp; Sheppard, 2020)</ref>, both of which have contributed substantially to trends over the last two decades (Figure <ref type="figure">9c</ref>).</p><p>The Newfoundland Climate Index (NLCI) that we used as a climate variable in our model was developed to represent the large-scale climate conditions and state of the physical environment on the Newfoundland and Labrador shelf, and the NWA in general <ref type="bibr" target="#b14">(Cyr &amp; Galbraith, 2021)</ref>. The NLCI incorporates data from 10 metrics or subindices, including total accumulated ice cover in Atlantic Canada over the entire year <ref type="bibr" target="#b14">(Cyr &amp; Galbraith, 2021)</ref> and other physical/environmental traits that might impact, directly or indirectly, food resources available to harp seals. Unfortunately, the linkages and time lags between the physical environmental variables and prey resources are only partially understood. For example, <ref type="bibr" target="#b8">Buren et al. (2014)</ref> hypothesized that the mechanistic linkage between sea ice and the modulation of capelin is a match/mismatch phenomenon between the timing of the onset of the spring bloom, which is triggered by ice retreat, and the emergence of Calanus finmarchicus (the main prey of capelin) from diapause, with its effects percolating to capelin via nutritional stress. Thus, ice breakup impacts not only capelin recruitment but also the foraging success of YOY learning to forage and even adults building up energy reserves for the next year's reproduction <ref type="bibr" target="#b55">(Stenson et al., 2016)</ref>. Ideally, an index that more directly describes variation in prey resources would provide clearer insights into harp seal condition, productivity, and YOY survival, but at present, such an index is not available. Further work is therefore needed to better quantify prey availability and the contribution of other environmental factors to juvenile survival.</p><p>In addition to climate-related changes, another major driver of trends since 2000 has been mortality associated with poor ice conditions (Figures <ref type="figure">9c</ref> and<ref type="figure">10a</ref>). The ice anomaly index we developed for our model combined information on ice cover when the pups were born (and require stable ice during nursing) with information on ice cover approximately 4 weeks later, when weaned animals require a stable platform for resting during the postweaning fast <ref type="bibr" target="#b10">(Burns et al., 2007;</ref><ref type="bibr" target="#b48">Sergeant, 1991;</ref><ref type="bibr" target="#b53">Stenson &amp; Hammill, 2014)</ref>. Although separate indices were calculated for each of the Gulf and Front breeding areas, the patterns in ice cover over time were generally similar (Pearson correlation coefficient = 0.45). Information on relative ice cover during the pupping and postweaning periods provides a crude measure of platform stability, and combining the two provides insights into ice longevity, which is affected by storm activity and approaching spring breakup. During years with extensive stable ice, the damage to breeding patches from storm activity is dampened, particularly when there is sufficient ice to provide a buffer around areas where pupping occurs <ref type="bibr" target="#b2">(Bajzak et al., 2011;</ref><ref type="bibr" target="#b53">Stenson &amp; Hammill, 2014)</ref>. In contrast, in years with thinner or less ice cover, windand storm-generated swells precipitate ice destruction and breakup, frequently forcing YOY animals into the water, resulting in high mortality <ref type="bibr" target="#b53">(Stenson &amp; Hammill, 2014)</ref>. The frequency of years with strongly negative ice cover anomalies has increased in recent decades (Figure <ref type="figure">2a</ref>), and this trend is predicted to continue <ref type="bibr" target="#b24">(Han et al., 2015</ref><ref type="bibr" target="#b25">(Han et al., , 2019))</ref>.</p><p>Although the contribution of human removals (harvest and bycatch) to population trends was highest prior to 1983 (Figure <ref type="figure">9a</ref>), these hazards continue to be an important source of mortality for harp seals. After more than a decade of very limited harvest numbers, a largescale Canadian commercial harvest resumed in 1996 and continued through 2008 at levels not seen since the 1960s (Figure <ref type="figure">9a</ref>). The increased commercial harvest for YOY, combined with the elevated YOY mortality from environmental factors and ice anomalies, was sufficient to drive a steep population decline beginning in the late 1990s (Figure <ref type="figure">5</ref>). However, while human removals of adult seals did not increase after 1996 to the same degree as for YOY, adult harvests (primarily in Greenland) still played a significant role in limiting abundance and driving trends (Figure <ref type="figure">9c</ref>). For long-lived mammals such as harp seals, population growth is typically far more sensitive to adult mortality than to juvenile mortality <ref type="bibr" target="#b22">(Gerber &amp; Heppell, 2004)</ref>, and this pattern was confirmed by our LSA results (Appendix S1: Figure <ref type="figure">S5</ref>). Since 1985, the combined hazards associated with human removals contributed more to adult mortality than natural hazards by a factor of more than 5 (Figure <ref type="figure">10b</ref>), and the largest portion of this mortality was attributable to the Greenland harvest. The effects of this consistent level of harvest mortality for adults contributed less to variation in λ than YOY mortality (Figure <ref type="figure">9b,</ref><ref type="figure">c</ref>); yet, harvest removals of adults may be a major factor limiting the potential for recovery during periods when overall YOY mortality decreases (such as after 2015). This highlights the need to carefully manage adult harvests as well as YOY harvests, even though the absolute number of removals may be less.</p><p>The effective management and conservation of marine mammal species, particularly those that experience commercial or subsistence harvests, require reliable information about how different factors affect population dynamics. Acquiring such information can be challenging when the data available to monitor populations are incomplete or consist of piecemeal observations of different parameters. A further challenge in a time of rapidly changing environmental conditions is that the factors limiting abundance are unlikely to be consistent over time and will have impacts that may not be detected for several years as a result of lags (e.g., high YOY mortality in 1 year may not be detected until age of recruitment). IPMs, which make use of disparate datasets to elucidate demographic trends and their relationship to environmental or anthropogenic factors <ref type="bibr" target="#b0">(Abadi et al., 2010)</ref>, provide one solution to this challenge <ref type="bibr" target="#b47">(Schaub &amp; Abadi, 2011;</ref><ref type="bibr" target="#b69">Zipkin &amp; Saunders, 2018)</ref>. The IPM we present here extends this approach by incorporating competing hazard methods to model survival, allowing us to explore temporal shifts in the magnitude of specific hazards and their relative effects on harp seal vital rates and population trends. Our findings provide novel insights into the dynamics and key determinants of harp seal abundance over the past 70 years. We show how changing levels of human removals of different age classes, combined with a major regime shift and the progressive deterioration of ice cover and environmental conditions in the north Atlantic, have interacted to drive trends in survival and fecundity, and to strongly limit population abundance. Our findings will have important implications for future management decisions. If the population remains low or further declines, we might expect densitydependent mortality to alleviate. However, most climate models forecast environmental conditions, such as warmer water and decreasing ice cover, which will probably lead to high and possibly increasing levels of mortality. These factors are likely to become the main drivers in the dynamics of this harp seal population unless it can adapt by finding more favorable conditions, possibly further to the north. Changes in environmental and ice conditions are also likely to have impacts on sustainable harvest levels in both Canada and Greenland. Our model can provide a useful tool for exploring future scenarios of climate impacts and management strategies, helping to ensure that this iconic species continues to play an important functional role in North Atlantic food webs.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>F</head><label></label><figDesc>I G U R E 1 Distribution of Northwest Atlantic harp seal population along with location of the three whelping areas (red patches) and major migratory pathways.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>F</head><label></label><figDesc>I G U R E 2 Trends in key environmental datasets over the study period. (a) Ice anomalies using mean first-year ice cover during 1969-2000 as the baseline year. Positive anomalies mean more ice cover, and negative anomalies mean less ice cover. Data from the Canadian Ice Service of Environment and Climate Change Canada for the areas Gulf of St Lawrence and southern Labrador. (b) Newfoundland and Labrador Climate Index (NLCI) for 1951-2019 developed by</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head></head><label></label><figDesc>U R E 4 Model estimates of temporal trends in pregnancy rates, age composition, and pup production. Mean posterior estimates are plotted as solid black lines, 95% CI plotted as shaded gray bands, and observed data are overlain as points with error bars showing the 95% confidence interval around each sample point, calculated from survey design-based standard error estimates. (a) Estimated pregnancy rates for females 8 yrs. or older, 1978-2020; (b) estimated proportion of younger age classes in the population (age between 8 and 15 years), 1978-2020; (c) estimates of temporal variation in pup production, 1950-2019.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head></head><label></label><figDesc>Model estimates of temporal variation in population abundance and growth rates, from 1950 to 2019. Mean posterior estimates are plotted as a solid black line, and 95% CI are plotted as a shaded gray band. (a) Estimated trends in abundance, representing the sum of all adult age classes and young of the year; (b) estimated trends in population growth, presented as log-transformed values of λ, the annual finite growth rate.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4"><head></head><label></label><figDesc>Model-based estimates of the effect of population abundance (a, c) and the Newfoundland and Labrador Climate Index (b, d) on pregnancy rates (a, b) and young-of-the-year (YOY) survival (c, d). Solid black lines indicate mean estimated values and gray shaded bands indicate the associated 95% CI.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_5"><head></head><label></label><figDesc>Changes in model-estimated contribution of ice anomaly hazards (presented as instantaneous hazard rates) to young of the year mortality. More negative ice anomaly values represent years with less ice. The effects of ice index are estimated separately for the Gulf and the Front. Solid lines indicate mean estimated values and shaded bands indicate the associated 95% CI. U R E 8 Trends in model-estimated mortality from human removals. (a) Temporal variation in total removals: Mean estimates are plotted as solid lines with associated 95% CI plotted as shaded bands. Observed data on reported deaths are plotted as points for comparison (model estimates have been adjusted for struck and loss to be comparable to reported deaths). (b) Estimated posterior distributions for loghazard rates, plotted by mortality source and age class. Point estimates are shown as solid vertical lines, and 80% CI are indicated as shaded areas under each density curve.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_6"><head></head><label></label><figDesc>U R E 9 Results from Bayesian life stage analysis, comparing the relative degree to which variation in instantaneous hazard rates for fecundity and cause-specific sources of mortality (for young of the year and adults) contributed to variation in annual growth rates (λ) over different time periods: (a)1951-1982; (b) 1983-1999; (c) 2000-2019; (d)  the entire study period.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_7"><head></head><label></label><figDesc>U R E 1 0 Legend on next page.</figDesc></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="4" xml:id="foot_0"><p>of 25 TINKER ET AL.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="6" xml:id="foot_1"><p>of 25</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="8" xml:id="foot_2"><p>of 25 TINKER ET AL.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="16" xml:id="foot_3"><p>of 25 TINKER ET AL.</p></note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head>ACKNOWLEDGMENTS</head><p><rs type="person">W. Penney</rs>, <rs type="person">D. MacKinnon</rs>, <rs type="person">D. Wakeham</rs>, <rs type="person">B. Stockwood J.-F Gosselin</rs>, <rs type="person">P. Carter</rs>, <rs type="person">S. Turgeon</rs>, <rs type="person">P. Rivard</rs>, <rs type="person">B. Sjare</rs>, <rs type="person">S. Mongrain</rs>, <rs type="person">P. Goulet</rs>, and <rs type="person">J. Lawson</rs> provided muchappreciated multi-year support during harp seal sampling, mark-recapture and aerial survey programs. This work was supported by the <rs type="funder">Department of Fisheries and Oceans Canada</rs>. Open Access funding provided by the <rs type="funder">Fisheries and Oceans Canada</rs> library.</p></div>
+			</div>
+			<listOrg type="funding">
+			</listOrg>
+
+			<div type="availability">
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>DATA AVAILABILITY STATEMENT Data and code <ref type="bibr" target="#b63">(Tinker et al., 2025)</ref> are available in Dryad at https://doi.org/10.5061/dryad.2z34tmq0k. ORCID M. Tim Tinker https://orcid.org/0000-0002-3314-839X Shelley L. C. Lang https://orcid.org/0009-0006-1945-0003</p></div>
+			</div>
+
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>All authors participated in additional analyses, provided critical insights into the drafts and approved the manuscript for submission.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>CONFLICT OF INTEREST STATEMENT</head><p>The authors declare no conflicts of interest.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>SUPPORTING INFORMATION</head><p>Additional supporting information can be found online in the Supporting Information section at the end of this article. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>How to cite this article:</head></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">An Assessment of Integrated Population Models: Bias, Accuracy, and Violation of the Assumption of Independence</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Abadi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Gimenez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Arlettaz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Schaub</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ecology</title>
+		<imprint>
+			<biblScope unit="volume">91</biblScope>
+			<biblScope unit="page" from="7" to="14" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">The Importance of Observation Versus Process Error in Analyses of Global Ungulate Populations</title>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">S</forename><surname>Ahrestani</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Hebblewhite</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Post</surname></persName>
+		</author>
+		<idno type="DOI">10.1038/srep03125</idno>
+		<ptr target="https://doi.org/10.1038/srep03125" />
+	</analytic>
+	<monogr>
+		<title level="j">Scientific Reports</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page">3125</biblScope>
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Drifting Away: Implications of Changes in Ice Conditions for a Pack-Ice Breeding Phocid, the Harp Seal (Pagophilus groenlandicus)</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">E</forename><surname>Bajzak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">O</forename><surname>Hammill</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">B</forename><surname>Stenson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Prinsenberg</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Canadian Journal of Zoology</title>
+		<imprint>
+			<biblScope unit="volume">89</biblScope>
+			<biblScope unit="page" from="1050" to="1062" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Seasonal Variation in the Diet of Harp Seals (Phoca groenlandica) from the Gulf of St. Lawrence and Western Hudson Strait</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">G</forename><surname>Beck</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">O</forename><surname>Hammill</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">G</forename><surname>Smith</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Canadian Journal of Fisheries and Aquatic Sciences</title>
+		<imprint>
+			<biblScope unit="volume">50</biblScope>
+			<biblScope unit="page" from="1363" to="1371" />
+			<date type="published" when="1993">1993</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Simulating Competing Risks Data in Survival Analysis</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Beyersmann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Latouche</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Buchholz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Schumacher</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Statistics in Medicine</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page" from="956" to="971" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Relative Influence of Human Harvest, Carnivores, and Weather on Adult Female Elk Survival across Western North America</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Brodie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Johnson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Mitchell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Zager</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Proffitt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Hebblewhite</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Kauffman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Johnson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Bissonette</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Bishop</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Applied Ecology</title>
+		<imprint>
+			<biblScope unit="volume">50</biblScope>
+			<biblScope unit="page" from="295" to="305" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Synergies among Extinction Drivers under Global Change</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">W</forename><surname>Brook</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">S</forename><surname>Sodhi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Bradshaw</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Trends in Ecology &amp; Evolution</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="page" from="453" to="460" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">State-Space Models for the Dynamics of Wild Animal Populations</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Buckland</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Newman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Thomas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Koesters</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ecological Modelling</title>
+		<imprint>
+			<biblScope unit="volume">171</biblScope>
+			<biblScope unit="page" from="157" to="175" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Bottom-Up Regulation of Capelin, a Keystone Forage Species</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">D</forename><surname>Buren</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Koen-Alonso</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Pepin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Mowbray</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Nakashima</surname></persName>
+		</author>
+		<idno type="DOI">10.1371/journal.pone.0087589</idno>
+		<ptr target="https://doi.org/10.1371/journal.pone.0087589" />
+	</analytic>
+	<monogr>
+		<title level="j">PLoS One</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page">87589</biblScope>
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">The Collapse and Continued Low Productivity of a Keystone Forage Species</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">D</forename><surname>Buren</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">M</forename><surname>Murphy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">T</forename><surname>Adamack</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">K</forename><surname>Davoren</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Koen-Alonso</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Marine Ecology Progress Series</title>
+		<imprint>
+			<biblScope unit="volume">616</biblScope>
+			<biblScope unit="page" from="155" to="170" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Size and Distribution of Oxygen Stories in Harp and Hooded Seals from Birth to Maturity</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Burns</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Lestyk</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">P</forename><surname>Folkow</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">O</forename><surname>Hammill</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">S</forename><surname>Blix</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Comparative Physiology B</title>
+		<imprint>
+			<biblScope unit="volume">177</biblScope>
+			<biblScope unit="page" from="687" to="700" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Stan: A Probabilistic Programming Language</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Carpenter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Gelman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">D</forename><surname>Hoffman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Goodrich</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Betancourt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Brubaker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Guo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Riddell</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Statistical Software</title>
+		<imprint>
+			<biblScope unit="volume">76</biblScope>
+			<biblScope unit="page">32</biblScope>
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<monogr>
+		<title level="m" type="main">Matrix Population Models: Construction, Analysis, and Interpretation</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Caswell</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2001">2001</date>
+			<publisher>Sinauer Associates</publisher>
+			<pubPlace>Sunderland, MA</pubPlace>
+		</imprint>
+	</monogr>
+	<note>2nd ed</note>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Mortality Patterns in Mammals</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Caughley</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ecology</title>
+		<imprint>
+			<biblScope unit="volume">47</biblScope>
+			<biblScope unit="page" from="906" to="918" />
+			<date type="published" when="1966">1966</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">A Climate Index for the Newfoundland and Labrador Shelf</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Cyr</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">S</forename><surname>Galbraith</surname></persName>
+		</author>
+		<idno type="DOI">10.5194/essd-13-1807-2021</idno>
+		<ptr target="https://doi.org/10.5194/essd-13-1807-2021" />
+	</analytic>
+	<monogr>
+		<title level="j">Earth System Science Data</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="page" from="1807" to="1828" />
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Assessing the Importance of Demographic Parameters for Population Dynamics Using Bayesian Integrated Population Modeling</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">R</forename><surname>Eacker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">M</forename><surname>Lukacs</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">M</forename><surname>Proffitt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Hebblewhite</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ecological Applications</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="page" from="1280" to="1293" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">A Paradigm for Population Analysis of Long-Lived Vertebrates</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">L</forename><surname>Eberhardt</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ecology</title>
+		<imprint>
+			<biblScope unit="volume">83</biblScope>
+			<biblScope unit="page" from="2841" to="2854" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Integrated Population Model Reveals Human-and Environment-Driven Changes in Baltic Ringed Seal Pusa hispida botnica Demography and Behavior</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Ersalman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Kunnasranta</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Ahola</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Carlsson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Persson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B.-M</forename><surname>Bäcklin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Helle</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Cervin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Vanhatalo</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Marine Ecology Progress Series</title>
+		<imprint>
+			<biblScope unit="volume">764</biblScope>
+			<biblScope unit="page" from="213" to="236" />
+			<date type="published" when="2025">2025</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Integrated Population Models: Achieving their Potential</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Frost</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Mccrea</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>King</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Gimenez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Zipkin</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s42519-022-00302-7</idno>
+		<ptr target="https://doi.org/10.1007/s42519-022-00302-7" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Statistical Theory and Practice</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page">6</biblScope>
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Proportional Hazards Models: A Latent Competing Risk Approach</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">E</forename><surname>Gelfand</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">K</forename><surname>Ghosh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Christiansen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">B</forename><surname>Soumerai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">J</forename><surname>Mclaughlin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of the Royal Statistical Society: Series C (Applied Statistics)</title>
+		<imprint>
+			<biblScope unit="volume">49</biblScope>
+			<biblScope unit="page" from="385" to="397" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Prior Distributions for Variance Parameters in Hierarchical Models (Comment on Article by Browne and Draper)</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Gelman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Bayesian Analysis</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page" from="515" to="534" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">A Weakly Informative Default Prior Distribution for Logistic and Other Regression Models</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Gelman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Jakulin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">G</forename><surname>Pittau</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y.-S</forename><surname>Su</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The Annals of Applied Statistics</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page" from="1360" to="1383" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">The Use of Demographic Sensitivity Analysis in Marine Species Conservation Planning</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">R</forename><surname>Gerber</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">S</forename><surname>Heppell</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Biological Conservation</title>
+		<imprint>
+			<biblScope unit="volume">120</biblScope>
+			<biblScope unit="page" from="121" to="128" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Conservation of Northwest Atlantic Harp Seals: Past Success, Future Uncertainty?</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">O</forename><surname>Hammill</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">B</forename><surname>Stenson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Doniol-Valcroze</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Mosnier</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.biocon.2015.09.016</idno>
+		<ptr target="https://doi.org/10.1016/j.biocon.2015.09.016" />
+	</analytic>
+	<monogr>
+		<title level="j">Biological Conservation</title>
+		<imprint>
+			<biblScope unit="volume">192</biblScope>
+			<biblScope unit="page" from="181" to="191" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Statistical Projections of Ocean Climate Indices off Newfoundland and Labrador</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Han</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Colbourne</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Pepin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Xie</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/07055900.2015.1047732</idno>
+		<ptr target="https://doi.org/10.1080/07055900.2015.1047732" />
+	</analytic>
+	<monogr>
+		<title level="j">Atmosphere-Ocean</title>
+		<imprint>
+			<biblScope unit="volume">53</biblScope>
+			<biblScope unit="page" from="556" to="570" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Ocean and Sea-Ice Model under an A1B Forcing Scenario 2011-2069</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Han</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Ma</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Long</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Perrie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Chasse</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Atmosphere-Ocean</title>
+		<imprint>
+			<biblScope unit="volume">57</biblScope>
+			<biblScope unit="page" from="3" to="17" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">A Review of Methods to Estimate Cause-Specific Mortality in Presence of Competing Risks</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename><surname>Heisey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">R</forename><surname>Patterson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Wildlife Management</title>
+		<imprint>
+			<biblScope unit="volume">70</biblScope>
+			<biblScope unit="page" from="1544" to="1555" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Climate Change 2021: The Physical Science Basis</title>
+		<author>
+			<persName><forename type="first">V</forename><surname>Masson-Delmotte</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Zhai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Pirani</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">L</forename><surname>Connors</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Péan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Berger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Caud</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Goldfarb</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">I</forename><surname>Gomis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Huang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Leitzell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Lonnoy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">B R</forename><surname>Matthews</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">K</forename><surname>Maycock</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Waterfield</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Yelekçi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Yu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Zhou</surname></persName>
+		</author>
+		<idno type="DOI">10.1017/9781009157896</idno>
+		<ptr target="https://doi.org/10.1017/9781009157896" />
+	</analytic>
+	<monogr>
+		<title level="m">Contribution of Working Group I to the Sixth Assessment Report of the Intergovernmental Panel on Climate Change</title>
+		<meeting><address><addrLine>Cambridge, United Kingdom and New York, NY, USA</addrLine></address></meeting>
+		<imprint>
+			<publisher>Cambridge University Press</publisher>
+			<date type="published" when="2021">2021. 2391</date>
+		</imprint>
+		<respStmt>
+			<orgName>IPCC</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">How Species Respond to Multiple Extinction Threats</title>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">J B</forename><surname>Isaac</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Cowlishaw</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Proceedings of the Royal Society of London. Series B, Biological Sciences</title>
+		<imprint>
+			<biblScope unit="volume">271</biblScope>
+			<biblScope unit="page" from="1135" to="1141" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Living with Uncertainty: Using Multi-Model Large Ensembles to Assess Emperor Penguin Extinction Risk for the IUCN Red List</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Jenouvrier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Eparvier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Şen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Ventura</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Che-Castaldo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Holland</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Landrum</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Biological Conservation</title>
+		<imprint>
+			<biblScope unit="volume">305</biblScope>
+			<biblScope unit="page">111037</biblScope>
+			<date type="published" when="2025">2025</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Estimating Cause-Specific Mortality Rates Using Recovered Carcasses</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">O</forename><surname>Joly</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename><surname>Heisey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">D</forename><surname>Samuel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">A</forename><surname>Ribic</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">J</forename><surname>Thomas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">D</forename><surname>Wright</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">E</forename><surname>Wrigh</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Wildlife Diseases</title>
+		<imprint>
+			<biblScope unit="volume">45</biblScope>
+			<biblScope unit="page" from="122" to="127" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Comparative Modelig of Cod-Capelin Dynamics in the Newfoundland-Labrador Shelves an Barents Sea Ecosystems</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Koen-Alonso</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">U</forename><surname>Lindstrøm</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Cuff</surname></persName>
+		</author>
+		<idno type="DOI">10.3389/fmars.2021.579946</idno>
+		<ptr target="https://doi.org/10.3389/fmars.2021.579946" />
+	</analytic>
+	<monogr>
+		<title level="j">Frontiers in Marine Science</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<date type="published" when="2021">2021. 9946</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Wildlife Conservation and the Pursuit of Ecological Sustainability: A Brief Introduction</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename><surname>Lavigne</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Gaining Ground in Pursuit of Ecological Sustainability</title>
+		<editor>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename><surname>Lavigne</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Limerick</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2006">2006</date>
+			<biblScope unit="page" from="1" to="20" />
+		</imprint>
+		<respStmt>
+			<orgName>University of Limerick</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Diet of Northwest Atlantic Harp Seals (Phoca Groenlandica) in Offshore Areas</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">W</forename><surname>Lawson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">B</forename><surname>Stenson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Canadian Journal of Zoology</title>
+		<imprint>
+			<biblScope unit="volume">75</biblScope>
+			<biblScope unit="page" from="2095" to="2106" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<monogr>
+		<title level="m" type="main">Risk and Resilience in a New era WWF International</title>
+		<imprint>
+			<date type="published" when="2016">2016. 2016</date>
+			<publisher>Living Planet Report</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Historical Baselines for Large Marine Animals</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">K</forename><surname>Lotze</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Worm</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.tree.2008.12.004</idno>
+		<ptr target="https://doi.org/10.1016/j.tree.2008.12.004" />
+	</analytic>
+	<monogr>
+		<title level="j">Trends in Ecology and Evolution</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="page" from="254" to="262" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">Critical Factors for the Recovery of Marine Mammals</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">K</forename><surname>Lotze</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Flemming</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Magera</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Conservation Biology</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="page" from="1301" to="1311" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">Recovery Trends in Marine Mammal Populations</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Magera</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">E M</forename><surname>Flemming</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Kaschner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">B</forename><surname>Christensen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">K</forename><surname>Lotze</surname></persName>
+		</author>
+		<idno type="DOI">10.1371/journal.pone.0077908</idno>
+		<ptr target="https://doi.org/10.1371/journal.pone.0077908" />
+	</analytic>
+	<monogr>
+		<title level="j">PLoS One</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="issue">10</biblScope>
+			<biblScope unit="page">77908</biblScope>
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">Modeling the Impacts of a Changing and Disturbed Environment on an Endangered Beluga Whale Population</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">A</forename><surname>Mchuron</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Castellote</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Boor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">E W</forename><surname>Sheldon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">J</forename><surname>Warlick</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.ecolmodel.2023.110417</idno>
+		<ptr target="https://doi.org/10.1016/j.ecolmodel.2023.110417" />
+	</analytic>
+	<monogr>
+		<title level="j">Ecological Modelling</title>
+		<imprint>
+			<biblScope unit="volume">483</biblScope>
+			<biblScope unit="page">110417</biblScope>
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title level="a" type="main">Insights into Processes of Population Decline Using an Integrated Population Model: The Case of the St. Lawrence Estuary Beluga (Delphinapterus leucas)</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Mosnier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Doniol-Valcroze</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J.-F</forename><surname>Gosselin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Lesage</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">N</forename><surname>Measures</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">O</forename><surname>Hammill</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ecological Modelling</title>
+		<imprint>
+			<biblScope unit="volume">314</biblScope>
+			<biblScope unit="page" from="15" to="31" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title level="a" type="main">Marine Mammal Conservation: Over the Horizon</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">E</forename><surname>Nelms</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Alfaro-Shigueto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">P Y</forename><surname>Arnould</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">C</forename><surname>Avila</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">B</forename><surname>Nash</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Bengtson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Nash</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Campbell</surname></persName>
+		</author>
+		<idno type="DOI">10.3354/esr01115</idno>
+		<ptr target="https://doi.org/10.3354/esr01115" />
+	</analytic>
+	<monogr>
+		<title level="j">Endangered Species Research</title>
+		<imprint>
+			<biblScope unit="volume">44</biblScope>
+			<biblScope unit="page" from="291" to="325" />
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+		<title level="a" type="main">Signatures of the Collapse and Incipient Recovery of an Overexploited Marine Ecosystem</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">J</forename><surname>Pedersen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">L</forename><surname>Thompson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>Ball</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M.-J</forename><surname>Fortin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">C</forename><surname>Gouhier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Link</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Moritz</surname></persName>
+		</author>
+		<idno type="DOI">10.1098/rsos.170215</idno>
+		<ptr target="https://doi.org/10.1098/rsos.170215" />
+	</analytic>
+	<monogr>
+		<title level="j">Royal Society Open Science</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page">170215</biblScope>
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<analytic>
+		<title level="a" type="main">Will Human Influences on Evolutionary Dynamics in the Wild Pervade the Anthropocene?</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Pelletier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">W</forename><surname>Coltman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">BMC Biology</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="page">7</biblScope>
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<analytic>
+		<title level="a" type="main">A Hierarchical Model for Jointly Assessing Ecological and Anthropogenic Impacts on Animal Demography</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">V</forename><surname>Riecke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">S</forename><surname>Sedinger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">W</forename><surname>Arnold</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Gibson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">N</forename><surname>Koons</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">G</forename><surname>Lohman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Schaub</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">J</forename><surname>Williams</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">S</forename><surname>Sedinger</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/1365-2656.13747</idno>
+		<ptr target="https://doi.org/10.1111/1365-2656.13747" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Animal Ecology</title>
+		<imprint>
+			<biblScope unit="volume">91</biblScope>
+			<biblScope unit="page" from="1612" to="1626" />
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<analytic>
+		<title level="a" type="main">Density-Dependence Produces Spurious Relationships among Demographic Parameters in a Harvested Species</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">V</forename><surname>Riecke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">G</forename><surname>Lohman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">S</forename><surname>Sedinger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">W</forename><surname>Arnaold</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">L</forename><surname>Feldheim</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/1365-2656.13807</idno>
+		<ptr target="https://doi.org/10.1111/1365-2656.13807" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Animal Ecology</title>
+		<imprint>
+			<biblScope unit="volume">91</biblScope>
+			<biblScope unit="page" from="2261" to="2272" />
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<monogr>
+		<title level="m" type="main">R: A Language and Environment for Statistical Computing</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Core</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Team</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2022">2022</date>
+			<publisher>R Foundation for Statistical Computing</publisher>
+			<pubPlace>Vienna, Austria</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<analytic>
+		<title level="a" type="main">Population Dynamics and Harvest Management of Eastern Mallards</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">J</forename><surname>Roberts</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Hostetler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Stiller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">K</forename><surname>Devers</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">A</forename><surname>Link</surname></persName>
+		</author>
+		<idno type="DOI">10.1002/jwmg.22405</idno>
+		<ptr target="https://doi.org/10.1002/jwmg.22405" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Wildlife Management</title>
+		<imprint>
+			<biblScope unit="volume">87</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page">22405</biblScope>
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<analytic>
+		<title level="a" type="main">Integrated Population Models: A Novel Analysis Framework for Deeper Insights into Population Dynamics</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Schaub</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Abadi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Ornithology</title>
+		<imprint>
+			<biblScope unit="volume">152</biblScope>
+			<biblScope unit="page" from="227" to="237" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<analytic>
+		<title level="a" type="main">Harp Seals Man and Ice</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">E</forename><surname>Sergeant</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Canadian Special Publication of Fisheries and Aquatic Sciences</title>
+		<imprint>
+			<biblScope unit="volume">114</biblScope>
+			<biblScope unit="page">153</biblScope>
+			<date type="published" when="1991">1991</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<analytic>
+		<title level="a" type="main">A Competing-Risk Model for Animal Mortality</title>
+		<author>
+			<persName><forename type="first">W</forename><surname>Siler</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ecology</title>
+		<imprint>
+			<biblScope unit="volume">60</biblScope>
+			<biblScope unit="page" from="750" to="757" />
+			<date type="published" when="1979">1979</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b50">
+	<analytic>
+		<title level="a" type="main">Estimating Struck and Loss Rates for Harp Seals (Pagophilus groenlandicus) in the Northwest Atlantic</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Sjare</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">B</forename><surname>Stenson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Marine Mammal Science</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="page" from="710" to="720" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b51">
+	<analytic>
+		<title level="a" type="main">Meaning of Density-Dependence and Related Terms in Population Dynamics</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Solomon</surname></persName>
+		</author>
+		<idno type="DOI">10.1038/1811778a0</idno>
+		<ptr target="https://doi.org/10.1038/1811778a0" />
+	</analytic>
+	<monogr>
+		<title level="j">Nature</title>
+		<imprint>
+			<biblScope unit="volume">181</biblScope>
+			<biblScope unit="page" from="1778" to="1780" />
+			<date type="published" when="1958">1958</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b52">
+	<monogr>
+		<title level="m" type="main">Total Removals of Northwest Atlantic Harp Seals (Pagophilus groenlandicus) 1952-2009</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">B</forename><surname>Stenson</surname></persName>
+		</author>
+		<idno>Document 2009/112</idno>
+		<imprint>
+			<date type="published" when="2010">2010</date>
+			<publisher>DFO Canadian Science Advisory Secretariat Research</publisher>
+			<biblScope unit="page">30</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b53">
+	<analytic>
+		<title level="a" type="main">Can Ice Breeding Seals Adapt to Habitat Loss in a Time of Climate Change?</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">B</forename><surname>Stenson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">O</forename><surname>Hammill</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">ICES Journal of Marine Science</title>
+		<imprint>
+			<biblScope unit="volume">71</biblScope>
+			<biblScope unit="page" from="1977" to="1986" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b54">
+	<analytic>
+		<title level="a" type="main">Updated Estimates of Harp Seal Bycatch and Total Removals in the Northwest Atlantic</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">B</forename><surname>Stenson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Upward</surname></persName>
+		</author>
+		<idno>Docu- ment 2020/014</idno>
+	</analytic>
+	<monogr>
+		<title level="j">DFO Canadian Science Advisory Secretariat Research</title>
+		<imprint>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b55">
+	<analytic>
+		<title level="a" type="main">The Impact of Changing Climate and Abundance on Reproduction in an Ice-Dependent Species, the Northwest Atlantic Harp Seal, Pagophilus Groenlandicus</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">B</forename><surname>Stenson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">D</forename><surname>Buren</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Koen-Alonso</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">ICES Journal of Marine Science</title>
+		<imprint>
+			<biblScope unit="volume">73</biblScope>
+			<biblScope unit="page" from="250" to="262" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b56">
+	<monogr>
+		<title level="m" type="main">Updated Estimates of Reproductive Rates in Northwest Atlantic Harp Seals and the Influence of Body Condition</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">B</forename><surname>Stenson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">D</forename><surname>Buren</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">L</forename><surname>Sheppard</surname></persName>
+		</author>
+		<idno>Document. 2020/057</idno>
+		<imprint>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+		<respStmt>
+			<orgName>DFO Canadian Science Advisory Secretariat Research</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b57">
+	<analytic>
+		<title level="a" type="main">Harp Seals: Monitors of Change in Differing Ecosystems</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">B</forename><surname>Stenson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Haug</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">O</forename><surname>Hammill</surname></persName>
+		</author>
+		<idno type="DOI">10.3389/fmars.2020.569258</idno>
+		<ptr target="https://doi.org/10.3389/fmars.2020.569258" />
+	</analytic>
+	<monogr>
+		<title level="j">Frontiers in Marine Science</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page">569258</biblScope>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b58">
+	<monogr>
+		<title level="m" type="main">Pup Production of Harp Seals in the Northwest Atlantic in 2017 during a Time of Ecosystem Change</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Stenson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>J.-F. Gosselin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Lawson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Buren</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Goulet</surname></persName>
+		</author>
+		<idno type="DOI">10.7557/3.6214</idno>
+		<ptr target="https://doi.org/10.7557/3.6214" />
+		<imprint>
+			<date type="published" when="2022">2022</date>
+			<publisher>NAMMCO Scientific Publications</publisher>
+			<biblScope unit="volume">12</biblScope>
+			<pubPlace>Tromsø</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b59">
+	<analytic>
+		<title level="a" type="main">Boom-Bust Cycles in Gray Whales Associated with Dynamic and Changing Arctic Conditions</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">D</forename><surname>Stewart</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">W</forename><surname>Joyce</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">W</forename><surname>Durban</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Calambokidis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Fauquier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Fearnbach</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Grebmeier</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Science</title>
+		<imprint>
+			<biblScope unit="volume">382</biblScope>
+			<biblScope unit="page" from="207" to="211" />
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b60">
+	<analytic>
+		<title level="a" type="main">The Future of Baleen Whales: Recoveries, Environmental Constraints, and Climate Change</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">D</forename><surname>Stewart</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">T</forename><surname>Tinker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">L</forename><surname>Brownell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">J</forename><surname>Read</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Science Advances</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page">8031</biblScope>
+			<date type="published" when="2025">2025</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b61">
+	<monogr>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">T</forename><surname>Tinker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">P</forename><surname>Carswell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Tomoleoni</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">B</forename><surname>Hatfield</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">D</forename><surname>Harris</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Miller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">E</forename><surname>Moriarty</surname></persName>
+		</author>
+		<idno type="DOI">info:doi/10.3133/ofr20211076</idno>
+		<idno>Open-File Report 2021-1076</idno>
+		<title level="m">An Integrated Population Model for Southern Sea Otters</title>
+		<meeting><address><addrLine>Reston, VA</addrLine></address></meeting>
+		<imprint>
+			<publisher>U.S. Geological Survey</publisher>
+			<date type="published" when="2021">2021</date>
+			<biblScope unit="volume">50</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b62">
+	<analytic>
+		<title level="a" type="main">Estimating Abundance of Northwest Atlantic Harp Seal Using a Bayesian Modelling Approach</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">T</forename><surname>Tinker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">B</forename><surname>Stenson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Mosnier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">O</forename><surname>Hammill</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">DFO Can. Sci. Advis. Sec. Res. Doc</title>
+		<imprint>
+			<biblScope unit="page">56</biblScope>
+			<date type="published" when="2023">2023. 2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b63">
+	<analytic>
+		<title level="a" type="main">Drivers of Population Dynamics and Juvenile Mortality in Northwest Atlantic Harp Seals [Dataset</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">T</forename><surname>Tinker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Stenson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Mosnier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>De Van Walle</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Lang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Hammill</surname></persName>
+		</author>
+		<idno type="DOI">10.5061/dryad.2z34tmq0k</idno>
+		<ptr target="https://doi.org/10.5061/dryad.2z34tmq0k" />
+	</analytic>
+	<monogr>
+		<title level="j">Dryad</title>
+		<imprint>
+			<date type="published" when="2025">2025</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b64">
+	<analytic>
+		<title level="a" type="main">Practical Bayesian Model Evaluation Using Leave-One-out Cross-Validation and WAIC</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Vehtari</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Gelman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Gabry</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Statistics and Computing</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="page" from="1413" to="1432" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b65">
+	<analytic>
+		<title level="a" type="main">Local-Scale Impacts of Extreme Events Drive Demographic Asynchrony in Neighbouring Top Predator Populations</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Ventura</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Stanworth</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Crofts</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Kuepfer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Catry</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Biology Letters</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="page">20220408</biblScope>
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b66">
+	<analytic>
+		<title level="a" type="main">Signal Extraction from Long-Term Ecological Data Using Bayesian and Non-Bayesian State-Space Models</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Wang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ecological Informatics</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page" from="69" to="75" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b67">
+	<analytic>
+		<title level="a" type="main">An integrated data model to estimate spatiotemporal occupancy, abundance, and colonization dynamics</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">J</forename><surname>Williams</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">B</forename><surname>Hooten</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">N</forename><surname>Womble</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">G</forename><surname>Esslinger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">R</forename><surname>Bower</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">J</forename><surname>Hefley</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ecology</title>
+		<imprint>
+			<biblScope unit="volume">98</biblScope>
+			<biblScope unit="page" from="328" to="336" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b68">
+	<analytic>
+		<title level="a" type="main">Life Stage Simulation Analysis: Estimating Vital-Rate Effects on Population Growth for Conservation</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Wisdom</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">S</forename><surname>Mills</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">F</forename><surname>Doak</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ecology</title>
+		<imprint>
+			<biblScope unit="volume">81</biblScope>
+			<biblScope unit="page" from="628" to="641" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b69">
+	<analytic>
+		<title level="a" type="main">Synthesizing Multiple Data Types for Biological Conservation Using Integrated Population Models</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">F</forename><surname>Zipkin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">P</forename><surname>Saunders</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Biological Conservation</title>
+		<imprint>
+			<biblScope unit="volume">217</biblScope>
+			<biblScope unit="page" from="240" to="250" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

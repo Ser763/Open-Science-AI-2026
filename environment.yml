@@ -1,0 +1,12 @@
+name: open_science_focas
+channels:
+  - defaults
+dependencies:
+  - python=3.11
+  - wordcloud
+  - lxml
+  - matplotlib
+  - pip
+  - pip:
+    - grobid-client-python
+prefix: C:\Users\sergi\miniconda3\envs\open_science_focas

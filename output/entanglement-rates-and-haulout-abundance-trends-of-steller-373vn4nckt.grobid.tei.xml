@@ -1,0 +1,2270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Entanglement rates and haulout abundance trends of Steller (Eumetopias jubatus) and California (Zalophus californianus) sea lions on the north coast of Washington state</title>
+				<funder ref="#_rs8Jv5S #_ge754qv">
+					<orgName type="full">Bonneville Power Administration Tribal Capacity Building</orgName>
+				</funder>
+				<funder ref="#_u3Akyq3 #_wvsmcNJ #_ZR3RGdj #_3UZxVM3 #_TCHkUVq #_gWazpYS #_cHvxs4B #_GmvV556 #_GKUvdnK #_Dfp3jSR">
+					<orgName type="full">National Marine Fisheries Service</orgName>
+				</funder>
+				<funder ref="#_JVkBfhm">
+					<orgName type="full">Bureau of Indian Affairs</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">National Science Foundation</orgName>
+				</funder>
+				<funder ref="#_G857cF3 #_Qs9fKNF">
+					<orgName type="full">unknown</orgName>
+				</funder>
+				<funder ref="#_5cKRkxY">
+					<orgName type="full">North Pacific Coast Marine Resource Committee</orgName>
+				</funder>
+				<funder ref="#_vPVrgze">
+					<orgName type="full">John H. Prescott Marine Mammal Rescue Assistance</orgName>
+				</funder>
+				<funder ref="#_QuwKbgJ">
+					<orgName type="full">University of Chicago</orgName>
+				</funder>
+				<funder ref="#_GSDzCZX">
+					<orgName type="full">Washington SeaGrant</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Public Library of Science (PLoS)</publisher>
+				<availability status="unknown"><p>Copyright Public Library of Science (PLoS)</p>
+				</availability>
+				<date type="published" when="2020-08-25">August 25, 2020</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Elizabeth</forename><forename type="middle">Marina</forename><surname>Allyn</surname></persName>
+							<idno type="ORCID">0000-0002-7773-0277</idno>
+						</author>
+						<author>
+							<persName><forename type="first">Jonathan</forename><forename type="middle">Joseph</forename><surname>Scordino</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Marine Mammal , Fisheries</orgName>
+								<address>
+									<region>Washington,</region>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Entanglement rates and haulout abundance trends of Steller (Eumetopias jubatus) and California (Zalophus californianus) sea lions on the north coast of Washington state</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">PLOS ONE</title>
+						<title level="j" type="abbrev">PLoS ONE</title>
+						<idno type="eISSN">1932-6203</idno>
+						<imprint>
+							<publisher>Public Library of Science (PLoS)</publisher>
+							<biblScope unit="volume">15</biblScope>
+							<biblScope unit="issue">8</biblScope>
+							<biblScope unit="page">e0237178</biblScope>
+							<date type="published" when="2020-08-25">August 25, 2020</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">60FA8E027CCBD8C6562FA9375530F74D</idno>
+					<idno type="DOI">10.1371/journal.pone.0237178</idno>
+					<note type="submission">Received: April 20, 2020 Accepted: July 21, 2020</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.0" ident="GROBID" when="2026-03-09T17:19+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Entanglements affect marine mammal species around the globe, and for some, those impacts are great enough to cause population declines. This study aimed to document rates and causes of entanglement and trends in local haulout abundance for Steller and California sea lions on the north coast of Washington from 2010-2018. We conducted small boat surveys to count sea lions and document entangled individuals. Rates of entanglement and entangling material occurrence were compared with records of stranded individuals on the Washington and Oregon coast and with packing bands recorded during beach debris surveys. The rate of entanglement for California sea lions was 2.13%, almost entirely composed of adult males, with a peak rate during June and July potentially due to some entangled individuals not migrating to their breeding grounds. For Steller sea lions, the rate of entanglement was 0.41%, composed of 77% adults (32.4% male, 63.3% female), 17.1% juveniles, 5.9% unknown age, and no pups. Steller sea lions exhibited a 7.9% ± 3.2 rate of increase in abundance at the study haulouts, which was similar to that seen in California sea lions (7.8% ± 4.2); both increases were greater than the population growth rates observed range-wide despite high rates of entanglement. Most entanglements for both species were classified as packing bands, followed by entanglement scars. Salmon flashers were also prevalent and only occurred from June-September during the local ocean salmon troll fishery. Packing band occurrence in beach debris surveys correlated with packing band entanglements observed on haulouts. However, no packing band entanglements were observed in the stranding record and the rate of stranded animals exhibiting evidence of entanglement was lower than expected, indicating that entanglement survival is higher than previously assumed. Future studies tracking individual entanglement outcomes are needed to develop effective, targeted management strategies.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Introduction</head><p>The prevalence of man-made marine debris is of global concern and has been gaining attention from media, researchers, and the public in recent decades as the impacts to marine life become better understood <ref type="bibr" target="#b0">[1]</ref><ref type="bibr" target="#b1">[2]</ref><ref type="bibr" target="#b2">[3]</ref><ref type="bibr" target="#b3">[4]</ref><ref type="bibr" target="#b4">[5]</ref>. Many marine organisms are affected by marine debris and other manmade materials through entanglement. Instances of entanglement have been recorded for at least 32 species of marine mammals globally <ref type="bibr" target="#b3">[4]</ref>, and for some, like the northern fur seal (Callorhinus ursinus) and the endangered Hawaiian monk seal (Monachus schauinslandi), entanglement was thought to have contributed to population declines <ref type="bibr" target="#b5">[6]</ref><ref type="bibr" target="#b6">[7]</ref><ref type="bibr" target="#b7">[8]</ref>. For pinnipeds specifically, entanglement has been documented for more than half of the existing species <ref type="bibr" target="#b1">[2,</ref><ref type="bibr" target="#b3">4,</ref><ref type="bibr" target="#b8">9]</ref>. In this study, entanglement is defined as the presence of entangling materials attached to an animal's body, including materials that are looped around the appendages, torso, or neck (e.g. netting or packing bands) and instances where materials are internally or externally embedded (e.g. hooking injuries).</p><p>The mechanisms by which an animal becomes entangled are almost as varied as the entangling materials themselves. Entangling materials can come from terrestrial and marine pollution, and from derelict and active fishing gear. Any materials that form loops that can ensnare or sharp edges that can embed pose an entanglement risk. The mechanism of entanglement can often be determined by identifying the entangling material. Packing bands and rubber bands are likely encountered passively as debris, while monofilament line, rope, and net fragments can be a sign of either passive encounters with derelict gear or a sign of interaction with an active fishing set. Salmon flashers and other hook and line setups are likely encountered as actively fished gear and are evidence of fishery depredation behaviors, which cause harm both to the entangled animal and to the fisher's catch <ref type="bibr" target="#b9">[10,</ref><ref type="bibr">11]</ref>. Otariids are especially curious of novel objects, and can become entangled in materials while attempting to explore or play with them <ref type="bibr" target="#b11">[12,</ref><ref type="bibr" target="#b12">13]</ref>. The frequency and nature of entangling interactions with marine debris might be governed by ocean currents, upwelling patterns, and marine traffic patterns, while interactions with active or derelict fishing gear are driven by fishing effort, gear types, and prey distribution <ref type="bibr" target="#b8">[9,</ref><ref type="bibr" target="#b13">[14]</ref><ref type="bibr" target="#b14">[15]</ref><ref type="bibr" target="#b15">[16]</ref><ref type="bibr" target="#b16">[17]</ref>. Each type of entangling material poses different challenges and opportunities for mitigation, so identifying the source of entangling materials is crucial to building effective and targeted prevention plans.</p><p>The objective of this study was to characterize the rates and causes of entanglement in Steller (Eumetopias jubatus) and California (Zalophus californianus) sea lions in northern Washington state and to evaluate the relationship between local entanglement rates and haulout abundance trends. We described temporal trends in entanglement occurrence and determined the most commonly observed entangling materials. Based on previous studies, we expected to mainly see entanglements caused by packing bands and netting <ref type="bibr" target="#b0">[1,</ref><ref type="bibr" target="#b3">4,</ref><ref type="bibr" target="#b8">9,</ref><ref type="bibr" target="#b17">[18]</ref><ref type="bibr" target="#b18">[19]</ref><ref type="bibr" target="#b19">[20]</ref>. We expected little change in annual entanglement occurrence but anticipated that there would be a peak in entanglements observed in the summer months due to these being the peak months for recreational and commercial fishing effort. We also compared entanglement rates with beach debris survey data to discern patterns in entanglement occurrence due to material availability, and with the stranding record to briefly explore the impacts of entanglement on health and survival. Understanding the patterns behind entanglement occurrence will enable the development of more targeted prevention and response efforts and a more accurate understanding of the impacts of entanglement on local populations.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Methods</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Data collection</head><p>The National Marine Fisheries Service reviewed and approved our research methodologies and granted Marine Mammal Protection Act research permits 14326, 13430, and 19430. We also obtained Special Use Permits from the United States Fish and Wildlife Service for all landbased survey activities conducted on haulouts within the Flattery Rocks National Wildlife Refuge.</p><p>Observations of hauled out Steller and California sea lions were carried out from small boats along the north coast of Washington from 2010-2018 focusing on four major haulout complexes: Tatoosh Island (48.39˚N, 124.74˚W), the Bodelteh Islands (48.18˚N, 124.76˚W), Sea Lion Rock (47.99˚N, 124.73˚W), and Carroll Island (48.00˚N, 124.72˚W) (Fig <ref type="figure" target="#fig_0">1</ref>). Occasionally, researchers were landed on haulouts to conduct these surveys. Surveys were conducted year-round with more effort from late spring through early fall due to availability of survey days with suitable weather and sea conditions. Surveys often did not include all haulouts due to logistical challenges such as sea conditions and daylight, but only complete survey days where all four major haulouts were visited were included in haulout abundance calculations. During surveys, we counted actively entangled individuals and individuals showing evidence of past entanglement (e.g. scarring) and counted the total abundance of the two sea lion species at each haulout. We attempted to photograph all entangled sea lions and those that appeared entangled with a digital SLR camera with a 100-400 mm lens for later assessment. Entangled individuals encountered along the survey route in locations other than the four major haulout complexes were excluded from entanglement rate calculations due to the lack of reliable and regular total counts of hauled individuals but were still photographed to identify the source and nature of the injury. Entanglement and count data are publicly available through Mendeley Data <ref type="bibr" target="#b20">[21]</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Haulout abundance trends</head><p>We calculated an average rate of haulout abundance change for California and Steller sea lions on the northern Washington coast for 2010-2018 using surveys of four major haulout complexes (Fig <ref type="figure" target="#fig_0">1</ref>). Our survey effort was greatest during the summer and early fall when sea conditions were most predictable (Table <ref type="table" target="#tab_0">1</ref>). To avoid disproportionately representing times of the year when more survey effort was conducted, trends in local haulout abundance were calculated using a multi-step process. First, for each species we pooled the counts from the four major haulout complexes on days when all four haulout complexes were visited (a 'complete survey day'). Next, we averaged all complete survey days within each month of the 9-year study period. Last, we took the mean of the monthly averages within each year for an annual estimate of the average abundance of Steller and California sea lions using the four major haulout complexes. The observed changes in annual counts were calculated for each year using the formula r t ¼ ln N tþ1 = N t � � where r t is the realized per capita rate of haulout abundance change, t is the year, and N is the average count for the year. The annual rates of change were then averaged over all study years to produce the overall average rate of change in haulout counts for each species. We excluded 2018 data from the analysis because there were no survey days that covered all four haulout sites after June, potentially biasing the counts by not including the full range of seasonal variation (Table <ref type="table" target="#tab_0">1</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Entanglement rates</head><p>We calculated an average entanglement rate for California and Steller sea lions for the northern Washington coast using counts of entangled sea lions and total haulout complex counts. Our survey effort was greatest during the summer and early fall when sea conditions were most predictable (Table <ref type="table" target="#tab_0">1</ref>). In order to ensure that our calculated annual entanglement rates were representative of the year, and not disproportionately representing time periods when we had more surveys, we calculated average yearly entanglement rates using a multistep process. Counts of the total number of individuals hauled out and counts of entangled individuals, including both active and inactive entanglements recorded from photographs and survey notes, were pooled across haulout complexes within survey days, and an entanglement rate was calculated for each survey day by dividing the total number of entangled individuals by the total count. Average entanglement rates were then calculated for each month of the nineyear study period. The mean rates for each month of the study were then averaged across years for each month and across months for each year to discern seasonal and annual patterns, which were analyzed using single-factor ANOVA and Tukey-Kramer post-hoc tests. An overall average entanglement rate was calculated for each species by taking the average of the monthly mean entanglement rates. We conducted a literature review to catalog published entanglement rates for California and Steller sea lions along with other otariid species to provide a comparison to our calculated rates.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Photo analysis</head><p>We assessed photographs of sea lions with evidence of entanglement to determine if the entanglement was active or inactive, identify the entangling material, and record the age and sex of the entangled individual. Entangled individuals were assigned to demographic groups by age as adult, juvenile, pup, or unknown, and by sex for adults based on a number of physical characteristics, including body size and shape, whisker length, and presence of secondary sexual features. The proportions of entangled individuals in each sex and age class were calculated. Entangling materials were identified to one of nine categories: packing band, salmon flasher, rubber band, monofilament line, hook and line, netting, rope, scar, or unknown (Fig <ref type="figure" target="#fig_1">2</ref>). Salmon flashers are plastic or metal attractants attached to a line with a 60 -200cm leader ahead of the lure or baited hook. The hook is often swallowed leaving the flasher to dangle out of the mouth by the leader. The hook and line category included fishing lures (not attached to flashers) and longline gear, both of which are found hooked externally on entangled individuals. Rubber bands are thick black bands cut from truck tire inner tubes that are often used in crab fisheries to secure trap doors. Packing bands are thin plastic strips attached at the ends to form loops that are used to increase the integrity of containers generally made of cardboard. The netting category included both gillnets made of monofilament line and trawl netting made of nylon or synthetic lines. Monofilament lines are commonly used in recreational fisheries and for leaders in commercial salmon fisheries and were differentiated from gillnets by the absence of knotted webbing. Active entanglements where the material could not be identified were recorded as 'Unknown'. Animals with evidence of a previous entanglement where no material was observed on the sea lion were recorded as 'Scar'. The proportion of entanglements that were active or inactive and the proportion exhibiting each entangling material were summarized and reported over months and years to observe trends in material occurrence.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Packing band analysis</head><p>Annual packing band entanglement occurrence was compared to data from beach debris surveys conducted by the Olympic Coast National Marine Sanctuary (OCNMS) to discern patterns in material availability in the environment. The year 2018 was excluded from analysis due to low sea lion survey effort after the month of June. OCNMS conducted 1,548 beach debris surveys in the Olympic Coast region from 2012-2017, covering 17 beaches in Washington State, from Roosevelt Beach (47.1770˚N, 124.1972˚W) to Wa'atch Beach (48.3441˚N, 124.6792˚W). Surveys were conducted by volunteers in an OCNMS citizen science program adhering to standardized debris monitoring procedures developed by NOAA's Marine Debris Program <ref type="bibr" target="#b21">[22]</ref>. The number of packing bands encountered each year in beach debris surveys was divided by the total number of surveys conducted in that year to correct for variation in survey effort. The annual proportion of entanglements caused by packing bands observed during surveys was analyzed for correlation with the number of packing bands per beach debris survey.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Stranding analysis</head><p>The West Coast Marine Mammal Stranding Network, overseen by NOAA's West Coast Regional Office Protected Resources Division, has recorded sightings of marine mammal strandings since the early 1980s. Network members recorded evidence of entanglement on examined stranded sea lions. Data on Steller and California sea lions that stranded dead on the Washington and Oregon coast from 2010-2018 were analyzed to determine the occurrence of stranded individuals bearing evidence of entanglement. Entanglements were assigned to three categories depending on the nature of the entanglement evidence: animals that stranded with the entangling material still present were marked as 'Active', animals with evidence of entanglement-related injuries without entangling material present were marked 'Scar', and animals showing probable but inconclusive evidence of entanglement were marked 'Possible'. For active entanglements, the entangling material was determined using notes and comments accompanying the stranding record and assigned to one of the categories used during our live surveys (e.g. packing band, flasher). Entanglements marked 'Possible' were excluded from summary statistics due to inconsistencies in reporting suspicious lesions as potential entanglement evidence.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Statistical analysis</head><p>All statistical analyses were conducted in Microsoft Excel. Figs 3-7 were created with R Statistical Program version 3.6.1 using ggplot2 <ref type="bibr" target="#b22">[23,</ref><ref type="bibr" target="#b23">24]</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Haulout abundance trends</head><p>There were 97 survey days from 2010-2017 where counts were recorded at all four major haulout complexes (Table <ref type="table" target="#tab_0">1</ref>). The average annual rate of change of abundance at the haulout complexes in northern Washington for Steller sea lions was 7.9% ± 3.2 (95% CI), and for California sea lions was 7.8% ± 4.2 (95% CI; Fig <ref type="figure" target="#fig_2">3</ref></p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>).</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Entanglement rates</head><p>There were 648 observations of active and inactive entanglements in the survey area from 2010-2018, 611 (433 Steller, 178 California) of which were documented at the four major haulout complexes. The average overall entanglement rate for California sea lions was 2.13%, and for Steller sea lions was 0.41%. There were no annual or seasonal trends of statistical significance in entanglement rates for Steller or California sea lions (Fig <ref type="figure" target="#fig_3">4</ref>). However, California sea lions experienced high rates of entanglement in 2014, and both species experienced somewhat elevated rates of entanglement in 2015. California sea lions also exhibited some seasonal variability with a peak in entanglement rates in the summer, coinciding with the lowest months for haulout abundance (Fig <ref type="figure" target="#fig_4">5</ref>). While other months exhibited elevated rates of entanglement (November: 1.5%) or comparatively low average haulout counts (February: 168, March: 218), June and July were the only months to exhibit both low average haulout counts and high entanglement rates (June: 167, 10.2%; July: 35, 12.1%).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Material analysis</head><p>There were 502 (357 Steller, 145 California) sightings of entanglements with photos of a quality sufficient for analysis. For Steller sea lions, inactive entanglements (scars) comprised 22.1% of all entanglements. Of the remaining active entanglements, only 55.4% (n = 154) were identifiable. The majority of identifiable entanglements were caused by packing bands (67.5%) and salmon flashers (13.6%). Other materials comprised less than 10% of identifiable entanglements: rubber bands (7.8%), monofilament line (6.5%), netting (1.9%), hook and line (1.9%), and rope (0.6%). For California sea lions, 80.0% of all entanglements were active, and 41.4% (n = 48) of active entanglements were identifiable. Packing bands made up the majority of entanglements (70.8%), followed by monofilament line (12.5%), rope (10.4%), and salmon flashers (6.3%). For both species, salmon flashers were only observed in the months of June-September coinciding with the local recreational and commercial ocean salmon troll fishery (Fig <ref type="figure" target="#fig_4">5</ref>). In all cases where the entangling material could not be identified or was no longer present the entanglement scar or wound was located on the neck, indicating that those entanglements were caused by an encircling material, such as a packing band, rubber band, monofilament line, rope, or netting.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Sex and age</head><p>For Steller sea lions both the sex and age could be identified for 74.5% of entanglements, and either the sex or the age could be identified for an additional 19.9% of the 357 Steller sea lion entanglement cases analyzed. The age composition of entangled Steller sea lions was 77% adults (32.4% male, 63.3% female), 17.1% juveniles, 5.9% unknown age, and no pups. For the most part, entangling materials were evenly distributed among sex and age classes, but 16.4% of entangled juveniles exhibited a flasher and 11.5% exhibited rubber bands, higher percentages than any other sex or age class grouping (Fig <ref type="figure" target="#fig_5">6</ref>). The sex and age could be identified for 98.6% (n = 143) of entangled California sea lions, 142 of which were adult males, with one juvenile male. The single juvenile male was entangled in a packing band. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Stranding analysis</head><p>There were confirmed stranding records of 551 dead Steller sea lions and 1,048 dead California sea lions on the outer coast of Washington and Oregon from 2010-2018. The rate of dead strandings exhibiting evidence of entanglement (1.6% for Steller sea lions and 0.38% for California sea lions) was of a similar magnitude to the rate of entanglement among live sea lions observed on the haulouts (Table <ref type="table" target="#tab_2">2</ref>). All 4 entangled California sea lions that stranded dead were adult males. Of the 9 dead stranded entangled Steller sea lions, 7 were adults (4 females, 3 males), 1 juvenile, and 1 unknown. Of the 13 total entanglements observed, 5 were entangled in salmon flashers and other assorted hook and line gear. There was also a single Steller sea lion entangled in rope, and another exhibiting scars indicative of entanglement. The remaining </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discussion</head><p>Despite exhibiting high rates of entanglement, both California sea lions and Steller sea lions exhibited high rates of haulout abundance increase in northern Washington. The California sea lions in this study experienced the second highest entanglement rate for any otariid in the published literature and the highest otariid entanglement rate documented in the United States (Table <ref type="table" target="#tab_3">3</ref>). The observed rate of increase in local haulout abundance for California sea lions (7.8%) was greater than the estimated growth rate of the range-wide population in recent years as the population approached carrying capacity, and was similar to the maximum range-wide population growth estimate observed from 1975-2014 (7%) <ref type="bibr" target="#b24">[25]</ref>. The entanglement rate observed in this study for Steller sea lions was almost double other published rates <ref type="bibr">[18,26;</ref> Table <ref type="table" target="#tab_3">3</ref>], and the haulout abundance increase rate calculated for Steller sea lions in this study (7.9%) was more than double the growth rate observed by Pitcher et al. <ref type="bibr" target="#b26">[27]</ref> and the National Marine Fisheries Service <ref type="bibr" target="#b27">[28]</ref> using population estimates based on pup counts for the eastern distinct population segment of Steller sea lions (3.1%). While local haulout abundance trends alone cannot be used to make conclusions regarding the trajectory of the population as a whole, or the impact that entanglement might be having range-wide, it is important to note that use of the study area continues to increase despite such high entanglement rates, and that both populations as a whole are healthy and growing. Future studies that incorporate entanglement data from the whole range of each species could illuminate the full impact that entanglements may be having on the two species. Furthermore, a longer-termed study could detect While the entanglement rates we observed were high, the low number of recorded mortalities from entanglement in the literature and in the local stranding record highlights our poor understanding of the effects of entanglement on sea lion health and survival. In the stranding record for the Washington and Oregon coast only 13 California and Steller sea lions were found dead with signs of entanglement from 2010-2018 out of 1,599 total strandings. The rate of dead stranded sea lions that exhibited evidence of entanglement (0.81%) was of a similar order of magnitude to the rate of live sea lions observed with signs of entanglement from survey effort (0.41% Steller, 2.13% California). In the literature there are also very few records of animals observed dead with signs of entanglement <ref type="bibr" target="#b18">[19,</ref><ref type="bibr" target="#b43">44]</ref>. Since dead stranded animals are a  subset of the mortality experienced by a population, it is logical that if entanglement always had a significant negative effect on the sea lion's health and survival, the proportion of dead individuals with evidence of entanglement would be greater than for the live population at large. Since recorded mortality due to entanglement was lower than expected, it suggests that this was not the case. The definition of serious injury developed and used by the National Oceanic and Atmospheric Administration (NOAA) is "an injury that will likely result in mortality" <ref type="bibr" target="#b44">[45]</ref>. According to the guidelines, which categorize most entanglements as serious injuries, including "Ingestion of gear or hook" and "Gear constricted on any body part, or likely to become constricting as the animal grows", most active entanglements observed in this study would be classified as serious injuries, with the exception of two Steller sea lions who exhibited hooks externally on the flank and side of the head <ref type="bibr" target="#b44">[45]</ref>. In assessments by NOAA of data from 2010-2017, all entanglements categorized as serious injuries with descriptions similar to what we observed and that did not receive rehabilitation or disentanglement assistance were recorded as mortalities <ref type="bibr" target="#b45">[46]</ref><ref type="bibr" target="#b46">[47]</ref><ref type="bibr" target="#b47">[48]</ref><ref type="bibr" target="#b49">[49]</ref><ref type="bibr" target="#b50">[50]</ref><ref type="bibr" target="#b51">[51]</ref><ref type="bibr" target="#b53">[52]</ref><ref type="bibr" target="#b54">[53]</ref><ref type="bibr" target="#b56">[54]</ref><ref type="bibr" target="#b57">[55]</ref><ref type="bibr" target="#b59">[56]</ref><ref type="bibr" target="#b60">[57]</ref>. However, this study presents multiple lines of evidence refuting the idea that entanglement without intervention is always a death sentence for the affected individual. Studies on tagged subadult male northern fur seals on St. Paul Island, Alaska found that entangled individuals had a similar return rate the following year as the general harvest population, suggesting that entanglement, at least for the harvestable segment of the population, had little to no impact on short-term survival <ref type="bibr" target="#b40">[41,</ref><ref type="bibr" target="#b61">58]</ref>. However, the probability of long-term survival might be largely dependent on the animal's ability to shed the entangling material <ref type="bibr" target="#b40">[41]</ref>. There are records of animals shedding entangling materials in the wild, including an adult female Antarctic fur seal (Arctocephalus gazella) that removed a tied loop of rope <ref type="bibr" target="#b62">[59]</ref>, a female Hawaiian monk seal with a nursing pup who freed herself from a tangle of monofilament and polypropylene line <ref type="bibr" target="#b63">[60]</ref>, nursing female northern fur seals who freed themselves from 200g trawl net fragments <ref type="bibr" target="#b64">[61]</ref>, multiple Hawaiian monk seals who seemed to entangle and disentangle themselves in beached netting <ref type="bibr" target="#b43">[44]</ref>, and several Steller sea lions, including a few branded individuals, observed shedding salmon flashers and one neck entanglement in Alaska (Alaska Department of Fish and Game, unpublished data; <ref type="bibr" target="#b49">[49,</ref><ref type="bibr" target="#b53">52]</ref>). Likewise, while packing bands were the most common entangling material in all study years for both Steller and California sea lions from live observations, similar to what was seen in other studies in the North Pacific <ref type="bibr" target="#b17">[18,</ref><ref type="bibr" target="#b19">20,</ref><ref type="bibr" target="#b34">35]</ref>, not a single sea lion stranded dead on the Washington or Oregon coast from 2010-2018 while entangled in a packing band, possibly indicating that sea lions are able to shed packing bands at a higher rate than other materials. The large, non-zero proportion of individuals exhibiting entanglement-related scarring in our record and in other studies <ref type="bibr" target="#b15">[16,</ref><ref type="bibr" target="#b19">20,</ref><ref type="bibr" target="#b40">41]</ref> is another testament both to the ability of animals to self-shed entangling materials and to survive even severely wounding entanglements. The prevalence of animals with entanglement scars, the lack of animals stranded dead entangled in packing bands, and observations of animals shedding entangling materials all point to higher entanglement survival than is currently assumed. In this study we did not formally categorize the body condition of entangled individuals, but it was our impression that most were in good condition, indicating the need to evaluate if entanglements cause sub-lethal impacts on individuals. That so many separate lines of evidence point to frequent survival of entangled pinnipeds signals the need to better understand entanglement-related injury and survival rates to be able to account for the impacts of these injuries more accurately within pinniped populations.</p><p>While the lack of recorded mortalities due to entanglement in the stranding record and published literature can be somewhat attributed to animals not always dying from entanglement, it is also likely that some affected animals are dying at sea or otherwise away from areas where they might be detected <ref type="bibr" target="#b3">[4,</ref><ref type="bibr" target="#b8">9,</ref><ref type="bibr" target="#b65">62,</ref><ref type="bibr" target="#b66">63]</ref>. Entanglement in a large entangling material, such as a trawl netting fragment, has been proven to increase the energy expenditure of affected animals, increase the time they spend at sea, and decrease the depth and duration of foraging dives, all of which could lead to reductions in health or survival and cause them to perish away from the scientific eye <ref type="bibr" target="#b64">[61,</ref><ref type="bibr" target="#b66">63,</ref><ref type="bibr" target="#b67">64]</ref>. Internal entanglement injuries from swallowed and embedded hooks are also likely to go undetected and unrecorded by stranding networks particularly when carcasses are in an advanced state of decay. Flashers made up one third of strandings with an identifiable entanglement, a much higher proportion than what was seen in live observations (13.6% Steller, 6.3% California), indicating that individuals with entanglements caused by a swallowed hook could have a higher mortality rate. The presence of flasher entanglements on live individuals only during June-September reinforces that sea lions either quickly shed the gear or die. Most sea lions were in good body condition when observed with a flasher, suggesting it is more likely that they quickly shed the gear, though some animals retain the hook internally after losing the visible flasher. Three animals in the Oregon stranding record had hooks in their stomach and esophagus, but no external signs of entanglement, and one individual was found with a hook in the stomach and the attached flasher wedged in the esophagus, demonstrating that animals impacted by embedded hooks may have sustained severe injuries without showing any observable evidence of entanglement until necropsy <ref type="bibr" target="#b68">[65]</ref>. Likewise, animals entangled in derelict fishing gear, such as ghost nets, are unlikely to be discovered until the gear is recovered, so the impact of these entanglement mortalities is likely underestimated <ref type="bibr" target="#b69">[66]</ref>. At-sea mortality, internal injuries, and derelict gear are just a few types of entanglementrelated mortality unlikely to be accurately documented and included in published entanglement rates.</p><p>The type of entangling material can also potentially impact the likelihood of observing an entanglement. If sea lions entangled by a salmon flasher are likely to either shed the gear quickly or die, the window to observe and document that entanglement might be much shorter than for a material more prone to long entanglements, like a packing band. The shape and color of the entangling material could also contribute to the probability that it is observed. Packing bands, rope, and monofilament line all mostly cause neck collar entanglements, but monofilament line, which is thin and usually somewhat translucent, is likely to be quickly embedded in a deep wound, disappearing from view faster than a thicker packing band or rope loop would. Packing bands also have a distinctive fraying pattern which causes thin curly strands to be visible above the edges of a deep wound where the band itself is otherwise invisible, making them much more likely to be identified than a material without such clear identifying features. For the most part, it was impossible to identify the entangling material in cases of severe entanglement wounds because the material was embedded so deeply in the flesh, and therefore also impossible to make any conclusions about which materials might be associated with the most severe wounds or highest potential risk of mortality to the affected individual. Additionally, only the most severe, deep, wide wounds are likely to create lasting and readily observable scars, meaning certain entangling materials are better represented among scarring rates than others. This complicates the search for the most damaging entangling materials on which to focus targeted mitigation and forces any management efforts to rely on other metrics of impact, such as the prevalence of an entangling material within the population in question. Further studies that track the fate of individually identifiable entangled individuals would help clarify important questions about scar healing rates and time to death or shedding that are crucial for understanding the full long-and short-term impact of entanglement on individuals and populations.</p><p>The age, size, and foraging experience of the sea lion may dictate the materials they become entangled in, and therefore the outcome and observability of the entanglement <ref type="bibr" target="#b8">[9,</ref><ref type="bibr" target="#b70">67,</ref><ref type="bibr" target="#b72">68]</ref>. The high proportion of entangled Steller juveniles exhibiting flashers and rubber bands may be a function of their age: rubber bands may be too small to entangle a large adult, and flasher entanglement is a sign of a risky foraging behavior-depredating salmon troll fisheries. The small number of unidentifiable entangling materials on juveniles may be because of their smaller size, which causes the material to sit on the surface of the skin where it can be easily identified. This may also explain the large number of unidentifiable entangling materials on adult males, whose considerable seasonal growth <ref type="bibr" target="#b73">[69]</ref> could have caused entanglements to bury deep into the flesh where they are not readily observed <ref type="bibr" target="#b64">[61]</ref>. Age and body size therefore impact both the entangling materials an individual is likely to encounter, and the severity of the wound caused by that entanglement.</p><p>Entanglement may also have an impact on pinniped life history population dynamics. Most California sea lions migrate away from our survey area to their breeding grounds to the south during June and July, but the few animals that stayed in our survey area during those months exhibited a much higher entanglement rate than in other months, largely driving the high overall rate of entanglement seen for California sea lions (Fig <ref type="figure" target="#fig_4">5</ref>). In our study area, it is possible that entangled male California sea lions observed in the summer months chose not to migrate to their breeding grounds due to compromised body condition caused by entanglement, which would likely also compromise their ability to establish and hold a breeding territory. This confirms that counts of entangled individuals taken from non-rookery sites only during the summer months might be useful as an index of change in entanglement occurrence but cannot be used to predict population-wide or annual average entanglement rates without other sources of data. Even for individuals that did arrive at their breeding grounds, entanglement could impact their reproductive success. In Alaska, entangled nursing female northern fur seals spent longer at sea, weaned smaller pups, and abandoned their pups more frequently than unentangled females <ref type="bibr" target="#b64">[61,</ref><ref type="bibr" target="#b74">70]</ref>. However, records of three entangled female California sea lions successfully weaning pups in Los Islotes, Baja California <ref type="bibr" target="#b15">[16]</ref> and our observation of at least one entangled Steller sea lion female nursing a pup demonstrate that the impacts of entanglement on all aspects of pinniped population dynamics, especially long-term impacts, are poorly understood.</p><p>Entanglement rates also appear to be impacted by the availability and distribution of entangling materials in the immediate environment <ref type="bibr" target="#b3">[4,</ref><ref type="bibr" target="#b8">9]</ref>. In our survey area, the occurrence of packing bands in beach surveys was positively correlated with the proportion of entangled individuals exhibiting packing bands. A similar relationship has been observed in Hawaiian monk seals, which frequently haul out on top of beached debris and therefore experience higher entanglement risk when more debris is present on the beach <ref type="bibr" target="#b75">[71]</ref>, and with northern fur seal pups which show higher rates of entanglement in areas on St. Paul Island, Alaska with higher concentrations of debris in the nearshore <ref type="bibr" target="#b72">[68]</ref>. It is likely that both basin-wide circulation patterns and nearshore currents play a role in the concentration of entangling materials and therefore the distribution of entanglement hot spots. Studies have shown that warm anomaly ocean conditions, usually associated with an El Niño event, can cause changes to the distribution of marine debris, fishing effort, and pinniped prey items, all of which can impact rates of entanglement <ref type="bibr" target="#b13">[14,</ref><ref type="bibr" target="#b14">15,</ref><ref type="bibr" target="#b37">38]</ref>. In summer 2014, high sea surface temperatures associated with the warm anomaly referred to as "the Blob" reached the coast, causing the shortest upwelling season for the northern California Current on record <ref type="bibr" target="#b76">[72]</ref>, the impacts of which were seen well into 2016 <ref type="bibr" target="#b77">[73]</ref>. Both California and Steller sea lions exhibited high rates of entanglement in our study area in 2014 and 2015, and 2014-2016 were also years of elevated large whale entanglements in the area <ref type="bibr" target="#b16">[17,</ref><ref type="bibr" target="#b78">74]</ref>. It is possible that these anomalous ocean conditions changed the distribution of fishing effort, entangling materials, and prey items important to cetaceans and pinnipeds, causing habitat compression and contributing to the high levels of entanglement seen for both taxa. Entanglement rates therefore seem to be driven somewhat by normal ocean currents and abnormal ocean conditions. However, the way that ocean conditions impact entanglements may depend on the type of entangling material, as actively fished and derelict gear are more likely to be impacted by conditions that shift fishing effort, prey distributions, and sea lion abundance, while marine debris is more likely to be linked to conditions that directly change currents and circulation.</p><p>Our study showed high haulout abundance increase rates in Steller and California sea lions in Washington despite high entanglement rates, suggesting that entanglement is not an issue that requires immediate conservation attention in this area. However, entanglement is still a significant welfare issue for individual sea lions. Considering that most entanglements are caused by humans, through the creation of marine debris, derelict fishing gear, or direct fishery interactions <ref type="bibr" target="#b3">[4]</ref> (except for animals collared by penguin skins <ref type="bibr" target="#b29">[30,</ref><ref type="bibr" target="#b30">31,</ref><ref type="bibr" target="#b62">59]</ref>), it becomes a matter of good stewardship to reduce the negative impact on sea lion welfare. The good news is that human-caused entanglements can be addressed through changes in human behavior. For entanglements caused by actively fished gear, outreach and education paired with deterrence strategies may prove effective, while marine debris requires tackling pollution sources or redesigning offending materials. In New Zealand and South Georgia, campaigns to encourage fishers to cut packing bands before disposal led to declines in packing band entanglements <ref type="bibr" target="#b15">[16,</ref><ref type="bibr" target="#b79">75]</ref>. However, in Australia, large-scale efforts by the government and local fishers to reduce entanglement failed to prevent entanglement rates from continuing to increase <ref type="bibr" target="#b35">[36]</ref>. <ref type="bibr" target="#b35">Page et al. (2004)</ref> proposed that the debris could originate from areas outside of Australian waters and away from local fishing grounds, making national legislation ineffective at addressing the trans-boundary issue. A similar situation could complicate entanglement prevention efforts in northern Washington because of the close proximity to the Canadian border and the presence of large basin-wide currents just offshore. <ref type="bibr" target="#b35">Page et al. (2004)</ref> also commented that laws that fall short of mandating the use of redesigned materials to prevent entanglement risk, such as biodegradable packing bands, may fail to cause an effective change in observed entanglement rates. Similarly, while deterrents exist or are in development that could prevent animals from interacting with various types of actively fished gear <ref type="bibr" target="#b80">[76,</ref><ref type="bibr">77]</ref>, it can be a challenge to find a solution that balances effectiveness, cost, and reduction of potential harm to the ecosystem <ref type="bibr" target="#b82">[78]</ref><ref type="bibr" target="#b83">[79]</ref><ref type="bibr" target="#b84">[80]</ref>. While preventing entanglements altogether is likely an impossible task, small actions such as encouraging fishers to cut packing bands could decrease the impact of entanglement on the welfare of local pinniped species.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Fig 1 .</head><label>1</label><figDesc>Fig 1. Map of the four major Steller and California sea lion haulout complexes surveyed for entangled individuals: Tatoosh Island, the Bodelteh Islands, Carroll Island, and Sea Lion Rock. https://doi.org/10.1371/journal.pone.0237178.g001</figDesc><graphic coords="3,72.00,325.42,504.00,351.33" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Fig 2 .</head><label>2</label><figDesc>Fig 2. Example photographs of entangled Steller and California sea lions observed during small boat surveys of sea lion haulout complexes on the north coast of Washington from 2010-2018. Clockwise from the top left: a) Steller sea lion with an entanglement scar, b) Steller sea lion with a rubber band entanglement, c) California sea lion with a rope entanglement, d) Steller sea lion with a severe entanglement wound where the material is unidentifiable, e) Steller sea lion entangled in monofilament line, f) California sea lion entangled by a packing band, and g) Steller sea lion with a salmon flasher entanglement. https://doi.org/10.1371/journal.pone.0237178.g002</figDesc><graphic coords="5,200.01,433.98,355.41,207.55" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Fig 3 .</head><label>3</label><figDesc>Fig 3. Trends in average annual counts of Steller and California sea lions present at four major haulout complexes on the north coast of Washington from 2010-2017. https://doi.org/10.1371/journal.pone.0237178.g003</figDesc><graphic coords="7,101.99,78.01,473.95,269.01" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head>Fig 4 .</head><label>4</label><figDesc>Fig 4. Average entanglement rates (expressed as entanglements per individual) and entangling material proportions for California and Steller sea lions in northern Washington from 2010-2018 by year. Entanglement rate calculations only included entangled individuals observed at one of four major haulout complexes. Entangling materials were only analyzed for individuals with photos of sufficient quality observed hauled out anywhere along the survey route. https://doi.org/10.1371/journal.pone.0237178.g004</figDesc><graphic coords="8,96.49,78.01,479.51,270.71" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4"><head>Fig 5 .</head><label>5</label><figDesc>Fig 5. Average pooled counts at the four major haulouts, average entanglement rates (expressed as entanglements per individual), and entangling material proportions for California and Steller sea lions in northern Washington from 2010-2018 by month. Entanglement rate calculations only included entangled individuals observed at one of four major haulout complexes. Entangling materials were analyzed for any entangled individuals with photos of sufficient quality observed hauled out anywhere along the survey route. https://doi.org/10.1371/journal.pone.0237178.g005</figDesc><graphic coords="9,109.93,78.01,466.07,347.47" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_5"><head>Fig 6 .</head><label>6</label><figDesc>Fig 6. The proportion of entanglements caused by each material type for Steller sea lion juveniles (both sexes), adult females, and adult males in northern Washington, 2010-2018. https://doi.org/10.1371/journal.pone.0237178.g006</figDesc><graphic coords="10,200.01,78.01,289.64,265.44" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_6"><head>Fig 7 .</head><label>7</label><figDesc>Fig 7. The proportion of entanglements caused by packing bands for sea lions at haulouts in northern Washington (primary axis) and the number of packing bands per survey recorded in beach debris surveys along the north Pacific coast of Washington conducted by the Olympic Coast National Marine Sanctuary (secondary axis). https://doi.org/10.1371/journal.pone.0237178.g007</figDesc><graphic coords="11,105.85,78.01,470.15,338.40" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1 . The number of sea lion haulout surveys in northern Washington conducted in each month of the study period 2010-2018 with the number of complete surveys where all four major haulout complexes were visited in parentheses. Note</head><label>1</label><figDesc>that no complete surveys were conducted after June in 2018.</figDesc><table><row><cell>Month</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>) 11(4) 16(3) 17(4) 25(12) 28(17) 34(11) 38(17) 36(15) 19(4) 11(3) 3(2) 246(97)</head><label></label><figDesc></figDesc><table><row><cell>https://doi.org/10.1371/journal.pone.0237178.t001</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 2 . Entanglement rates for Steller and California sea lions recorded dead in the Washington and Oregon coast stranding record and for sea lions observed alive on haulouts during surveys of northern Washington.</head><label>2</label><figDesc></figDesc><table><row><cell></cell><cell>Stranding Entanglement Rate</cell><cell>Haulout Entanglement Rate</cell></row><row><cell>Steller sea lions</cell><cell>1.63%</cell><cell>0.41%</cell></row><row><cell>California sea lions</cell><cell>0.38%</cell><cell>2.13%</cell></row></table><note><p>https://doi.org/10.1371/journal.pone.0237178.t002</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_3"><head>Table 3 . A review of pinniped entanglement rates in the published literature in ascending order of entanglement rate.</head><label>3</label><figDesc></figDesc><table><row><cell>Year</cell><cell>Reference</cell><cell>Location</cell><cell>Species</cell><cell>Rate (%)</cell></row><row><cell>1988-1989</cell><cell>[20]</cell><cell>Channel Islands, CA</cell><cell>Cu</cell><cell>0.00</cell></row><row><cell>1997-2013</cell><cell>[29]</cell><cell>Bass Strait, Australia</cell><cell>App</cell><cell>0.002-0.019</cell></row><row><cell>1988-1997</cell><cell>[30]</cell><cell>Livingston Island, Antarctica</cell><cell>Ag</cell><cell>0.024</cell></row><row><cell>1996-2002</cell><cell>[31]</cell><cell>Bouvetøya</cell><cell>Ag</cell><cell>0.024-0.059</cell></row><row><cell>2001-2005</cell><cell>[1]</cell><cell>Point Reyes, CA</cell><cell>Zc</cell><cell>0.03</cell></row><row><cell>1982-1984</cell><cell>[32]</cell><cell>St Paul Island, AK</cell><cell>Cu</cell><cell>0.04 1985</cell></row><row><cell></cell><cell>[26]</cell><cell>Aleutian Islands, AK</cell><cell>Ej</cell><cell>0.07</cell></row><row><cell>1978</cell><cell>[33]</cell><cell>Namibia &amp; South Africa</cell><cell>Ap</cell><cell>0.11 �</cell></row><row><cell>1977</cell><cell>[33]</cell><cell>Namibia &amp; South Africa</cell><cell>Ap</cell><cell>0.12 �</cell></row><row><cell>1979</cell><cell>[33]</cell><cell>Namibia &amp; South Africa</cell><cell>Ap</cell><cell>0.12 �</cell></row><row><cell>1991-1996</cell><cell>[34]</cell><cell>Marion Island, Australia</cell><cell>Ag &amp; At</cell><cell>0.15</cell></row><row><cell>2006</cell><cell>[35]</cell><cell>Pribilof Islands, AK</cell><cell>Cu</cell><cell>0.17 �</cell></row><row><cell>1983-1984</cell><cell>[20]</cell><cell>Channel Islands, CA</cell><cell>Zc</cell><cell>0.18</cell></row><row><cell>2005</cell><cell>[35]</cell><cell>Pribilof Islands, AK</cell><cell>Cu</cell><cell>0.18 �</cell></row><row><cell>2006</cell><cell>[35]</cell><cell>St Paul Island, AK</cell><cell>Cu</cell><cell>0.20</cell></row><row><cell>1988-2000</cell><cell>[36]</cell><cell>Kangaroo Island, Australia</cell><cell>Nc</cell><cell>0.20</cell></row><row><cell>1988-1989</cell><cell>[20]</cell><cell>Channel Islands, CA</cell><cell>Zc</cell><cell>0.22</cell></row><row><cell>1985-1986</cell><cell>[20]</cell><cell>Channel Islands, CA</cell><cell>Cu</cell><cell>0.24</cell></row><row><cell>1996-1999</cell><cell>[34]</cell><cell>Marion Island, Australia</cell><cell>Ag &amp; At</cell><cell>0.24</cell></row><row><cell>2001-2007</cell><cell>[18]</cell><cell>SEAK &amp; northern BC</cell><cell>Ej</cell><cell>0.26</cell></row><row><cell>1985-1986</cell><cell>[20]</cell><cell>Channel Islands, CA</cell><cell>Zc</cell><cell>0.27</cell></row><row><cell>1986-1988</cell><cell>[20]</cell><cell>Channel Islands, CA</cell><cell>Zc</cell><cell>0.27</cell></row><row><cell>1986-1988</cell><cell>[20]</cell><cell>Channel Islands, CA</cell><cell>Cu</cell><cell>0.28</cell></row><row><cell>1988-1989</cell><cell>[37]</cell><cell>Bird Island, South Georgia</cell><cell>Ag</cell><cell>0.4</cell></row><row><cell>1989-2000</cell><cell>[36]</cell><cell>Kangaroo Island, Australia</cell><cell>Af</cell><cell>0.4</cell></row><row><cell>2010-2018</cell><cell>[21]</cell><cell>Northwest Coast, WA</cell><cell>Ej</cell><cell>0.43</cell></row><row><cell>1991-1995</cell><cell>[38]</cell><cell>Gulf of California, Mexico</cell><cell>Zc</cell><cell>0.49</cell></row><row><cell>1995-2005</cell><cell>[39]</cell><cell>Kaikoura, New Zealand</cell><cell>Af</cell><cell>0.6-2.84</cell></row><row><cell>1983</cell><cell>[40]</cell><cell>St Paul Island, AK</cell><cell>Cu</cell><cell>0.75 �</cell></row><row><cell>1984</cell><cell>[41]</cell><cell>St Paul Island, AK</cell><cell>Cu</cell><cell>0.78 �</cell></row><row><cell>2001-2002</cell><cell>[36]</cell><cell>Kangaroo Island, Australia</cell><cell>Af</cell><cell>0.9</cell></row><row><cell>2001</cell><cell>[36]</cell><cell>Kangaroo Island, Australia</cell><cell>Nc</cell><cell>1</cell></row><row><cell>2002</cell><cell>[36]</cell><cell>Kangaroo Island, Australia</cell><cell>Nc</cell><cell>1.3</cell></row><row><cell>1989-1991</cell><cell>[42]</cell><cell>Bass Strait, Australia</cell><cell>Apd</cell><cell>1.9</cell></row><row><cell>2010-2018</cell><cell>[21]</cell><cell>Northwest Coast, WA</cell><cell>Zc</cell><cell>2.86</cell></row><row><cell>1992</cell><cell>[16]</cell><cell>Los Islotes, Mexico</cell><cell>Zc</cell><cell>3.9-7.9</cell></row><row><cell>2000</cell><cell>[43]</cell><cell>Los Islotes, Mexico</cell><cell>Zc</cell><cell>8.75</cell></row><row><cell>1998</cell><cell>[43]</cell><cell>Los Islotes, Mexico</cell><cell>Zc</cell><cell>9.9</cell></row><row><cell>1992</cell><cell>[43]</cell><cell>Los Islotes, Mexico</cell><cell>Zc</cell><cell>10.4</cell></row><row><cell cols="5">Entanglement rates were calculated using many different methodologies based on many different data collection methods and are not meant to be directly comparable</cell></row><row><cell cols="5">without caution. Species are listed using the first letters of their genus and species: Af-Arctocephalus forsteri, Ag-Arctocephalus gazella, Ap-Arctocephalus pusillus,</cell></row><row><cell cols="5">Apd-Arctocephalus pusillus doriferus, App-Arctocephalus pusillus pusillus, At-Arctocephalus tropicalis, Cu-Callorhinus ursinus, Ej-Eumetopias jubatus, Nc-</cell></row><row><cell cols="2">Neophoca cinerea, Zc-Zalophus californianus.</cell><cell></cell><cell></cell><cell></cell></row><row><cell cols="2">� Harvest data, only subadult males</cell><cell></cell><cell></cell><cell></cell></row><row><cell cols="2">~Rookery data during breeding season</cell><cell></cell><cell></cell><cell></cell></row></table><note><p>https://doi.org/10.1371/journal.pone.0237178.t003</p></note></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0"><p>PLOS ONE | https://doi.org/10.1371/journal.pone.0237178August 25, 2020  </p></note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head>Acknowledgments</head><p>The authors would like to acknowledge all the individuals who assisted with data collection, including <rs type="person">Patrick Gearin</rs>, <rs type="person">Merrill Gosho</rs>, and <rs type="person">Jeff Harris</rs> from <rs type="affiliation">NOAA MML</rs>, and past technicians for the Makah Tribe, including <rs type="person">Adrianne Akmajian</rs>, <rs type="person">Maria Roberts</rs>, <rs type="person">Joshua Monette</rs>, and <rs type="person">Quinton Thompson. Kristin Wilkinson</rs> and <rs type="person">Lauren De Maio</rs> assisted with compiling stranding data, which was collected by the many dedicated organizations that make up the <rs type="institution">West Coast Marine Mammal Stranding Network</rs>. Thanks also to <rs type="person">Chris Butler-Minor</rs> and the OCNMS staff and volunteers who collect and organize the beach debris survey data. We would also like to thank <rs type="person">Wendy Szaniszlo</rs> for assistance with identifying entangling materials, and <rs type="person">Justin Jenniges</rs> and <rs type="person">Hyejoo Ro</rs> for providing reviews of the manuscript.</p></div>
+			</div>
+			<div type="funding">
+<div><p>EMA and JJS both work for the <rs type="institution">Makah Fisheries Management Department of the Makah Tribe</rs>. Funding for this project was provided by the <rs type="programName">Species Recovery</rs> Grant to Tribes that is administered by the <rs type="funder">National Marine Fisheries Service</rs> (<rs type="grantNumber">NA10NMF4720372</rs>, <rs type="grantNumber">NA13NMF4720121</rs>, <rs type="grantNumber">NA16NMF4720059</rs>). Award <rs type="grantNumber">NA16NMF4720059</rs> funded analysis and writing of the manuscript. EMA and JJS also receive funding from the <rs type="funder">Bonneville Power Administration Tribal Capacity Building</rs> <rs type="grantName">Grant</rs> (<rs type="grantNumber">82213</rs>, <rs type="grantNumber">DIT-7</rs>), the <rs type="funder">National Science Foundation</rs> through a subaward granted to the <rs type="funder">University of Chicago</rs> (<rs type="grantNumber">1851489/AWD100060</rs> (<rs type="grantNumber">SUB0000043</rs>)), and the <rs type="funder">John H. Prescott Marine Mammal Rescue Assistance</rs> Grant administered by the <rs type="funder">National Marine Fisheries Service</rs> (<rs type="grantNumber">NA10NMF4390242</rs>, <rs type="grantNumber">NA16NMF4390349</rs>, <rs type="grantNumber">NA09NMF4390198</rs>). Author JJS has also received funding support through the <rs type="programName">Saltonstall-Kennedy Grant Program</rs> (<rs type="grantNumber">NA16NMF4270250</rs>), the <rs type="programName">Bycatch Reduction Engineering Program</rs> (<rs type="grantNumber">NA14NMF4720323</rs>), the <rs type="grantName">Preserve America Grant</rs> (<rs type="grantNumber">NFFP7410-12-03544</rs>), and a <rs type="grantName">NOAA Cooperative Research Grant</rs> (<rs type="grantNumber">NA12NMF4720174</rs>) which are all administered by the <rs type="funder">National Marine Fisheries Service</rs>; the <rs type="funder">Bureau of Indian Affairs</rs> (<rs type="grantNumber">A20AP00138</rs>, <rs type="grantNumber">CTP06T10815</rs>); <rs type="funder">Washington SeaGrant</rs> (<rs type="grantNumber">UWSC10428</rs>, <rs type="grantNumber">UWSC11759</rs>); and the <rs type="funder">North Pacific Coast Marine Resource Committee</rs> (No award numbers). Funders played no role in the development, implementation, or analysis of the work completed for this manuscript.</p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funding" xml:id="_u3Akyq3">
+					<idno type="grant-number">NA10NMF4720372</idno>
+					<orgName type="program" subtype="full">Species Recovery</orgName>
+				</org>
+				<org type="funding" xml:id="_wvsmcNJ">
+					<idno type="grant-number">NA13NMF4720121</idno>
+				</org>
+				<org type="funding" xml:id="_ZR3RGdj">
+					<idno type="grant-number">NA16NMF4720059</idno>
+				</org>
+				<org type="funding" xml:id="_3UZxVM3">
+					<idno type="grant-number">NA16NMF4720059</idno>
+				</org>
+				<org type="funding" xml:id="_rs8Jv5S">
+					<idno type="grant-number">82213</idno>
+					<orgName type="grant-name">Grant</orgName>
+				</org>
+				<org type="funding" xml:id="_ge754qv">
+					<idno type="grant-number">DIT-7</idno>
+				</org>
+				<org type="funding" xml:id="_QuwKbgJ">
+					<idno type="grant-number">1851489/AWD100060</idno>
+				</org>
+				<org type="funding" xml:id="_vPVrgze">
+					<idno type="grant-number">SUB0000043</idno>
+				</org>
+				<org type="funding" xml:id="_TCHkUVq">
+					<idno type="grant-number">NA10NMF4390242</idno>
+				</org>
+				<org type="funding" xml:id="_gWazpYS">
+					<idno type="grant-number">NA16NMF4390349</idno>
+				</org>
+				<org type="funding" xml:id="_cHvxs4B">
+					<idno type="grant-number">NA09NMF4390198</idno>
+					<orgName type="program" subtype="full">Saltonstall-Kennedy Grant Program</orgName>
+				</org>
+				<org type="funding" xml:id="_GmvV556">
+					<idno type="grant-number">NA16NMF4270250</idno>
+					<orgName type="program" subtype="full">Bycatch Reduction Engineering Program</orgName>
+				</org>
+				<org type="funding" xml:id="_GKUvdnK">
+					<idno type="grant-number">NA14NMF4720323</idno>
+					<orgName type="grant-name">Preserve America Grant</orgName>
+				</org>
+				<org type="funding" xml:id="_G857cF3">
+					<idno type="grant-number">NFFP7410-12-03544</idno>
+					<orgName type="grant-name">NOAA Cooperative Research Grant</orgName>
+				</org>
+				<org type="funding" xml:id="_Dfp3jSR">
+					<idno type="grant-number">NA12NMF4720174</idno>
+				</org>
+				<org type="funding" xml:id="_JVkBfhm">
+					<idno type="grant-number">A20AP00138</idno>
+				</org>
+				<org type="funding" xml:id="_GSDzCZX">
+					<idno type="grant-number">CTP06T10815</idno>
+				</org>
+				<org type="funding" xml:id="_Qs9fKNF">
+					<idno type="grant-number">UWSC10428</idno>
+				</org>
+				<org type="funding" xml:id="_5cKRkxY">
+					<idno type="grant-number">UWSC11759</idno>
+				</org>
+			</listOrg>
+
+			<div type="availability">
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>All data underlying the results presented in the study are available from Mendeley Data (DOI: 10.17632/447sm2rwrk. 1).</p></div>
+			</div>
+
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Author Contributions</head><p>Conceptualization: Jonathan Joseph Scordino. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Data curation:</head></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Entanglements of marine mammals and seabirds in central California and the north-west coast of the United States 2001-2005</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Moore</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Lyday</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Roletto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Litle</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">K</forename><surname>Parrish</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Nevins</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.marpolbul.2009.02.006</idno>
+		<idno type="PMID">19344921</idno>
+		<ptr target="https://doi.org/10.1016/j.marpolbul.2009.02.006" />
+	</analytic>
+	<monogr>
+		<title level="j">Mar Pollut Bull</title>
+		<imprint>
+			<biblScope unit="volume">58</biblScope>
+			<biblScope unit="page" from="1045" to="1051" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<monogr>
+		<title level="m">Report on the entanglement of marine species in marine debris with an emphasis on species in the United States</title>
+		<meeting><address><addrLine>Silver Spring, MD</addrLine></address></meeting>
+		<imprint>
+			<publisher>National Oceanic and Atmospheric Administration Marine Debris Program</publisher>
+			<date type="published" when="2014">2014. 2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Fishing gear-related injury in California marine wildlife</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">K</forename><surname>Dau</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Kvk</forename><surname>Gilardi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">M</forename><surname>Gulland</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Higgins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">B</forename><surname>Holcomb</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">S</forename><surname>Leger</surname></persName>
+		</author>
+		<idno type="DOI">10.7589/0090-3558-45.2.355</idno>
+		<idno type="PMID">19395745</idno>
+		<ptr target="https://doi.org/10.7589/0090-3558-45.2.355" />
+	</analytic>
+	<monogr>
+		<title level="j">J Wildl Dis</title>
+		<imprint>
+			<biblScope unit="volume">45</biblScope>
+			<biblScope unit="page" from="355" to="362" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<monogr>
+		<title level="m" type="main">Impacts of marine debris: Entanglement of marine life in marine debris including a comprehensive list of species with entanglement and ingestion records</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">W</forename><surname>Laist</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/978-1-4613-8486-1</idno>
+		<ptr target="https://doi.org/10.1007/978-1-4613-8486-1" />
+		<editor>Coe J, Rogers D</editor>
+		<imprint>
+			<date type="published" when="1997">1997</date>
+			<publisher>Springer</publisher>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">The changing focus of marine mammal conservation</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Hofman</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/s0169-5347%2800%2989184-3</idno>
+		<ptr target="https://doi.org/10.1016/s0169-5347(00)89184-3PMID:21237105" />
+	</analytic>
+	<monogr>
+		<title level="j">Trends Ecol Evol</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page" from="462" to="465" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Marine debris and northern fur seals: A case study</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Fowler</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/S0025-326X%2887%2980020-6</idno>
+		<ptr target="https://doi.org/10.1016/S0025-326X(87)80020-6" />
+	</analytic>
+	<monogr>
+		<title level="j">Mar Pollut Bull</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="page" from="326" to="335" />
+			<date type="published" when="1987">1987</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">A pre-and post-MARPOL Annex V summary of Hawaiian monk seal entanglements and marine debris accumulation in the Northwestern Hawaiian Islands, 1982-1998</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Henderson</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/s0025-326x%2800%2900204-6</idno>
+		<ptr target="https://doi.org/10.1016/s0025-326x(00)00204-6PMID:11488238" />
+	</analytic>
+	<monogr>
+		<title level="j">Mar Pollut Bull</title>
+		<imprint>
+			<biblScope unit="volume">42</biblScope>
+			<biblScope unit="page" from="584" to="589" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Potential impact of entanglement in marine debris on the population dynamics of the northern fur seal, Callorhinus ursinus</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">P</forename><surname>French</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Reed</surname></persName>
+		</author>
+		<idno type="DOI">10.1051/0004-6361/201116485</idno>
+		<idno>NOAA-TM-NMFS-SWFC-154</idno>
+		<ptr target="https://doi.org/10.1051/0004-6361/201116485" />
+	</analytic>
+	<monogr>
+		<title level="m">Proceedings of the Second International Conference on Marine Debris</title>
+		<editor>
+			<persName><forename type="first">R</forename><forename type="middle">S</forename><surname>Shomura</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">M</forename><forename type="middle">L</forename><surname>Godfrey</surname></persName>
+		</editor>
+		<meeting>the Second International Conference on Marine Debris<address><addrLine>Honolulu, HI</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1989-04">April 1989. 1990</date>
+			<biblScope unit="page" from="431" to="452" />
+		</imprint>
+		<respStmt>
+			<orgName>Department of Commerce, NOAA Technical Memorandum, NMFS</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">A review of seal and sea lion entanglement in marine fishing debris</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">W</forename><surname>Fowler</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Proceedings of the North Pacific Rim Fishermen&apos;s Conference on Marine Debris</title>
+		<meeting>the North Pacific Rim Fishermen&apos;s Conference on Marine Debris</meeting>
+		<imprint>
+			<date type="published" when="1987">1987. 1988</date>
+			<biblScope unit="page" from="16" to="63" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">The looming crisis: interactions between marine mammals and fisheries</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">J</forename><surname>Read</surname></persName>
+		</author>
+		<idno type="DOI">10.1644/07-mamm-s-315r1.1</idno>
+		<ptr target="https://doi.org/10.1644/07-mamm-s-315r1" />
+	</analytic>
+	<monogr>
+		<title level="j">J Mammal</title>
+		<imprint>
+			<biblScope unit="volume">89</biblScope>
+			<biblScope unit="page" from="541" to="548" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Impact of the California sea lion (Zalophus californianus) on salmon fisheries in Monterey Bay, California</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Weise</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">T</forename><surname>Harvey</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Fish Bull</title>
+		<imprint>
+			<biblScope unit="volume">103</biblScope>
+			<biblScope unit="page" from="685" to="696" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">The problem with fur seal entanglement in marine debris</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Yoshida</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Baba</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Proceedings of the Workshop on the Fate and Impact of Marine Debris</title>
+		<editor>
+			<persName><forename type="first">R</forename><forename type="middle">S</forename><surname>Shomura</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">H</forename><forename type="middle">O</forename><surname>Yoshida</surname></persName>
+		</editor>
+		<meeting>the Workshop on the Fate and Impact of Marine Debris<address><addrLine>Honolulu, HI</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1984-11">November 1984. 1985</date>
+			<biblScope unit="page" from="448" to="452" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Entanglement in, and ingestion of, plastic litter in marine mammals, sharks, and turtles in New Zealand waters</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">W</forename><surname>Cawthorn</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Proceedings of the Workshop on the Fate and Impact of Marine Debris</title>
+		<editor>
+			<persName><forename type="first">R</forename><forename type="middle">S</forename><surname>Shomura</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Yoshida</forename><surname>Ho</surname></persName>
+		</editor>
+		<meeting>the Workshop on the Fate and Impact of Marine Debris<address><addrLine>Honolulu, HI</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1984-11">November 1984. 1985</date>
+			<biblScope unit="page" from="336" to="343" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Remote sensing reveals links among the endangered Hawaiian monk seal, marine debris, and El Niño</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Donohue</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">G</forename><surname>Foley</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1748-7692.2007.00114.x</idno>
+		<ptr target="https://doi.org/10.1111/j.1748-7692.2007.00114.x" />
+	</analytic>
+	<monogr>
+		<title level="j">Mar Mammal Sci</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="page" from="468" to="473" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">The impacts of El Niño conditions on California sea lion (Zalophus californianus) fisheries interactions: Predicting spatial and temporal hotspots along the California coast</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">J</forename><surname>Keledjian</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Mesnick</surname></persName>
+		</author>
+		<idno type="DOI">10.1578/AM.39.3.2013.221</idno>
+		<ptr target="https://doi.org/10.1578/AM.39.3.2013.221" />
+	</analytic>
+	<monogr>
+		<title level="j">Aquat Mamm</title>
+		<imprint>
+			<biblScope unit="volume">39</biblScope>
+			<biblScope unit="page" from="221" to="232" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Entanglement of California sea lions at Los Islotes, Baja California Sur, Mexico</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Harcourt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Aurioles</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Sanchez</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1748-7692.1994.tb00399.x</idno>
+		<ptr target="https://doi.org/10.1111/j.1748-7692.1994.tb00399.x" />
+	</analytic>
+	<monogr>
+		<title level="j">Mar Mammal Sci</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page" from="122" to="125" />
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Habitat compression and ecosystem shifts as potential links between marine heatwave and record whale entanglements</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Santora</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">J</forename><surname>Mantua</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">D</forename><surname>Schroeder</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Field</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">L</forename><surname>Hazen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">J</forename><surname>Bograd</surname></persName>
+		</author>
+		<idno type="DOI">10.1038/s41467-019-14215-w</idno>
+		<ptr target="https://doi.org/10.1038/s41467-019-14215-wPMID:31988285" />
+	</analytic>
+	<monogr>
+		<title level="j">Nat Commun</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Entanglement of Steller sea lions (Eumetopias jubatus) in marine debris: Identifying causes and finding solutions</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">L</forename><surname>Raum-Suryan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">A</forename><surname>Jemison</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">W</forename><surname>Pitcher</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.marpolbul.2009.06.004</idno>
+		<idno type="PMID">19631950</idno>
+		<ptr target="https://doi.org/10.1016/j.marpolbul.2009.06.004" />
+	</analytic>
+	<monogr>
+		<title level="j">Mar Pollut Bull</title>
+		<imprint>
+			<biblScope unit="volume">58</biblScope>
+			<biblScope unit="page" from="1487" to="1495" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Entanglement of pinnipeds in synthetic materials at South-east Farallon Island, California, 1976-1998</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">D</forename><surname>Hanni</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Pyle</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/S0025-326X%2800%2900050-3</idno>
+		<ptr target="https://doi.org/10.1016/S0025-326X(00)00050-3" />
+	</analytic>
+	<monogr>
+		<title level="j">Mar Pollut Bull</title>
+		<imprint>
+			<biblScope unit="volume">40</biblScope>
+			<biblScope unit="page" from="1076" to="1081" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Pinniped entanglement in synthetic materials in the Southern California Bight</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">S</forename><surname>Stewart</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">K</forename><surname>Yochem</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Proceedings of the Second International Conference on Marine Debris</title>
+		<editor>
+			<persName><forename type="first">R</forename><forename type="middle">S</forename><surname>Shomura</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">M</forename><forename type="middle">L</forename><surname>Godfrey</surname></persName>
+		</editor>
+		<meeting>the Second International Conference on Marine Debris<address><addrLine>Honolulu, Hawaii</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1989-04">April 1989. 1990</date>
+			<biblScope unit="page" from="554" to="561" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Entanglement and count data for Steller sea lions and California sea lions in northwest Washington</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Scordino</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Allyn</forename><forename type="middle">E</forename></persName>
+		</author>
+		<idno type="DOI">10.17632/447sm2rwrk.1#file-1ecfafdc-0796-472b-ab7c-cd454b164228</idno>
+		<ptr target="http://dx.doi.org/10.17632/447sm2rwrk.1#file-1ecfafdc-0796-472b-ab7c-cd454b164228" />
+	</analytic>
+	<monogr>
+		<title level="j">Mendeley Data</title>
+		<imprint>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">NOAA marine debris shoreline survey field guide</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Opfer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Arthur</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Lippiatt</surname></persName>
+		</author>
+		<ptr target="www.MarineDebris.noaa" />
+	</analytic>
+	<monogr>
+		<title level="j">NOAA Mar Debris Progr</title>
+		<imprint>
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<monogr>
+		<title level="m" type="main">R Statistical Program</title>
+		<author>
+			<orgName type="collaboration">R Core Team</orgName>
+		</author>
+		<imprint>
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<monogr>
+		<author>
+			<persName><forename type="first">H</forename><surname>Wickham</surname></persName>
+		</author>
+		<ptr target="https://ggplot2.tidyverse.org" />
+		<title level="m">ggplot2: Elegant Graphics for Data Analysis</title>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Springer-Verlag</publisher>
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Population growth and status of California sea lions</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Laake</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">S</forename><surname>Lowry</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">L</forename><surname>Delong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">R</forename><surname>Melin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Carretta</surname></persName>
+		</author>
+		<idno type="DOI">10.1002/jwmg.21405</idno>
+		<ptr target="https://doi.org/10.1002/jwmg.21405" />
+	</analytic>
+	<monogr>
+		<title level="j">J Wildl Manage</title>
+		<imprint>
+			<biblScope unit="volume">82</biblScope>
+			<biblScope unit="page" from="583" to="595" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Assessment of net entanglement on northern sea lions in the Aleutian Islands, 25 June-15</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">R</forename><surname>Loughlin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">NWAFC Process Rep</title>
+		<imprint>
+			<biblScope unit="page" from="86" to="88" />
+			<date type="published" when="1985-07">July 1985. 1986</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Abundance and distribution of the eastern North Pacific Steller sea lion (Eumetopias jubatus) population</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">W</forename><surname>Pitcher</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">F</forename><surname>Olesiuk</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">F</forename><surname>Brown</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">S</forename><surname>Lowry</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">J</forename><surname>Jeffries</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Sease</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Fish Bull</title>
+		<imprint>
+			<biblScope unit="volume">107</biblScope>
+			<biblScope unit="page" from="102" to="115" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<monogr>
+		<title level="m" type="main">Eumetopias jubatus)</title>
+		<imprint>
+			<date type="published" when="2018">2018</date>
+			<publisher>US Pacific Mar Mammal Stock Assessments</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Drivers and annual estimates of marine wildlife entanglement rates: A long-term case study with Australian fur seals</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">R</forename><surname>Mcintosh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Kirkwood</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">R</forename><surname>Sutherland</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Dann</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.marpolbul.2015.10.007</idno>
+		<idno type="PMID">26475026</idno>
+		<ptr target="https://doi.org/10.1016/j.marpolbul.2015.10.007" />
+	</analytic>
+	<monogr>
+		<title level="j">Mar Pollut Bull</title>
+		<imprint>
+			<biblScope unit="volume">101</biblScope>
+			<biblScope unit="page" from="716" to="725" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Entanglement of Antarctic fur seals Arctocephalus gazella in marine debris at Cape Shirreff and San Telmo Islets, Livingston Island, Antarctica: 1988-1997</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Hucke-Gaete</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Torres</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Vallejos</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ser Cientı ´fica Ina</title>
+		<imprint>
+			<biblScope unit="volume">47</biblScope>
+			<biblScope unit="page" from="123" to="135" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Entanglement of Antarctic fur seals at Bouvetøya, Southern Ocean</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">J</forename><surname>Hofmeyr</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">N</forename><surname>Bester</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">P</forename><surname>Kirkman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Lydersen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">M</forename><surname>Kovacs</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.marpolbul.2006.05.003</idno>
+		<idno type="PMID">16797599</idno>
+		<ptr target="https://doi.org/10.1016/j.marpolbul.2006.05.003" />
+	</analytic>
+	<monogr>
+		<title level="j">Mar Pollut Bull</title>
+		<imprint>
+			<biblScope unit="volume">52</biblScope>
+			<biblScope unit="page" from="1077" to="1080" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Studies on fur seal entanglement</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Scordino</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Proceedings of the Workshop on the Fate and Impact of Marine Debris</title>
+		<editor>
+			<persName><forename type="first">R</forename><forename type="middle">S</forename><surname>Shomura</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">H</forename><forename type="middle">O</forename><surname>Yoshida</surname></persName>
+		</editor>
+		<meeting>the Workshop on the Fate and Impact of Marine Debris<address><addrLine>St. Paul Island, Alaska; Honolulu, HI</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1981">1981. 1984. November 1984. 1985</date>
+			<biblScope unit="page" from="278" to="290" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Entanglement of cape fur seals with man-made objects</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Shaughnessy</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Mar Pollut Bull</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page" from="332" to="336" />
+			<date type="published" when="1980">1980</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Entanglement of pinnipeds at Marion Island, Southern Ocean: 1991-2001</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">J</forename><surname>Hofmeyr</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">De</forename><surname>Maine</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Bester</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">N</forename><surname>Kirkman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">P</forename><surname>Pistorius</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">A</forename><surname>Makhado</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">B</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Aust Mammal</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="page" from="141" to="146" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<monogr>
+		<title level="m" type="main">Northern fur seal entanglement studies on the Pribilof Islands in</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">A</forename><surname>Zavadil</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">W</forename><surname>Robson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">D</forename><surname>Lestenkof</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Holser</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Malavansky</surname></persName>
+		</author>
+		<ptr target="https://www.researchgate.net/publication/237478662_Northern_Fur_Seal_Entanglement_Studies_on_the_Pribilof_Islands_in_2006" />
+		<imprint>
+			<date type="published" when="2006">2006. 2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Entanglement of Australian sea lions and New Zealand fur seals in lost fishing gear and other marine debris before and after Government and industry attempts to reduce the problem</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Page</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Mckenzie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Mcintosh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Baylis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Morrissey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Calvert</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.marpolbul.2004.01.006</idno>
+		<idno type="PMID">15234872</idno>
+		<ptr target="https://doi.org/10.1016/j.marpolbul.2004.01.006" />
+	</analytic>
+	<monogr>
+		<title level="j">Mar Pollut Bull</title>
+		<imprint>
+			<biblScope unit="volume">49</biblScope>
+			<biblScope unit="page" from="33" to="42" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">Entanglement in man-made debris of antarctic fur seals at Bird Island, South Georgia</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">P</forename><surname>Croxall</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Rodwell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">L</forename><surname>Boyd</surname></persName>
+		</author>
+		<ptr target="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=pubmed&amp;cmd=Retrieve&amp;dopt=AbstractPlus&amp;list_uids=8369427653589658751related:f-yKmRsuJnQJ" />
+	</analytic>
+	<monogr>
+		<title level="j">Mar Mammal Sci</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="221" to="233" />
+			<date type="published" when="1990">1990</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">Entanglement of California sea lions, Zalophus californianus californianus, in fishing gear in the central-northern part of the Gulf of California, Mexico</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Zavala-Gonza ´lez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Mellink</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Fish Bull</title>
+		<imprint>
+			<biblScope unit="volume">95</biblScope>
+			<biblScope unit="page" from="180" to="184" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">Entanglement of New Zealand fur seals in man-made debris at Kaikoura, New Zealand</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">J</forename><surname>Boren</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Morrissey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">G</forename><surname>Muller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">J</forename><surname>Gemmell</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.marpolbul.2005.12.003</idno>
+		<idno type="PMID">16487982</idno>
+		<ptr target="https://doi.org/10.1016/j.marpolbul.2005.12.003" />
+	</analytic>
+	<monogr>
+		<title level="j">Mar Pollut Bull</title>
+		<imprint>
+			<biblScope unit="volume">52</biblScope>
+			<biblScope unit="page" from="442" to="446" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<monogr>
+		<title level="m" type="main">Investigations on fur seal entanglement in 1983 and comparisons with 1981 and 1982 entanglement data</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Scordino</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Beekman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Kajimura</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Yoshida</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Fujimaki</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Tomita</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1984-04-06">March 29-April 6, 1984. 1984</date>
+			<publisher>North Pacific Fur Seal Commission</publisher>
+			<pubPlace>St. Paul Island, Alaska; Moscow, Russia</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Background paper submitted to the 27th Annual meeting of the Stranding Scientific Committee</note>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title level="a" type="main">Fur seal entanglement studies in 1984</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Scordino</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Kajimura</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Furuta</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Fur Seal Investig</title>
+		<editor>
+			<persName><surname>St</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Alaska</forename><surname>Paul Island</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">P</forename><surname>Kozloff</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">H</forename><surname>Kajimura</surname></persName>
+		</editor>
+		<imprint>
+			<date type="published" when="1985">1985. 1988</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+		<title level="a" type="main">Entanglement of Australian fur seals in man-made debris in Tasmanian waters</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Pemberton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">P</forename><surname>Brothers</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Kirkwood</surname></persName>
+		</author>
+		<idno type="DOI">10.1071/WR9920151</idno>
+		<ptr target="https://doi.org/10.1071/WR9920151" />
+	</analytic>
+	<monogr>
+		<title level="j">Wildl Res</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="page" from="151" to="159" />
+			<date type="published" when="1992">1992</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<analytic>
+		<title level="a" type="main">Interaction between the California sea lion and the artisanal fishery in La Paz Bay, Gulf of California, Mexico</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Aurioles-Gamboa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Garcı ´a-Rodrı ´guez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ramı</forename><surname>´rez-Rodrı ´guez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Herna ´ndez-Camacho</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename></persName>
+		</author>
+		<idno type="DOI">10.7773/cm.v29i3.151</idno>
+		<ptr target="https://doi.org/10.7773/cm.v29i3.151" />
+	</analytic>
+	<monogr>
+		<title level="j">Ciencias Mar</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="page" from="357" to="370" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<analytic>
+		<title level="a" type="main">No man is benign: The endangered monk seal</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">W</forename><surname>Kenyon</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Oceans</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="page" from="48" to="54" />
+			<date type="published" when="1980">1980</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<analytic>
+		<title level="a" type="main">Differentiating serious and non-serious injury of marine mammals: Report of the serious injury technical workshop</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">S</forename><surname>Andersen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">A</forename><surname>Forney</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Tvn</forename><surname>Cole</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">C</forename><surname>Eagle</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">P</forename><surname>Angliss</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Long</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">-13 September 2007</title>
+		<meeting><address><addrLine>Seattle, WA</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2008">2008</date>
+			<biblScope unit="page">10</biblScope>
+		</imprint>
+		<respStmt>
+			<orgName>US Dep Commer, NOAA Tech Memo</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<monogr>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">V</forename><surname>Carretta</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Wilkin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">M</forename><surname>Muto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Wilkinson</surname></persName>
+		</author>
+		<idno>NOAA-TM- NMFS-SWFSC-514. 2013</idno>
+		<ptr target="https://repository.library.noaa.gov/view/noaa/4450" />
+		<title level="m">Sources of human-related injury and mortality for U.S. Pacific West Coast marine mammal stock assessments</title>
+		<imprint>
+			<date type="published" when="2007">2007-2011</date>
+		</imprint>
+	</monogr>
+	<note type="report_type">NOAA Tech Memo</note>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<monogr>
+		<title level="m" type="main">Human-caused injury and mortality of NMFS-managed Alaska marine mammal stocks, 2007-2011</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">M</forename><surname>Allen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">T</forename><surname>Helker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">A</forename><surname>Jemison</surname></persName>
+		</author>
+		<idno>NMFS-AFSC-274. 2014</idno>
+		<ptr target="www.afsc.noaa.gov" />
+		<imprint/>
+	</monogr>
+	<note type="report_type">NOAA Tech Memo</note>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<monogr>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">V</forename><surname>Carretta</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">M</forename><surname>Muto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Greenman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Wilkinson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Lawson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Viezbicke</surname></persName>
+		</author>
+		<title level="m">Sources of humanrelated injury and mortality for U.S. Pacific West Coast marine mammal stock assessments</title>
+		<imprint>
+			<biblScope unit="page" from="2011" to="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<monogr>
+		<title/>
+		<idno type="DOI">10.25923/J6BK-XT87</idno>
+		<idno>NOAA-TM-NMFS-SWFSC-616. 2019</idno>
+		<ptr target="https://doi.org/10.25923/J6BK-XT87" />
+		<imprint/>
+		<respStmt>
+			<orgName>NOAA</orgName>
+		</respStmt>
+	</monogr>
+	<note type="report_type">Tech Memo</note>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<monogr>
+		<title level="m" type="main">Human-caused injury and mortality of NMFS-managed Alaska marine mammal stocks 2013-2017</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">J</forename><surname>Delean</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">T</forename><surname>Helker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">M</forename><surname>Muto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Savage</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Teerlink</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">A</forename><surname>Jemison</surname></persName>
+		</author>
+		<idno type="DOI">10.7289/V50G3H3M</idno>
+		<idno>NMFS- AFSC-401. 2020</idno>
+		<ptr target="https://doi.org/10.7289/V50G3H3M" />
+		<imprint/>
+	</monogr>
+	<note type="report_type">NOAA Tech Memo</note>
+</biblStruct>
+
+<biblStruct xml:id="b50">
+	<monogr>
+		<title level="m" type="main">Sources of human-related injury and mortality for U.S. Pacific West Coast marine mammal stock assessments</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">V</forename><surname>Carretta</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Wilkin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">M</forename><surname>Muto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Wilkinson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Rusin</surname></persName>
+		</author>
+		<idno>NOAA-TM-NMFS-SWFSC-533. 2014</idno>
+		<ptr target="https://repository.library.noaa.gov/view/noaa/4792" />
+		<imprint>
+			<date type="published" when="2008">2008-2012</date>
+		</imprint>
+	</monogr>
+	<note type="report_type">NOAA Tech Memo</note>
+</biblStruct>
+
+<biblStruct xml:id="b51">
+	<monogr>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">V</forename><surname>Carretta</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">M</forename><surname>Muto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Wilkin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Greenman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">M</forename><surname>Wilkinson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Deangelis</surname></persName>
+		</author>
+		<title level="m">Sources of humanrelated injury and mortality for U.S. Pacific west coast marine mammal stock assessments</title>
+		<imprint>
+			<biblScope unit="page" from="2009" to="2013" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b52">
+	<monogr>
+		<title/>
+		<idno type="DOI">10.7289/V5/TM-SWFSC-548</idno>
+		<idno>NOAA-TM-NMFS-SWFSC-548. 2015</idno>
+		<ptr target="https://doi.org/10.7289/V5/TM-SWFSC-548" />
+		<imprint/>
+		<respStmt>
+			<orgName>NOAA</orgName>
+		</respStmt>
+	</monogr>
+	<note type="report_type">Tech Memo</note>
+</biblStruct>
+
+<biblStruct xml:id="b53">
+	<monogr>
+		<title level="m" type="main">Human-caused injury and mortality of NMFS-managed Alaska marine mammal stocks, 2009-2013</title>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">T</forename><surname>Helker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">M</forename><surname>Allen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">A</forename><surname>Jemison</surname></persName>
+		</author>
+		<idno type="DOI">10.7289/V50G3H3M</idno>
+		<idno>NMFS-AFSC-300. 2015</idno>
+		<ptr target="https://doi.org/10.7289/V50G3H3M" />
+		<imprint/>
+	</monogr>
+	<note type="report_type">NOAA Tech Memo</note>
+</biblStruct>
+
+<biblStruct xml:id="b54">
+	<monogr>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">V</forename><surname>Carretta</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">M</forename><surname>Muto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Wilkin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Greenman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">M</forename><surname>Wilkinson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Deangelis</surname></persName>
+		</author>
+		<title level="m">Sources of humanrelated injury and mortality for U.S. Pacific west coast marnine mammal stock assessments</title>
+		<imprint>
+			<biblScope unit="page" from="2010" to="2014" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b55">
+	<monogr>
+		<title/>
+		<idno type="DOI">10.7289/V5/TM-SWFSC-554</idno>
+		<idno>NOAA-TM-NMFS-SWFSC-554. 2016</idno>
+		<ptr target="https://doi.org/10.7289/V5/TM-SWFSC-554" />
+		<imprint/>
+		<respStmt>
+			<orgName>NOAA</orgName>
+		</respStmt>
+	</monogr>
+	<note type="report_type">Tech Memo</note>
+</biblStruct>
+
+<biblStruct xml:id="b56">
+	<monogr>
+		<title level="m" type="main">Human-caused injury and mortality of NMFS-managed Alaska marine mammal stocks, 2010-2014</title>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">T</forename><surname>Helker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">M</forename><surname>Muto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">A</forename><surname>Jemison</surname></persName>
+		</author>
+		<idno type="DOI">10.7289/V5/TM-AFSC-315</idno>
+		<idno>NMFS-AFSC-315. 2016</idno>
+		<ptr target="https://doi.org/10.7289/V5/TM-AFSC-315" />
+		<imprint/>
+	</monogr>
+	<note type="report_type">NOAA Tech Memo</note>
+	<note>cited 2 Jul 2020</note>
+</biblStruct>
+
+<biblStruct xml:id="b57">
+	<monogr>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">V</forename><surname>Carretta</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">M</forename><surname>Muto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Greenman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Wilkinson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Lawson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Viezbicke</surname></persName>
+		</author>
+		<title level="m">Sources of humanrelated injury and mortality for U.S. Pacific West Coast marine mammal stock assessments</title>
+		<imprint>
+			<biblScope unit="page" from="2011" to="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b58">
+	<monogr>
+		<title/>
+		<idno type="DOI">10.7289/V5/TM-SWFSC-579</idno>
+		<idno>NOAA-TM-NMFS-SWFSC-579. 2017</idno>
+		<ptr target="https://doi.org/10.7289/V5/TM-SWFSC-579" />
+		<imprint/>
+		<respStmt>
+			<orgName>NOAA</orgName>
+		</respStmt>
+	</monogr>
+	<note type="report_type">Tech Memo</note>
+</biblStruct>
+
+<biblStruct xml:id="b59">
+	<monogr>
+		<title level="m" type="main">Human-caused mortality and injury of NMFS-managed Alaska marine mammal stocks, 2011-2015</title>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">T</forename><surname>Helker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">M</forename><surname>Muto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Savage</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Teerlink</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">A</forename><surname>Jemison</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Wilkinson</surname></persName>
+		</author>
+		<idno type="DOI">10.7289/V5/TM-AFSC-354</idno>
+		<idno>NMFS- AFSC-354. 2017</idno>
+		<ptr target="https://doi.org/10.7289/V5/TM-AFSC-354" />
+		<imprint/>
+	</monogr>
+	<note type="report_type">NOAA Tech Memo</note>
+</biblStruct>
+
+<biblStruct xml:id="b60">
+	<monogr>
+		<title level="m" type="main">Sources of humanrelated injury and mortality for U.S. Pacific west coast marine mammal stock assessments, 2012-2016</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">V</forename><surname>Carretta</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">T</forename><surname>Helker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">M</forename><surname>Muto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Greenman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">D</forename><surname>Lawson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">M</forename><surname>Wilkinson</surname></persName>
+		</author>
+		<idno type="DOI">10.7289/V5/TM-SWFSC-601</idno>
+		<idno>NMFS-SWFSC-601. 2018</idno>
+		<ptr target="https://doi.org/10.7289/V5/TM-SWFSC-601" />
+		<imprint/>
+	</monogr>
+	<note type="report_type">NOAA Tech Memo</note>
+</biblStruct>
+
+<biblStruct xml:id="b61">
+	<analytic>
+		<title level="a" type="main">Northern fur seals tagged and observed during entanglement studies</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">S</forename><surname>Stewart</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Bengtson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Baba</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Fur Seal Investig</title>
+		<editor>
+			<persName><surname>St</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Alaska</forename><surname>Paul Island</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">P</forename><surname>Kozloff</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">H</forename><surname>Kajimura</surname></persName>
+		</editor>
+		<imprint>
+			<date type="published" when="1986">1986. 1989</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b62">
+	<analytic>
+		<title level="a" type="main">Neck collars on fur seals, Arctocephalus gazella, at South Georgia</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">N</forename><surname>Bonner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Mccann</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Br Antarct Surv Bull</title>
+		<imprint>
+			<biblScope unit="volume">57</biblScope>
+			<biblScope unit="page" from="73" to="77" />
+			<date type="published" when="1982">1982</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b63">
+	<analytic>
+		<title level="a" type="main">Encounters of Hawaiian monk seals with fishing gear at Lisianski Island</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Henderson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Mar Fish Rev</title>
+		<imprint>
+			<biblScope unit="volume">46</biblScope>
+			<biblScope unit="page" from="59" to="61" />
+			<date type="published" when="1982">1982. 1984</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b64">
+	<analytic>
+		<title level="a" type="main">Studies on the effects of entanglement on individual northern fur seals</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">L</forename><surname>Delong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">J</forename><surname>Gearin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Bengtson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Dawson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">D</forename><surname>Feldkamp</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Proceedings of the Second International Conference on Marine Debris</title>
+		<editor>
+			<persName><forename type="first">R</forename><forename type="middle">S</forename><surname>Shomura</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">M</forename><forename type="middle">L</forename><surname>Godfrey</surname></persName>
+		</editor>
+		<meeting>the Second International Conference on Marine Debris<address><addrLine>Honolulu, HI</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1989-04">April 1989. 1990</date>
+			<biblScope unit="page" from="492" to="493" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b65">
+	<analytic>
+		<title level="a" type="main">Underestimating the damage: Interpreting cetacean carcass recoveries in the context of the Deepwater Horizon/BP incident</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Williams</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Gero</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Bejder</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Calambokidis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">D</forename><surname>Kraus</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Lusseau</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1755-263X.2011.00168.x</idno>
+		<ptr target="https://doi.org/10.1111/j.1755-263X.2011.00168.x" />
+	</analytic>
+	<monogr>
+		<title level="j">Conserv Lett</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page" from="228" to="233" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b66">
+	<analytic>
+		<title level="a" type="main">Energetic and behavioral effects of net entanglement on juvenile northern fur seals, Callorhinus ursinus</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">D</forename><surname>Feldkamp</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">P</forename><surname>Costa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">K</forename><surname>Dekrey</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Fish Bull</title>
+		<imprint>
+			<biblScope unit="volume">87</biblScope>
+			<biblScope unit="page" from="85" to="94" />
+			<date type="published" when="1989">1989</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b67">
+	<analytic>
+		<title level="a" type="main">The influence of entanglement in marine debris on the diving behavior of subadult male northern fur seals</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Bengtson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">S</forename><surname>Stewart</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">M</forename><surname>Ferm</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">L</forename><surname>Delong</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Fur Seal Investig</title>
+		<editor>
+			<persName><forename type="first">P</forename><surname>Kozloff</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">H</forename><surname>Kajimura</surname></persName>
+		</editor>
+		<imprint>
+			<date type="published" when="1986">1986. 1989</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b68">
+	<analytic>
+		<title level="a" type="main">With the noose around the neck: Marine debris entangling otariid species</title>
+		<author>
+			<persName><forename type="first">V</forename><surname>Franco-Trecu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Drago</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Katz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Machı ´n</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Marı ´n Y</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.envpol.2016.11.057</idno>
+		<idno type="PMID">27899209</idno>
+		<ptr target="https://doi.org/10.1016/j.envpol.2016.11.057" />
+	</analytic>
+	<monogr>
+		<title level="j">Environ Pollut</title>
+		<imprint>
+			<biblScope unit="volume">220</biblScope>
+			<biblScope unit="page" from="985" to="989" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b69">
+	<analytic>
+		<title level="a" type="main">Derelict fishing nets in Puget Sound and the Northwest Straits: Patterns and threats to marine fauna</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">P</forename><surname>Good</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>June</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Etnier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Broadhurst</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.marpolbul.2009.09.005</idno>
+		<idno type="PMID">19828155</idno>
+		<ptr target="https://doi.org/10.1016/j.marpolbul.2009.09.005" />
+	</analytic>
+	<monogr>
+		<title level="j">Mar Pollut Bull</title>
+		<imprint>
+			<biblScope unit="volume">60</biblScope>
+			<biblScope unit="page" from="39" to="50" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b70">
+	<monogr>
+		<title level="m" type="main">Late season surveys for entangled northern fur seal females and pups St</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">J</forename><surname>Gearin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">S</forename><surname>Stewart</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">L</forename><surname>Delong</surname></persName>
+		</author>
+		<imprint>
+			<pubPlace>Paul Island, Alaska</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b71">
+	<monogr>
+		<title level="m" type="main">Fur Seal Investig</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Kozloff</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Kajimura</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1986">1986. 1989</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b72">
+	<analytic>
+		<title level="a" type="main">Observations of beach debris and net entanglement on St</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">S</forename><surname>Stewart</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Baba</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">J</forename><surname>Gearin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Baker</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Fur Seal Investig</title>
+		<editor>
+			<persName><forename type="first">Alaska</forename><surname>Paul Island</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">P</forename><surname>Kozloff</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">H</forename><surname>Kajimura</surname></persName>
+		</editor>
+		<imprint>
+			<date type="published" when="1986">1986. 1989</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b73">
+	<analytic>
+		<title level="a" type="main">Growth in body size of the Steller sea lion (Eumetopias jubatus)</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">J</forename><surname>Winship</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">W</forename><surname>Trites</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">G</forename><surname>Calkins</surname></persName>
+		</author>
+		<idno type="DOI">10.1644/1545-1542%282001%29082%26lt%3B0500%3Agibsot%26gt%3B2.0.co%3B2</idno>
+		<ptr target="https://doi.org/10.1644/1545-1542(2001)082&lt;0500:gibsot&gt;2.0.co;2" />
+	</analytic>
+	<monogr>
+		<title level="j">J Mammal</title>
+		<imprint>
+			<biblScope unit="volume">82</biblScope>
+			<biblScope unit="page" from="500" to="519" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b74">
+	<analytic>
+		<title level="a" type="main">Incidence and impact of entanglement in netting debris on northern fur seal pups and adult females</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">L</forename><surname>Delong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Dawson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Gearin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Fur Seal Investig</title>
+		<editor>
+			<persName><surname>St</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Alaska</forename><surname>Paul Island</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">P</forename><surname>Kozloff</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">H</forename><surname>Kajimura</surname></persName>
+		</editor>
+		<imprint>
+			<date type="published" when="1985">1985. 1988</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b75">
+	<analytic>
+		<title level="a" type="main">Derelict fishing gear in the Northwestern Hawaiian Islands: Diving surveys and debris removal in 1999 confirm threat to coral reef ecosystems</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Donohue</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">C</forename><surname>Boland</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>Sramek</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">A</forename><surname>Antonelis</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/s0025-326x%2801%2900139-4</idno>
+		<ptr target="https://doi.org/10.1016/s0025-326x(01)00139-4PMID:11827117" />
+	</analytic>
+	<monogr>
+		<title level="j">Mar Pollut Bull</title>
+		<imprint>
+			<biblScope unit="volume">42</biblScope>
+			<biblScope unit="page" from="1301" to="1312" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b76">
+	<analytic>
+		<title level="a" type="main">The warm Blob continues to dominate the ecosystem of the northern California Current</title>
+		<author>
+			<persName><forename type="first">W</forename><surname>Peterson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Robert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">A</forename><surname>Bond</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">PICES</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="page" from="44" to="46" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b77">
+	<analytic>
+		<title level="a" type="main">Satellite sea surface temperatures along the West Coast of the United States during the 2014-2016 northeast Pacific marine heat wave</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">L</forename><surname>Gentemann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">R</forename><surname>Fewings</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Garcı ´a-Reyes</surname></persName>
+		</author>
+		<idno type="DOI">10.1002/2016GL071039</idno>
+		<ptr target="https://doi.org/10.1002/2016GL071039" />
+	</analytic>
+	<monogr>
+		<title level="j">Geophys Res Lett</title>
+		<imprint>
+			<biblScope unit="volume">44</biblScope>
+			<biblScope unit="page" from="312" to="319" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b78">
+	<monogr>
+		<title level="m" type="main">West coast whale entanglement summary</title>
+		<ptr target="https://seagrant.oregonstate.edu/sites/seagrant.oregonstate.edu/files/wcr_2018_entanglement_report_508.pdf" />
+		<imprint>
+			<date type="published" when="2018">2018. 2019</date>
+			<publisher>NOAA Fish</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b79">
+	<analytic>
+		<title level="a" type="main">Trends in entanglement of Antarctic fur seals (Arctocephalus gazella) in manmade debris at South Georgia</title>
+		<author>
+			<persName><forename type="first">Jpy</forename><surname>Arnould</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">P</forename><surname>Croxall</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/0025-326X%2895%2900054-Q</idno>
+		<ptr target="https://doi.org/10.1016/0025-326X(95)00054-Q" />
+	</analytic>
+	<monogr>
+		<title level="j">Mar Pollut Bull</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="page" from="707" to="712" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b80">
+	<analytic>
+		<title level="a" type="main">Evaluation of an electric gradient to deter seal predation on salmon caught in gill-net test fisheries</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">W</forename><surname>Forrest</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">D</forename><surname>Cave</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Cgj</forename><surname>Michielsens</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Haulena</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Smith</surname></persName>
+		</author>
+		<idno type="DOI">10.1577/m08-083.1</idno>
+		<ptr target="https://doi.org/10.1577/m08-083" />
+	</analytic>
+	<monogr>
+		<title level="j">North Am J Fish Manag</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="page" from="885" to="894" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b81">
+	<analytic>
+		<title level="a" type="main">Field experiments show that acoustic pingers reduce marine mammal bycatch in the California drift gill net fishery</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Barlow</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">A</forename><surname>Cameron</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1748-7692.2003.tb01108.x</idno>
+		<ptr target="https://doi.org/10.1111/j.1748-7692.2003.tb01108.x" />
+	</analytic>
+	<monogr>
+		<title level="j">Mar Mammal Sci</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="page" from="265" to="283" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b82">
+	<analytic>
+		<title level="a" type="main">Acoustic deterrent devices to prevent pinniped depredation: Efficiency, conservation concerns and possible solutions</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Go ¨tz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">M</forename><surname>Janik</surname></persName>
+		</author>
+		<idno type="DOI">10.3354/meps10482</idno>
+		<ptr target="https://doi.org/10.3354/meps10482" />
+	</analytic>
+	<monogr>
+		<title level="j">Mar Ecol Prog Ser</title>
+		<imprint>
+			<biblScope unit="volume">492</biblScope>
+			<biblScope unit="page" from="285" to="302" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b83">
+	<analytic>
+		<title level="a" type="main">Acoustic methods of reducing or eliminating marine mammal-fishery interactions: Do they work?</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">A</forename><surname>Jefferson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">E</forename><surname>Curry</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/0964-5691%2895%2900049-6</idno>
+		<ptr target="https://doi.org/10.1016/0964-5691(95)00049-6" />
+	</analytic>
+	<monogr>
+		<title level="j">Ocean Coast Manag</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="page" from="41" to="70" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b84">
+	<analytic>
+		<title level="a" type="main">Target-specific acoustic predator deterrence in the marine environment</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Go ¨tz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">M</forename><surname>Janik</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/acv.12141</idno>
+		<ptr target="https://doi.org/10.1111/acv.12141" />
+	</analytic>
+	<monogr>
+		<title level="j">Anim Conserv</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="page" from="102" to="111" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

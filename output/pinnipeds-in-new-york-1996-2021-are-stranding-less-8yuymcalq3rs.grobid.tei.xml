@@ -1,0 +1,2533 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Pinnipeds in New York (1996–2021) are stranding less frequently but human interaction cases are increasing</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>UiT The Arctic University of Norway</publisher>
+				<availability status="unknown"><p>Copyright UiT The Arctic University of Norway</p>
+				</availability>
+				<date type="published" when="2025-09-18">2025-09-18</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><forename type="first">Maxine</forename><forename type="middle">A</forename><surname>Montello</surname></persName>
+							<email>mmontello@nymarinerescue.org</email>
+							<idno type="ORCID">0009-0007-6657-4559</idno>
+							<affiliation key="aff0">
+								<orgName type="institution">New York Marine Rescue Center</orgName>
+								<address>
+									<addrLine>467 E. Main</addrLine>
+									<postCode>11901</postCode>
+									<settlement>Riverhead</settlement>
+									<region>New York</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff3">
+								<orgName type="department">School of Marine and Atmospheric Sciences</orgName>
+								<orgName type="institution">Stony Brook University</orgName>
+								<address>
+									<settlement>Southampton</settlement>
+									<region>New York</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Wendy</forename><forename type="middle">J</forename><surname>Mcfarlane</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Division of Natural Sciences, Mathematics, and Computing</orgName>
+								<orgName type="institution">Manhattanville University</orgName>
+								<address>
+									<settlement>Purchase</settlement>
+									<region>New York</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Meghan</forename><surname>Rickard</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="department" key="dep1">New York Natural Heritage Program</orgName>
+								<orgName type="department" key="dep2">College of Environmental Science and Forestry</orgName>
+								<orgName type="institution">State University of New York</orgName>
+								<address>
+									<region>New York</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Joseph</forename><forename type="middle">D</forename><surname>Warren</surname></persName>
+							<affiliation key="aff3">
+								<orgName type="department">School of Marine and Atmospheric Sciences</orgName>
+								<orgName type="institution">Stony Brook University</orgName>
+								<address>
+									<settlement>Southampton</settlement>
+									<region>New York</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Pinnipeds in New York (1996–2021) are stranding less frequently but human interaction cases are increasing</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">NAMMCO Scientific Publications</title>
+						<title level="j" type="abbrev">NAMMCOSP</title>
+						<idno type="ISSN">1560-2206</idno>
+						<idno type="eISSN">2309-2491</idno>
+						<imprint>
+							<publisher>UiT The Arctic University of Norway</publisher>
+							<biblScope unit="volume">14</biblScope>
+							<date type="published" when="2025-09-18" />
+						</imprint>
+					</monogr>
+					<idno type="MD5">FFA353B41850EC0ED8B3A27C86E8EE99</idno>
+					<idno type="DOI">10.7557/3.8047</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.0" ident="GROBID" when="2026-03-09T17:19+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>human interaction</term>
+					<term>marine mammal stranding</term>
+					<term>Long Island</term>
+					<term>New York</term>
+					<term>MMPA</term>
+					<term>pinniped</term>
+					<term>rescue</term>
+					<term>rehabilitation</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Every year pinnipeds from five different species-gray (Halichoerus grypus), harbour (Phoca vitulina), harp (Pagophilus groenlandicus), hooded (Cystophora cristata), and ringed (Pusa hispida) seals-haul out on New York's beaches. The locations of these animals are often in areas with high human density, resulting in negative interactions between humans and pinnipeds. These human interaction (HI) cases can include harassment, entanglement, and vessel trauma. Live pinniped strandings in New York, U.S.A., from 1996 through 2021 were examined to summarise characteristics, quantify the frequency and types of HI cases and assess overall spatiotemporal stranding trends. Of the 1,407 live strandings, 135 HI cases (55% involving gray seals) were documented. Notably, half of the HI cases involved entanglement in fishing gear or debris. The frequency of HI cases increased significantly over the study period, with more than one-third of cases occurring within the last 4 years. A significant positive correlation (p &lt; 0.05) was observed between pinniped strandings (non-HI and HI) and boat access points, such as ramps and marinas, along a west-to-east gradient on Long Island. Understanding both non-HI and HI strandings is crucial to support the conservation of pinnipeds, as it provides essential insights into population trends, habitat changes, and the impact of human activities. These findings can inform targeted initiatives, such as training procedures for stranding response staff and volunteers, as well as the development of directed outreach materials, to foster greater awareness and proactive measures for species protection.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>INTRODUCTION</head><p>Since 1972, pinnipeds in the United States have been protected under the Marine Mammal Protection Act (MMPA), which prohibits the harassment, hunting, capture, collection, or killing of pinnipeds and has helped with the overall stabilisation and recovery of pinniped populations (U.S. <ref type="bibr">C. 16 1361 et seq., 2018)</ref>. Due to their long lifespans, coastal residency, diet preferences, and storage of anthropogenic toxins within their fat, pinnipeds are optimal indicator species <ref type="bibr" target="#b10">(Bossart, 2006;</ref><ref type="bibr" target="#b56">Macrander et al., 2021;</ref><ref type="bibr" target="#b57">Moore, 2008)</ref>. Data collected from stranded pinnipeds provides insight into potential influxes in environmental contaminants <ref type="bibr" target="#b64">(Ross, 2000)</ref>, and harmful algal blooms, which may lead to exposure to toxins <ref type="bibr" target="#b1">(Aguirre &amp; Tabor, 2004;</ref><ref type="bibr" target="#b38">Hendrix et al., 2021)</ref>, and disease emergence <ref type="bibr" target="#b10">(Bossart, 2006)</ref>. Pinnipeds share similar food sources with the human population and as such, can provide awareness of public health problems <ref type="bibr" target="#b6">(Bogomolni et al., 2008;</ref><ref type="bibr" target="#b10">Bossart, 2006)</ref>. Understanding pinniped strandings can provide valuable information regarding the health of marine mammal populations that may be vulnerable to human activities <ref type="bibr" target="#b78">(Warlick et al., 2018)</ref>, and support development of directed education and outreach efforts to high-risk areas <ref type="bibr" target="#b59">(Newcomb et al., 2021)</ref>.</p><p>Five pinniped species utilise New York waters and coastline: harp (Pagophilus groenlandicus), harbour (Phoca vitulina), gray (Halichoerus grypus), hooded (Cystophora cristata), and ringed (Pusa hispida) seals. Gray and harbour seals inhabit coastal waters of the temperate and sub-Arctic North Atlantic Ocean year-round <ref type="bibr" target="#b44">(Johnston et al., 2015)</ref>. Though populations of both species were depleted by hunting in the 19 th and 20 th centuries, the implementation of the MMPA allowed each to recover due to the protection provided by the law <ref type="bibr" target="#b44">(Johnston et al., 2015;</ref><ref type="bibr" target="#b80">Wood et al., 2011)</ref>. In contrast, harp, hooded, and ringed seals-collectively known as ice seals due to their strong association with sea ice-prefer the colder waters of the North Atlantic and Arctic Oceans. Harp and hooded seals seasonally migrate to New York waters <ref type="bibr" target="#b32">(Hammill &amp; Stenson, 2000)</ref> while ringed seals, which are distributed throughout the Artic Basin <ref type="bibr" target="#b9">(Boren et al., 2002)</ref>, are observed less frequently in New York compared to the other four species.</p><p>Pinniped strandings can be linked to both natural reasons (malnourishment, illness, injury, and maternal abandonment), as well as human interactions <ref type="bibr">(HI, e.g., entanglement, harassment, and vessel trauma)</ref>. The causes of strandings may be influenced by a combination of factors, including species range, pupping season, disease vulnerability, food availability, habitat conditions, and change in population abundance <ref type="bibr" target="#b44">(Johnston et al., 2015;</ref><ref type="bibr">Osinga et al., 2012a;</ref><ref type="bibr" target="#b79">Wilkinson &amp; Worthy;</ref><ref type="bibr">1999;</ref><ref type="bibr" target="#b83">Woodhouse, 1991)</ref>. Despite the protection of the MMPA, strandings of pinnipeds continue to be connected to HI due to increasing human and pinniped populations creating overlap in coastal habitat use <ref type="bibr" target="#b27">(Goldstein et al., 1999;</ref><ref type="bibr" target="#b59">Newcomb et al., 2021;</ref><ref type="bibr" target="#b72">Stewart, 1997)</ref>. Although these human impacts can be unintentional, they have negative effects on pinnipeds including premature death and habituation (National Oceanic and Atmospheric Administration <ref type="bibr">[NOAA]</ref>, 2021), which can ultimately disrupt natural behaviour, and hinder survival rates.</p><p>Studies on both the U.S. West <ref type="bibr" target="#b22">(Esquible &amp; Atkinson, 2019;</ref><ref type="bibr" target="#b29">Greig et al., 2005;</ref><ref type="bibr" target="#b60">Olson et al., 2020;</ref><ref type="bibr" target="#b78">Warlick et al., 2018)</ref> and East <ref type="bibr" target="#b35">(Haverkamp et al., 2023;</ref><ref type="bibr" target="#b59">Newcomb et al., 2021)</ref> coasts have shown an increase in both pinniped strandings and HI cases over time. Analysis of spatiotemporal trends has identified regional hotspots that can guide targeted outreach efforts to more effectively mitigate, or prevent, future human interactions. In the Gulf of Maine, studies have found that the highest density of reported seal strandings is primarily influenced by proximity to coastal human population centres and large seal haul-out sites <ref type="bibr" target="#b35">(Haverkamp et al., 2023)</ref>. <ref type="bibr" target="#b7">Bogomolni et al. (2010)</ref> examined stranding trends within Cape Cod and southeast Massachusetts, noting that 10% of deceased marine mammals (cetaceans and pinnipeds) were linked to HI (including harassment, entanglement, and vessel trauma), and 45% of gray seal mortalities were due to entanglement. Additional studies conducted in Maine found that 15% of all pinniped strandings showed evidence of HI, with harassment (75%) being the most common cause <ref type="bibr" target="#b59">(Newcomb et al., 2021)</ref>.</p><p>Our goal in this study was to examine live pinniped stranding data in New York from 1996 to 2021 to identify spatiotemporal patterns, quantify the frequency of HI cases, and classify the interaction type. An analysis was also conducted to determine whether HI-relevant factors (human population, variables representing beach access, and human boating activity) were associated with strandings and HI cases. We hypothesised that both the total number of strandings and the species composition of stranded pinnipeds changed over time, reflecting shifts in species distribution, abundance, or environmental conditions along New York's coastline. We further hypothesised that the frequency of HI cases increased over time and was positively associated with human-related factors such as human population, beach access, and boating activity, reflecting growing human activity along the coast. By examining these parameters, we aimed to better understand the complex interactions between human activity and pinniped strandings, identify potential drivers of strandings, and inform future management strategies to mitigate HI strandings along New York's shoreline. Our results can be applied to target education and outreach efforts in areas having higher concentrations of documented HI with pinnipeds.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>MATERIALS AND METHODS</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Data collection</head><p>From 1996 to 2021, New York Marine Rescue Center (NYMRC), formerly the Riverhead Foundation for Marine <ref type="bibr">Research and</ref><ref type="bibr">Preservation (1996-2018)</ref>, was authorised by the National Oceanic and Atmospheric Administration's (NOAA) National Marine Fisheries Service (NMFS) to respond to all live stranded pinnipeds in the state of New York (Figure <ref type="figure" target="#fig_0">1</ref>). Reports were called into New York's 24-hour stranding hotline by members of the public. At each reported location, NYMRC's response team recorded latitude and longitude, photographed the animal and performed in-field assessment to identify any external injuries, documented abnormal behaviour, and evaluated the haul-out location for potential hazards and harassment concerns.</p><p>Only live pinnipeds were included in this study. Individuals were classified as stranded if they required medical attention or relocation from an unsafe location, as determined by a trained responder <ref type="bibr">(NOAA, 2025)</ref>. Based on an initial assessment, staff determined whether the animal should be monitored in the field, relocated and released, or brought to NYMRC's facility for short-or long-term rehabilitation (Protocol RESP002). All included individuals fell into one of the following categories: admitted for rehabilitation, relocated and released, or confirmed HI cases that re-entered the water ("flushed") prior to team arrival but were verified via photographic evidence of, e.g., entanglement or harassment. Some relocations involved moving animals from high-traffic beaches, where heavy human presence posed safety risks. One in-water stranding case was recorded during the study involving a free-swimming pinniped that was entangled in monofilament; the response was supported by the United States Coast Guard (USCG) and New York State Department of Environmental Conservation (NYSDEC) Environmental Conservation Officers. The animal's location was estimated using the latitude and longitude from the initial report.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Intake and evaluation</head><p>Clinical care of pinnipeds was performed according to NYMRC's Institutional Animal Care and Use Committee (IACUC) protocol, MED005. All animals admitted were assigned a unique identification number during the intake process. A standardised intake examination was conducted, during which any signs of HI (i.e. entanglement and harassment) were documented using the Marine Mammal Stranding Report "Level A" data form (NOAAa). Data recorded included the ID number, observation date, stranding location, latitude and longitude coordinates, age class (pup, yearling, subadult, adult), sex, species, stranding condition (live or dead), evidence of HI, and any additional comments. Any fishing gear or marine debris removed from entangled individuals was kept for further analysis and identified by type of material: single twine/rope, monofilament line and netting, multifilament netting, rope netting, and other (Figure <ref type="figure" target="#fig_1">2</ref>). In many cases, it was not possible to definitively distinguish between monofilament line and netting due to the extent of entanglement or material condition, so these were grouped together. In addition, for animals that died in-house, a post-mortem necropsy was performed to determine if foreign materials had been ingested. All data collected were submitted to the NMFS national stranding database.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Human covariates</head><p>For a stranding to be investigated, a pinniped must first be encountered and reported by a human. As a result, locations with high human presence/use were likely to have higher incidence of reported strandings. Factors such as human population, human beach use, and ease of access for waterbased activities including both recreational and commercial boating and fishing were examined. To assess which, if any, of these factors may be related to both non-HI and HI pinniped strandings, three parameters were selected for analysis, namely human population, beach access, and boat access, for comparison with stranding occurrences across a longitudinal gradient representing the west to east dimension of Long Island. These three factors will henceforth be referred to as Human Encounter Parameters (HEP). Specifically, human population was considered as a proxy for the potential increase in pinniped stranding reporting. Beach access points were counted as a proxy for human accessibility and potential beach visitation. These counts were then used to examine whether areas with greater human access correlated with the frequency and spatial distribution of pinniped strandings and HI reports. Boat access was used as a proxy for recreational and commercial boating and fishing and to assess their potential to contribute to HI with pinnipeds.</p><p>Human population data was sourced from the 2020 U.S. Census (U.S. Census Bureau, 2020) through the 'tidycensus' package in R v. 4.2.2. to generate population estimates along New York's southern coastline. Beach access spatial data were compiled from a combination of online resources (Long Island Beaches, n.d.) and Google Maps <ref type="bibr">(Google, n.d.)</ref>. Boat access data (including locations of boat ramps, marinas, and public access points) were obtained from the New York State Department of Environmental Conservation (NYSDEC). While these datasets may not provide perfect measurements of the HEPs, they are useful for identifying potential patterns.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Data analysis</head><p>Data collected over a 26-year period  were compiled for this study. Stranding data collected from 1980 to 1995 were not included in this study due to incompatibility in data collection and record keeping protocols. All animals in this study were either admitted to NYMRC or photo/video identification was obtained to confirm species and type of HI if indicated. From the available 26 years of data, stranding location, species, age class, and sex were examined. Seals were categorised into five age classes based on body size: pup (&lt;1 year old), yearling (1-2 years old), subadults (&gt; 2 years old but not yet sexually mature), adults (sexually mature as determined by species-specific published adult straight body length thresholds), and unknown <ref type="bibr" target="#b24">(Frie et al., 2012;</ref><ref type="bibr" target="#b31">Hammill &amp; Gosselin, 1995;</ref><ref type="bibr" target="#b37">Härkönen et al., 1990;</ref><ref type="bibr" target="#b49">Kraff et al., 2006;</ref><ref type="bibr" target="#b47">Kovacs, 2015;</ref><ref type="bibr" target="#b54">Lydersen &amp; Kovacs, 2005)</ref>. Animals that stranded multiple times (i.e., relocation or re-strand post-release) were only counted once (i.e., the original stranding) and transfer cases from outside of New York were excluded. Following the Marine Mammal Stranding Report Level A Data form and Marine Mammal Human Interaction Report (NOAA Form 89-864), the presence of HI (yes or no) was examined and the type of interaction was identified (harassment, vessel trauma, entanglement, ingested gear or debris, hooking, gunshot, mutilation, other, and cannot be determined (CBD)). Each pinniped's stranding location was mapped (ArcMap v. 10.2) to show the spatial distribution of strandings by species as well as by HI type. For visualisation purposes, seasonal and longitudinal data were grouped into three time periods <ref type="bibr">(1996-2004; 2005-2013; 2014-2021)</ref>, however all statistical analyses were performed by individual year and not by the grouped years.</p><p>To determine if total stranding numbers and HI cases have changed over time, a non-parametric test was performed (kruskal.test' in the 'stats' package in R) with year as the independent variable and stranding frequency as the dependent variable. To assess trends in species-specific strandings over time, generalised linear models (GLMs) with a Poisson distribution were used, with year as the independent variable and annual stranding frequency for each species as the dependent variable. Given the single ringed seal stranding, this species was excluded from species-level analysis. For spatial analysis, the dataset was divided into HI and non-HI cases. A Spearman rank correlation test was conducted to assess the potential correlation between both non-HI and HI strandings and the HEPs representing human activity with longitude, considered a factor influencing these relationships. Spatial data from each parameter were integrated into the original stranding dataset and binned into 15 longitudinal intervals (ranging from -74.325 °W to -71.7 °W). Using the 'cor.test' function in 'stats' package in R, the Spearman rank correlation test quantified the relationship between non-HI and HI strandings and each HEP.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>RESULTS</head><p>A total of 1,407 (non-HI and HI cases) pinnipeds, representing all five species: harp, harbour, gray, hooded, and ringed seal, stranded in New York during the study period with an average of 54 strandings per year (Figure <ref type="figure" target="#fig_1">2</ref>). A Kruskal-Wallis test revealed a significant difference in pinniped stranding frequency across years (χ² = 129.8, df = 25, p &lt; 0.001), indicating that strandings varied significantly over time. Annual strandings were highest during the early portion of the study period <ref type="bibr">(1996)</ref><ref type="bibr">(1997)</ref><ref type="bibr">(1998)</ref><ref type="bibr">(1999)</ref><ref type="bibr">(2000)</ref><ref type="bibr">(2001)</ref><ref type="bibr">(2002)</ref><ref type="bibr">(2003)</ref><ref type="bibr">(2004)</ref> and generally declined in subsequent years (Figure <ref type="figure" target="#fig_2">3A</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Species strandings</head><p>Most strandings involved harp seals (43%, n = 607), followed by gray (34%, n = 473) and harbour (18%, n = 246) seals (Figure <ref type="figure" target="#fig_2">3A</ref>; Table <ref type="table">1</ref>). All three species stranded during each year of this study. Hooded and ringed seal strandings were rarely observed. Hooded seal strandings (6%, n = 80) showed a statistically significant variation in annual frequency. Poisson GLM revealed a significant decline in hooded seal strandings over time (Estimate = -0.142, SE = 0.026, z = -5.36, p &lt; 0.001), including multiple years with only one <ref type="bibr">(2007,</ref><ref type="bibr">2009,</ref><ref type="bibr">2012,</ref><ref type="bibr">2021)</ref> or no strandings <ref type="bibr">(2008,</ref><ref type="bibr">2010,</ref><ref type="bibr">2011,</ref><ref type="bibr">2013,</ref><ref type="bibr">2020)</ref>. Only one ringed seal stranding was documented in New York during the study period (2006; Figure <ref type="figure" target="#fig_2">3A</ref>, Table <ref type="table">1</ref>), with no evidence of human interaction. Limited sample size precluded statistical analysis on this species.</p><p>Stranded species demographics shifted over the study period, with a significant increase in gray seal strandings identified through a Poisson GLM (Estimate = 0.038, SE = 0.006, z = 6.006, p &lt; 0.001; Figure <ref type="figure" target="#fig_2">3A</ref>), indicating a positive temporal trend. In contrast, harp and harbour seal strandings showed significant declines over time. Harp seal strandings declined sharply (Estimate -0.103, SE = 0.006, p &lt; 0.001), with yearly averages dropping from 45 to 9 between the beginning and end of the study. Harbour seal strandings showed a similar significant decrease (Estimate = -0.045, SE = 0.009, z = -5.12, p &lt; 0.001), falling from 13 to 7 per year.</p><p>Pinniped strandings occurred year-round but trends showed greater frequency between January and May (Figure <ref type="figure" target="#fig_3">4</ref>). Stranding frequency for all species was highest between February and April, with overall numbers declining across the study period (Figure <ref type="figure" target="#fig_3">4</ref>). Harp and gray seals were more common and shared similar temporal stranding trends. In contrast, harp seals stranded 1-2 months earlier in the year compared to gray seals, and these two species stranded with greater frequency than harbour seals.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Sex ratio and age class</head><p>Nearly 60% of all strandings involved male pinnipeds (n = 814), while females accounted for 40% (n = 563). The remaining 2% were animals not admitted to NYMRC and therefore gender was not confirmed (Table <ref type="table">1</ref>). Over 90% of stranded animals were either pups (23%) or yearlings (69%; Table <ref type="table">1</ref>).</p><p>Three of the four pinniped species had higher strandings of males than females (Table <ref type="table">1</ref>). Hooded seals were the only species where females stranded more often than males. Most stranded harp seals were yearlings, and the remaining 2 observed age classes (subadult and adult) were infrequently documented (Table <ref type="table">1</ref>). More than 60% of gray seal cases involved pups, followed by yearlings and subadults, with only a few adult strandings. Harbour seal strandings were mainly yearlings followed by pups, subadults, and adults. Over 90% of hooded seal cases involved yearlings, and the single stranded ringed seal was also a yearling (Table <ref type="table">1</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Human Interaction Strandings</head><p>Human interactions were observed in 135 of the 1,407 strandings (9.6%) including all species except ringed seals (Figure <ref type="figure" target="#fig_2">3B</ref>; Table <ref type="table" target="#tab_1">2</ref>). The number of HI cases significantly Table <ref type="table">1</ref>. Live pinniped strandings in New York (N = 1,407) varied widely across species composition, age class, sex and frequency of reported human interaction (HI). Five species were observed: harp, gray, harbour, hooded and ringed seals. Harp seals were the most frequently stranded species, followed by gray and harbour seals. Most stranded individuals involved juveniles, with yearlings dominating among harp, hooded, and ringed seals, while gray seals were mostly represented by pups. Overall, there was a slight male bias across all species. Human interaction (HI) was reported in less than 20% of strandings for each species, ranging from 0-16%, with gray seals showing the highest proportion of HI cases. More than half of HI cases involved gray seals (55%, n = 75), followed by harbour (23%, n = 31) and harp (21%, n = 28) seals.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>All strandings</head><p>Only 1 HI case involved a hooded seal, representing less than 1% of HI cases (Table <ref type="table" target="#tab_1">2</ref>).</p><p>Half of the HI cases involved entanglements (50%, n = 68). Evidence of entanglement was documented in three of the five species (gray, harbour, and harp), with 68% involving gray seals (n = 46). Half of all documented entanglement cases involved monofilament line and netting (50%, n = 34), followed by multifilament netting (21%, n = 14) and rope netting (13%, n = 9). Additionally, four non-fisheries entanglement cases were classified as 'other' and involved debris such as a plastic ring, plastic bag, and balloon string (Figure <ref type="figure" target="#fig_1">2</ref>).</p><p>Harassment was the second most common type of human interaction, accounting for 41 cases (30% of all HI), and was observed in three of the four pinniped species (gray, harbour, and harp seals). Many incidents involved direct public interference: in 34% of cases (n = 14), individuals physically removed hauled-out animals from the beach, and in 29% (n = 12) individuals attempted to force hauled-out animals back into the water. The remaining 37% (n = 15) were other forms of harassment such as dog interactions and attempted feeding. Gray seals had the highest frequency of harassment, accounting for 46% of cases (n = 19). This may reflect their increased stranding numbers and growing presence in the region, potentially leading to more opportunities for interaction with the public. Notably, 2020 saw the highest number of documented harassment cases during this study period. That year, 8 of the 41 (n = 20%) total harassment incidents occurred, coinciding with a significant increase in public reports-1,765 calls were received, more than double the annual average of 721. Additionally, 3 entanglement cases involved public interference and were recorded as harassment secondary to entanglement; however, these were not included in the 41 primary harassment cases. In these instances, members of the public attempted to disentangle the animals without notifying or waiting for trained personnel.</p><p>Ingestion of marine debris (n = 12) was documented in the only hooded seal HI case, as well as in gray (n = 3) and harp seals (n = 8). Vessel trauma (n = 3) and gunshots (n = 3) were infrequently documented. Additionally, 7 individuals stranded with His categorised as other, which included evidence of oil contamination (n = 6) and one case of blunt force trauma with undetermined etiology (Table <ref type="table" target="#tab_1">2</ref>).</p><p>Less than 5% of total harp seal strandings had evidence of HI (n = 28). All harp seal HI cases were categorised as harassment, ingestion of debris, or entanglement (Table <ref type="table" target="#tab_1">2</ref>). There was 1 case of traumatic injury to the head, but the cause could not be determined.</p><p>Gray seals had the highest incidence of entanglement (61%, n = 46) with 70% of cases involving monofilament line and netting wrapped around the neck and front flippers. Harassment was the second most common HI type in gray seals (25%, n = 19).</p><p>Five gray seals were admitted for rehabilitation due to oil contamination (categorised as other) in <ref type="bibr">1996 ,1998, 2001, and 2002</ref>. Ingestion of debris was documented in three gray seal cases, while the remaining two HI cases were vessel trauma (Table <ref type="table" target="#tab_1">2</ref>).</p><p>Thirteen percent (n = 31) of harbour seal cases had evidence of HI (Table <ref type="table">1</ref>). Entanglement was the most frequently documented HI type, accounting for 55% (n = 17) of harbour seal HI cases. Harassment was the second most common, representing 26% (n = 8) of cases. Harbour seals were also the only species with documented strandings involving gunshot wounds (n = 3). The remaining three HI cases involved two vessel traumas and one oil contamination (Table <ref type="table" target="#tab_1">2</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Final disposition non-HI strandings</head><p>Between 1996 and 2021, a total of 1,273 non-HI cases were documented. Most of these individuals were admitted for rehabilitation due to illness, external injuries, or other findings  (e.g. sand and rock ingestion). Nearly 63% (n = 801) of these admitted animals were successfully released, while 36% (n = 462) died during rehabilitation, either naturally or following euthanasia. Less than 1% of cases involved non-releasable individuals, or transfers to another facility for continued care.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Final disposition HI strandings</head><p>Of the 135 HI cases, 72 individuals (53%) were released, including five that were relocated and released, and 67 that were admitted for rehabilitation. These cases included all six HI types: entanglement (n = 46), vessel trauma (n = 4), harassment (n = 15), ingestion (n = 1), gunshot (n = 1), and other (n = 5).</p><p>Approximately 25% (n = 34) died from their injuries across five HI categories: entanglement (n = 11), harassment (n = 8), ingestion (n = 11), gunshot (n = 2), and other (n = 2). While harassment may not have been the direct cause of death in all cases, certain actions-such as forcibly pulling compromised animals into the water (n = 3) or pouring water on already weakened pinnipeds (n = 2)-may have contributed to their death. Evidence of debris ingestion was documented in the 11 cases during necropsy of animals that died in-house, suggesting that additional cases, particularly among released individuals, could have involved ingested debris that went undetected. Ingested items included various types of plastic, such as candy wrappers and balloon fragments, as well as one instance of Styrofoam and a plastic fishing lure. Additionally, 18% of cases (10 entanglements, 14 harassment) were not admitted due to the animals either flushing or being pulled into the water before responders arrived. These cases were documented through photo or video evidence and assigned accession numbers. Less than 4% of all cases were transferred to other facilities for continued care.</p><p>Notably, three HI individuals (4%) re-stranded post-release. One, initially relocated due to harassment, re-stranded and was successfully rehabilitated and released again. The other two, originally admitted for entanglement, were found deceased within 2 months post-release due to additional HIs-one from net entrapment and the other from a vessel strike.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Geographic patterns</head><p>Strandings occurred primarily on south-facing Atlantic Ocean beaches (80% of 1,407 total cases), though there were a small number of strandings (14%) on north-facing Long Island Sound beaches (Figures 5A). The remaining 6% occurred within the Hudson River or offshore. Strandings tended to be more frequent moving from west to east along the south shore, reflecting spatial variation in pinniped occurrence and/or reporting effort.</p><p>HI cases had a similar spatial pattern, with nearly all HI cases occurring on Long Island's south shore (95%, n = 128; Figure <ref type="figure" target="#fig_5">5B</ref>) and less than 5% occurring on the north shore (3%, n = 4). The remaining cases (2%, n = 3) occurred inland (i.e., harassment and "other" cases involving pinnipeds displaced from the beach either on their own or by unauthorised patrons) or in-water (i.e. entanglement).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Human covariates</head><p>A Spearman rank correlation test was performed to assess the relationship between pinniped strandings (both non-HI and HI) and HEPs. No significant correlations were observed between pinniped strandings (non-HI and HI) and either human population or beach access (Figure <ref type="figure" target="#fig_6">6A</ref> &amp; 6B). However, a significant correlation was found with boat access, in both non-HI and HI cases (Figure <ref type="figure" target="#fig_6">6A</ref> &amp; 6B). For non-HI strandings, a strong positive relationship was found between boat access and stranding frequency (ρ = 0.688, p &lt; 0.004), suggesting that increased boat access is associated with higher non-HI strandings. Similarly, for HI cases, a significant positive correlation was observed between boat access and stranding frequency (ρ = 0.615, p &lt; 0.05). Boat access, non-HI standings, and HI strandings all increased from west to east across Long Island, indicating a spatial relationship between boating activity and pinniped strandings.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>DISCUSSION AND CONCLUSIONS</head><p>This study found that while New York's total live pinniped stranding cases decreased from 1996 to 2021, the species composition of strandings changed and strandings involving HI increased over time, supporting our hypothesis that pinniped strandings changed over time. While most strandings historically occurred between January and May, particularly from February through April, a shift toward later-season strandings was observed in more recent years. Strandings were commonly observed along the southern beaches of Long Island exposed to the Atlantic Ocean, while most entanglement cases occurred in remote areas on the eastern end of Long Island, where recreational and commercial fishing activities are more prevalent, including near New York's two largest commercial fishing ports located in Montauk and Hampton Bays (Atlantic Coastal Cooperative Statistics Program, 2020).</p><p>Our study revealed that most stranded pinnipeds in New York were young individuals, primarily pups and yearlings. Previous studies on West <ref type="bibr" target="#b27">(Goldstein et al., 1999;</ref><ref type="bibr" target="#b29">Greig et al., 2005;</ref><ref type="bibr" target="#b33">Hanni &amp; Pyle, 2000;</ref><ref type="bibr" target="#b45">Kaplan Dau et al., 2009)</ref> and East Coast <ref type="bibr" target="#b35">(Haverkamp et al., 2023)</ref> pinniped populations found comparable trends with younger pinnipeds being the most frequent stranding age class. This is likely because pinniped pups, particularly those that are newly or prematurely weaned, are more vulnerable to malnutrition due to underdeveloped foraging skills and inexperience in navigating their environment (NOAA, 2024b). Although mortality is initially higher in young seals, survival improves with age before declining again in late adulthood due to aging and environmental stress <ref type="bibr" target="#b5">(Barlow &amp; Boveng, 1991;</ref><ref type="bibr" target="#b20">Eberhardt, 1985;</ref><ref type="bibr" target="#b23">Fieberg &amp; DelGiudice, 2011;</ref><ref type="bibr" target="#b68">Siler, 1979)</ref>.</p><p>During this study, all five species of pinnipeds stranded in New York, though only a single ringed seal case was documented. This observation aligns with expected distribution, given that species' typical circumpolar distribution <ref type="bibr" target="#b52">(Lucas &amp; McAlpine, 2002)</ref>. Between 1996 and 2021, three Unusual Mortality Events (UMEs) were declared in the Northeast U.S. affecting pinniped populations, particularly gray and harbour seals. The causes of the UMEs included disease outbreaks of phocine distemper virus in 2006 and 2018, as well as influenza A virus in 2011 <ref type="bibr" target="#b3">(Anthony et al., 2012;</ref><ref type="bibr">NOAA, 2020;</ref><ref type="bibr" target="#b66">Siembieda et al., 2017)</ref>. We did not observe a marked increase in stranding numbers during these UME years. Although no formal analysis of the effects of UMEs on pinniped strandings in New York was conducted in this study, these events may have influenced broader fluctuations in strandings patterns, reflecting spatial and temporal variability throughout the study period. Overall, gray seal strandings increased and harp and harbour seal strandings decreased over the course of this study. Similar trends for gray and harp seals, but not harbour seals, were noted by <ref type="bibr" target="#b35">Haverkamp et al. (2023)</ref> in stranding data compiled from Maine, New Hampshire and Massachusetts. However, our findings align more closely with those reported by <ref type="bibr" target="#b44">Johnston et al. (2015)</ref>, who documented an increase in gray seals and a decline in harbour seals in both strandings and bycatch data in the Northeast United States.</p><p>Harp seals had the highest total number of strandings compared to other species during the study period. However, harp seal strandings declined annually after 2007. This change in harp seal stranding frequency may reflect the significant and rapid environmental changes in the high latitude ecosystems of the Arctic <ref type="bibr" target="#b77">(Wang &amp; Overland, 2009)</ref> and sub-Arctic regions <ref type="bibr" target="#b42">(Johnston et al., 2005)</ref>, both of which are known habitats of harp seals and other ice seal species. Harp seals are particularly dependent on ice coverage for birthing and nursing pups <ref type="bibr" target="#b71">(Stenson et al., 2015)</ref>. Warming ocean temperatures over recent decades have led to reduced ice conditions (i.e., thickness) and ice coverage within pupping grounds <ref type="bibr" target="#b4">(Bajzak et al., 2011;</ref><ref type="bibr" target="#b25">Friedlaender et al., 2010;</ref><ref type="bibr" target="#b42">Johnston et al., 2005)</ref> resulting in greater pup mortality <ref type="bibr" target="#b32">(Hammill &amp; Stenson, 2000;</ref><ref type="bibr" target="#b70">Stenson &amp; Hammill, 2014)</ref>. Light ice years have been associated with higher strandings rates of neonate harp seals <ref type="bibr" target="#b69">(Soulen et al., 2013)</ref> and years with elevated neonatal mortality may subsequently lead to smaller populations of other age classes <ref type="bibr" target="#b48">(Kovacs et al., 2011)</ref>. The observed decline in harp seal strandings in New York could reflect this trend, with fewer young individuals surviving at higher latitudes and subsequently dispersing southward. Similarly, hooded seals, which share many ecological and life history traits with harp seals, were recorded in lower numbers in this study. Their population has experienced significant declines since the 1940s, with ongoing decreases linked to continued ice loss <ref type="bibr" target="#b43">(Johnston et al., 2012;</ref><ref type="bibr" target="#b69">Soulen et al., 2013)</ref>. These trends highlight the impacts of climate change and warming ocean temperatures on icedependent pinniped populations, and how these may be correlated to their observed stranding patterns.</p><p>Harbour seal strandings declined over the course of this study, reflecting broader regional trends in population dynamics. Following recovery under the MMPA in 1972, harbour seal populations showed growth into the early 2000s <ref type="bibr" target="#b67">(Sigourney et al., 2021)</ref>. However, subsequent declines were documented in both pups and non-pups from 2001 to 2018 <ref type="bibr" target="#b67">(Sigourney et al., 2021)</ref>, along with decreasing abundance based on stranding and bycatch data from 2000 to 2012 <ref type="bibr" target="#b44">(Johnston et al., 2015)</ref>. Several natural and anthropogenic factors have been proposed to explain these declines including infectious disease outbreaks <ref type="bibr" target="#b14">(Brasseur et al., 2018)</ref>, increased predation from white sharks in the Gulf of Maine <ref type="bibr" target="#b18">(Curtis et al., 2014;</ref><ref type="bibr" target="#b53">Lucas &amp; Stobo, 2000)</ref>, and interspecific competition <ref type="bibr" target="#b11">(Bowen et al., 2003)</ref>. In particular, the growing abundance of gray seals <ref type="bibr" target="#b81">(Wood et al., 2020)</ref> has been associated with harbour seal declines, potentially due to competition for space and resources <ref type="bibr" target="#b11">(Bowen et al., 2003;</ref><ref type="bibr" target="#b74">Thompson et al., 2019)</ref>. In regions where their distributions overlap-such as eastern Massachusetts <ref type="bibr" target="#b63">(Pace et al., 2019)</ref> and Sable Island, Canada <ref type="bibr" target="#b11">(Bowen et al., 2003)</ref>-shifts in pinniped community structure have been noted. In contrast, gray seals have undergone a remarkable resurgence, specifically since the 1970s, following a history of overexploitation <ref type="bibr" target="#b2">(Andrews &amp; Mott 1967;</ref><ref type="bibr" target="#b50">Lelli et al., 2009)</ref>.</p><p>Population growth has been fueled by protection under the MMPA <ref type="bibr" target="#b11">(Bowen et al., 2003;</ref><ref type="bibr" target="#b81">Wood et al., 2020)</ref>, limited hunting quotas in Canada (Fisheries and Oceans Canada, 2016) and expansion of breeding colonies, particularly on Sable Island <ref type="bibr" target="#b11">(Bowen et al., 2003</ref><ref type="bibr" target="#b12">(Bowen et al., , 2007</ref><ref type="bibr" target="#b13">(Bowen et al., , 2011;;</ref><ref type="bibr" target="#b19">den Heyer et al., 2017)</ref>. This study observed a rise in gray seal strandings, consistent with documented regional increases. Tagging and telemetry studies have demonstrated the extensive dispersal capabilities of gray seals traveling from Canadian to U.S. waters-highlighting their wide-ranging movements and contributing to the recovery of the Northwest Atlantic gray seal population <ref type="bibr" target="#b15">(Breed et al., 2009;</ref><ref type="bibr" target="#b16">Cammen, Schultz, et al., 2018;</ref><ref type="bibr" target="#b17">Cammen, Vincze, et al., 2018;</ref><ref type="bibr" target="#b65">Rough, 2000;</ref><ref type="bibr" target="#b80">Wood et al., 2011;</ref><ref type="bibr" target="#b82">Wood LaFond, 2009)</ref>. As gray seals numbers continue to rise, it has been hypothesised that they may be displacing sympatric species like harbour seals through competition for prey and haul-out sites <ref type="bibr" target="#b11">(Bowen et al., 2003)</ref>. While direct terrestrial competition was not observed in study areas <ref type="bibr" target="#b11">(Bowen et al., 2003)</ref> such as Sable Island, the increased presence of gray seals at former harbour seal haulouts may indicate a shift in species dominance. Additionally, <ref type="bibr" target="#b44">Johnston et al. (2015)</ref> documented trends in stranding and bycatch data, with gray seal populations rising and harbour seal populations stabilising or declining. These findings may explain the influx of gray seals observed in New York and suggest a continued shift in local pinniped composition.</p><p>An overall increase in HI cases was observed during this study, with HI cases accounting for 10% of all strandings. This supports our hypothesis that HI case frequency increased throughout the study period, particularly in the final years when HI strandings accounted for a substantial proportion of total cases. The highest frequency of HI cases was recorded in the final 4 years (2018-2021), with 35% (n = 50) of all HI cases occurring during this period. This trend mirrors findings from both the U.S. West Coast <ref type="bibr" target="#b27">(Goldstein et al., 1999;</ref><ref type="bibr" target="#b46">Keledjian &amp; Mesnick, 2013;</ref><ref type="bibr" target="#b78">Warlick et al., 2018)</ref> and East Coast <ref type="bibr" target="#b59">(Newcomb et al., 2021)</ref>, highlighting a widespread increase in HI cases across multiple regions. Many of the documented HI cases involved entanglement in man-made material (n = 68; Table <ref type="table" target="#tab_1">2</ref>; Figure <ref type="figure" target="#fig_0">1</ref>). One of the most prevalent forms of marine pollution is debris from abandoned, lost, or discarded fishing gear <ref type="bibr" target="#b36">(Haward, 2018;</ref><ref type="bibr" target="#b40">Jambeck et al., 2015;</ref><ref type="bibr" target="#b55">Macfadyen et al., 2009)</ref>. Pinnipeds are particularly vulnerable to fisheries interactions like entanglement due to shared food resources with humans and their attraction to fishing vessels' catch discard <ref type="bibr" target="#b30">(Hamilton &amp; Baker, 2019)</ref>.</p><p>Boat access points, such as ramps and marinas, were strongly correlated with strandings, possibly due to the prevalence of both recreational and commercial fishing activities in these areas. These results provided partial support for our hypothesis that human-related factors would be positively associated with increased strandings, as only one of the three-boat accessshowed a significant relationship. Both non-HI strandings and human interaction (HI) were significantly and positively associated with boat access, indicating that areas with more water access points had higher frequencies of all pinniped strandings. These sites not only facilitate human access to the water but also function as hubs of fishing activity, increasing the potential for interactions between pinnipeds and fishing gear. While this pattern supports the hypothesis that human activity may elevate the risk of interaction, it also suggests a more complex relationship. The higher stranding counts, regardless of cause, could also reflect increased pinniped presence in these areas due to prey availability, preferred haul-out locations, or elevated observer effort and likelihood of reporting. As pinnipeds increasingly forage closer to shore, the overlap between pinniped habitat and active fishing zones raises the risk of entanglement or injury <ref type="bibr" target="#b78">(Warlick et al., 2018)</ref>. Notably, many entanglement cases in this study were documented near Montauk, NY, the state's largest seaport <ref type="bibr">(Suffolk County Department of Economic Development and Planning, 2022)</ref>. This suggests that water access points, especially in areas with high fishing activity, may not only increase the likelihood of reported strandings but may also serve as hotspots of humanpinniped interaction. Supporting this, <ref type="bibr" target="#b58">Murray et al. (2021)</ref> identified elevated entanglement risk for gray seals off Montauk during spring, based on spatial overlap between fishing activity and telemetry-derived seal movement data. These findings underscore the need for targeted conservation efforts aimed to help mitigate the risks of entanglement and other human-induced threats to pinnipeds in high-use coastal zones.</p><p>Within this study, 68% of entanglement cases involved young gray seals (n = 46). <ref type="bibr" target="#b59">Newcomb et al. (2021)</ref> documented similar trends with gray seals in Maine having higher entanglement interactions. Gray seals have been noted to have the highest rates of bycatch of any marine mammal within the U.S. (NOAA, 2024c), due to their recolonisation sites coinciding with historically important fishing grounds <ref type="bibr" target="#b7">(Bogomolni et al., 2010;</ref><ref type="bibr" target="#b8">Bogomolni et al., 2021)</ref>. Most of the entanglement cases were caused by fishing gear (96%, n = 46), consistent with <ref type="bibr" target="#b41">Jepsen and Bruyn's (2019)</ref> findings regarding global pinniped entanglement trends. Additional studies from the Netherlands found that gray seals were more prone to mortalities due to HI, specifically harassment, entanglement, and vessel strikes <ref type="bibr" target="#b62">(Osinga et al., 2012b)</ref>. In Cape Cod, <ref type="bibr" target="#b7">Bogomolni et al. (2010)</ref> found that entanglement was one of the leading causes of mortality in gray seals, highlighting its significant effect in this population. Further investigation is needed to fully understand how these animals are interacting with fishing gear and debris, particularly whether they involve interactions with passive or active gear. By understanding these interactions, mitigation strategies could be targeted towards the appropriate fishing community, including the proper disposal of gear or best practices for handling pinnipeds entangled in active gear. Workshops for fishers in high-traffic commercial and recreational areas could help reduce entanglement incidents, as similar communitybased approaches have successfully addressed pinniped-fishery conflicts and fostered long-term collaborative solutions <ref type="bibr" target="#b8">(Bogomolni et al., 2021)</ref>.</p><p>Harassment was the second most frequent type of HI, occurring mainly in pups and yearlings, though it should be noted that these age classes were also the most documented in this study. Similarly, research conducted outside of New York has also documented an increase of harassment with young pinnipeds <ref type="bibr" target="#b7">(Bogomolni et al., 2010;</ref><ref type="bibr" target="#b59">Newcomb et al., 2021)</ref> due primarily to the overlap of human and marine mammal populations <ref type="bibr" target="#b27">(Goldstein et al., 1999;</ref><ref type="bibr" target="#b72">Stewart, 1997)</ref>. In this study, the spike in harassment cases documented in 2020 was likely driven by increased coastal activity during the early months of the COVID-19 pandemic, as more people spent time outdoors and worked remotely. Of the 1,767 calls received that year, 89.3% occurred between March and May, indicating both heightened humanpinniped interactions and increased public reporting. Previous studies have identified similar trends in larger stranding datasets, linking an increase in reporting with human influences on coastal marine mammal populations <ref type="bibr" target="#b22">(Esquible &amp; Atkinson, 2019;</ref><ref type="bibr" target="#b34">Harris &amp; Gupta, 2006;</ref><ref type="bibr" target="#b35">Haverkamp et al., 2023;</ref><ref type="bibr" target="#b59">Newcomb et al., 2021;</ref><ref type="bibr" target="#b60">Olson et al., 2020)</ref>.</p><p>Though in some cases harassment can have little to no effect on pinnipeds <ref type="bibr" target="#b9">(Boren et al., 2002;</ref><ref type="bibr" target="#b21">Engelhard et al., 2002;</ref><ref type="bibr" target="#b39">Holcomb et al., 2009)</ref>, it can also cause population-level loss that leads to demographic shifts, such as abandonment at pupping sites and increased pup mortality <ref type="bibr" target="#b26">(Gerrodette &amp; Gilmartin, 1990;</ref><ref type="bibr" target="#b59">Newcomb et al., 2021)</ref>. Healthy hauled-out pinnipeds can become habituated to human presence if they are approached too closely or too frequently, potentially leading to maternal separation, disrupted foraging behaviour and declines in body condition <ref type="bibr">(Acevedo-Gutierrez et al., 2010)</ref>. Contrary to our initial hypothesis, this study found a negative correlation between human population density and the incidence of HI cases. Higher strandings occurred in areas with lower human population, which contrasts with previous studies reporting a positive correlation, a pattern often attributed to the reporting effect <ref type="bibr" target="#b22">(Esquible &amp; Atkinson, 2019;</ref><ref type="bibr" target="#b60">Olson et al., 2020)</ref>. However, our findings are consistent with those of <ref type="bibr" target="#b34">Harris and Gupta (2006)</ref> and <ref type="bibr" target="#b35">Haverkamp et al. (2023)</ref>, who also found higher pinniped strandings in less populated areas, suggesting that pinnipeds may avoid highly industrialised or densely populated shorelines, possibly favouring quieter haul-out areas. These results also suggest that the variables of human population and beach access used in this study may not accurately reflect the chance of human-pinniped encounters. It is possible that other unmeasured factors, such as localised human behaviour, seasonal tourism, or habitat preference, play a more significant role, or that human-pinniped interactions are more complex than previously assumed. Future studies should aim to incorporate more detailed data on beach usage and human activity patterns to better understand spatial and temporal overlap with pinnipeds.</p><p>The term harassment encompasses a wide range of interactions between pinnipeds and humans, including physical contact, displacement from land or water, and unauthorised collection <ref type="bibr" target="#b59">(Newcomb et al., 2021)</ref>. However, its broad definition in marine mammal stranding data can obscure the true nature and severity of these interactions. <ref type="bibr" target="#b59">Newcomb et al. (2021)</ref> highlighted the need for further breakdown of this category into subcategories to ensure all relevant details are consistently documented, which would improve both data accuracy and management strategies. In New York, the incidence of harassment cases has escalated dramatically alongside increasing coastal human activity. Some pinniped individuals have been observed in severe distress, with certain incidentssuch as compromised animals being dragged into the waterpotentially contributing to mortality. These events are further complicated by response time, which can vary widely depending on location-from 30 minutes to 4 hours-leaving animals vulnerable during that window of time. To address this, the NYMRC relies on a network of external responders such as local authorities and volunteers to assist on-site until trained staff arrive. Additionally, harassment cases may be overrepresented, as animals may be rescued when they do not require medical attention, or underrepresented, as animals in need of response can evade rescue <ref type="bibr" target="#b78">(Warlick et al., 2018)</ref>. A more nuanced and standardised understanding of harassment, coupled with improved documentation and outreach, is essential for minimising preventable human impacts on pinnipeds.</p><p>The overall increase of HI cases in New York from 1996 to 2021 may be more closely linked to public access to coastal areas rather than overall human population density. Although strandings occurred more frequently in less populated areas, this pattern may reflect pinniped habitat preferences for quieter, less developed shorelines. It is also possible that certain accessible coastal areas-regardless of population density-see more reports due to better public visibility. Further research is needed to better quantify these access points, particularly during peak haul-out seasons (winter and spring), and evaluate whether public reporting is consistent across the entire New York coastline. Additionally, the rise in HI cases may be partially driven by the widespread availability of smartphones and the growing use of social media platforms. On one hand, these tools facilitate the documentation and reporting of pinniped sightings, improving surveillance and awareness. On the other hand, they may inadvertently contribute to harassment, as individuals are often observed approaching too closely or disturbing animals to capture photos or videos to share online. As HI cases continue to increase, it is essential to invest in targeted public education initiatives that promote responsible wildlife viewing and reduce unnecessary human-pinniped interactions. At the same time, more work is needed to understand the behavioural and ecological consequences of these interactions, and to inform proactive management strategies aimed at minimising conflict and maximising animal welfare.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>CONCLUSION</head><p>Human interactions (HI) are an increasing concern for New York's pinniped population. Findings from this study show that an increase in HI cases occurred during the last 4 years of the 1996-2021 study period, specifically cases involving entanglement (in marine debris or fishing gear) and harassment. Preventing HI events would help protect pinnipeds and conserve limited resources spent on responding to avoidable incidents.</p><p>Data collected by authorised stranding response organisations like NYMRC provide tremendous opportunity to explore and understand pinniped stranding trends and learn about the health of local populations. Future studies should prioritise the analysis of fishing gear retrieved from entanglements to identify how pinnipeds may interact with it and whether the gear is active or abandoned. In addition, further understanding of overlaps between humans and pinnipeds will provide insight into mitigation of future HI events.</p><p>To maximise the effectiveness of outreach initiatives, it is crucial to gather more data on factors such as seasonal beach usage, pinniped detection rates, and public reporting behaviour. These insights can refine our understanding of stranding patterns and help prioritise areas for intervention. New York, with its dense coastal population and extensive public beach access, could serve as a model for other urbanised coastal regions where wildlife and human activity frequently overlap. As coastal development, tourism, and marine traffic continue to rise globally, human-pinniped interactions are likely to be a growing concern in many areas with recovering or expanding pinniped populations. Fostering meaningful public engagement will require sustained and targeted education efforts to help people responsibly share space with these animals. Outreach materials tailored to key audiences-such as beachgoers, boaters, and fishers-will be essential for proactively reducing harmful interactions. Finally, international collaboration and data sharing between stranding networks can strengthen global conservation outcomes by testing or validating effective, community-based strategies to mitigate human impacts on marine mammals.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>ADHERENCE TO ANIMAL WELFARE PROTOCOLS</head><p>The research presented in this article was conducted in compliance with the institutional and national animal welfare laws and protocols. All stranding responses were authorised through the Stranding Agreement with the National Oceanic and Atmospheric Administration Greater Atlantic Region Stranding Network Coordinator. Pinniped response and rescue efforts followed NYMRC's IACUC protocol RESP002 and clinical care of pinnipeds was performed under NYMRC's IACUC protocols MED005.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Figure 1 .</head><label>1</label><figDesc>Figure 1. Map of the Greater Atlantic Region showing U.S. coastal states from Maine to Florida in light gray and eastern Canada in dark gray. The study area, New York State, is highlighted in black, with the majority of strandings occurring on or near Long Island (red box).</figDesc><graphic coords="2,330.55,429.10,186.39,291.25" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Figure 2 .</head><label>2</label><figDesc>Figure 2. Entanglement cases were categorised into 5 types of material which included: (A) rope netting, (B) monofilament line and netting, (C) multifilament netting, (D) single rope/twine, and (E) other. All five types were observed between 1996-2021, with 94% of all cases involving fishery material and gear.</figDesc><graphic coords="3,56.85,388.05,228.80,176.80" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Figure 3 .</head><label>3</label><figDesc>Figure 3. (A) Annual live strandings of 5 pinniped species-gray, harp, harbour, hooded, and ringed seals-recorded in New York from 1996 to 2021 (N = 1,407). Each species is represented by a different colour and graphed by total annual frequency. While strandings remained relatively consistent over the years, there were notable peaks in 1996-1998 and 2001-2005. A statistically significant decline in total strandings was observed over the study period (p ≥ 0.05). (B) Annual breakdown of strandings by interaction type: non-human interaction (non-HI; n = 1,272) and human interaction (HI; n = 135). Although overall strandings decreased over time, HI cases increased in recent years, accounting for 30% to 50% of strandings annually between 2018 and 2021.</figDesc><graphic coords="4,58.10,514.10,480.80,178.35" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head>Figure 4 .</head><label>4</label><figDesc>Figure 4. Live pinniped strandings (N = 1,407) by month from 1996 to 2021 are shown, with each colour representing a different year and illustrating a stranding season from July to June. The upper panel uses a different y-axis scale than the middle and lower panels to account for variation in stranding volume by species. Statistical analyses were conducted on a year-to-year basis, rather than by grouped time periods to highlight interannual variability and seasonal shift in stranding patterns.</figDesc><graphic coords="5,124.50,427.10,345.77,292.07" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_5"><head>Figure 5 .</head><label>5</label><figDesc>Figure 5. (A) Live pinniped strandings by species between 1996-2021 (N=1,407) reveal that most of the cases occurred on the southern-facing ocean beaches, rather than bay or northern sites. Each species is represented by a different color marker which is identified within the legend. For geographic context, Long Island is in the southeastern region of New York State, along the northeastern coast of the United States. The star symbol denotes the location of the New York Marine Rescue Center (NYMRC). The two major commercial fishing ports, Shinnecock and Montauk, are also identified on the map. A single stranding event in 2005 involving a yearling harp seal in the Hudson River, NY, is not shown on the map. (B) Distribution of human interaction (HI) cases (n=135) by type between 1996-2021 was geographically uneven. Over 50% of total HI cases resulted from entanglement, followed by harassment. Fewer cases involved vessel trauma, gunshot and ingestion. The star symbol represents the NYMRC facility. The 2 major commercial fishing ports, Shinnecock and Montauk, are identified on the map.</figDesc><graphic coords="8,69.85,71.25,455.39,357.07" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_6"><head>Figure 6 .</head><label>6</label><figDesc>Figure6. Relationships between non-human interaction (non-HI; A) and human interaction (HI; B) strandings and three human-related activity measures that vary longitudinally across the stranding region: county-level human population (left), number of public beach access points (center), and number of boat ramps (right). Each point represents a spatial unit (e.g., county or access location), and the blue lines represent fitted quasi-Poisson regression trends, which account for overdispersion in the count data and model the relationship using a log link function with confidence intervals. (A) Non-HI strandings were positively associated with the number of beach access points and boat ramps and negatively associated with human population density. (B) HI strandings showed similar trends, with positive associations with beach access points and boat ramps, and a negative association with human population density.</figDesc><graphic coords="9,112.95,71.25,369.00,410.02" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head></head><label></label><figDesc>, as confirmed by a Kruskal-Wallis test (χ² = 155.82, df = 25, p &lt; 0.001). Notably, 37% of all HI cases (n = 50) occurred in the final four years of the study(2018)(2019)(2020)(2021), indicating a sharp rise in recent years.</figDesc><table><row><cell>increased over time</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell></cell><cell cols="2">Sex (% of species)</cell><cell></cell><cell></cell><cell></cell><cell cols="2">Age (% of species)</cell><cell></cell><cell>HI</cell></row><row><cell>Species</cell><cell>(n)</cell><cell>(%)</cell><cell>Male</cell><cell cols="7">Female Unid. sex Pup Yearling Subadult Adult Unid. age</cell><cell>% by species</cell></row><row><cell>Harp seal</cell><cell>607</cell><cell>43</cell><cell>63</cell><cell>36</cell><cell>1</cell><cell>0</cell><cell>93</cell><cell>2</cell><cell>4</cell><cell>1</cell><cell>7</cell></row><row><cell>Gray seal</cell><cell>473</cell><cell>34</cell><cell>55</cell><cell>41</cell><cell>3</cell><cell>64</cell><cell>29</cell><cell>3</cell><cell>1</cell><cell>3</cell><cell>16</cell></row><row><cell>Harbour seal</cell><cell>246</cell><cell>18</cell><cell>54</cell><cell>44</cell><cell>2</cell><cell>6</cell><cell>81</cell><cell>4</cell><cell>6</cell><cell>3</cell><cell>13</cell></row><row><cell>Hooded seal</cell><cell>80</cell><cell>6</cell><cell>45</cell><cell>54</cell><cell>1</cell><cell>6</cell><cell>92</cell><cell>1</cell><cell>1</cell><cell>0</cell><cell>1</cell></row><row><cell>Ringed seal</cell><cell>1</cell><cell>0</cell><cell>100</cell><cell>0</cell><cell>0</cell><cell>0</cell><cell>100</cell><cell>0</cell><cell>0</cell><cell>0</cell><cell>0</cell></row><row><cell>Average</cell><cell>-</cell><cell>-</cell><cell>64</cell><cell>35</cell><cell>2</cell><cell>15</cell><cell>79</cell><cell>2</cell><cell>2</cell><cell>1</cell><cell>-</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 2 .</head><label>2</label><figDesc>Live human interaction (HI) strandings of pinnipeds in New York (n = 135) from 1996 to 2021, summarised by species and HI type. HI categories included entanglement, vessel trauma, harassment, gunshot, ingestion, and other causes. Gray seals had the highest number of HI strandings, followed by harbour and harp seals. Harassment was the most common HI type for harp seals, while gray and harbour seals faced a broader range of threats, particularly entanglement and vessel trauma. Gunshot cases, though rare, were reported only in harbour seals. The other category primarily included oil contamination and a single case of unknown blunt force trauma.</figDesc><table /></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0"><p>NAMMCO Scientific Publications, Volume 14</p></note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head>ACKNOWLEDGEMENTS</head><p>The authors would like to thank the many biologists, veterinarians, staff, and volunteers of the <rs type="institution">NYMRC/Riverhead Foundation for Marine Research and Preservation</rs> who have assisted in the rescue and rehabilitation of pinnipeds and the collection of data over many years. NYMRC would also like to thank the entire <rs type="institution">Greater Atlantic Stranding Network</rs> and the <rs type="institution">New York State Department of Environmental Conservation, especially its Environmental Conservation Officers</rs>.</p></div>
+			</div>			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>AUTHOR CONTRIBUTION</head></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Effects of the presence of official-looking volunteers on harassment of New Zealand fur seals</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Acevedo-Gutiérrez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Acevedo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Boran</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1523-1739.2010.01611.x</idno>
+		<ptr target="https://doi.org/10.1111/j.1523-1739.2010.01611.x" />
+	</analytic>
+	<monogr>
+		<title level="j">Conservation Biology</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="623" to="627" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Marine vertebrates as sentinels of marine ecosystem health</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">A</forename><surname>Aguirre</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">M</forename><surname>Tabor</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s10393-004-0091-9</idno>
+		<ptr target="https://doi.org/10.1007/s10393-004-0091-9" />
+	</analytic>
+	<monogr>
+		<title level="j">EcoHealth</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="236" to="238" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Gray seals at Nantucket, Massachusetts</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Andrews</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">R</forename><surname>Mott</surname></persName>
+		</author>
+		<idno type="DOI">10.2307/1377597</idno>
+		<ptr target="https://doi.org/10.2307/1377597" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Mammalogy</title>
+		<imprint>
+			<biblScope unit="volume">48</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="657" to="658" />
+			<date type="published" when="1967">1967</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Emergence of fatal avian influenza in New England harbor seals</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">J</forename><surname>Anthony</surname></persName>
+		</author>
+		<author>
+			<persName><surname>St</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Leger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">R</forename><surname>Pugliares</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">S</forename><surname>Ip</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Chan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><forename type="middle">W</forename><surname>Carpenter</surname></persName>
+		</author>
+		<idno type="DOI">10.1128/mbio.00166-12</idno>
+		<ptr target="https://doi.org/10.1128/mbio.00166-12" />
+	</analytic>
+	<monogr>
+		<title level="j">mBio</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="166" to="178" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Drifting away: Implications of changes in ice conditions for a pack-ice breeding phocid, the harp seal (Pagophilus groenlandicus)</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">E</forename><surname>Bajzak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">O</forename><surname>Hammill</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">B</forename><surname>Stenson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Prinsenberg</surname></persName>
+		</author>
+		<idno type="DOI">10.1139/z11-081</idno>
+		<ptr target="https://doi.org/10.1139/z11-081" />
+	</analytic>
+	<monogr>
+		<title level="j">Canadian Journal of Zoology</title>
+		<imprint>
+			<biblScope unit="volume">89</biblScope>
+			<biblScope unit="issue">11</biblScope>
+			<biblScope unit="page" from="1050" to="1062" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Modling age-specific mortality for marine mammal populations</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Barlow</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Boveng</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1748-7692.1991.tb00550.x</idno>
+		<ptr target="https://doi.org/10.1111/j.1748-7692.1991.tb00550.x" />
+	</analytic>
+	<monogr>
+		<title level="j">Marine Mammal Science</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page" from="50" to="65" />
+			<date type="published" when="1991">1991</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Victims or vectors: A survey of marine vertebrate zoonoses from coastal waters of the Northwest Atlantic</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">L</forename><surname>Bogomolni</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Gast</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Ellis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Dennett</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">R</forename><surname>Pugliares</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">J</forename><surname>Lentell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Moore</surname></persName>
+		</author>
+		<idno type="DOI">10.3354/dao01936</idno>
+		<ptr target="https://doi.org/10.3354/dao01936" />
+	</analytic>
+	<monogr>
+		<title level="j">Diseases of Aquatic Organisms</title>
+		<imprint>
+			<biblScope unit="volume">81</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="31" to="38" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Mortality trends of stranded marine mammals on Cape Cod and southeastern Massachusetts, USA, 2000 to 2006</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">L</forename><surname>Bogomolni</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">R</forename><surname>Pugliares</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Sharp</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Patchett</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">T</forename><surname>Harry</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Larocque</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">M</forename><surname>Touhey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Moore</surname></persName>
+		</author>
+		<idno type="DOI">10.3354/dao02146</idno>
+		<ptr target="https://doi.org/10.3354/dao02146" />
+	</analytic>
+	<monogr>
+		<title level="j">Diseases of Aquatic Organisms</title>
+		<imprint>
+			<biblScope unit="volume">88</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="143" to="155" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">A community science approach to conservation challenges posed by rebounding marine mammal populations: Seal-fishery interactions in New England</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Bogomolni</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><forename type="middle">C</forename><surname>Nichols</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Allen</surname></persName>
+		</author>
+		<idno type="DOI">10.3389/fcosc.2021.696535</idno>
+		<ptr target="https://doi.org/10.3389/fcosc.2021.696535" />
+	</analytic>
+	<monogr>
+		<title level="j">Frontiers in Conservation Science</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page">696535</biblScope>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Tourist disturbance on New Zealand fur seals Arctocephalus forsteri</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">J</forename><surname>Boren</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">J</forename><surname>Gemmell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">J</forename><surname>Barton</surname></persName>
+		</author>
+		<idno type="DOI">10.1071/AM02085</idno>
+		<ptr target="https://doi.org/10.1071/AM02085" />
+	</analytic>
+	<monogr>
+		<title level="j">Australian Mammalogy</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="85" to="96" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Marine mammals as sentinel species for oceans and human health</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">D</forename><surname>Bossart</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/0300985810388525</idno>
+		<ptr target="https://doi.org/10.1177/0300985810388525" />
+	</analytic>
+	<monogr>
+		<title level="j">Veterinary Pathology</title>
+		<imprint>
+			<biblScope unit="volume">48</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="679" to="690" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Maternal and newborn life-history traits during periods of contrasting population trends: Implications for explaining the decline of harbour seals (Phoca vitulina) on Sable Island</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">D</forename><surname>Bowen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">L</forename><surname>Ellis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">J</forename><surname>Iverson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Boness</surname></persName>
+		</author>
+		<idno type="DOI">10.1017/S0952836903004047</idno>
+		<ptr target="https://doi.org/10.1017/S0952836903004047" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Zoology</title>
+		<imprint>
+			<biblScope unit="volume">261</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="155" to="163" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Reduced population growth of gray seals at Stable Island: evidence from pup population and age of primiparity</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">D</forename><surname>Bowen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">I</forename><surname>Mcmillan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Blanchard</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1748-7692.2006.00085.x</idno>
+		<ptr target="https://doi.org/10.1111/j.1748-7692.2006.00085.x" />
+	</analytic>
+	<monogr>
+		<title level="j">Marine Mammal Science</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="48" to="64" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<monogr>
+		<title level="m" type="main">Pup production at Scotian Shelf grey seal (Halichoerus grypus) colonies in 2010</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">D</forename><surname>Bowen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Heyer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">I</forename><surname>Mcmillan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">O</forename><surname>Hammill</surname></persName>
+		</author>
+		<idno>2011/066</idno>
+		<ptr target="https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/344310.pdf" />
+		<imprint>
+			<date type="published" when="2011">2011</date>
+			<publisher>Canadian Science Advisory Secretariat</publisher>
+		</imprint>
+	</monogr>
+	<note type="report_type">Research Document</note>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Echoes from the past: Regional variations in recovery within a harbour seal population</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M J M</forename><surname>Brasseur</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">J H</forename><surname>Reijnders</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Cremer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Meesters</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Kirkwood</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">F</forename><surname>Jensen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Jeβ</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Galatius</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Teilmann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Aarts</surname></persName>
+		</author>
+		<idno type="DOI">10.1371/journal.pone.0189674</idno>
+		<ptr target="https://doi.org/10.1371/journal.pone.0189674" />
+	</analytic>
+	<monogr>
+		<title level="j">PloS one</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page">189674</biblScope>
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Sex-specific, seasonal foraging tactics of adult grey seals (Halichoerus grypus) revealed by state-space analysis</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">A</forename><surname>Breed</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">D</forename><surname>Jonsen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>Myers</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">D</forename><surname>Bowen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">L</forename><surname>Leonard</surname></persName>
+		</author>
+		<idno type="DOI">10.1890/07-1483.1</idno>
+		<ptr target="https://doi.org/10.1890/07-1483" />
+	</analytic>
+	<monogr>
+		<title level="j">Ecology</title>
+		<imprint>
+			<biblScope unit="volume">90</biblScope>
+			<biblScope unit="issue">11</biblScope>
+			<biblScope unit="page" from="3209" to="3221" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Genomic signatures of population bottleneck and recovery in Northwest Atlantic pinnipeds</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">M</forename><surname>Cammen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">F</forename><surname>Schultz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">D</forename><surname>Bowen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">O</forename><surname>Hammill</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">B</forename><surname>Puryear</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Runstadler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">W</forename><surname>Wenzel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">A</forename><surname>Wood</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Kinnison</surname></persName>
+		</author>
+		<idno type="DOI">10.1002/ece3.4143</idno>
+		<ptr target="https://doi.org/10.1002/ece3.4143" />
+	</analytic>
+	<monogr>
+		<title level="j">Ecology and Evolution</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="issue">13</biblScope>
+			<biblScope unit="page" from="6599" to="6614" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Genetic diversity from pre-bottleneck to recovery in two sympatric pinniped species in the Northwest Atlantic</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">M</forename><surname>Cammen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Vincze</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">S</forename><surname>Heller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">A</forename><surname>Mcleod</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">A</forename><surname>Wood</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">D</forename><surname>Bowen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">O</forename><surname>Hammill</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">B</forename><surname>Puryear</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Runstadler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">W</forename><surname>Wenzel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Kinnison</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">R</forename><surname>Frasier</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s10592-017-1032-9</idno>
+		<ptr target="https://doi.org/10.1007/s10592-017-1032-9" />
+	</analytic>
+	<monogr>
+		<title level="j">Conservation Genetics</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="555" to="569" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Seasonal distribution and historic trends in abundance of white sharks, Carcharodon carcharias, in the western North Atlantic Ocean</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">H</forename><surname>Curtis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">T</forename><surname>Mccandless</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">K</forename><surname>Carlson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">B</forename><surname>Skomal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">E</forename><surname>Kohler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">J</forename><surname>Natanson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">H</forename><surname>Burgess</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Hoey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">L</forename><surname>Pratt</surname></persName>
+		</author>
+		<idno type="DOI">10.1371/journal.pone.0099240</idno>
+		<ptr target="https://doi.org/10.1371/journal.pone.0099240" />
+	</analytic>
+	<monogr>
+		<title level="j">PLoS ONE</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page">99240</biblScope>
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<monogr>
+		<title level="m" type="main">Pup production at Scotian Shelf grey seal (Halichoerus grypus) colonies in 2016</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">E</forename><surname>Heyer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">L C</forename><surname>Land</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">D</forename><surname>Bowen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">O</forename><surname>Hammill</surname></persName>
+		</author>
+		<idno>2017/056</idno>
+		<ptr target="https://waves-vagues.dfo-mpo.gc.ca/Library/40617725.pdf" />
+		<imprint>
+			<date type="published" when="2017">2017</date>
+			<publisher>Canadian Science Advisory Secretariat</publisher>
+		</imprint>
+	</monogr>
+	<note type="report_type">Research Document</note>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Assessing the dynamics of wild populations</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">L</forename><surname>Eberhardt</surname></persName>
+		</author>
+		<idno type="DOI">10.2307/3801386</idno>
+		<ptr target="https://doi.org/10.2307/3801386" />
+	</analytic>
+	<monogr>
+		<title level="j">The Journal of Wildlife Management</title>
+		<imprint>
+			<biblScope unit="volume">49</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="997" to="1012" />
+			<date type="published" when="1985">1985</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Human disturbance, nursing behaviour, and lactational pup growth in a declining southern elephant seal (Mirounga leonina) population</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">H</forename><surname>Engelhard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">N J</forename><surname>Baarspul</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Broekman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C S</forename><surname>Creuwels</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">J H</forename><surname>Reijnders</surname></persName>
+		</author>
+		<idno type="DOI">10.1139/Z02-174</idno>
+		<ptr target="https://doi.org/10.1139/Z02-174" />
+	</analytic>
+	<monogr>
+		<title level="j">Canadian Journal of Zoology</title>
+		<imprint>
+			<biblScope unit="volume">80</biblScope>
+			<biblScope unit="issue">11</biblScope>
+			<biblScope unit="page" from="1876" to="1886" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Stranding trends of Steller sea lions (Eumetopias jubatus) 1990-2015</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Esquible</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Atkinson</surname></persName>
+		</author>
+		<idno type="DOI">10.3354/esr00945</idno>
+		<ptr target="https://doi.org/10.3354/esr00945" />
+	</analytic>
+	<monogr>
+		<title level="j">Endangered Species Research</title>
+		<imprint>
+			<biblScope unit="volume">38</biblScope>
+			<biblScope unit="page" from="177" to="188" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Estimating age-specific hazards from wildlife telemetry data</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Fieberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">D</forename><surname>Delgiudice</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s10651-009-0128-x</idno>
+		<ptr target="https://www.dfo-mpo.gc.ca/fisheries-peches/seals-phoques/seal-stats-phoques-eng.html" />
+	</analytic>
+	<monogr>
+		<title level="m">Statistics on the seal harvest</title>
+		<imprint>
+			<date type="published" when="2011">2011. 2016. April 16, 2025</date>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="page" from="209" to="222" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Long-term trends in reproductive and demographic parameters of female Northwest Atlantic hooded seals (Cystophora cristata): population responses to ecosystem change?</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">K</forename><surname>Frie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">B</forename><surname>Stenson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Haug</surname></persName>
+		</author>
+		<idno type="DOI">10.1139/z11-140</idno>
+		<ptr target="https://doi.org/10.1139/z11-140" />
+	</analytic>
+	<monogr>
+		<title level="j">Canadian Journal of Zoology</title>
+		<imprint>
+			<biblScope unit="volume">90</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="376" to="392" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Effects of the North Atlantic Oscillation on sea ice breeding habitats of harp seals (Pagophilus groenlandicus) across the North Atlantic</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">S</forename><surname>Friedlaender</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">W</forename><surname>Johnston</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">N</forename><surname>Halpin</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.pocean.2010.04.002</idno>
+		<ptr target="https://doi.org/10.1016/j.pocean.2010.04.002" />
+	</analytic>
+	<monogr>
+		<title level="j">Progress in Oceanography</title>
+		<imprint>
+			<biblScope unit="volume">86</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="261" to="266" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Demographic consequences of changed pupping and hauling sites of the Hawaiian monk seal</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Gerrodette</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">G</forename><surname>Gilmartin</surname></persName>
+		</author>
+		<idno type="DOI">%E2%80%8C10.1111/j.1523-1739.1990.tb00317.x</idno>
+		<ptr target="https://doi.org/10.1111/j.1523-1739.1990.tb00317.x" />
+	</analytic>
+	<monogr>
+		<title level="j">Conservation Biology</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="423" to="430" />
+			<date type="published" when="1990">1990</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Human-related injuries observed in live stranded pinnipeds along the central California coast, 1986-1998</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Goldstein</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">P</forename><surname>Johnson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">V</forename><surname>Phillips</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">D</forename><surname>Hanni</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Fauquier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">M D</forename><surname>Gulland</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Aquatic Mammals</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="43" to="51" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<monogr>
+		<title level="m" type="main">Long Island</title>
+		<ptr target="https://maps.google.com" />
+		<imprint>
+			<date type="published" when="2024-10-09">October 9, 2024</date>
+			<publisher>Google</publisher>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Map</note>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">A decade of live California sea lion (Zalophus californianus) strandings along the central California coast: Causes and trends, 1991-2000</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Greig</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">M D</forename><surname>Gulland</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Kreuder</surname></persName>
+		</author>
+		<idno type="DOI">10.1578/AM.31.1.2005.11</idno>
+		<ptr target="https://doi.org/10.1578/AM.31.1.2005" />
+	</analytic>
+	<monogr>
+		<title level="j">Aquatic Mammals</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="11" to="22" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Technical mitigation to reduce marine mammal bycatch and entanglement in commercial fishing gear: Lessons learnt and future directions</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Hamilton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">B</forename><surname>Baker</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s11160-019-09550-6</idno>
+		<ptr target="https://doi.org/10.1007/s11160-019-09550-6" />
+	</analytic>
+	<monogr>
+		<title level="j">Reviews in Fish Biology and Fisheries</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="223" to="247" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Grey seal (Halichoerus grypus) from the Northwest Atlantic: female reproductive rates, age at first birth, and age of maturity in males</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">O</forename><surname>Hammill</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">F</forename><surname>Gosselin</surname></persName>
+		</author>
+		<idno type="DOI">10.1139/f95-864</idno>
+		<ptr target="https://doi.org/10.1139/f95-864" />
+	</analytic>
+	<monogr>
+		<title level="j">Canadian Journal of Fisheries and Aquatic Sciences</title>
+		<imprint>
+			<biblScope unit="volume">52</biblScope>
+			<biblScope unit="issue">12</biblScope>
+			<biblScope unit="page">2761</biblScope>
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Estimated prey consumption by harp seals (Phoca groenlandica), hooded seals (Cystophora cristata), gray seals (Halichoerus grypus), and harbour seals (Phoca vitulina) in Atlantic Canada</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">O</forename><surname>Hammill</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">B</forename><surname>Stenson</surname></persName>
+		</author>
+		<idno type="DOI">10.2960/J.v26.a1</idno>
+		<ptr target="https://doi.org/10.2960/J.v26.a1" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Northwest Atlantic Fishery Science</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="1" to="23" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Entanglement of pinnipeds in synthetic materials at Southeast Farallon Island, California, 1976-1998</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">D</forename><surname>Hanni</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Pyle</surname></persName>
+		</author>
+		<idno type="DOI">%E2%80%8C10.1016/S0025-326X(00)00050-3</idno>
+		<ptr target="https://doi.org/10.1016/S0025-326X(00)00050-3" />
+	</analytic>
+	<monogr>
+		<title level="j">Marine Pollution Bulletin</title>
+		<imprint>
+			<biblScope unit="volume">40</biblScope>
+			<biblScope unit="issue">12</biblScope>
+			<biblScope unit="page" from="1076" to="1081" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">GIS-based analysis of ice-breeding seal strandings in the Gulf of Maine</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">E</forename><surname>Harris</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Gupta</surname></persName>
+		</author>
+		<idno type="DOI">10.1656/1092-6194(2006)13%E2%80%8C%5b403:GAOISS%5d2.0.CO;2</idno>
+		<ptr target="https://doi.org/10.1656/1092-6194(2006)13[403:GAOISS]2.0" />
+	</analytic>
+	<monogr>
+		<title level="j">Northeastern Naturalist</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="403" to="420" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">A retrospective socio-ecological analysis of seal strandings in the Gulf of Maine</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Haverkamp</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">Y</forename><surname>Chang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Newcomb</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Doughty</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Walk</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Seton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">S</forename><surname>Jones</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Todd</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">M</forename><surname>Cammen</surname></persName>
+		</author>
+		<idno type="DOI">%E2%80%8C10.1111/mms.12975</idno>
+		<ptr target="https://doi.org/10.1111/mms.12975" />
+	</analytic>
+	<monogr>
+		<title level="j">Marine Mammal Science</title>
+		<imprint>
+			<biblScope unit="volume">39</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="232" to="250" />
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">Plastic pollution of the world&apos;s seas and oceans as a contemporary challenge in ocean governance</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Haward</surname></persName>
+		</author>
+		<idno type="DOI">10.1038/s41467-018-03104-3</idno>
+		<ptr target="https://doi.org/10.1038/s41467-018-03104-3" />
+	</analytic>
+	<monogr>
+		<title level="j">Nature Communications</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="1" to="3" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">Comparative life histories of East Atlantic and other harbour seal populations</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Härkönen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">P</forename><surname>Heide Jørgensen</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/%E2%80%8C00785236.1990.10422032</idno>
+		<ptr target="https://doi.org/10.1080/00785236.1990.10422032" />
+	</analytic>
+	<monogr>
+		<title level="j">Ophelia</title>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="211" to="235" />
+			<date type="published" when="1990">1990</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">Ice seals as sentinels for algal toxin presence in the Pacific Arctic and subarctic marine ecosystems</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Hendrix</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">A</forename><surname>Lefebvre</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Quakenbush</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Bryan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Stimmelmayr</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Sheffield</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Wisswaesser</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">L</forename><surname>Willis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">K</forename><surname>Bowers</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Kendrick</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Frame</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Burbacher</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Marcinek</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/mms.12822</idno>
+		<ptr target="https://doi.org/10.1111/mms.12822" />
+	</analytic>
+	<monogr>
+		<title level="j">Marine Mammal Science</title>
+		<imprint>
+			<biblScope unit="volume">37</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="1292" to="1308" />
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title level="a" type="main">The influence of human disturbances on California sea lions during the breeding season</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Holcomb</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">K</forename><surname>Young</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">R</forename><surname>Gerber</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/%E2%80%8Cj.1469-1795.2009.00290.x</idno>
+		<ptr target="https://doi.org/10.1111/j.1469-1795.2009.00290.x" />
+	</analytic>
+	<monogr>
+		<title level="j">Animal Conservation</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="592" to="598" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title level="a" type="main">Plastic waste inputs from land into the ocean</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Jambeck</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Geyer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Wilcox</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">R</forename><surname>Siegler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Perryman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Andrady</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Narayan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">L</forename><surname>Law</surname></persName>
+		</author>
+		<idno type="DOI">%E2%80%8C10.1126/science.1260352</idno>
+		<ptr target="https://doi.org/10.1126/science.1260352" />
+	</analytic>
+	<monogr>
+		<title level="j">Science</title>
+		<imprint>
+			<biblScope unit="volume">347</biblScope>
+			<biblScope unit="issue">6223</biblScope>
+			<biblScope unit="page" from="768" to="771" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+		<title level="a" type="main">Pinniped entanglement in oceanic plastic pollution: A global review</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">M</forename><surname>Jepsen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">N</forename><surname>De Bruyn</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/%E2%80%8Cj.marpolbul.%E2%80%8C2019.05.042</idno>
+		<ptr target="https://doi.org/10.1016/j.marpolbul.2019.05.042" />
+	</analytic>
+	<monogr>
+		<title level="j">Marine Pollution Bulletin</title>
+		<imprint>
+			<biblScope unit="volume">145</biblScope>
+			<biblScope unit="page" from="295" to="305" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<analytic>
+		<title level="a" type="main">Variation in sea ice cover on the east coast of Canada from 1969 to 2002: Climate variability and implications for harp and hooded seals</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Johnston</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Friedlaender</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Torres</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Lavigne</surname></persName>
+		</author>
+		<idno type="DOI">%E2%80%8C10.3354/cr029209</idno>
+		<ptr target="https://doi.org/10.3354/cr029209" />
+	</analytic>
+	<monogr>
+		<title level="j">Climate Research</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="209" to="222" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<analytic>
+		<title level="a" type="main">The effects of climate change on harp seals (Pagophilus groenlandicus)</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">W</forename><surname>Johnston</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">T</forename><surname>Bowers</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">S</forename><surname>Friedlaender</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename><surname>Lavigne</surname></persName>
+		</author>
+		<idno type="DOI">%E2%80%8C10.1371/journal.pone.0029158</idno>
+		<ptr target="https://doi.org/10.1371/journal.pone.0029158" />
+	</analytic>
+	<monogr>
+		<title level="j">PLOS ONE</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page">29158</biblScope>
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<analytic>
+		<title level="a" type="main">Trends in stranding and bycatch rates of gray and harbor seals along the northeastern coast of the U.S.: Evidence of divergence in the abundance of two sympatric phocid species?</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">W</forename><surname>Johnston</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Frungillo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Smith</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Moore</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Sharp</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Schuh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Read</surname></persName>
+		</author>
+		<idno type="DOI">%E2%80%8C10.1371/journal.pone.0131660</idno>
+		<ptr target="https://doi.org/10.1371/journal.pone.0131660" />
+	</analytic>
+	<monogr>
+		<title level="j">PLOS ONE</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="issue">7</biblScope>
+			<biblScope unit="page">131660</biblScope>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<analytic>
+		<title level="a" type="main">Fishing gear-related injury in California marine wildlife</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Kaplan Dau</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">V K</forename><surname>Gilardi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">M D</forename><surname>Gulland</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Higgins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">B</forename><surname>Holcomb</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>St Leger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">H</forename><surname>Ziccardi</surname></persName>
+		</author>
+		<idno type="DOI">10.7589/0090-3558-45.2.355</idno>
+		<ptr target="https://doi.org/10.7589/0090-3558-45.2.355" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Wildlife Diseases</title>
+		<imprint>
+			<biblScope unit="volume">45</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="355" to="362" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<analytic>
+		<title level="a" type="main">The impacts of El Nino conditions on California sea lion (Zalophus californianus) fisheries interactions: Predicting spatial and temporal hotspots along the California Coast</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">J</forename><surname>Keledjian</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Mesnick</surname></persName>
+		</author>
+		<idno type="DOI">%E2%80%8C10.1578/AM.39.3.2013.221</idno>
+		<ptr target="https://doi.org/10.1578/AM.39.3.2013.221" />
+	</analytic>
+	<monogr>
+		<title level="j">Aquatic Mammals</title>
+		<imprint>
+			<biblScope unit="volume">39</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="221" to="232" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<monogr>
+		<title level="m" type="main">Pagophilus groenlandicus. The IUCN Red List of Threatened Species 2015</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">M</forename><surname>Kovacs</surname></persName>
+		</author>
+		<idno type="DOI">10.2305/IUCN.UK.2015-4.RLTS.T41671A45231087.en</idno>
+		<idno>T41671A45231087</idno>
+		<ptr target="https://dx.doi.org/10.2305/IUCN.UK.2015-4.RLTS.T41671A45231087" />
+		<imprint>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<analytic>
+		<title level="a" type="main">Impacts of changing sea-ice conditions on Arctic marine mammals</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Kovacs</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Lydersen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Overland</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Moore</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s12526-010-0061-0</idno>
+		<ptr target="https://doi.org/10.1007/s12526-010-0061-0" />
+	</analytic>
+	<monogr>
+		<title level="j">Marine Biodiversity</title>
+		<imprint>
+			<biblScope unit="volume">41</biblScope>
+			<biblScope unit="page" from="181" to="194" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<analytic>
+		<title level="a" type="main">Growth and population parameters of ringed seals (Pusa hispida) from Svalbard, Norway, 2002-2004</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">A</forename><surname>Kraff</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">M</forename><surname>Kovacs</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">K</forename><surname>Frie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Haug</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Lydersen</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/%E2%80%8Cj.icesjms.2006.04.001</idno>
+		<ptr target="https://doi.org/10.1016/j.icesjms.2006.04.001" />
+	</analytic>
+	<monogr>
+		<title level="j">ICES Journal of Marine Science</title>
+		<imprint>
+			<biblScope unit="volume">63</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="1136" to="1144" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b50">
+	<analytic>
+		<title level="a" type="main">Seal bounties in Maine and Massachusetts, 1888 to 1962</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Lelli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">E</forename><surname>Harris</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Aboueissa</surname></persName>
+		</author>
+		<ptr target="http://www.jstor.org/stable/27744561" />
+	</analytic>
+	<monogr>
+		<title level="j">Northeastern Naturalist</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="239" to="254" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b51">
+	<monogr>
+		<ptr target="https://www.longislandbeaches.com" />
+		<title level="m">Long Island Beaches</title>
+		<imprint>
+			<date type="published" when="2025-01-05">January 5, 2025</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b52">
+	<analytic>
+		<title level="a" type="main">Extralimital occurrences of ringed seals, Phoca hispida, on Sable Island, Nova Scotia</title>
+		<author>
+			<persName><forename type="first">Z</forename><forename type="middle">N</forename><surname>Lucas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">F</forename><surname>Mcalpine</surname></persName>
+		</author>
+		<idno type="DOI">10.5962/%E2%80%8Cp.363512</idno>
+		<ptr target="https://doi.org/10.5962/p.363512" />
+	</analytic>
+	<monogr>
+		<title level="j">The Canadian Field-Naturalist</title>
+		<imprint>
+			<biblScope unit="volume">116</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="607" to="610" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b53">
+	<analytic>
+		<title level="a" type="main">Shark-inflicted mortality on a population of harbour seals (Phoca vitulina) at Sable Island, Nova Scotia</title>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Lucas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">T</forename><surname>Stobo</surname></persName>
+		</author>
+		<idno type="DOI">%E2%80%8C10.1111/j.1469-7998.2000.tb00636.x</idno>
+		<ptr target="https://doi.org/10.1111/j.1469-7998.2000.tb00636.x" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Zoology</title>
+		<imprint>
+			<biblScope unit="volume">252</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="405" to="414" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b54">
+	<analytic>
+		<title level="a" type="main">Growth and population parameters of the world&apos;s northernmost harbour seals Phoca vitulina residing in Svalbard, Norway</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Lydersen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">M</forename><surname>Kovacs</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s00300-004-0656-7</idno>
+		<ptr target="https://doi.org/10.1007/s00300-004-0656-7" />
+	</analytic>
+	<monogr>
+		<title level="j">Polar Biology</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page" from="156" to="163" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b55">
+	<analytic>
+		<title level="a" type="main">Abandoned, lost, or otherwise discarded fishing gear</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Macfadyen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Huntington</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Cappell</surname></persName>
+		</author>
+		<ptr target="https://openknowledge.fao.org/server/api/core/bitstreams/0c49669a-bc33-4792-ae8c-b24d985c79ad/content" />
+	</analytic>
+	<monogr>
+		<title level="s">FAO Fisheries and Aquaculture Technical Paper</title>
+		<imprint>
+			<biblScope unit="issue">185</biblScope>
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+	<note>UNEP Regional Seas Reports and Studies</note>
+</biblStruct>
+
+<biblStruct xml:id="b56">
+	<analytic>
+		<title level="a" type="main">Convergence of emerging technologies: Development of a risk-based paradigm for marine mammal monitoring for offshore wind energy operations</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Macrander</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Brzuzy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Raghukumar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Preziosi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Jones</surname></persName>
+		</author>
+		<idno type="DOI">%E2%80%8C10.1002/ieam.4532</idno>
+		<ptr target="https://doi.org/10.1002/ieam.4532" />
+	</analytic>
+	<monogr>
+		<title level="j">Integrated Environmental Assessment and Management</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="939" to="949" />
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b57">
+	<analytic>
+		<title level="a" type="main">Marine mammals as ecosystem sentinels</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">E</forename><surname>Moore</surname></persName>
+		</author>
+		<idno type="DOI">10.1644/07-MAMM-S-312R1.1</idno>
+		<ptr target="https://doi.org/10.1644/07-MAMM-S-312R1" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Mammalogy</title>
+		<imprint>
+			<biblScope unit="volume">89</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="534" to="540" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b58">
+	<analytic>
+		<title level="a" type="main">Tracking young-of-the-year gray seals Halichoerus grypus to estimate fishery encounter risk</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">T</forename><surname>Murray</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Hatch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>Digiovanni</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Josephson</surname></persName>
+		</author>
+		<idno type="DOI">10.3354/meps13765</idno>
+		<ptr target="https://doi.org/10.3354/meps13765" />
+	</analytic>
+	<monogr>
+		<title level="j">Marine Ecology Progress Series</title>
+		<imprint>
+			<biblScope unit="volume">671</biblScope>
+			<biblScope unit="page" from="235" to="245" />
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b59">
+	<analytic>
+		<title level="a" type="main">Breaking down &quot;harassment&quot; to characterize trends in human interaction cases in Maine&apos;s pinnipeds</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Newcomb</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Walk</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Haverkamp</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Doughty</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Todd</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Seton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Jones</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Cammen</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/csp2.518</idno>
+		<idno>89-864</idno>
+		<ptr target="https://doi.org/10.1111/csp2.518" />
+	</analytic>
+	<monogr>
+		<title level="m">National report of marine mammal strandings in the United States</title>
+		<imprint>
+			<publisher>National Oceanic and Atmospheric Administration</publisher>
+			<date type="published" when="2017">2020. 2018-2020. 2021. 2017. 2024. 2024b. 2024c. 2025. 2021</date>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page">518</biblScope>
+		</imprint>
+	</monogr>
+	<note>Pinniped Unusual Mortality Event Along the Northeast Coast</note>
+</biblStruct>
+
+<biblStruct xml:id="b60">
+	<analytic>
+		<title level="a" type="main">Maximizing surveillance through spatial characterization of marine mammal stranding hot spots</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">K</forename><surname>Olson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Aschoff</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Goble</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Larson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">K</forename><surname>Gaydos</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/mms.12696</idno>
+		<ptr target="https://doi.org/10.1111/mms.12696" />
+	</analytic>
+	<monogr>
+		<title level="j">Marine Mammal Science</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="1083" to="1096" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b61">
+	<analytic>
+		<title level="a" type="main">Response of common seals (Phoca vitulina) to human disturbances in the Dollard estuary of the Wadden Sea</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Osinga</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">B</forename><surname>Nussbaum</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">M</forename><surname>Brakefield</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">A</forename><surname>Udo De Haes</surname></persName>
+		</author>
+		<idno type="DOI">%E2%80%8C10.1016/j.mambio.2012.02.005</idno>
+		<ptr target="https://doi.org/10.1016/j.mambio.2012.02.005" />
+	</analytic>
+	<monogr>
+		<title level="j">Mammalian Biology</title>
+		<imprint>
+			<biblScope unit="volume">77</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="281" to="287" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b62">
+	<analytic>
+		<title level="a" type="main">Patterns of stranding and mortality in common seals (Phoca vitulina) and grey seals (Halichoerus grypus) in the Netherlands between 1979 and 2008</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Osinga</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">S</forename><surname>Ferdous</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Morick</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">G</forename><surname>Hartmann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Ulloa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Vedder</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">A</forename><surname>Udo De Haes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">M</forename><surname>Brakefield</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">D M E</forename><surname>Osterhaus</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Kuiken</surname></persName>
+		</author>
+		<idno type="DOI">%E2%80%8C10.1016/j.jcpa.2012.04.001</idno>
+		<ptr target="https://doi.org/10.1016/j.jcpa.2012.04.001" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Comparative Pathology</title>
+		<imprint>
+			<biblScope unit="volume">147</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="550" to="565" />
+			<date type="published" when="2012">2012b</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b63">
+	<monogr>
+		<title level="m" type="main">Trends and patterns of seal abundance at haul-out sites in a gray seal recolonization zone</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">M</forename><surname>Pace</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Josephson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">A</forename><surname>Wood</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Murray</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Waring</surname></persName>
+		</author>
+		<idno>NMFS- NE-251</idno>
+		<imprint>
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+	<note type="report_type">NOAA Technical Memorandum</note>
+</biblStruct>
+
+<biblStruct xml:id="b64">
+	<analytic>
+		<title level="a" type="main">Marine mammals as sentinels in ecological risk assessment</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">S</forename><surname>Ross</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/10807030091124437</idno>
+		<ptr target="https://doi.org/10.1080/10807030091124437" />
+	</analytic>
+	<monogr>
+		<title level="j">Human and Ecological Risk Assessment</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="29" to="46" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b65">
+	<monogr>
+		<author>
+			<persName><forename type="first">V</forename><surname>Rough</surname></persName>
+		</author>
+		<ptr target="https://www.mass.gov/orgs/masswildlifes-natural-heritage-endangered-species-program" />
+		<title level="m">Report on Nantucket Sound gray seals for Natural Heritage &amp; Endangered Species Program (8 p</title>
+		<imprint>
+			<publisher>Massachusetts Division of Fisheries and Wildlife</publisher>
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b66">
+	<analytic>
+		<title level="a" type="main">Epidemiology of a phocine distemper virus outbreak along the North Atlantic coast of the United States</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Siembieda</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">J</forename><surname>Hall</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">M D</forename><surname>Gulland</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Rowles</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Garron</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Mattassa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">S</forename><surname>Rotstein</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">;</forename><surname>Gonzalez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">K</forename><surname>Johnson</surname></persName>
+		</author>
+		<idno type="DOI">10.1578/AM.43.3.2017.254</idno>
+		<ptr target="https://doi.org/10.1578/AM.43.3.2017.254" />
+	</analytic>
+	<monogr>
+		<title level="j">Aquatic Mammals</title>
+		<imprint>
+			<biblScope unit="volume">43</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="254" to="263" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+	<note>Northeast Region Marine Mammal Stranding Network</note>
+</biblStruct>
+
+<biblStruct xml:id="b67">
+	<analytic>
+		<title level="a" type="main">Application of a Bayesian hierarchical model to estimate trends in Atlantic harbor seal (Phoca vitulina vitulina) abundance in Maine, U.S.A., 1993-2018</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">B</forename><surname>Sigourney</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">T</forename><surname>Murray</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Gilbert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Ver Hoef</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Josephson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>Digiovanni</surname></persName>
+		</author>
+		<idno type="DOI">%E2%80%8C10.1111/mms.12873</idno>
+		<ptr target="https://doi.org/10.1111/mms.12873" />
+	</analytic>
+	<monogr>
+		<title level="j">Marine Mammal Science</title>
+		<imprint>
+			<biblScope unit="volume">38</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="500" to="516" />
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b68">
+	<analytic>
+		<title level="a" type="main">A competing-risk model for animal mortality</title>
+		<author>
+			<persName><forename type="first">W</forename><surname>Siler</surname></persName>
+		</author>
+		<idno type="DOI">10.2307/1936612</idno>
+		<ptr target="https://doi.org/10.2307/1936612" />
+	</analytic>
+	<monogr>
+		<title level="j">Ecology</title>
+		<imprint>
+			<biblScope unit="volume">60</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="750" to="757" />
+			<date type="published" when="1979">1979</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b69">
+	<analytic>
+		<title level="a" type="main">Factors affecting harp seals (Pagophilus groenlandicus) strandings in the Northwest Atlantic</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">K</forename><surname>Soulen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Cammen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">F</forename><surname>Schultz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">W</forename><surname>Johnston</surname></persName>
+		</author>
+		<idno type="DOI">10.1371/journal.pone.0068779</idno>
+		<ptr target="https://doi.org/10.1371/journal.pone.0068779" />
+	</analytic>
+	<monogr>
+		<title level="j">PLOS ONE</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="issue">7</biblScope>
+			<biblScope unit="page">68779</biblScope>
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b70">
+	<analytic>
+		<title level="a" type="main">Can ice-breeding seals adapt to habitat loss in a time of climate change?</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">B</forename><surname>Stenson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">O</forename><surname>Hammill</surname></persName>
+		</author>
+		<idno type="DOI">%E2%80%8C10.1093/icesjms/fsu074</idno>
+		<ptr target="https://doi.org/10.1093/icesjms/fsu074" />
+	</analytic>
+	<monogr>
+		<title level="j">ICES Journal of Marine Science</title>
+		<imprint>
+			<biblScope unit="volume">71</biblScope>
+			<biblScope unit="issue">8</biblScope>
+			<biblScope unit="page" from="1977" to="1986" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b71">
+	<analytic>
+		<title level="a" type="main">The impact of changing climate and abundance on reproduction in an icespecies, the Northwest Atlantic harp seal, Pagophilus groenlandicus</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">B</forename><surname>Stenson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">D</forename><surname>Buren</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Koen-Alonso</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/icesjms/fsv202</idno>
+		<ptr target="https://doi.org/10.1093/icesjms/fsv202" />
+	</analytic>
+	<monogr>
+		<title level="j">ICES Journal of Marine Science</title>
+		<imprint>
+			<biblScope unit="volume">73</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="250" to="262" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b72">
+	<analytic>
+		<title level="a" type="main">California pinnipeds: Population trends, transjurisdictional migrations, and ecological function in large marine ecosystems of the eastern North Pacific Ocean</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">S</forename><surname>Stewart</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Proceedings: A symposium of the 127th annual meeting of the American Fisheries Society</title>
+		<editor>
+			<persName><forename type="first">G</forename><surname>Stone</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">J</forename><surname>Goebel</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">S</forename><surname>Webster</surname></persName>
+		</editor>
+		<meeting>A symposium of the 127th annual meeting of the American Fisheries Society</meeting>
+		<imprint>
+			<date type="published" when="1997">1997</date>
+			<biblScope unit="page" from="13" to="21" />
+		</imprint>
+	</monogr>
+	<note>Pinniped populations, eastern North Pacific: Status, trends, and issues</note>
+</biblStruct>
+
+<biblStruct xml:id="b73">
+	<analytic>
+		<ptr target="https://suffolkcountyny.gov/Portals/0/formsdocs/ecodev/pdfs/One%20Pager_Commercial%20Fishing_080322_jk.pdf" />
+	</analytic>
+	<monogr>
+		<title level="m">Commercial fishing in Suffolk County</title>
+		<title level="s">Suffolk County Government</title>
+		<imprint>
+			<publisher>Suffolk County Department of Economic Development and Planning</publisher>
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+	<note>PDF</note>
+</biblStruct>
+
+<biblStruct xml:id="b74">
+	<analytic>
+		<title level="a" type="main">The status of harbour seals (Phoca vitulina) in the UK</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Thompson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">D</forename><surname>Duck</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">D</forename><surname>Morris</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J F</forename><surname>Russel</surname></persName>
+		</author>
+		<idno type="DOI">10.1002/aqc.3110</idno>
+		<ptr target="https://doi.org/10.1002/aqc.3110" />
+	</analytic>
+	<monogr>
+		<title level="j">Aquatic Conservation: Marine and Freshwater Ecosystems</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="40" to="60" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b75">
+	<monogr>
+		<title level="m" type="main">American Community Survey 5-year estimates</title>
+		<ptr target="https://www.census.gov/data.html" />
+		<imprint>
+			<date type="published" when="2020">2020. 2020</date>
+			<publisher>U.S. Census Bureau</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b76">
+	<monogr>
+		<title level="m" type="main">Marine Mammal Protection Act of 1972 as amended through 2018</title>
+		<author>
+			<persName><forename type="first">U</forename><forename type="middle">S</forename><surname>Code</surname></persName>
+		</author>
+		<ptr target="https://www.fisheries.noaa.gov/s3/2023-05/mmpa-2018-revised-march-2019-508.pdf" />
+		<imprint>
+			<date type="published" when="2018">2018</date>
+			<publisher>National Oceanic and Atmospheric Administration</publisher>
+			<biblScope unit="page">16</biblScope>
+		</imprint>
+	</monogr>
+	<note>§ 1361 et seq</note>
+</biblStruct>
+
+<biblStruct xml:id="b77">
+	<analytic>
+		<title level="a" type="main">A sea ice free summer Arctic within 30 years?</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">E</forename><surname>Overland</surname></persName>
+		</author>
+		<idno type="DOI">10.1029/2009GL037820</idno>
+		<ptr target="https://doi.org/10.1029/2009GL037820" />
+	</analytic>
+	<monogr>
+		<title level="j">Geophysical Research Letters</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="issue">7</biblScope>
+			<biblScope unit="page">7503</biblScope>
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b78">
+	<analytic>
+		<title level="a" type="main">Spatiotemporal characterization of pinniped strandings and human interaction cases in the Pacific Northwest, 1991-2016</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">J</forename><surname>Warlick</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Duffield</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename><surname>Lambourn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">J</forename><surname>Jeffries</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Rice</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">K</forename><surname>Gaydos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Huggins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Calambokidis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">L</forename><surname>Lahner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Olson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>D'agnese</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Souze</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Elsby</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">A</forename><surname>Norman</surname></persName>
+		</author>
+		<idno type="DOI">10.1578/%E2%80%8CAM.44.3.2018.299</idno>
+		<ptr target="https://doi.org/10.1578/AM.44.3.2018.299" />
+	</analytic>
+	<monogr>
+		<title level="j">Aquatic Mammals</title>
+		<imprint>
+			<biblScope unit="volume">44</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="299" to="318" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b79">
+	<analytic>
+		<title level="a" type="main">Marine mammal stranding networks</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Wilkinson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Worthy</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Conservation and management of marine mammals</title>
+		<editor>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Twiss</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">R</forename><forename type="middle">R</forename><surname>Reeves</surname></persName>
+		</editor>
+		<imprint>
+			<publisher>Smithsonian Institute Press</publisher>
+			<date type="published" when="1999">1999</date>
+			<biblScope unit="page" from="396" to="411" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b80">
+	<analytic>
+		<title level="a" type="main">The genetics of recolonization: An analysis of the stock structure of grey seals (Halichoerus grypus) in the northwest Atlantic</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">A</forename><surname>Wood</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">R</forename><surname>Frasier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">A</forename><surname>Mcleod</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Gilbert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">N</forename><surname>White</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">D</forename><surname>Bowen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">O</forename><surname>Hammill</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">T</forename><surname>Waring</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Brault</surname></persName>
+		</author>
+		<idno type="DOI">10.1139/z11-012</idno>
+		<ptr target="https://doi.org/10.1139/z11-012" />
+	</analytic>
+	<monogr>
+		<title level="j">Canadian Journal of Zoology</title>
+		<imprint>
+			<biblScope unit="volume">89</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="490" to="497" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b81">
+	<analytic>
+		<title level="a" type="main">Rates of increase in gray seal (Halichoerus grypus atlantica) pupping at recolonized sites in the United States, 1988-2019</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">A</forename><surname>Wood</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">T</forename><surname>Murray</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Josephson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Gilbert</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/jmammal/gyz184</idno>
+		<ptr target="https://doi.org/10.1093/jmammal/gyz184" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Mammalogy</title>
+		<imprint>
+			<biblScope unit="volume">101</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="121" to="128" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b82">
+	<monogr>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">A</forename><surname>Wood Lafond</surname></persName>
+		</author>
+		<title level="m">Dynamics of recolonization: a study of the gray seal (Halichoerus grypus) in the northeast U.S</title>
+		<imprint>
+			<date type="published" when="2009">2009</date>
+		</imprint>
+		<respStmt>
+			<orgName>University of Massachusetts Boston</orgName>
+		</respStmt>
+	</monogr>
+	<note type="report_type">Doctoral dissertation</note>
+</biblStruct>
+
+<biblStruct xml:id="b83">
+	<analytic>
+		<title level="a" type="main">Marine mammal beachings as indicators of population events. In Marine mammals strandings in the United States</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">D</forename><surname>Woodhouse</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Proceedings of the Second Marine Mammal Stranding Workshop</title>
+		<imprint>
+			<biblScope unit="volume">98</biblScope>
+			<biblScope unit="page" from="111" to="115" />
+			<date type="published" when="1991">1991</date>
+		</imprint>
+	</monogr>
+	<note>NOAA Technical Report NMFS</note>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

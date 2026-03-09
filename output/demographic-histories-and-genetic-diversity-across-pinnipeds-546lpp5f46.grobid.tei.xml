@@ -1,0 +1,2126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Demographic histories and genetic diversity across pinnipeds are shaped by human exploitation, ecology and life-history</title>
+				<funder ref="#_EHpHNYJ">
+					<orgName type="full">unknown</orgName>
+				</funder>
+				<funder ref="#_8jCtDek">
+					<orgName type="full">German Research Foundation (DFG)</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Springer Science and Business Media LLC</publisher>
+				<availability status="unknown"><p>Copyright Springer Science and Business Media LLC</p>
+				</availability>
+				<date type="published" when="2018-11-16">2018-11-16</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Stoffel</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Animal Behaviour</orgName>
+								<orgName type="institution">Bielefeld University</orgName>
+								<address>
+									<addrLine>Postfach 100131</addrLine>
+									<postCode>33501</postCode>
+									<settlement>Bielefeld</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department" key="dep1">School of Natural Sciences and Psychology</orgName>
+								<orgName type="department" key="dep2">Faculty of Science</orgName>
+								<orgName type="institution">Liverpool John Moores University</orgName>
+								<address>
+									<postCode>L3 3AF</postCode>
+									<settlement>Liverpool</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">E</forename><surname>Humble</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Animal Behaviour</orgName>
+								<orgName type="institution">Bielefeld University</orgName>
+								<address>
+									<addrLine>Postfach 100131</addrLine>
+									<postCode>33501</postCode>
+									<settlement>Bielefeld</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="department">British Antarctic Survey</orgName>
+								<orgName type="laboratory">OET</orgName>
+								<orgName type="institution">High Cross</orgName>
+								<address>
+									<addrLine>Madingley Road</addrLine>
+									<postCode>CB3</postCode>
+									<settlement>Cambridge</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">A</forename><forename type="middle">J</forename><surname>Paijmans</surname></persName>
+							<idno type="ORCID">0000-0002-5481-7337</idno>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Animal Behaviour</orgName>
+								<orgName type="institution">Bielefeld University</orgName>
+								<address>
+									<addrLine>Postfach 100131</addrLine>
+									<postCode>33501</postCode>
+									<settlement>Bielefeld</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">K</forename><surname>Acevedo-Whitehouse</surname></persName>
+							<affiliation key="aff3">
+								<orgName type="department">School of Natural Sciences</orgName>
+								<orgName type="laboratory">Unit for Basic and Applied Microbiology</orgName>
+								<orgName type="institution">Autonomous University of Queretaro</orgName>
+								<address>
+									<addrLine>Avenida de las Ciencias S/N</addrLine>
+									<postCode>76230</postCode>
+									<settlement>Queretaro</settlement>
+									<country key="MX">Mexico</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">B</forename><forename type="middle">L</forename><surname>Chilvers</surname></persName>
+							<affiliation key="aff4">
+								<orgName type="department" key="dep1">Wildbase</orgName>
+								<orgName type="department" key="dep2">Institute of Veterinary, Animal and Biomedical Science</orgName>
+								<orgName type="institution">Massey University</orgName>
+								<address>
+									<addrLine>Private Bag 11222</addrLine>
+									<postCode>4442</postCode>
+									<settlement>Palmerston North</settlement>
+									<country key="NZ">New Zealand</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">B</forename><surname>Dickerson</surname></persName>
+							<affiliation key="aff5">
+								<orgName type="department" key="dep1">National Marine Mammal Laboratory</orgName>
+								<orgName type="department" key="dep2">Alaska Fisheries Science Center</orgName>
+								<orgName type="department" key="dep3">National Marine Fisheries Service</orgName>
+								<orgName type="institution">National Oceanic and Atmospheric Administration</orgName>
+								<address>
+									<postCode>98115 WA</postCode>
+									<settlement>Seattle</settlement>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">F</forename><surname>Galimberti</surname></persName>
+							<idno type="ORCID">0000-0001-5537-6409</idno>
+							<affiliation key="aff6">
+								<orgName type="department">Elephant Seal Research Group</orgName>
+								<address>
+									<addrLine>Sea Lion Island, FIQQ 1ZZ</addrLine>
+									<country>Falkland Islands</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">N</forename><forename type="middle">J</forename><surname>Gemmell</surname></persName>
+							<idno type="ORCID">0000-0003-0671-3637</idno>
+							<affiliation key="aff7">
+								<orgName type="department">Department of Anatomy</orgName>
+								<orgName type="institution">University of Otago</orgName>
+								<address>
+									<postBox>PO Box 56</postBox>
+									<postCode>9054</postCode>
+									<settlement>Dunedin</settlement>
+									<country key="NZ">New Zealand</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">S</forename><forename type="middle">D</forename><surname>Goldsworthy</surname></persName>
+							<affiliation key="aff8">
+								<orgName type="institution">South Australian Research and Development Institute</orgName>
+								<address>
+									<addrLine>West Beach</addrLine>
+									<postCode>5024</postCode>
+									<region>SA</region>
+									<country key="AU">Australia</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">H</forename><forename type="middle">J</forename><surname>Nichols</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department" key="dep1">School of Natural Sciences and Psychology</orgName>
+								<orgName type="department" key="dep2">Faculty of Science</orgName>
+								<orgName type="institution">Liverpool John Moores University</orgName>
+								<address>
+									<postCode>L3 3AF</postCode>
+									<settlement>Liverpool</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">O</forename><surname>Krüger</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Animal Behaviour</orgName>
+								<orgName type="institution">Bielefeld University</orgName>
+								<address>
+									<addrLine>Postfach 100131</addrLine>
+									<postCode>33501</postCode>
+									<settlement>Bielefeld</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">S</forename><surname>Negro</surname></persName>
+							<affiliation key="aff9">
+								<orgName type="department">AgroParisTech</orgName>
+								<orgName type="laboratory">UMR de Génétique Quantitative et Évolution -Le Moulon</orgName>
+								<orgName type="institution" key="instit1">INRA</orgName>
+								<orgName type="institution" key="instit2">Université Paris-Sud</orgName>
+								<orgName type="institution" key="instit3">CNRS</orgName>
+								<orgName type="institution" key="instit4">Université Paris-Saclay</orgName>
+								<address>
+									<addrLine>Gif-sur-Yvette</addrLine>
+									<postCode>91190</postCode>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">A</forename><surname>Osborne</surname></persName>
+							<affiliation key="aff10">
+								<orgName type="department">School of Biological Sciences</orgName>
+								<orgName type="institution">University of Canterbury</orgName>
+								<address>
+									<addrLine>Private Bag 4800</addrLine>
+									<postCode>8140</postCode>
+									<settlement>Christchurch</settlement>
+									<region>New Zealand</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">T</forename><surname>Pastor</surname></persName>
+							<affiliation key="aff11">
+								<orgName type="institution">EUROPARC Federation</orgName>
+								<address>
+									<addrLine>Carretera de l&apos;Església, 92</addrLine>
+									<postCode>08017</postCode>
+									<settlement>Barcelona</settlement>
+									<country key="ES">Spain</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">B</forename><forename type="middle">C</forename><surname>Robertson</surname></persName>
+							<affiliation key="aff12">
+								<orgName type="department">Department of Zoology</orgName>
+								<orgName type="institution">University of Otago</orgName>
+								<address>
+									<postBox>PO Box 56</postBox>
+									<postCode>9054</postCode>
+									<settlement>Dunedin</settlement>
+									<country key="NZ">New Zealand</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">S</forename><surname>Sanvito</surname></persName>
+							<idno type="ORCID">0000-0003-1427-6414</idno>
+							<affiliation key="aff6">
+								<orgName type="department">Elephant Seal Research Group</orgName>
+								<address>
+									<addrLine>Sea Lion Island, FIQQ 1ZZ</addrLine>
+									<country>Falkland Islands</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">J</forename><forename type="middle">K</forename><surname>Schultz</surname></persName>
+							<affiliation key="aff13">
+								<orgName type="department">National Marine Fisheries Service</orgName>
+								<orgName type="institution">National Oceanic and Atmospheric Administration</orgName>
+								<address>
+									<addrLine>1315 East West Highway</addrLine>
+									<postCode>20910</postCode>
+									<settlement>Silver Spring</settlement>
+									<region>MD</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">A</forename><forename type="middle">B A</forename><surname>Shafer</surname></persName>
+							<affiliation key="aff14">
+								<orgName type="department">Forensic Science &amp; Environmental Life Sciences</orgName>
+								<orgName type="institution">Trent University</orgName>
+								<address>
+									<postCode>K9J 7B8</postCode>
+									<settlement>Peterborough</settlement>
+									<region>ON</region>
+									<country key="CA">Canada</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">J</forename><forename type="middle">B W</forename><surname>Wolf</surname></persName>
+							<affiliation key="aff15">
+								<orgName type="department" key="dep1">Division of Evolutionary Biology</orgName>
+								<orgName type="department" key="dep2">Faculty of Biology</orgName>
+								<orgName type="institution">LMU Munich</orgName>
+								<address>
+									<addrLine>Planegg-Martinstried</addrLine>
+									<postCode>82152</postCode>
+									<settlement>Munich</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff16">
+								<orgName type="department">Science of Life Laboratory and Department of Evolutionary Biology</orgName>
+								<orgName type="institution">Uppsala University</orgName>
+								<address>
+									<postCode>752 36</postCode>
+									<settlement>Uppsala</settlement>
+									<country key="SE">Sweden</country>
+								</address>
+							</affiliation>
+						</author>
+						<author role="corresp">
+							<persName><forename type="first">J</forename><forename type="middle">I</forename><surname>Hoffman</surname></persName>
+							<email>joseph.hoffman@uni-bielefeld.de</email>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Animal Behaviour</orgName>
+								<orgName type="institution">Bielefeld University</orgName>
+								<address>
+									<addrLine>Postfach 100131</addrLine>
+									<postCode>33501</postCode>
+									<settlement>Bielefeld</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="department">British Antarctic Survey</orgName>
+								<orgName type="laboratory">OET</orgName>
+								<orgName type="institution">High Cross</orgName>
+								<address>
+									<addrLine>Madingley Road</addrLine>
+									<postCode>CB3</postCode>
+									<settlement>Cambridge</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff17">
+								<orgName type="department">Department of Animal Behaviour</orgName>
+								<orgName type="institution">Bielefeld University</orgName>
+								<address>
+									<postCode>100131, 33501</postCode>
+									<settlement>Postfach, Bielefeld</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff18">
+								<orgName type="department">Department of Biosciences</orgName>
+								<orgName type="institution">Swansea University</orgName>
+								<address>
+									<postCode>SA2 8PP</postCode>
+									<settlement>Swansea</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff19">
+								<orgName type="department" key="dep1">GIGA-R</orgName>
+								<orgName type="department" key="dep2">Medical Genomics -BIO3</orgName>
+								<orgName type="institution">Université of Liège</orgName>
+								<address>
+									<postCode>4000</postCode>
+									<settlement>Liège</settlement>
+									<country key="BE">Belgium</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Demographic histories and genetic diversity across pinnipeds are shaped by human exploitation, ecology and life-history</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Nature Communications</title>
+						<title level="j" type="abbrev">Nat Commun</title>
+						<idno type="eISSN">2041-1723</idno>
+						<imprint>
+							<publisher>Springer Science and Business Media LLC</publisher>
+							<biblScope unit="volume">9</biblScope>
+							<biblScope unit="issue">1</biblScope>
+							<date type="published" when="2018-11-16" />
+						</imprint>
+					</monogr>
+					<idno type="MD5">62079651246C17042B4F2315DE89AE5E</idno>
+					<idno type="DOI">10.1038/s41467-018-06695-z</idno>
+					<note type="submission">Received: 11 April 2018 Accepted: 18 September 2018</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.0" ident="GROBID" when="2026-03-09T17:18+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>A central paradigm in conservation biology is that population bottlenecks reduce genetic diversity and population viability. In an era of biodiversity loss and climate change, understanding the determinants and consequences of bottlenecks is therefore an important challenge. However, as most studies focus on single species, the multitude of potential drivers and the consequences of bottlenecks remain elusive. Here, we combined genetic data from over 11,000 individuals of 30 pinniped species with demographic, ecological and life history data to evaluate the consequences of commercial exploitation by 18th and 19th century sealers. We show that around one third of these species exhibit strong signatures of recent population declines. Bottleneck strength is associated with breeding habitat and mating system variation, and together with global abundance explains much of the variation in genetic diversity across species. Overall, bottleneck intensity is unrelated to IUCN status, although the three most heavily bottlenecked species are endangered. Our study reveals an unforeseen interplay between human exploitation, animal biology, demographic declines and genetic diversity.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>U</head><p>nravelling the demographic histories of species is a fundamental goal of population biology and has tremendous implications for understanding the genetic variability observed today <ref type="bibr" target="#b0">1,</ref><ref type="bibr" target="#b1">2</ref> . Of particular interest are sharp reductions in the effective population size (N e ) known as population bottlenecks <ref type="bibr" target="#b2">3,</ref><ref type="bibr" target="#b3">4</ref> , which may negatively impact the viability and adaptive evolutionary potential of species through a variety of stochastic demographic processes and the loss of genetic diversity <ref type="bibr" target="#b4">[5]</ref><ref type="bibr" target="#b5">[6]</ref><ref type="bibr" target="#b6">[7]</ref><ref type="bibr" target="#b7">[8]</ref> . Specifically, small bottlenecked populations have elevated levels of inbreeding and genetic drift, which decrease genetic variability and can lead to the fixation of mildly deleterious alleles and ultimately drive a vortex of extinction <ref type="bibr" target="#b5">6,</ref><ref type="bibr" target="#b7">[8]</ref><ref type="bibr" target="#b8">[9]</ref><ref type="bibr" target="#b9">[10]</ref> . Hence, investigating the bottleneck histories of wild populations and their determinants and consequences is more critical than ever before, as we live in an era where global anthropogenic alteration and destruction of natural habitats are driving species declines on an unprecedented scale <ref type="bibr" target="#b10">11,</ref><ref type="bibr" target="#b11">12</ref> .</p><p>Unfortunately, detailed information about past population declines across species is sparse because historical population size estimates are often either non-existent or highly uncertain <ref type="bibr" target="#b12">13,</ref><ref type="bibr" target="#b13">14</ref> .A versatile solution for inferring population bottlenecks from a single sample of individuals is to compare levels of observed and expected genetic diversity, the latter of which can be simulated under virtually any demographic scenario based on the coalescent <ref type="bibr" target="#b14">[15]</ref><ref type="bibr" target="#b15">[16]</ref><ref type="bibr" target="#b16">[17]</ref> . A variety of approaches based on this principle have been developed, one of the most widely used being the heterozygosity-excess test, which compares the heterozygosity of a panel of neutral genetic markers to the expectation in a stable population under mutation-drift equilibrium <ref type="bibr" target="#b17">18</ref> . Although theoretically well grounded, these methods are highly sensitive to the assumed mutation model, which is seldom known <ref type="bibr" target="#b18">19</ref> . A more sophisticated framework for inferring demographic histories is coalescent-based approximate Bayesian computation (ABC) <ref type="bibr" target="#b19">20</ref> . ABC has the compelling advantages of making it possible to (i) compare virtually any demographic scenario as long as it can be simulated, (ii) estimate key parameters of the model such as the bottleneck effective population size and (iii) incorporate uncertainty in the specification of models by defining priors. Due to this flexibility, ABC has become a state of the art approach for inferring population bottlenecks as well as demographic histories in general <ref type="bibr" target="#b19">[20]</ref><ref type="bibr" target="#b20">[21]</ref><ref type="bibr" target="#b21">[22]</ref><ref type="bibr" target="#b22">[23]</ref><ref type="bibr" target="#b23">[24]</ref><ref type="bibr" target="#b24">[25]</ref><ref type="bibr" target="#b25">[26]</ref><ref type="bibr" target="#b26">[27]</ref><ref type="bibr" target="#b27">[28]</ref><ref type="bibr" target="#b28">[29]</ref> .</p><p>Although the widespread availability of neutral molecular markers such as microsatellites has facilitated numerous genetic studies of bottlenecks in wild populations, the vast majority of studies focused exclusively on single species and were confined to testing for the presence or absence of bottlenecks. We therefore know very little about the intensity of demographic declines and how these are influenced by anthropogenic impacts as well as by factors intrinsic to a given species. For example, species occupying breeding habitats that are more accessible to humans would be expected to be at higher risk of declines, while species with highly skewed mating systems tend to have lower effective population sizes <ref type="bibr" target="#b29">30</ref> and might also experience stronger demographic declines as only a fraction of individuals contribute towards the genetic makeup of subsequent generations. Consequently, to disentangle the forces shaping population bottlenecks, we need comparative studies incorporating genetic, ecological and life-history data from multiple closely related species within a consistent analytical framework.</p><p>Another question that remains elusive due to a lack of comparative studies is to what extent recent bottlenecks have impacted the genetic diversity of wild populations. While a number of influential studies of heavily bottlenecked species have indeed found very low levels of genetic variability <ref type="bibr" target="#b30">[31]</ref><ref type="bibr" target="#b31">[32]</ref><ref type="bibr" target="#b32">[33]</ref><ref type="bibr" target="#b33">[34]</ref> , others have reported unexpectedly high genetic variation after supposedly strong population declines <ref type="bibr" target="#b22">23,</ref><ref type="bibr" target="#b34">[35]</ref><ref type="bibr" target="#b35">[36]</ref><ref type="bibr" target="#b36">[37]</ref><ref type="bibr" target="#b37">[38]</ref> . Hence, it is not yet clear how population size changes contribute towards one of the most fundamental questions in evolutionary genetics-how and why genetic diversity varies across species <ref type="bibr" target="#b1">2,</ref><ref type="bibr" target="#b38">[39]</ref><ref type="bibr" target="#b39">[40]</ref><ref type="bibr" target="#b40">[41]</ref> . To tackle this question, we need to compare closely related species because deeply divergent taxa vary so profoundly in their genetic diversity due to differences in their life-history strategies that any effects caused by variation in N e will be hard to detect and decipher <ref type="bibr" target="#b39">40,</ref><ref type="bibr" target="#b40">41</ref> .</p><p>Finally, the relative contributions of genetic diversity and demographic factors towards extinction risk remain unclear. While historically there has been a debate about the immediate importance of genetic factors towards species viability <ref type="bibr" target="#b4">5,</ref><ref type="bibr" target="#b6">7</ref> , there is now growing evidence that low genetic diversity increases extinction risk <ref type="bibr" target="#b7">8,</ref><ref type="bibr" target="#b41">42</ref> and on a broader scale that threatened species tend to show reduced diversity <ref type="bibr" target="#b6">7</ref> . Nevertheless, due to a lack of studies measuring bottlenecks consistently across species, it remains an open question as to how the loss of genetic diversity caused by demographic declines ultimately translates into a species' extinction risk, which can be assessed by its International Union for Conservation of Nature (IUCN) status.</p><p>An outstanding opportunity to address these questions is provided by the pinnipeds, a clade of marine carnivores inhabiting nearly all marine environments ranging from the poles to the tropics and showing remarkable variation in their ecological and life-history adaptations <ref type="bibr" target="#b42">43</ref> . Pinnipeds include some of the most extreme examples of commercial exploitation known to man, with several species including the northern elephant seal having been driven to the brink of extinction for their fur and blubber by 18th to early 20th century sealers <ref type="bibr" target="#b12">13</ref> . By contrast, other pinniped species inhabiting pristine environments such as Antarctica have probably had very little contact with humans <ref type="bibr" target="#b12">13</ref> . Hence, pinnipeds show large differences in their demographic histories within the highly constrained time window of commercial sealing and thereby represent a unique natural experiment for exploring the causes and consequences of recent bottlenecks.</p><p>Here, we conducted a broad-scale comparative analysis of population bottlenecks using a combination of genetic, ecological and life-history data for 30 pinniped species. We inferred the strength of historical declines across species from the genetic data using two complimentary coalescent-based approaches, heterozygosity-excess and ABC. Heterozygosity-excess was used as a measure of the relative strength of recent population declines, while a consistent ABC framework was used to evaluate the probability of each species having experienced a severe bottleneck during the known timeframe of commercial exploitation, as well as to estimate relevant model parameters. Finally, we used Bayesian phylogenetic mixed models to investigate the potential causes and consequences of past bottlenecks while controlling for phylogenetic relatedness among species. We hypothesised that (i) extreme variation in the extent to which species were exploited by man should be reflected in their genetic bottleneck signatures; (ii) ecological and life-history traits could have an impact on the strength of bottleneck signatures across species; (iii) past bottlenecks should reduce contemporary genetic diversity; and (iv) heavily bottlenecked species with reduced genetic diversity will be more likely to be of conservation concern.</p><p>We report striking variation in genetic bottleneck signatures across pinnipeds, with 11 species exhibiting strong genetic signatures of population declines and estimated bottleneck effective population sizes reflecting just a few tens of surviving individuals in the most extreme cases. Despite being caused by human exploitation, these genetic bottlenecks are mediated by both breeding habitat and mating system variation, implying that species ecology and life-history contribute towards responses to anthropogenic exploitation. Furthermore, up to five-fold variation in genetic diversity across species is explained by a combination of bottleneck history, global abundance and breeding habitat. Finally, exploring the consequences of historical bottlenecks for conservation, we show that genetic bottleneck signatures are unrelated to IUCN status across all species, although three of the four most heavily bottlenecked species are currently endangered. We conclude that the genetic consequences of anthropogenic exploitation depend heavily on a species' biology, while quantifying demographic histories can substantially contribute to understanding patterns of genetic diversity across species.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results</head><p>Genetic data. We analysed a combination of published and newly generated microsatellite data from 30 pinniped species, with a median of 253 individuals and 14 loci per species (see Methods and Supplementary Table <ref type="table">1</ref> for details). Measures of genetic diversity, standardised across datasets as the average per ten individuals, varied considerably across the pinniped phylogeny, with observed heterozygosity (H o ) and allelic richness (A r ) varying by over two and almost five-fold respectively across species (Supplementary Table <ref type="table">2</ref>). Both of these measures were highly correlated (r = 0.92) and tended to be higher in ice breeding seals, intermediate in fur seals and sea lions, and substantially lower in a handful of species including northern elephant seals and monk seals (Fig. <ref type="figure" target="#fig_0">1a</ref>).</p><p>Bottleneck inference. We used two different coalescent-based approaches to infer the extent of recent population bottlenecks. First, the amount of heterozygosity-excess at selectively neutral loci such as microsatellites is an indicator of recent bottlenecks because during a population decline the number of alleles decreases faster than heterozygosity <ref type="bibr" target="#b2">3</ref> . Recent bottlenecks therefore generate a transient excess of heterozygosity relative to a population at equilibrium with an equivalent number of alleles <ref type="bibr" target="#b17">18</ref> . Here, we quantified the proportion of loci in heterozygosityexcess (prop het-exc ) for each species, which was highly repeatable across a range of mutation models (see Methods and Supplementary Table <ref type="table">3</ref>). Consequently, we focused on a two-phase model with 80% single-step mutations (TPM80), which is broadly in line with mammalian mutation model estimates from the literature <ref type="bibr" target="#b43">44</ref> as well as posterior estimates from our ABC analysis (Supplementary Table <ref type="table">4B</ref>, Supplementary Fig. <ref type="figure" target="#fig_6">5</ref>). Figure <ref type="figure" target="#fig_0">1b</ref> shows a heatmap of prop het-exc across species, which is bounded between zero (all loci show heterozygosity-deficiency, an indicator of recent expansion) and one (all loci show heterozygosityexcess, an indicator of recent decline) whereby 0.5 is the expectation for a stable population. Considerable heterogeneity was found across species, with northern and southern elephant seals, grey seals, Guadalupe fur seals and Antarctic fur seals showing the strongest bottlenecks signals. By contrast, the majority of icebreeding seals exhibited heterozygosity-deficiency, consistent with historical population expansions.</p><p>Second, we used ABC to select between a bottleneck and a nonbottleneck model as well as to estimate posterior distributions of relevant parameters. To optimally capture recent population size changes across species, we allowed N e to vary from pre-bottleneck to post-bottleneck in both models within realistic priors (see Methods for details) while the bottleneck model also included a severe decrease in N e to below 500 during the time of peak sealing. Therefore, both models incorporate longer-term declines or expansions within realistic bounds for all species but only the bottleneck model captures a recent and severe decrease in N e due  <ref type="table">2</ref> and<ref type="table">3</ref> to anthropogenic exploitation. ABC was clearly able to distinguish between the two models, with simulations under the bottleneck model being correctly classified 85% of the time and simulations under the non-bottleneck model being correctly classified 89% of the time (Supplementary Fig. <ref type="figure" target="#fig_0">1</ref>). A small amount of overlap between the models and therefore misclassification is unavoidable because both models were specified using broad priors to optimally fit a variety of species with vastly different population sizes. For each species, however, the preferred model showed a good fit to the observed data (all pvalues &gt; 0.05, Supplementary Table <ref type="table">5</ref>) <ref type="bibr" target="#b44">45</ref> . As another indicator of model quality, posterior predictive checks <ref type="bibr" target="#b20">21,</ref><ref type="bibr" target="#b45">46</ref> showed that the preferred models across all species were largely able to reproduce the relevant observed summary statistics (Supplementary Fig. <ref type="figure" target="#fig_2">2</ref>).</p><p>The posterior bottleneck model probability (p bot ) varied substantially across species and was strongly but imperfectly correlated with prop het-exc (posterior median and 95% credible intervals; β = 0.17 [0.04, 0.28], R 2 marginal = 0.32 [0.03, 0.59], see Supplementary Fig. <ref type="figure" target="#fig_4">3</ref>). For 11 species, the bottleneck model was supported with a higher probability than the non-bottleneck model (i.e., p bot &gt; 0.5, see Supplementary Table <ref type="table">3</ref>). Subsequent parameter estimation was therefore based on the bottleneck model for eleven species and on the non-bottleneck model for the other 19 species. Under the bottleneck model, prediction errors from the crossvalidation were well below one for the bottleneck effective population size (N e bot, Supplementary Table <ref type="table">4A</ref> and Supplementary Fig. <ref type="figure" target="#fig_5">4</ref>) and mutation rate (µ, Supplementary Table <ref type="table">4A</ref>) indicating that posterior estimates contain information about the underlying true parameter values. Similarly, under the nonbottleneck model, µ (Supplementary Table <ref type="table">4B</ref>) and the parameter describing the proportion of multi-step mutations (GSM par , Supplementary Table <ref type="table">4B</ref>) were informative. By contrast, although the pre-bottleneck effective population size (N e hist) also had a prediction error below one in both models, visual inspection of the cross-validation results revealed high variation in the estimates and a systematic underestimation of larger N e hist values, so this parameter was not considered further. Figure <ref type="figure" target="#fig_2">2</ref> shows the eleven bottlenecked species ranked in descending order of estimated posterior modal N e bot (see also Supplementary Table <ref type="table">4A</ref>). The parameter estimates were indicative of strong bottlenecks (i.e., 200 &lt; N e bot &lt; 500) in seven species including both phocids and otariids, while even smaller N e bot values (i.e., N e bot &lt; 50) were estimated for four phocids comprising the landlocked Saimaa ringed seal, both monk seal species and the northern elephant seal. Mutation rate estimates were remarkably consistent across species, with modes of the posterior distributions typically varying around 1 × 10 -4 (Supplementary Fig. <ref type="figure" target="#fig_6">5</ref> and Supplementary Table <ref type="table">4</ref>), while GSM par across species typically varied between around 0.2 and 0.3 (See Supplementary Fig. <ref type="figure">6</ref> and Supplementary Table <ref type="table">4B</ref>). Therefore, although studies of individual species are usually limited by uncertainty over the underlying mutation characteristics, our ABC analyses converged on similar estimates of mutation model and rate across species, allowing us to appropriately parameterise our bottleneck analyses.</p><p>To explore whether our results could be affected by population structure, we used STRUCTURE <ref type="bibr" target="#b46">47</ref> to infer the most likely number of genetic clusters (K) across all datasets (see Supplementary Table <ref type="table">6</ref>). For all of the species for which the best supported value of K was more than one (n = 12), we recalculated genetic summary statistics and repeated the bottleneck analyses based on individuals comprising the largest cluster. Using the largest genetic clusters did not appreciably affect our results, with repeatabilities for the genetic summary statistics and bottleneck signatures all being greater than 0.9 (see Supplementary Table <ref type="table">7</ref> for repeatabilities and Supplementary Fig. <ref type="figure">7</ref>, which is virtually identical to Fig. <ref type="figure" target="#fig_0">1</ref>).</p><p>Furthermore, we tested all loci from each dataset for deviations from Hardy-Weinberg equilibrium (HWE, see the Methods for details). Overall, 6% of loci were found to deviate from HWE in both χ 2 and exact tests after table-wide Bonferroni correction for multiple testing. To investigate whether including these loci could have affected our results, we recalculated the genetic summary statistics and repeated our bottleneck analyses after excluding them. The results remained largely unaltered, with repeatabilities all being greater than 0.97 (see Supplementary Table <ref type="table">8</ref> and Supplementary Fig. <ref type="figure">8</ref>).</p><p>Finally, we considered the possibility that our inference of recent bottlenecks could have been confounded by events further back in a species' history. In particular, increased ice cover during the last glacial maximum (LGM) could have reduced habitat availability and consequently population sizes <ref type="bibr" target="#b47">[48]</ref><ref type="bibr" target="#b48">[49]</ref><ref type="bibr" target="#b49">[50]</ref><ref type="bibr" target="#b50">[51]</ref><ref type="bibr" target="#b51">[52]</ref> . We therefore tested whether small population sizes during the LGM followed by expansions could result in similar genetic patterns across pinnipeds to recent bottlenecks caused by anthropogenic exploitation (for details, see Supplementary Note 2). Specifically, we used ABC to simulate two additional demographic scenarios that were identical to the bottleneck and non-bottleneck models but which also incorporated a small population size during the LGM and subsequent expansion. ABC was not able to reliably distinguish between the two bottleneck models: correct classification rates were substantially lower at 64% for the bottleneck model and 60% for the bottleneck model incorporating postglacial expansion. Similarly, the two non-bottleneck models had relatively poor classification rates (60% for the non-bottleneck model and 66% for the non-bottleneck model incorporating expansion). These rates are much lower than in our main analysis based on two models, indicating that ABC cannot reliably distinguish on the basis of our data between broadly equivalent models that do and do not include ice age effects. Regardless, all 11 of the species that supported the bottleneck model in the main analysis again showed the highest probability for one of the two models that incorporated a recent bottleneck (Supplementary Table <ref type="table">11</ref>). The fact that none of these species supported the nonbottleneck model with postglacial expansion indicates that the reduction in genetic diversity produced by a recent bottleneck can be clearly distinguished from the reduction in diversity due to a small population size at the end of the last ice age. This is to be expected as many of our summary statistics such as the M-ratio are sensitive towards recent population size changes <ref type="bibr" target="#b52">53</ref> .</p><p>Factors affecting bottleneck history. Conceivably both ecological and life-history variables could have impacted the extent to which commercial exploitation affected different pinniped species. We therefore investigated the effects of four different variables on bottleneck signatures. First, we hypothesised that breeding habitat would be important as ice-breeding species are less accessible and more widely dispersed than their land-breeding counterparts. Second, we considered sexual size dimorphism (SSD) an important life-history variable as species with a high SSD aggregate in denser breeding colonies, making them more valuable to hunters, and polygyny reduces effective population size. Third, the length of the breeding season may have impacted the vulnerability of a given species to exploitation and finally, generation time could potentially mediate population recovery. We found clear differences between ice-breeding and land-breeding seals in both prop het-exc and p bot , with land-breeders on average showing stronger bottleneck signatures (Fig. <ref type="figure" target="#fig_4">3a,</ref><ref type="figure">b</ref>). In addition, prop het-exc was positively associated with SSD (Fig. <ref type="figure" target="#fig_4">3c</ref>) but not with with p bot and the former relationship was robust to the exclusion of the southern elephant seal (Supplementary Fig. <ref type="figure">9</ref>). However, we did not find the expected positive relationships with either breeding season length or generation time (see below).</p><p>To investigate this further, we constructed two Bayesian phylogenetic mixed models with prop het-exc and p bot as response variables respectively and breeding habitat, SSD, breeding season length and generation time fitted as predictors (see Methods for details). Both models explained an appreciable amount of variation (prop het-exc R 2 marginal = 0.58, CI [0.22, 0.92]; p bot R 2 marginal = 0.38, CI [0.08, 0.62], Fig. <ref type="figure" target="#fig_4">3d</ref>). As the four predictor variables show some level of multicollinearity (Supplementary Table <ref type="table">9</ref>), we reported both standardised model estimates (β) and structure coefficients (r Ŷ; x ÀÁ ), which represent the correlation between each predictor and the fitted response independent of the other predictors. Breeding habitat showed the largest overall effect size in both models (Fig. <ref type="figure" target="#fig_4">3e</ref>, Supplementary Table <ref type="table">10</ref>). By  rebeccacarterart.co.uk) and is reproduced here with her permission. All rights reserved contrast, structure coefficients showed that breeding habitat and SSD were both strongly correlated to the fitted response in the prop het-exc model, while SSD indeed had a much weaker effect in the p bot model (Fig. <ref type="figure" target="#fig_4">3f</ref>, Supplementary Table <ref type="table">10</ref>). Thus, breeding habitat and SSD explain variation in prop het-exc whereas only breeding habitat explains variation in p bot . We did not find a relationship between breeding season length and bottleneck signatures, with R 2 , β and structure coefficients all being low with broad CIs overlapping zero (Fig. <ref type="figure" target="#fig_4">3d-f</ref>). While the structure coefficient of generation time in the prop het-exc model did not have CIs overlapping zero, a negative relationship is contrary to expectations and probably reflects the longer generation times of ice-breeding seals (Supplementary Fig. <ref type="figure" target="#fig_0">10</ref>) rather than a genuine relationship.</p><p>Determinants of genetic diversity. To investigate the determinants of contemporary genetic diversity across pinnipeds, we constructed a phylogenetic mixed model of allelic richness (A r ) with log transformed global abundance, breeding habitat and SSD fitted as predictor variables together with the two bottleneck measures prop het-exc and p bot (Fig. <ref type="figure" target="#fig_5">4</ref>). In order to avoid overfitting the model, we did not include breeding season length and generation time, as these variables were not individually associated with A r (breeding season: β = 0.01 CI [-0.03, 0.01], generation time: β = 0.00 CI [0.00, 0.01]). A substantial 75% of the total variation in A r was explained (Fig. <ref type="figure" target="#fig_5">4c</ref>, R 2 marginal = 0.75, CI [0.52, 0.91]). Specifically, A r decreased nearly five-fold from the species with the lowest p bot to the species with the highest p bot (β = -1.80, CI [-3.10, -0.42] Fig. <ref type="figure" target="#fig_5">4a</ref>), increased by nearly five-fold from the least to the most abundant species (β = 1.38, CI [0.21, 2.47], Fig. <ref type="figure" target="#fig_5">4b</ref>), and was on average 27% higher in ice than in landbreeding seals (β = 1.76, CI [0.10, 3.14], Fig. <ref type="figure" target="#fig_5">4b</ref>). Due to multicollinearity among the five predictor variables (Supplementary Table <ref type="table">9</ref>), standardized β estimates (Fig. <ref type="figure" target="#fig_5">4d</ref>) can be hard to interpret because of potential suppression effects <ref type="bibr" target="#b53">54</ref> . This is reflected by the low unique R 2 values of the predictors relative to the marginal R 2 of the full model (Fig. <ref type="figure" target="#fig_5">4c</ref>). However, the structure coefficients (Fig. <ref type="figure" target="#fig_5">4e</ref>) also revealed strong associations between the fitted model response and breeding habitat ((r Ŷ; Conservation status, bottleneck signatures and genetic diversity. To investigate whether population bottlenecks and low genetic diversity are detrimental to species viability, we asked whether contemporary conservation status is related to the strength of past bottlenecks and A r . Based on data from the IUCN red list (http://www.iucnredlist.org/, 2017), we classified species into two categories; the first of these, which we termed 'low concern' comprised species listed as 'least concern' and 'near threatened', while the second combined species listed as 'vulnerable' or 'endangered' into a 'high concern' category. Using a phylogenetic mixed model, we did not find any clear differences in either heterozygosity-excess or p bot with respect to conservation status (Fig. <ref type="figure" target="#fig_6">5a,</ref><ref type="figure">b</ref>). By contrast, average A r was around 1.2 alleles lower in the 'high concern' category, although there was considerable uncertainty with the Species abbreviations are given in Fig. <ref type="figure" target="#fig_0">1</ref> and Supplementary Table <ref type="table">1</ref> 95% credible interval of β ranging from -0.08 to 2.56 (Fig. <ref type="figure" target="#fig_6">5c</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discussion</head><p>To explore the interplay between historical demography, ecological and life-history variation, genetic diversity and conservation status, we used a comparative approach based on genetic data from over 80% of all extant pinniped species. To model bottleneck strength, we used two approaches that capture different but complementary facets of genetic diversity resulting from population bottlenecks. Using ABC, we contrasted a bottleneck model incorporating a severe decrease in N e during the time of peak sealing in the 18th and 19th centuries with a non-bottleneck model. The resulting bottleneck measure, p bot is the probability (relative to the non-bottleneck model) that a species' observed genetic diversity is similar to the diversity of a population that experienced a severe reduction in  N e below 500, and therefore provides an absolute bottleneck measure. By contrast, heterozygosity excess (prop het-exc )t h e oretically captures sudden recent reductions in N e even in fairly large populations <ref type="bibr" target="#b17">18</ref> and therefore provides a relative bottleneck measure. Concretely, given the average sample size of individuals and loci used in this study, we would expect to detect an excess of heterozygosity at the majority of loci (i.e., prop het-exc &gt;0.5) when a 100-to 1000-fold reduction in N e occurred, regardless of the magnitude of N e (see simulations in ref. <ref type="bibr" target="#b17">18</ref> ). We specifically focused on two simple ABC models reflecting only recent demographic histories to test a clear hypothesislarge scale commercial exploitation caused severe bottlenecks and reduced the genetic diversity of many pinnipeds. This focus on a short time-frame and well known sealing history allowed us to clearly define our models around reasonable priors. Furthermore, although the genetic diversity simulated based on models of recent demographic history could in principle also be generated by more ancient bottlenecks, these are unlikely to be detected reliably using microsatellite data when a subsequent recovery occurred <ref type="bibr" target="#b54">55</ref> .</p><p>ABC analysis supported the bottleneck model for more than a third of the species. The strongest bottlenecks (N e bot &lt; 50) were inferred for the northern elephant seal, a textbook example of a species that bounced back from the brink of extinction <ref type="bibr" target="#b55">56</ref> , as well as for the two monk seals and the Saimaa ringed seal, species with very small geographic ranges and a long history of anthropogenic interaction <ref type="bibr" target="#b12">13</ref> . Slightly weaker bottlenecks were estimated for seven further species including Antarctic and Guadalupe fur seals, both of which share a known history of commercial exploitation for their fur <ref type="bibr" target="#b12">13</ref> . At the other end of the continuum, several Antarctic species that have not been commercially hunted such as crabeater and Weddell seals showed unequivocal support for the non-bottleneck model in line with expectations. Surprisingly, several otariid species known to have been hunted in the hundreds of thousands (e.g., South American sea lions) to millions (e.g., northern fur seals) did not show support for a bottleneck as strong as simulated in our analyses. This suggests that sufficiently large numbers of individuals must have survived despite extensive sealing, possibly on inaccessible shores or remote islands <ref type="bibr" target="#b56">57</ref> .</p><p>A number of factors could potentially impact our inference of the strength of recent bottlenecks across pinnipeds. First of all, population structure and deviations from HWE can affect population genetic inference. However, we found that our measures of genetic diversity as well as bottleneck signatures were highly consistent when we repeated our analyses using the largest genetic clusters or after removing loci that were out of HWE. Second, demographic events deeper in a species' history could potentially confound our inference of recent bottlenecks. However, we believe this is unlikely given the results of our supplementary analysis of postglacial expansion models and the fact that we chose our summary statistics including the M-ratio to be informative about recent population size changes. Importantly, all 11 species showing strong signatures of recent bottlenecks in our main analysis did so regardless of whether these bottlenecks were preceded by reduced population sizes followed by expansions towards the end of the late Pleistocene. Moreover, for these species, models incorporating small population sizes during the LGM did not explain the observed genetic variation better than a recent bottleneck model. A third possibility, which will affect any demographic reconstruction from genetic data, is that some of the genetic markers could be linked to loci under selection. In this case, selection would have to operate in the same direction across multiple loci within species and across species to explain our comparative patterns. However, it is not necessary to invoke selection to explain the broad-scale patterns we found across pinnipeds.</p><p>We hypothesised that not all pinniped species were equally affected by commercial exploitation partly due to intrinsic differences relating to a species' ecology and life-history. In line with this, we found a strong influence of breeding habitat on bottleneck signatures, with both prop het-exc and p bot being higher in species that breed on land relative to those breeding on ice. A likely reason for this is that terrestrially breeding pinniped species were more profitable due to their generally higher population densities and accessibility, and therefore probably experienced more intense hunting. We also found that heterozygosity-excess was strongly linked to SSD, with highly polygynous species like elephant seals and some fur seals showing the strongest footprints of recent decline. While this could reflect the increased ease of exploitation and thus higher commercial value of species that predictably aggregate in very large numbers to breed, species with higher SSD also have highly skewed mating systems making them potentially more vulnerable to severe decreases in N e when key males are taken out of the system. By contrast, we did not find an effect of SSD on the ABC bottleneck probability p bot , suggesting that although sexually dimorphic species experienced the greatest declines, these were not necessarily as severe as simulated in the ABC analysis (N e &lt; 500). This is probably because many species reached economic extinction well above this threshold, when populations became too small to sustain the sealing industry.</p><p>Although vast numbers of species are declining globally at unprecedented rates <ref type="bibr" target="#b11">12</ref> we still lack a clear understanding of how recent declines in N e affect contemporary genetic diversity in wild populations <ref type="bibr" target="#b1">2,</ref><ref type="bibr" target="#b39">40</ref> . Here, we explained a large proportion of the five-fold variation in allelic richness (A r ) observed from the most to the least diverse pinniped species. First, A r was strongly associated with p bot but not with prop het-exc , in agreement with the theoretical expectation that populations have to decline to a very small N e , as was simulated in our ABC analysis, to lose a substantial proportion of their diversity <ref type="bibr" target="#b2">3</ref> . Second, we showed that global abundance across species was tightly linked to A r despite the likely impact of bottlenecks and the limited timewindow for the recovery of genetic diversity. As differences in genetic diversity across species are largely determined by longterm N e , 2 this implies that contemporary population sizes across pinnipeds must to some extent resemble patterns of historical abundance, and hence that many bottlenecked species have to a large extent rebounded to occupy their original niches. Third, A r was higher in ice-breeding relative to landbreeding seals. However, a low unique R 2 of breeding habitat in our model suggests that this probably reflects the more intense bottleneck histories of land-breeding seals rather than a true ecological effect.</p><p>Finally, we compared genetic diversity and bottleneck strength between species that are currently classified by the IUCN as being of conservation concern versus those that are not. We found that A r was on average around 21% lower in species within the 'high concern' category, consistent with previous evidence from a broad range of species <ref type="bibr" target="#b6">7</ref> .W h i l et h r e e out of the four pinniped species with the strongest estimated bottlenecks are currently listed as endangered, species from both categories did not overall differ in their bottleneck signatures. Our comparative study of population bottlenecks is therefore encouraging: population bottlenecks do not necessarily result in reduced genetic diversity and population viability. As shown here, global bans on commercial sealing at the beginning of the 20th century allowed many surviving pinniped populations to recover in abundance. Those that have not sufficiently rebounded illustrate the two fundamental conservation challenges, especially as biodiversity loss and climate change continue at unprecedented rates: halting population declines and promoting population recovery.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Methods</head><p>Genetic data. We obtained microsatellite data for a total of 30 pinniped species including three subspecies of ringed seal (summarised in Supplementary Table <ref type="table">1</ref>). First, we conducted systematic literature searches to identify previously published microsatellite datasets for 25 species (see Supplementary Note 3 for details). Second, we generated new data for five species (see Supplementary Note 3 for details). Sample sizes of individuals ranged between 16 for the Ladoga ringed seal to 2386 for the Hawaiian monk seal, with a median of 253 individuals. The number of loci genotyped varied between five and 35 with a median of 14.</p><p>Phylogenetic, demographic, life history and conservation status data. Phylogenetic data were downloaded from the 10k trees website <ref type="bibr" target="#b57">58</ref> and plotted using ggtree <ref type="bibr" target="#b58">59</ref> . The three ringed seal subspecies were added according to their separation after the last ice age <ref type="bibr" target="#b59">60</ref> . Demographic and life-history data for each species were obtained from refs. <ref type="bibr" target="#b60">61,</ref><ref type="bibr" target="#b61">62</ref> . While most data stayed untransformed, we calculated SSD as the ratio of male to female body mass, and log-transformed abundance across species to account for the several orders of magnitude differences in population sizes. Data on conservation status were retrieved from the IUCN website (http:// www.iucnredlist.org/, 2017). Data cleaning and preliminary population genetic analyses. In order to maximise data quality, we checked all datasets by eye and generated summary statistics and tables of allele counts to identify potentially erroneous genotypes including typographical or formatting errors. In ambiguous cases, we contacted the authors to verify the correct genotypes. As several of the datasets included samples from more than one geographical location, we used a Bayesian approach implemented in STRUCTURE version 2.3.4 <ref type="bibr" target="#b46">47</ref> to infer the most likely number of genetic clusters (K) across all datasets. For computational and practical reasons, we used the Paral-lelStructure package in R <ref type="bibr" target="#b62">63</ref> to run these analyses on a computer cluster. For all of the species for which the best supported value of K was more than one, we recalculated genetic summary statistics and repeated the bottleneck analyses based on individuals comprising the largest cluster and calculated repeatabilities including 95% confidence intervals (CIs) for all variables using the rptGaussian function in the rptR package <ref type="bibr" target="#b63">64</ref> . We also tested all loci from each dataset for deviations from HWE using χ 2 and exact tests implemented in pegas <ref type="bibr" target="#b64">65</ref> and applied Bonferroni correction to the resulting p-values.</p><p>Genetic diversity statistics. In order to examine patterns of genetic diversity across species, we calculated observed heterozygosity (H o ) and allelic richness (A r ) with strataG <ref type="bibr" target="#b65">66</ref> as well as the proportion of low frequency alleles (LFA), defined as alleles with a frequency of &lt;5%, using self-written code. For maximal comparability across species with different sample sizes, we randomly sampled ten individuals from each dataset 1000 times with replacement and calculated the corresponding mean and 95% CI for each summary statistic. We did not attempt to standardise our genetic diversity measures by the number of microsatellites, as differences in the number of loci are not expected to systematically bias the mean of any summary statistic across loci.</p><p>Heterozygosity-excess. We quantified heterozygosity-excess using the approach of Cornuet and Luikart 18 implemented in the program BOTTLENECK version 1.2.02 <ref type="bibr" target="#b66">67,</ref><ref type="bibr" target="#b67">68</ref> . BOTTLENECK compares the heterozygosity of a locus in an empirical sample to the heterozygosity expected in a population under mutation-drift equilibrium with the same number of alleles as simulated under the coalescent <ref type="bibr" target="#b14">15,</ref><ref type="bibr" target="#b15">16</ref> . Microsatellites evolve mainly by gaining or losing a single repeat unit <ref type="bibr" target="#b56">57</ref> (the Stepwise Mutation Model, SMM), but occasional larger jump mutations of several repeat units also occur <ref type="bibr" target="#b68">69</ref> . Consequently, BOTTLENECK allows the user to specify a range of mutation models, from the strict SMM through two phase models (TPMs) with varying proportions of multi-step mutations to the infinite alleles model (IAM) where every new mutation is novel. We therefore evaluated the SMM plus three TPMs with 70%, 80% and 90% single-step mutations respectively and the default variance of the geometric distribution (0.30). For each of the mutational models, the heterozygosity of each locus expected under mutation-drift equilibrium given the observed number of alleles (H eq ) was determined using 10,000 coalescent simulations. The proportion of loci for which H e was greater than H eq (prop het-exc ) was then quantified for all of the mutation models. To quantify consistency of the measure across mutation models, we calculated the repeatability of prop het-exc using the rptR package <ref type="bibr" target="#b63">64</ref> in R with 1000 bootstraps while adjusting for the mutation model as a fixed effect. Although the relative pattern across species was very consistent across mutation models (repeatability = 0.81, CI = [0.71, 0.89]), absolute values of prop het-exc within species decreased with lower proportions of multistep mutations (means for the TPM70, 80, 90 and SMM were 0.63, 0.58, 0.49 and 0.27, respectively). Given our posterior estimates (Supplementary Fig. <ref type="figure">6</ref>) and in line with previous studies, we therefore based our subsequent analyses on prop het-exc from the intermediate TPM80 model. Demographic models. As a second route to inferring historical population declines, we contrasted two alternative demographic scenarios (Fig. <ref type="figure">6</ref>) using a coalescent-based ABC framework <ref type="bibr" target="#b14">15,</ref><ref type="bibr" target="#b19">20,</ref><ref type="bibr" target="#b69">70,</ref><ref type="bibr" target="#b70">71</ref> . To address the hypothesis that commercial exploitation from the 18th to the beginning of the 20th century led to population bottlenecks, we first defined a bottleneck model, which incorporated a severe reduction in population size within strictly bound time priors reflecting the respective time period. This model also allowed us to capture realistic changes from the pre-bottleneck to post-bottleneck effective population size as both priors were drawn independently from the same distribution. Therefore, the model incorporates not only the bottleneck, but also longer term declines or expansions within realistic bounds as described below. For comparison, we defined a model that did not contain a bottleneck but which was identical in all other respects, which we called the non-bottleneck model. This model still allowed the population size to vary over time within a defined set of priors and thus captures realistic longer term variation in population size, but it does not include a severe recent bottleneck due to human exploitation.</p><p>Genetic data under both models were simulated from broad enough prior distributions to fit all 30 species while keeping the priors as tightly bound as possible around plausible values. The bottleneck model was defined with seven different parameters (Fig. <ref type="figure">6a</ref>). The current effective population size N e and the historical (i.e., pre-bottleneck) effective population size N e hist were drawn from a log-normal distribution with N e ~lognorm[logmean = 10.5, logsd = 1] and N e hist ~lognorm[logmean = 10.5, logsd = 1]. This concentrated sampling within plausible ranges that fitted most species (i.e., with effective population sizes ranging from thousands to tens of thousands of individuals) while also occasionally drawing samples in the hundreds of thousands to fit the few species with very large populations. The bottleneck effective population size N e bot was drawn from a uniform distribution between 1 and 500 (N e bot ~U [1, 500]) while the bottleneck start and end times t bot start and t bot end were drawn from uniform distributions ranging between ten and 70 (t bot start ~U [10, 70]) and one and 30 (t bot end ~U [1,  30]) generations ago respectively. Hence, the bottleneck time priors encompassed the last four centuries for all species, as their estimated generation times vary between approximately 7 and 19 years (Supplementary Table <ref type="table">1</ref>). The microsatellite mutation rate µ was refined after initial exploration and drawn from a uniform prior with µ ~U[10 -5 ,1 0 -4 ] which lies within the range of current empirical estimates <ref type="bibr" target="#b43">44,</ref><ref type="bibr" target="#b71">72</ref> . The mutation model was defined as a generalized stepwise mutation model with the geometric parameter GSM par reflecting the proportion of multistep mutations, uniformly distributed from GSM par ~U[0, 0.3]. The non-bottleneck model was defined with five parameters (Fig. <ref type="figure">6b</ref>). N e , N e hist, µ and GSM par were specified with the same priors as previously defined for the bottleneck model and the time parameter corresponding to the historical population size t hist was drawn from a uniform distribution ranging between 10 and 70 generations ago (t hist ~U [10, 70]). All population size changes were therfore modeled as instantaneous changes at times t bot start, t bot end or t hist . ABC analysis. We simulated a total of 2 × 10 7 datasets of 40 individuals and ten microsatellite loci each under the two demographic scenarios using the fastsimcoal function in strataG <ref type="bibr" target="#b65">66</ref> as an R interface to fastsimcoal2 <ref type="bibr" target="#b72">73</ref> , a continuous-time coalescent simulator. For both the simulated and empirical data, we used five different summary statistics for the ABC inference, all calculated as the mean across loci. Allelic richness (number of alleles), allelic size range, expected heterozygosity (i.e., All priors were drawn independently from each other, so the current N e can be smaller or larger than N e hist for a given species. This allowed both models to capture pre-bottleneck to post-bottleneck variation in population size. While N e and N e hist were drawn from lognormal priors, all other parameters were specified using uniform priors. All prior distributions are also shown as small figures next to the respective parameter. The exact priors and the mutation model are given in the Methods</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Effective population size</head><p>Nei's gene diversity <ref type="bibr" target="#b73">74</ref> ), the M-ratio <ref type="bibr" target="#b52">53</ref> and the proportion of low frequency alleles (LFA) (i.e., with frequencies &lt; 5%). The summary statistics for the empirical datasets were computed by repeatedly re-sampling 40 individuals with replacement from the full datasets and calculating the mean across 1000 subsamples (for the Ladoga ringed seal and the Baltic ringed seal which had sample sizes smaller than 40, the full datasets were taken). As a small number of loci in the empirical data exhibited slight deviations from constant repeat patterns (i.e., not all of the alleles within a locus conformed to a perfect two, three or four bp periodicity), we calculated the M-ratio as an approximation using the most common repeat pattern of a locus to calculate the range of the allele size r and subsequently the M-ratio with M = k/(r + 1) where k is the number of alleles. All statistics were calculated using a combination of functions from the strataG package and self-written code. For the ABC analysis, we used a tolerance threshold of 5 × 10 -4 , thereby retaining 5000 simulations with summary statistics closest to those of each empirical dataset.</p><p>For estimating the posterior probability for each scenario and each species, we used the multinomial regression method <ref type="bibr" target="#b19">20,</ref><ref type="bibr" target="#b74">75</ref> as implemented in the function postpr in the abc package <ref type="bibr" target="#b24">25</ref> where the model indicator is the response variable of a polychotomous regression and the accepted summary statistics are the predictors. To construct posterior distributions from the accepted summary statistics for the model parameters, we used a local linear regression approach 20 implemented in the abc function of the abc package.</p><p>Evaluation of model specification and model fit. We evaluated whether ABC could distinguish between the two models by performing a leave-one-out cross validation implemented by the cv4postpr function of the abc package. Here, the summary statistics of one of the existing 2 × 10 7 simulations were considered as pseudo-observed data and classified into either the bottleneck or the nonbottleneck model using all of the remaining simulations. If the summary statistics are able to discriminate between the models, a large posterior probability should be assigned to the model that generated the pseudo-observed dataset. This was repeated 100 times and the resulting posterior probabilities for a given model were averaged to derive the rate of misclassification. We furthermore used a hypothesis test based on the prior predictive distribution <ref type="bibr" target="#b44">45</ref> implemented in the gfit function in the abc package to check for each species that the preferred model provided a good fit to the observed data. Specifically, we used the median distance between the accepted and observed summary statistics as a test statistic, whereby the null distribution was generated using summary statistics from the pseudo-observed datasets. Hence, a non-significant p-value indicates that the distance between the observed summary statistics and the accepted summary statistics is not larger than the expectation based on pseudo-observed data sets, i.e., the assigned model provides a good fit to the observed data.</p><p>Evaluation of the accuracy of parameter estimates. In order to determine which parameters (i.e., population sizes, times and mutation rates and models) could be reliably estimated, we used leave-one-out cross validation implemented in the cv4abc function from the abc package to determine the accuracy of our ABC parameter estimates. For a randomly selected pseudo-observed dataset, parameters were estimated via ABC based on the remaining simulations using the rejection algorithm and a prediction error was calculated. This is possible because we know the true parameter values from which a given pseudo-observed dataset was simulated. This procedure was repeated 1000 times and a mean prediction error ranging between 0 and 1 was calculated, where 0 reflects perfect estimation and 1 means that the posterior estimate does not contain any information about the true parameter value <ref type="bibr" target="#b24">25</ref> .</p><p>Posterior predictive checks. To further confirm the fit of the preferred models, we conducted posterior predictive checks <ref type="bibr" target="#b20">21,</ref><ref type="bibr" target="#b45">46</ref> for each species. First, we estimated the posterior distribution of each parameter using ABC. Second, we sampled 1000 multivariate parameters from their respective posterior distributions and used those to simulate summary statistics a posteriori based on the preferred model. Last, we plotted those summary statistics as histograms and superimposed the observed summary statistics across all species <ref type="bibr" target="#b20">21</ref> .</p><p>Bayesian phylogenetic mixed models. Finally, we used Bayesian phylogenetic mixed models in MCMCglmm <ref type="bibr" target="#b75">76</ref> to evaluate the ecological and life-history variables affecting bottleneck strength and genetic diversity, and to test whether bottleneck history and genetic diversity are predictive of contemporary conservation status. Details of all the models are given in Supplementary Table <ref type="table">10</ref>. All of the response variables were modelled with Gaussian distributions, while the predictors were fitted as fixed effects and the phylogenetic covariance matrix as a random effect. Predictors in models containing binary fixed effects were standardised by two standard deviations to allow a direct comparison between the effect sizes <ref type="bibr" target="#b76">77,</ref><ref type="bibr" target="#b77">78</ref> .</p><p>In models without binary fixed effects, the predictor variables were standardised by one standard deviation. For all models, we report the marginal R 2 as in ref. <ref type="bibr" target="#b78">79</ref> . Some of the predictors in our models were correlated and multicollinearity might lead to suppression effects and make the interpretation of regression coefficients difficult <ref type="bibr" target="#b53">54</ref> . We therefore reported standardized β estimates, structure coefficients, r Ŷ; x ÀÁ and unique R 2 values for all variables in all models. The structure coefficients represent the correlation between a predictor and the fitted response of a model independent of the other predictors, and therefore reflect the direct contribution of a variable to that model. On the other hand, the unique R 2 is the difference between the marginal R 2 of a model including and a model excluding a predictor, which will be small when another predictor explains much of the same variation in the response <ref type="bibr" target="#b53">54</ref> . All model estimates were presented as the posterior median and 95% credible intervals (CIs). We used uninformative priors with a belief (shape) parameter v = 1 for the variance-covariance matrices of the random effects and inverse-Wishart priors with v = 0.002 for residual variances. For each model, three independent MCMC chains were run for 110,000 iterations, with a burn-in of 10,000 iterations and a thinning interval of 100 iterations. Convergence was checked visually and by applying the Gelman-Rubin criterion to three independent chains. All of the upper 95% confidence limits of the potential scale inflation factors were below 1.05.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Fig. 1</head><label>1</label><figDesc>Fig. 1 Patterns of genetic diversity and bottleneck signatures across the pinnipeds. The phylogeny shows 30 species with branches colour coded according to breeding habitat and tip points coloured and sized according to their IUCN status and global abundance respectively. a Shows two genetic diversity measures, allelic richness (A r ) and observed heterozygosity (H o ), which have been standardised by randomly sub-sampling ten individuals from each dataset 1000 times with replacement and calculating the corresponding mean. b Shows the proportion of loci in heterozygosity-excess (prop het-exc ) calculated for the TPM80 model (see Methods for details). c Summarises the ABC model selection results, with posterior probabilities corresponding to the bottleneck versus non-bottleneck model. The raw data are provided in Supplementary Tables2 and 3</figDesc><graphic coords="4,48.97,408.47,497.32,251.20" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Fig. 2</head><label>2</label><figDesc>Fig. 2 Estimated bottleneck effective population sizes. Posterior distributions of N e bot are shown for 11 species for which the bottleneck model was supported in the ABC analysis, ranked according to the modes of their density distributions which reflect the estimated most likely N e bot. Prior distributions are not shown as N e bot was drawn from a uniform distribution with U[1, 500]. For each species, parameter values for 5000 accepted simulations are presented as a sinaplot, which arranges the data points to reflect the estimated posterior distribution. Superimposed are boxplots (centre line = median, bounds of box = 25th and 75th percentiles, upper and lower whiskers = largest and lowest value but no further than 1.5 * inter-quartile range from the hinge) with light grey points representing maximum densities. The pinniped art in this figure was created by Rebecca Carter (www. rebeccacarterart.co.uk) and is reproduced here with her permission. All rights reserved</figDesc><graphic coords="6,230.95,50.78,262.12,473.20" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head></head><label></label><figDesc>x ÀÁ = 0.54, CI [0.20, 0.76]), abundance (r Ŷ; x ÀÁ = 0.73, CI [0.54, 0.91]) and p bot (r Ŷ; x ÀÁ = -0.78, CI [10.91, -0.62]) indicating that all three variables are associated with the response.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4"><head>Fig. 3</head><label>3</label><figDesc>Fig. 3 Ecological and life-history effects on bottleneck signatures. Shown are the results of phylogenetic mixed models of prop het-exc and p bot with breeding habitat, SSD, breeding season length and generation time fitted as fixed effects. a, b Show differences between ice-breeding and land-breeding species in prop het-exc and p bot respectively. Raw data points are shown together with boxplots (centre line = median, bounds of box = 25th and 75th percentiles, upper and lower whiskers = largest and smallest value but no further than 1.5 * inter-quartile range from the hinge). c Shows the relationship between sexual size dimorphism (SSD) and prop het-exc , with individual points colour coded according to the ABC bottleneck probability (p bot ) and the line representing the predicted response from the prop het-exc model. Marginal and unique R 2 values, standardized β coefficients and structure coefficients are shown for models of prop het-exc (filled points) and p bot (open points) in d-f, where they are presented as posterior medians with 95% credible intervals.Species abbreviations are given in Fig.1and Supplementary Table1</figDesc><graphic coords="7,103.90,215.00,112.12,79.60" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_5"><head>Fig. 4</head><label>4</label><figDesc>Fig. 4 Determinants of contemporary genetic diversity across pinnipeds. a Shows a scatterplot of A r versus p bot with the grey line representing the model prediction. b Shows the relationship between global abundance and allelic richness (A r ) with the blue and yellow lines representing model predictions for ice-breeding and land-breeding seals respectively. Marginal and unique R 2 values, standardised β estimates and structure coefficients for the model are shown respectively in c-e, where they are presented as posterior medians with 95% credible intervals. Species abbreviations are given in Fig.1and Supplementary Table1</figDesc><graphic coords="8,155.50,236.72,88.60,88.36" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_6"><head>Fig. 5</head><label>5</label><figDesc>Fig. 5 Conservation implications of bottlenecks and genetic diversity. All pinniped species were classified into either a 'low concern' or a 'high concern' category depending on their current IUCN status as described in the main text. Shown are the raw data for each category together with boxplots (centre line = median, bounds of box = 25th and 75th percentiles, upper and lower whiskers = largest and smallest value but no further than 1.5 * inter-quartile range from the hinge) for a prop het-exc , b p bot . and c A r . Marginal R 2 and standardised β estimates are shown for Bayesian phylogenetic mixed models with standardized predictors (see Methods for details)</figDesc><graphic coords="8,261.73,463.58,99.88,81.61" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="1,36.00,36.00,583.80,88.80" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head></head><label></label><figDesc>Schematic representation of two contrasting demographic scenarios.</figDesc><table><row><cell></cell><cell cols="3">Bottleneck ab</cell><cell>Non-bottleneck</cell></row><row><cell></cell><cell></cell><cell>N e hist</cell><cell></cell><cell>N e hist</cell></row><row><cell>Time backwards</cell><cell>t bot end t bot start</cell><cell>N e bot</cell><cell>t hist</cell></row><row><cell></cell><cell></cell><cell>N e</cell><cell></cell><cell>N e</cell></row><row><cell>Fig. 6</cell><cell></cell><cell></cell><cell></cell></row></table></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0"><p>NATURE COMMUNICATIONS | (2018) 9:4836 | DOI: 10.1038/s41467-018-06695-z | www.nature.com/naturecommunications</p></note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head>Acknowledgements</head><p>This research was supported by standard grants (<rs type="grantNumber">HO 5122/3-1</rs> and <rs type="grantNumber">HO 5122/5-1</rs>) from the <rs type="funder">German Research Foundation (DFG)</rs> and as part of the <rs type="programName">SFB TRR 212</rs> (<rs type="projectName">NC³</rs>, project</p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funding" xml:id="_EHpHNYJ">
+					<idno type="grant-number">HO 5122/3-1</idno>
+				</org>
+				<org type="funded-project" xml:id="_8jCtDek">
+					<idno type="grant-number">HO 5122/5-1</idno>
+					<orgName type="project" subtype="full">NC³</orgName>
+					<orgName type="program" subtype="full">SFB TRR 212</orgName>
+				</org>
+			</listOrg>
+
+			<div type="availability">
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Code availability. All data wrangling steps and statistical analyses except for the heterozygosity-excess tests <ref type="bibr" target="#b66">67</ref> were implemented in R <ref type="bibr" target="#b79">80</ref> . The complete documented analysis pipeline can be downloaded from our GitHub repository https://github. com/mastoffel/pinniped_bottlenecks.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Data availability</head><p>We provide all raw and processed data to reproduce the analyses in the paper. These can also be downloaded from our GitHub repository: https://github.com/mastoffel/ pinniped_bottlenecks.</p></div>
+			</div>
+
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Author contributions</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Additional information</head><p>Supplementary Information accompanies this paper at https://doi.org/10.1038/s41467-018-06695-z.</p><p>Competing interests: The authors declare no competing interests.</p><p>Reprints and permission information is available online at http://npg.nature.com/ reprintsandpermissions/ Publisher's note: Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<monogr>
+		<author>
+			<persName><forename type="first">J</forename><surname>Salmona</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Heller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Lascoux</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Shafer</surname></persName>
+		</author>
+		<title level="m">Population Genomomics</title>
+		<editor>
+			<persName><forename type="first">O</forename><forename type="middle">P</forename><surname>Rajora</surname></persName>
+		</editor>
+		<imprint>
+			<publisher>Springer</publisher>
+			<date type="published" when="2017">2017</date>
+			<biblScope unit="page" from="1" to="27" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Determinants of genetic diversity</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Ellegren</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Galtier</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Rev. Genet</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page" from="422" to="433" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">The bottleneck effect and genetic variability in populations</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Nei</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Maruyama</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Chakraborty</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Evolution</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="page" from="1" to="10" />
+			<date type="published" when="1975">1975</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">The effect of change in population-size on DNA polymorphism</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Tajima</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Genetics</title>
+		<imprint>
+			<biblScope unit="volume">123</biblScope>
+			<biblScope unit="page" from="597" to="601" />
+			<date type="published" when="1989">1989</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Genetics and demography in biological conservation</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Lande</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Science</title>
+		<imprint>
+			<biblScope unit="volume">241</biblScope>
+			<biblScope unit="page" from="1455" to="1460" />
+			<date type="published" when="1988">1988</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Do population size bottlenecks reduce evolutionary potential?</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Frankham</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Anim. Conserv</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page" from="255" to="260" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Most species are not driven to extinction before genetic factors impact them</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Spielman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">W</forename><surname>Brook</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Frankham</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Proc. Natl Acad. Sci</title>
+		<imprint>
+			<biblScope unit="volume">101</biblScope>
+			<biblScope unit="page" from="15261" to="15264" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Genetics and extinction</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Frankham</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Biol. Conserv</title>
+		<imprint>
+			<biblScope unit="volume">126</biblScope>
+			<biblScope unit="page" from="131" to="140" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Demographic consequences of inbreeding in remnant populations</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">S</forename><surname>Mills</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">E</forename><surname>Smouse</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am. Nat</title>
+		<imprint>
+			<biblScope unit="volume">144</biblScope>
+			<biblScope unit="page" from="412" to="431" />
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Risk of population extinction from fixation of new deleterious mutations</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Lande</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Evolution</title>
+		<imprint>
+			<biblScope unit="volume">48</biblScope>
+			<biblScope unit="page">1460</biblScope>
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Large numbers of vertebrates began rapid population decline in the late 19th century</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Li</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Proc. Natl Acad. Sci</title>
+		<meeting>Natl Acad. Sci</meeting>
+		<imprint>
+			<date type="published" when="2016">2016</date>
+			<biblScope unit="volume">113</biblScope>
+			<biblScope unit="page" from="14079" to="14084" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Biological annihilation via the ongoing sixth mass extinction signaled by vertebrate population losses and declines</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Ceballos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">R</forename><surname>Ehrlich</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Dirzo</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Proc. Natl Acad. Sci. USA</title>
+		<imprint>
+			<biblScope unit="volume">114</biblScope>
+			<biblScope unit="page" from="6089" to="E6096" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<monogr>
+		<author>
+			<persName><forename type="first">R</forename><surname>Mittermeier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">E</forename><surname>Wilson</surname></persName>
+		</author>
+		<title level="m">Handbook of the Mammals of the World</title>
+		<meeting><address><addrLine>Barcelona, Spain</addrLine></address></meeting>
+		<imprint>
+			<publisher>Lynx Edicions</publisher>
+			<date type="published" when="2014">2014</date>
+			<biblScope unit="volume">4</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Historical baselines for large marine animals</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">K</forename><surname>Lotze</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Worm</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Trends Ecol. Evol</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="page" from="254" to="262" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">The coalescent. Stoch. Process</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">F C</forename><surname>Kingman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Their Appl</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="page" from="235" to="248" />
+			<date type="published" when="1982">1982</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Generating samples under a Wright-Fisher neutral model of genetic variation</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">R</forename><surname>Hudson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Bioinforma. Oxf. Engl</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="page" from="337" to="338" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">fastsimcoal: a continuous-time coalescent simulator of genomic diversity under arbitrarily complex evolutionary scenarios</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Excoffier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Foll</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Bioinforma. Oxf. Engl</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="page" from="1332" to="1334" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Description and power analysis of two tests for detecting recent population bottlenecks from allele frequency data</title>
+		<author>
+			<persName><forename type="first">J.-M</forename><surname>Cornuet</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Luikart</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Genetics</title>
+		<imprint>
+			<biblScope unit="volume">144</biblScope>
+			<biblScope unit="page" from="2001" to="2014" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Reliability of genetic bottleneck tests for detecting recent population declines</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">Z</forename><surname>Peery</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Mol. Ecol</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="page" from="3403" to="3418" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Approximate Bayesian computation in population genetics</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Beaumont</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Balding</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Genetics</title>
+		<imprint>
+			<biblScope unit="volume">162</biblScope>
+			<biblScope unit="page" from="2025" to="2035" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Approximate Bayesian computation (ABC) in practice</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Csilléry</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">G B</forename><surname>Blum</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><forename type="middle">E</forename><surname>Gaggiotti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>François</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Trends Ecol. Evol</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="page" from="410" to="418" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Bayesian inference of the demographic history of chimpanzees</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Wegmann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Excoffier</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Mol. Biol. Evol</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="page" from="1425" to="1435" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Bayesian inference of a historical bottleneck in a heavily exploited marine mammal</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">I</forename><surname>Hoffman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Grant</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Forcada</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">D</forename><surname>Phillips</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Mol. Ecol</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="page" from="3989" to="4008" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Demographic inferences using short-read genomic data in an approximate Bayesian computation framework: in silico evaluation of power, biases and proof of concept in Atlantic walrus</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">B A</forename><surname>Shafer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">M</forename><surname>Gattepaille</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">E A</forename><surname>Stewart</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">B W</forename><surname>Wolf</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Mol. Ecol</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="page" from="328" to="345" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">abc: an R package for approximate Bayesian computation (ABC)</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Csilléry</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>François</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">G B</forename><surname>Blum</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Methods Ecol. Evol</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page" from="475" to="479" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Bayesian estimation of the timing and severity of a population bottleneck from ancient DNA</title>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">L</forename><surname>Chan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">N K</forename><surname>Anderson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">A</forename><surname>Hadly</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">PLoS Genet</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page">59</biblScope>
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">The aggregate site frequency spectrum for comparative population genomic inference</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">T</forename><surname>Xue</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Hickerson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Mol. Ecol</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="page" from="6223" to="6240" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Demographic inference reveals African and European admixture in the North American Drosophila melanogaster population</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Duchen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Živković</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Hutter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Stephan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Laurent</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Genetics</title>
+		<imprint>
+			<biblScope unit="volume">193</biblScope>
+			<biblScope unit="page" from="291" to="301" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Detecting concerted demographic response across community assemblages using hierarchical approximate Bayesian computation</title>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">L</forename><surname>Chan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Schanzenbach</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Hickerson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Mol. Biol. Evol</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="page" from="2501" to="2515" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Effective population size and patterns of molecular evolution and variation</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Charlesworth</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Rev. Genet</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page" from="195" to="205" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Low genetic variability of the koala Phascolarctos cinereus in south-eastern Australia following a severe population bottleneck</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">A</forename><surname>Houlden</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">R</forename><surname>England</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">C</forename><surname>Taylor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">D</forename><surname>Greville</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">B</forename><surname>Sherwin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Mol. Ecol</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="269" to="281" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Impact of a population bottleneck on symmetry and genetic diversity in the northern elephant seal</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">R</forename><surname>Hoelzel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">C</forename><surname>Fleischer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Campagna</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">J</forename><surname>Le Boeuf</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Alvord</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Evol. Biol</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page" from="567" to="575" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Meta-analysis reveals lower genetic diversity in overfished populations</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">L</forename><surname>Pinsky</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">R</forename><surname>Palumbi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Mol. Ecol</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="page" from="2" to="9" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">A role for molecular genetics in biological conservation</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">J</forename><surname>O'brien</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Proc. Natl Acad. Sci</title>
+		<imprint>
+			<biblScope unit="volume">91</biblScope>
+			<biblScope unit="page" from="5748" to="5755" />
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Bottlenecked but long-lived: high genetic diversity retained in white-tailed eagles upon recovery from population decline</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Hailer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Biol. Lett</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page" from="316" to="319" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Endangered greater one-horned rhinoceros carry high levels of genetic variation</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Dinerstein</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">F</forename><surname>Mccracken</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Conserv. Biol</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page" from="417" to="422" />
+			<date type="published" when="1990">1990</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">Recent demographic bottlenecks are not accompanied by a genetic signature in banner-tailed kangaroo rats (Dipodomys spectabilis)</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">D</forename><surname>Busch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">M</forename><surname>Waser</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Dewoody</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Mol. Ecol</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="page" from="2450" to="2462" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">Whales before whaling in the North Atlantic</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Roman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">R</forename><surname>Palumbi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Science</title>
+		<imprint>
+			<biblScope unit="volume">301</biblScope>
+			<biblScope unit="page" from="508" to="510" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<monogr>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">C</forename><surname>Lewontin</surname></persName>
+		</author>
+		<title level="m">The Genetic Basis of Evolutionary Change</title>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Columbia University Press</publisher>
+			<date type="published" when="1974">1974</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title level="a" type="main">Revisiting an old riddle: what determines genetic diversity levels within species?</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">M</forename><surname>Leffler</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">PLoS Biol</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page">1001388</biblScope>
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title level="a" type="main">Comparative population genomics in animals uncovers the determinants of genetic diversity</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Romiguier</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nature</title>
+		<imprint>
+			<biblScope unit="volume">515</biblScope>
+			<biblScope unit="page" from="261" to="263" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+		<title level="a" type="main">Inbreeding and extinction in a butterfly metapopulation</title>
+		<author>
+			<persName><forename type="first">I</forename><surname>Saccheri</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nature</title>
+		<imprint>
+			<biblScope unit="volume">392</biblScope>
+			<biblScope unit="page" from="491" to="494" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<analytic>
+		<title level="a" type="main">How seals divide up the world: environment, life history, and conservation</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">H</forename><surname>Ferguson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">W</forename><surname>Higdon</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Oecologia</title>
+		<imprint>
+			<biblScope unit="volume">150</biblScope>
+			<biblScope unit="page" from="318" to="329" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<analytic>
+		<title level="a" type="main">Microsatellites: simple sequences with complex evolution</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Ellegren</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Rev. Genet</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="435" to="445" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<monogr>
+		<title level="m" type="main">Goodness-of-fit statistics for approximate Bayesian computation</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Lemaire</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Jay</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Csilléry</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">G</forename><surname>Blum</surname></persName>
+		</author>
+		<ptr target="https://arxiv.org/abs/1601.04096v1" />
+		<imprint>
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+	<note type="report_type">Preprint at</note>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<monogr>
+		<author>
+			<persName><forename type="first">A</forename><surname>Gelman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">B</forename><surname>Carlin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">S</forename><surname>Stern</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">B</forename><surname>Rubin</surname></persName>
+		</author>
+		<title level="m">Bayesian Data Analysis</title>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Chapman and Hall/CRC</publisher>
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<analytic>
+		<title level="a" type="main">Inference of population structure using multilocus genotype data</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">K</forename><surname>Pritchard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Stephens</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Donnelly</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Genetics</title>
+		<imprint>
+			<biblScope unit="volume">155</biblScope>
+			<biblScope unit="page" from="945" to="959" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<analytic>
+		<title level="a" type="main">Post-ice age recolonization and differentiation of Fucus serratus L.(Phaeophyceae; Fucaceae) populations in Northern Europe</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Coyer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">F</forename><surname>Peters</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">T</forename><surname>Stam</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Olsen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Mol. Ecol</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page" from="1817" to="1829" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<analytic>
+		<title level="a" type="main">Phylogeography across a continent: the evolutionary and demographic history of the North American racer (Serpentes: Colubridae: Coluber constrictor)</title>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">T</forename><surname>Burbrink</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Fontanella</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>Pyron</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">J</forename><surname>Guiher</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Jimenez</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Mol. Phylogenet. Evol</title>
+		<imprint>
+			<biblScope unit="volume">47</biblScope>
+			<biblScope unit="page" from="274" to="288" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<analytic>
+		<title level="a" type="main">Late Pleistocene divergence and subsequent population expansion of two closely related fish species, Japanese anchovy (Engraulis japonicus) and Australian anchovy (Engraulis australis)</title>
+		<author>
+			<persName><forename type="first">J.-X</forename><surname>Liu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Mol. Phylogenet. Evol</title>
+		<imprint>
+			<biblScope unit="volume">40</biblScope>
+			<biblScope unit="page" from="712" to="723" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b50">
+	<analytic>
+		<title level="a" type="main">Asynchronous demographic responses to Pleistocene climate change in Eastern Nearctic vertebrates</title>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">T</forename><surname>Burbrink</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ecol. Lett</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="page" from="1457" to="1467" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b51">
+	<analytic>
+		<title level="a" type="main">Estimating synchronous demographic changes across populations using hABC and its application for a herpetological community from northeastern Brazil</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Gehara</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Mol. Ecol</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="4756" to="4771" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b52">
+	<analytic>
+		<title level="a" type="main">Detection of reduction in population size using data from microsatellite loci</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Garza</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">G</forename><surname>Williamson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Mol. Ecol</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page" from="305" to="318" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b53">
+	<analytic>
+		<title level="a" type="main">Using commonality analysis in multiple regressions: a tool to decompose regression effects in the face of multicollinearity</title>
+		<author>
+			<persName><forename type="first">Ray</forename><surname>Mukherjee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Methods Ecol. Evol</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="320" to="328" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b54">
+	<analytic>
+		<title level="a" type="main">The number of markers and samples needed for detecting bottlenecks under realistic scenarios, with and without recovery: a simulation-based study</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Hoban</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><forename type="middle">E</forename><surname>Gaggiotti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Bertorelle</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Mol. Ecol</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="page" from="3444" to="3450" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b55">
+	<analytic>
+		<title level="a" type="main">Impact of population bottlenecks on genetic variation and the importance of life-history; a case study of the northern elephant seal</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">R</forename><surname>Hoelzel</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Biol. J. Linn. Soc</title>
+		<imprint>
+			<biblScope unit="volume">68</biblScope>
+			<biblScope unit="page" from="2" to="3" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b56">
+	<analytic>
+		<title level="a" type="main">Unexpected genetic differentiation between recently recolonized populations of a long-lived and highly vagile marine mammal</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">A</forename><surname>Bonin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">E</forename><surname>Goebel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Forcada</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">S</forename><surname>Burton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">I</forename><surname>Hoffman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ecol. Evol</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page" from="3701" to="3712" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b57">
+	<analytic>
+		<title level="a" type="main">The 10kTrees website: a new online resource for primate phylogeny</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Arnold</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">J</forename><surname>Matthews</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">L</forename><surname>Nunn</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Evol. Anthropol</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="page" from="114" to="118" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b58">
+	<analytic>
+		<title level="a" type="main">an R package for visualization and annotation of phylogenetic trees with their covariates and other associated data</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Yu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">K</forename><surname>Smith</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Zhu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Guan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">T</forename><surname>Lam</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">-Y</forename><surname>Ggtree</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Methods Ecol. Evol</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page" from="2" to="8" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b59">
+	<monogr>
+		<title level="m" type="main">Status and biology of Saimaa (Phoca hispida saimensis) and Ladoga (Phoca hispida ladogensis) ringed seals. Ringed Seals N. Atl</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Sipilä</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Hyvarinen</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1998">1998</date>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page" from="3" to="99" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b60">
+	<analytic>
+		<title level="a" type="main">Disentangling the contribution of sexual selection and ecology to the evolution of size dimorphism in pinnipeds</title>
+		<author>
+			<persName><forename type="first">O</forename><surname>Krüger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">B W</forename><surname>Wolf</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">M</forename><surname>Jonker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">I</forename><surname>Hoffman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Trillmich</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Evolution</title>
+		<imprint>
+			<biblScope unit="volume">68</biblScope>
+			<biblScope unit="page" from="1485" to="1496" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b61">
+	<analytic>
+		<title level="a" type="main">Phylogenetic analyses of sexual selection and sexual size dimorphism in pinnipeds</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Lindenfors</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Tullberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Biuw</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Behav. Ecol. Sociobiol</title>
+		<imprint>
+			<biblScope unit="volume">52</biblScope>
+			<biblScope unit="page" from="188" to="193" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b62">
+	<analytic>
+		<title level="a" type="main">ParallelStructure: AR package to distribute parallel runs of the population genetics program STRUCTURE on multi-core computers</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Besnier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">A</forename><surname>Glover</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">PLoS ONE</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page">70651</biblScope>
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b63">
+	<analytic>
+		<title level="a" type="main">rptR: repeatability estimation and variance decomposition by generalized linear mixed-effects models</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Stoffel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Nakagawa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Schielzeth</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Methods Ecol. Evol</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page" from="1639" to="1644" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b64">
+	<analytic>
+		<title level="a" type="main">pegas: an R package for population genetics with an integrated-modular approach</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Paradis</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Bioinforma. Oxf. Engl</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="419" to="420" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b65">
+	<analytic>
+		<title level="a" type="main">An r package for manipulating, summarizing and analysing population genetic data</title>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">I</forename><surname>Archer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">E</forename><surname>Adams</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">B</forename><surname>Schneiders</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Stratag</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Mol. Ecol. Resour</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page" from="5" to="11" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b66">
+	<analytic>
+		<title level="a" type="main">BOTTLENECK: a computer program for detecting recent reductions in the effective size using allele frequency data</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Piry</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Computer Note</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Hered</title>
+		<imprint>
+			<biblScope unit="volume">90</biblScope>
+			<biblScope unit="page" from="502" to="503" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b67">
+	<analytic>
+		<title level="a" type="main">Stepwise mutation model and distribution of allelic frequencies in a finite population</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Kimura</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Ohta</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Proc. Natl Acad. Sci</title>
+		<imprint>
+			<biblScope unit="volume">75</biblScope>
+			<biblScope unit="page" from="2868" to="2872" />
+			<date type="published" when="1978">1978</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b68">
+	<analytic>
+		<title level="a" type="main">Mutational processes of simple-sequence repeat loci in human populations</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Di Rienzo</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Proc. Natl Acad. Sci</title>
+		<imprint>
+			<biblScope unit="volume">91</biblScope>
+			<biblScope unit="page" from="3166" to="3170" />
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b69">
+	<analytic>
+		<title level="a" type="main">Inferring coalescence times from DNA sequence data</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Tavare</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Balding</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">C</forename><surname>Griffiths</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Donnelly</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Genetics</title>
+		<imprint>
+			<biblScope unit="volume">145</biblScope>
+			<biblScope unit="page" from="505" to="518" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b70">
+	<analytic>
+		<title level="a" type="main">Population growth of human Y chromosomes: a study of Y chromosome microsatellites</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">K</forename><surname>Pritchard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">T</forename><surname>Seielstad</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Perez-Lezaun</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">W</forename><surname>Feldman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Mol. Biol. Evol</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="page" from="1791" to="1798" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b71">
+	<analytic>
+		<title level="a" type="main">Microsatellites for ecologists: a practical guide to using and evaluating microsatellite markers</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">A</forename><surname>Selkoe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Toonen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ecol. Lett</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page" from="615" to="629" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b72">
+	<analytic>
+		<title level="a" type="main">Robust demographic inference from genomic and SNP data</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Excoffier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Dupanloup</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Huerta-Sánchez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">C</forename><surname>Sousa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Foll</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">PLoS Genet</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page">1003905</biblScope>
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b73">
+	<analytic>
+		<title level="a" type="main">Analysis of gene diversity in subdivided populations</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Nei</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Proc. Natl Acad. Sci</title>
+		<meeting>Natl Acad. Sci</meeting>
+		<imprint>
+			<date type="published" when="1973">1973</date>
+			<biblScope unit="volume">70</biblScope>
+			<biblScope unit="page" from="3321" to="3323" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b74">
+	<analytic>
+		<title level="a" type="main">Statistical evaluation of alternative models of human evolution</title>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">J</forename><surname>Fagundes</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Proc. Natl Acad. Sci</title>
+		<imprint>
+			<biblScope unit="volume">104</biblScope>
+			<biblScope unit="page" from="17614" to="17619" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b75">
+	<analytic>
+		<title level="a" type="main">MCMC methods for multi-response generalized linear mixed models: the MCMCglmm R Package</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">D</forename><surname>Hadfield</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Stat. Softw</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="page" from="1" to="22" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b76">
+	<analytic>
+		<title level="a" type="main">Scaling regression inputs by dividing by two standard deviations</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Gelman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Stat. Med</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="page" from="2865" to="2873" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b77">
+	<analytic>
+		<title level="a" type="main">Simple means to improve the interpretability of regression coefficients</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Schielzeth</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Methods Ecol. Evol</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page" from="103" to="113" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b78">
+	<analytic>
+		<title level="a" type="main">A general and simple method for obtaining R2 from generalized linear mixed-effects models</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Nakagawa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Schielzeth</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Methods Ecol. Evol</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page" from="133" to="142" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b79">
+	<monogr>
+		<title level="m" type="main">R: A language and environment for statistical computing</title>
+		<author>
+			<persName><forename type="first">Team</forename><surname>Core</surname></persName>
+		</author>
+		<editor>David Coltman, Corey Davis, Larissa Rosa de Oliveira, Tom Gelatt and NOAA, Melissa Gladstone, Roger Kirkwood, Melanie Lancaster, Tim Malloy, Rolf Ream, Garry Stenson and</editor>
+		<imprint>
+			<date type="published" when="2000">2000</date>
+			<publisher>The R Foundation</publisher>
+		</imprint>
+		<respStmt>
+			<orgName>Liverpool John Moores University</orgName>
+		</respStmt>
+	</monogr>
+	<note>Rob Stewart for providing access to published microsatellite datasets. We also thank Matthias Galipaud for advice on statistical analysis, Kevin Arbuckle for advice on Bayesian phylogenetic mixed models and Luke Eberhart-Phillips for helpful comments on the figures. We are very grateful to Rebecca Carter (www.rebeccacarterart.co.uk) for the time and effort she dedicated to producing the pinniped illustrations. Finally, we thank the Okinawa Institute of Science and Technology Preprint Journal Club for their very helpful comments on the manuscript</note>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

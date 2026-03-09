@@ -1,0 +1,756 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Numerical anomalies in the dentition of southern fur seals and sea lions (Pinnipedia: Otariidae)</title>
+				<funder ref="#_JYVwbfD">
+					<orgName type="full">unknown</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>FapUNIFESP (SciELO)</publisher>
+				<availability status="unknown"><p>Copyright FapUNIFESP (SciELO)</p>
+				</availability>
+				<date type="published" when="2010-06">2010-06</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><forename type="first">Carolina</forename><surname>Loch</surname></persName>
+							<email>carolinaloch@yahoo.com.br</email>
+							<affiliation key="aff0">
+								<orgName type="department">Departamento de Ecologia e Zoologia</orgName>
+								<orgName type="laboratory">Laboratório de Mamíferos Aquáticos</orgName>
+								<orgName type="institution">Universidade Federal de Santa Catarina</orgName>
+								<address>
+									<postCode>88040-970</postCode>
+									<settlement>Florianópolis, Santa Catarina</settlement>
+									<country key="BR">Brazil</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Paulo</forename><forename type="middle">C</forename><surname>Simões-Lopes</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Departamento de Ecologia e Zoologia</orgName>
+								<orgName type="laboratory">Laboratório de Mamíferos Aquáticos</orgName>
+								<orgName type="institution">Universidade Federal de Santa Catarina</orgName>
+								<address>
+									<postCode>88040-970</postCode>
+									<settlement>Florianópolis, Santa Catarina</settlement>
+									<country key="BR">Brazil</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">César</forename><forename type="middle">J</forename><surname>Drehmer</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Departamento de Zoologia e Genética</orgName>
+								<orgName type="institution">Universidade Federal de Pelotas. Caixa Postal</orgName>
+								<address>
+									<addrLine>354</addrLine>
+									<postCode>96010-900</postCode>
+									<settlement>Pelotas, Rio Grande do Sul</settlement>
+									<country key="BR">Brazil</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Numerical anomalies in the dentition of southern fur seals and sea lions (Pinnipedia: Otariidae)</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Zoologia (Curitiba)</title>
+						<title level="j" type="abbrev">Zoologia (Curitiba, Impr.)</title>
+						<idno type="eISSN">1984-4689</idno>
+						<imprint>
+							<publisher>FapUNIFESP (SciELO)</publisher>
+							<biblScope unit="volume">27</biblScope>
+							<biblScope unit="issue">3</biblScope>
+							<biblScope unit="page" from="477" to="482"/>
+							<date type="published" when="2010-06" />
+						</imprint>
+					</monogr>
+					<idno type="MD5">80ADD9C5250EEC3ECE91BCD21F2E8FD3</idno>
+					<idno type="DOI">10.1590/s1984-46702010005000001</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.0" ident="GROBID" when="2026-03-09T17:19+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Arctocephalus australis</term>
+					<term>A. tropicalis</term>
+					<term>dental agenesis</term>
+					<term>Otaria flavescens</term>
+					<term>southern Brazil</term>
+					<term>supernumerary teeth</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Teeth are a valuable source of information in studies of mammalian biology, supplying data on the feeding habits, phylogenetic relationships among species, and estimations of age <ref type="bibr" target="#b13">(HOFF &amp; HOFF 1996)</ref>. The occurrences and implications of dental anomalies in mammals play a major role in studies of comparative osteology, although dental anomalies are still poorly elucidated in otariids.</p><p>Otariids have heterodont dentition, with dental formula I3/2, C1/1, PC6/5. Post-canine teeth are morphologically similar and correspond to premolars and molars, where accessory cusps may be present in some species <ref type="bibr" target="#b14">(KING 1964)</ref>. They have diphyodont dentition, with deciduous teeth being resorbed in utero or just after birth (MYAZAKI 2002).</p><p>The first records of numerical anomalies in the Otariidae were published for Callorhinus ursinus (Linnaeus, 1758) and Eumetopias jubatus (Schreber, 1776) <ref type="bibr" target="#b5">(CHIASSON 1955</ref><ref type="bibr" target="#b16">, KUBOTA &amp; TOGAWA 1964)</ref>, two species from the northern hemisphere. Evolutionary and phylogenetic implications of dental anomalies in pinnipeds were first studied by <ref type="bibr" target="#b16">KUBOTA &amp; TOGAWA (1964)</ref> and later by <ref type="bibr" target="#b17">LOUGHLIN (1982)</ref>.</p><p>Although some inventories were published on several Otariidae and Phocidae species from the northern hemisphere (KÖNEMANN &amp; <ref type="bibr" target="#b15">VAN BREE 1997</ref><ref type="bibr" target="#b0">, ABBOTT &amp; VERSTRAETE 2005</ref><ref type="bibr" target="#b7">, CRUWYS &amp; FRIDAY 2006)</ref>, such inventories from the southern hemisphere were not available until some reports were published considering the ecological and evolutionary context of dental anomalies and pathologies in Arctocephalus G. Saint-Hilaire &amp; Cuvier, 1826 and Otaria Peron, 1816 specimens from Brazil (southern Rio Grande do Sul), Uruguay and Argentina (DREHMER &amp; FERIGOLO  1996, DREHMER et al. 2004).</p><p>This paper evaluates numerical anomalies in the dentition of the Otariids Arctocephalus australis (Zimmermann, 1783), Arctocephalus tropicalis (Gray, 1872) and Otaria flavescens (Shaw, 1800) from Southern Brazil and nearby areas, considering anomalies that are both congenital (departures from the typical number of teeth) and acquired in life.</p><p>Animals were collected along the southern coast of Brazil, in the states of Santa Catarina (SC) and northern coast of Rio Grande do Sul (RS), from São Francisco do Sul, SC (26°14'36"S, 48°38'17"W) to Lagoa do Peixe, RS (31º14'08"S; 51º00'49"W), with non-systematic collection efforts between 1984 and 2006. Although most of the specimens were collected on the Brazilian coast, four of them were collected in the Rocha Department, Uruguay (UFSC 1055(UFSC  , 1057(UFSC  , 1273(UFSC  , 1274)). The 91 sampled speci-</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>ZOOLOGIA 27 (3): 477-482, June, 2010 mens were accessed in the scientific collection of mammals of the Departamento de Ecologia e Zoologia, Universidade Federal de Santa Catarina, under the anacronym UFSC (see Appendix). Skulls were prepared according to <ref type="bibr" target="#b8">DREHMER &amp; FERIGOLO (1996)</ref>.</p><p>Age categories (young, subadult and adult) were determined through the stage of closure of cranial sutures and by the condilobasal length <ref type="bibr" target="#b24">(SIMÕES-LOPES et al. 1995</ref><ref type="bibr" target="#b9">, DREHMER &amp; FERIGOLO 1997</ref>). The evaluation of numerical anomalies was obtained through macroscopic analysis of the syncranium, regarding cases of extra teeth and dental agenesis.</p><p>Cases of dental losses in life due to trauma or pathologies were also examined. These cases are characterized by the porosity and irregularity of the bony tissue as a consequence of alveolar resorption, in contrast with the absence of alveoli in the typical cases of dental agenesis <ref type="bibr" target="#b26">(VILÀ et al. 1993</ref><ref type="bibr" target="#b8">, DREHMER &amp; FERIGOLO 1996)</ref>.</p><p>Cases of dental agenesis and supernumerary teeth were registered only in post-canine teeth. Dental agenesis was registered in four specimens of A. australis in the maxillary teeth, in 6.4% of the sample (n = 4). These are described below: PC/1 Agenesis (UFSC 1113, young female): right maxillary PC/ 1 agenesis, without evidence of alveolus. A 3.7mm diastema was observed between the canine and PC/2, which is anteriorly dislocated due to the absence of PC/1 (Fig. <ref type="figure">1</ref>). PC/6 Agenesis (UFSC 1154, adult male; 1163, adult male; 1263, young male): right maxillary PC/6 unilateral agenesis, without evidence of loss of teeth in life in the specimen UFSC 1154 (Fig. <ref type="figure">2</ref>). UFSC 1163 and 1263 presented symmetrical agenesis of both upper PC/6 (Figs 3 and 4, respectively). Mandibular and maxillary supernumerary teeth were diagnosed in three cases: two specimens of A. tropicalis (12% of the sample) and one of A. australis (1.6%), as described below:</p><p>Maxillary supernumerary teeth (A. tropicalis: UFSC 1017, adult male): a supernumerary tooth, vertically oriented between the right maxillary PC/5 and PC/6 (Fig. <ref type="figure" target="#fig_1">5</ref>). Smaller size in relation to the other teeth, reduced crown and single root, contradicting the pattern of double roots in the post-canine teeth of A. tropicalis. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2">4 3 1</head><p>Mandibular supernumerary teeth (A. australis: UFSC 1274, adult male; A. tropicalis: UFSC 1342, adult female): in UFSC 1274 two small alveoli were observed with little depth and a single alveolar cavity labially displaced between PC/4 and PC/ 5 of both jaws, characterizing a case of symmetrical supernumerary teeth (Fig. <ref type="figure">6</ref>). Although these teeth were possibly lost during the process of preparation and cleaning of the skull, the pair of alveoli indicated their existence. In UFSC 1342 the existence of supernumerary alveolus was observed between PC/ 3 and PC/4 of the left jaw, smaller in size and oriented to the labial side of the dental row (Fig. <ref type="figure">7</ref>).</p><p>Loss of teeth in life was observed in A. tropicalis (UFSC 1017, adult male), A. australis (UFSC 1132, adult male; 1228, adult male; 1323, adult male) and O. flavescens (UFSC 1171, adult male). Both post-canine and incisive teeth were recorded as having been lost in life (Figs 8-10).</p><p>In the specimen UFSC 1017, the partial closure of the lower left post-canine alveolus of PC/5 indicated its previous loss (Fig. <ref type="figure" target="#fig_2">8</ref>). In UFSC 1132 we observed the loss of teeth and posterior partial closure of the lower right PC/1 and PC/2. The same situation was observed in UFSC 1323 with upper right PC/5 and PC/6 (Fig. <ref type="figure">9</ref>). In the specimen UFSC 1228, the closure of upper left PC/5 was almost complete, with minimal traces of its existence. This indicates that the loss probably occurred in the juvenile stage of its life.</p><p>In UFSC 1171 there was a multiple loss of lower right PC/ 1, of lower left PC/1, PC/3 and PC/4, and of all incisives, with subsequent partial closure of post-canine alveoli and almost complete resorption of alveolar incisives (Fig. <ref type="figure">10</ref>). With the partial closure of two consecutive alveoli (PC/3 and 4), the porous bony tissue has become shared between the two alveoli.</p><p>Variation in the biological sense comprises differences of any kind, mainly morphological, which exists between individuals of the same species, implying in deviation from a mean or a 'norm'. When the difference is slight, it can be considered a 'normal variation'. On the other hand, when the deviations are more gross and uncommon among individuals, they are considered anomalies <ref type="bibr" target="#b18">(MILES &amp; GRIGSON 1990)</ref>. As dental formula in mammal orders and genera are quite conserved and well established (NOVACEK 1986), the numerical variation here reported are interpreted as typical cases of dental anomalies.</p><p>The dentition of pinnipeds is, in general, considered unstable and liable to variation, mainly in number <ref type="bibr" target="#b16">(KUBOTA &amp; TOGAWA 1964)</ref>. Dental agenesis in South American Otariids has already been investigated in A. australis and A. tropicalis and in O. flavescens <ref type="bibr" target="#b18">(MILES &amp; GRIGSON 1990</ref><ref type="bibr" target="#b8">, DREHMER &amp; FERIGOLO 1996</ref><ref type="bibr" target="#b11">, DREHMER et al. 2004</ref>). According to the authors concerned, the absence of teeth, particularly of the most posterior ones such as PC/5 and PC/6, represents a trend towards reduction of the postcanine teeth in Otariids. Taking into consideration the four cases diagnosed in our study, three of them are related to the absence of PC/6 (two of them are cases of symmetrical agenesis of both PC/6), corroborating this hypothesis. The PC/1 agenesis found in UFSC 1113 is an uncommon case of dental reduction and possibly the first record of this dental anomaly in Otariidae.</p><p>According to <ref type="bibr" target="#b6">CHIASSON (1957)</ref>, the reduction and loss of PC/6 in Callorhinus ursinus occurs due to an evolutionary specialization. Considering that the simplification in shape and the simultaneous reduction in size of a tooth always precede its loss <ref type="bibr" target="#b27">(WOLSAN 1984)</ref>, the simplified dentition of Otariids must be in a process of numerical reduction along the evolution, but we should not discard the natural variability of the dentition in this group. The process of shortening of the molarization field of the upper jaw was already observed in other Carnivora, such as foxes and some canides, and may represent a trend for this group <ref type="bibr" target="#b24">(SZUMA 1999)</ref>.</p><p>Supernumerary teeth in Otariids possibly represent a reversion to the primitive dentition of terrestrial carnivores, according to the phylogenetic relationships of Pinnipeds <ref type="bibr" target="#b8">(DREHMER &amp; FERIGOLO 1996</ref><ref type="bibr" target="#b11">, DREHMER et al. 2004</ref><ref type="bibr" target="#b7">, CRUWYS &amp; FRIDAY 2006)</ref>. <ref type="bibr" target="#b11">DREHMER et al. (2004)</ref> reported supernumerary teeth in mandibular PC/6, which represents the atavic reappearance of the lower second molar in some specimens of O. flavescens, reconstructing the origins of Pinnipedimorpha evolution in the Oligo/Miocene <ref type="bibr" target="#b1">(BERTA &amp; WYSS 1994</ref><ref type="bibr" target="#b11">, DREHMER et al. 2004</ref>). The simultaneous occurrence of two supernumerary teeth between the mandibular PC/4 and PC/5 in A. australis and of one supernumerary between PC/3 and 4 in A. tropicalis seems to be unrelated with atavism. Possibly, these cases are related to mutation or changes in the genetic control of tooth development, without relevant phylogenetic implications <ref type="bibr" target="#b27">(WOLSAN 1984</ref><ref type="bibr" target="#b24">, SZUMA 1999</ref><ref type="bibr" target="#b19">, MILETICH &amp; SHARPE 2003)</ref>.</p><p>Maxillary supernumerary teeth have been described in Otariid species in different positions <ref type="bibr" target="#b18">(MILES &amp; GRIGSON 1990</ref><ref type="bibr" target="#b8">, DREHMER &amp; FERIGOLO 1996</ref><ref type="bibr" target="#b11">, DREHMER et al. 2004</ref><ref type="bibr" target="#b0">, ABBOTT &amp; VERSTRAETE 2005)</ref>. As no pinniped ancestor has more than four pre-molars and two molars, totalizing the six post-canine teeth <ref type="bibr" target="#b11">(DREHMER et al. 2004</ref>), the appearance of maxillary supernumerary teeth in A. tropicalis also does not seem to have any evolutionary or phylogenetic implication.</p><p>The reduced size of alveoli and the simplification in shape of the supernumerary teeth observed in this study suggests that they are also typical cases of microdontia, a developmental anomaly already recorded in several mammals <ref type="bibr" target="#b12">(FELDHAMER &amp; STOBER 1993</ref><ref type="bibr" target="#b13">, HOFF &amp; HOFF 1996)</ref>, although most of the published records are related to humans (e.g. BROOK 1984). Microdont teeth (reduced in size and simplified in shape) have also been recorded in O. flavescens <ref type="bibr" target="#b11">(DREHMER et al. 2004</ref>). The appearance of small and cylindrical supernumerary teeth may be caused by the split of some tissue fragment from a tooth germ, originating extra teeth simplified in shape and size <ref type="bibr" target="#b24">(SZUMA 1999)</ref>.</p><p>According to <ref type="bibr" target="#b17">LOUGHLIN (1982)</ref>, it is plausible that cases of agenesis and supernumerary teeth have an expressionless functional result and that they are morphologically irrelevant to Pinnipeds, considering a trend towards homodonty in the postcanine teeth and their doubtful effectiveness in mastication <ref type="bibr">(MILLER et al. 2007)</ref>.</p><p>The loss of teeth in life is considered to be relatively common in pinnipeds <ref type="bibr" target="#b6">(CHIASSON 1957</ref><ref type="bibr" target="#b8">, DREHMER &amp; FERIGOLO 1996)</ref>. When a tooth is lost and is not subsequently replaced, the alveolus is filled with bony tissue of porous consistency during the process of alveolar resorption or reossification <ref type="bibr" target="#b26">(VILÀ et al. 1993)</ref>. The alveolus from which a tooth has been lost becomes shallow and shows clear signs of increase in vascular foramens, as a consequence of the alveolar periosteum reaction <ref type="bibr" target="#b25">(VERSTRAETE et al. 1996)</ref>.</p><p>Loss of teeth in life in pinnipeds occurs due to traumas suffered during defense of territory or while feeding, as well as by complications originating in pathologies such as periodontitis or periapical lesions <ref type="bibr" target="#b8">(DREHMER &amp; FERIGOLO 1996</ref><ref type="bibr" target="#b3">, BRAUNN &amp; FERIGOLO 2004</ref>). The fact that in this study these losses were recorded only in adult males reinforces the importance of intraspecific combat on the occurrence of these anomalies. The ingestion of gastroliths by O. flavescens <ref type="bibr" target="#b10">(DREHMER &amp; OLIVEIRA 2003)</ref> could also be a cause of dental loss, but it is less plausible that they are mainly responsible for these anomalies, as dental loss also occurs in species that do not ingest gastroliths (as in both species of Arctocephalus), and the ingestion seems to be intentional <ref type="bibr" target="#b8">(DREHMER &amp; FERIGOLO 1996</ref><ref type="bibr" target="#b3">, BRAUNN &amp; FERIGOLO 2004)</ref>. Post-canine teeth were lost and the alveoli reossify with higher frequency than other teeth in the three species evaluated in this study, although we had observed some cases of alveolar resorption of incisives in O. flavescens.</p><p>According to <ref type="bibr" target="#b26">VILÀ et al. (1993)</ref>, a great percentage of wolves -Canis lupus Linnaeus, 1758 -, truly masticating carnivores, survived for many years despite the dental losses diagnosed, suggesting that this process is not determinant for the survival of populations in this species. The observation of alveoli in different stages of resorption in the Otariids analyzed by this study agrees with this hypothesis, providing evidence that the loss of teeth and its posterior reossification occurs in different life stages of the animals.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Figures</head><label></label><figDesc>Figures 1-4. Dental agenesis (arrows) in Arctocephalus australis: (1) asymmetrical agenesis of right PC/1 in UFSC 1113; (2) asymmetrical agenesis of right PC/6 in UFSC 1154; (3) symmetrical agenesis of both PC/6 in UFSC 1163; (4) symmetrical agenesis of both PC/6 in UFSC 1263. Scale bar = 1 cm.</figDesc><graphic coords="2,79.25,333.80,425.32,332.90" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Figures 5</head><label>5</label><figDesc>Figures 5-7. Supernumerary teeth (arrows) in Arctocephalus: (5) A. tropicalis: between right PC/5 and PC/6 of UFSC 1017; (6) A. australis: symmetrical alveoli between PC/4 and 5 in UFSC 1274; (7) A. tropicalis: alveolus between right PC/3 and PC/4 in UFSC 1342. Scale bar = 1 cm.</figDesc><graphic coords="3,327.25,101.20,233.94,454.65" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Figures 8 -</head><label>8</label><figDesc>Figures 8-10. Loss of teeth in life (arrows) with alveoli in different stages of resorption: (8) A. tropicalis: Left PC/5 in UFSC 1017; (9) A. australis: Right PC/5 and PC/6 in UFSC 1323; (10) O. flavescens: incisives and post-canines in UFSC 1171. Scale bar = 1 cm.</figDesc><graphic coords="4,51.25,101.20,233.50,545.90" type="bitmap" /></figure>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head>ACKNOWLEDGMENTS</head><p>We thank <rs type="person">Juliana V. Pina</rs>, <rs type="person">Luís A. Foerster</rs>, and <rs type="person">Roberto F. Costa</rs> for their critical review on early drafts of this manuscript. <rs type="person">Miriam Marmontel</rs> and <rs type="person">Robert Warren</rs> revised the English grammar. C. Loch is grateful for a PIBIC/CNPq scholarship received during part of this research (2003)(2004). <rs type="person">P.C. Simões-Lopes</rs> acknowledges a <rs type="grantName">CNPq-PQ grant</rs> (<rs type="grantNumber">Proc. 304698/2006-7</rs>).</p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funding" xml:id="_JYVwbfD">
+					<idno type="grant-number">Proc. 304698/2006-7</idno>
+					<orgName type="grant-name">CNPq-PQ grant</orgName>
+				</org>
+			</listOrg>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">The dental pathology of northern elephant seals (Mirounga angustirostris)</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Abbott</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">J M</forename><surname>Verstraete</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.jcpa.2004.09.007</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Comparative Pathology</title>
+		<imprint>
+			<biblScope unit="volume">132</biblScope>
+			<biblScope unit="page" from="169" to="178" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<monogr>
+		<title level="m" type="main">Pinniped Phylogeny</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Berta</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Wyss</surname></persName>
+		</author>
+		<editor>A.</editor>
+		<imprint>
+			<date type="published" when="1994">1994</date>
+			<biblScope unit="page" from="33" to="56" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Contributions in marine mammal paleontology honoring Frank C. Whitmore Jr. San Diego</title>
+		<author>
+			<persName><forename type="first">Berta</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">A</forename><surname>Deméré</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="s">Proceedings of San Diego Society of Natural History</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="page">268</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Osteopatologias e alterações dentárias em Otaria byronia (Pinnipedia: Otariidae) da costa do Rio Grande do Sul, Brasil. Iheringia</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">R</forename><surname>Braunn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Ferigolo</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Série Zoologia</title>
+		<imprint>
+			<biblScope unit="volume">94</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="117" to="122" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">A unifying aetiological explanation for anomalies of human tooth number and size</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">H</forename><surname>Brook</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Archives of Oral Biology</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="373" to="378" />
+			<date type="published" when="1984">1984</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Dental abnormalities of the Alaskan fur seal</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">B</forename><surname>Chiasson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Mammalogy</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="562" to="564" />
+			<date type="published" when="1955">1955</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">The dentition of the Alaskan Fur Seal</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">B</forename><surname>Chiasson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Mammalogy</title>
+		<imprint>
+			<biblScope unit="volume">38</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="310" to="319" />
+			<date type="published" when="1957">1957</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Visible supernumerary teeth in pinnipeds</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Cruwys</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Friday</surname></persName>
+		</author>
+		<idno type="DOI">10.1017/S0032247405004869</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Polar Record</title>
+		<imprint>
+			<biblScope unit="volume">42</biblScope>
+			<biblScope unit="issue">220</biblScope>
+			<biblScope unit="page" from="83" to="85" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Anomalias e patologias dentárias em Arctocephalus G. Saint-Hilaire &amp; Cuvier (Pinnipedia, Otariidae) da costa do Rio Grande do Sul, Brasil</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">J</forename><surname>Drehmer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Ferigolo</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Revista Brasileira de Zoologia</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="857" to="865" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Osteologia craniana comparada entre Arctocephalus australis e A. tropicalis (Pinnipedia, Otariidae). Iheringia</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">J</forename><surname>Drehmer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Ferigolo</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Série Zoologia</title>
+		<imprint>
+			<biblScope unit="volume">83</biblScope>
+			<biblScope unit="page" from="141" to="153" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Occurrence of gastroliths in South American sea lions (Otaria byronia) from Southern Brazil</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">J</forename><surname>Drehmer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">R</forename><surname>Oliveira</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The Latin American Journal of Aquatic Mammals</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="123" to="126" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Dental anomalies in the Atlantic population of South American sea lion, Otaria byronia (Pinnipedia: Otariidae): evolutionary implications and ecological approach</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">J</forename><surname>Drehmer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">E</forename><surname>Fábian</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">O</forename><surname>Menegheti</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The Latin American Journal of Aquatic Mammals</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="7" to="18" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Dental anomalies in five species of North America shrews</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">A</forename><surname>Feldhamer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">L</forename><surname>Stober</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Mammalia</title>
+		<imprint>
+			<biblScope unit="volume">57</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="115" to="121" />
+			<date type="published" when="1993">1993</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Dental Anomalies in Mammals</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">L</forename><surname>Hoff</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename><surname>Hoff</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Noninfectious diseases of wildlife</title>
+		<editor>
+			<persName><forename type="first">A</forename><surname>Fairbrother</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">L</forename><forename type="middle">N</forename><surname>Locke</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">G</forename><forename type="middle">L</forename><surname>Hoff</surname></persName>
+		</editor>
+		<imprint>
+			<publisher>Iowa, Iowa State University Press</publisher>
+			<date type="published" when="1996">1996</date>
+			<biblScope unit="page">219</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Seals of the world</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">E</forename><surname>King</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The British Museum of Natural History</title>
+		<imprint>
+			<biblScope unit="page">154</biblScope>
+			<date type="published" when="1964">1964</date>
+			<pubPlace>London</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Gebianomalien bei nordatlantischen Phociden (Mammalia, Phocidae)</title>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">S</forename><surname>Könemann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">J H</forename><surname>Van Bree</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Zeitschrift fur Säugetierkunde</title>
+		<imprint>
+			<biblScope unit="volume">62</biblScope>
+			<biblScope unit="page" from="71" to="85" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Numerical variations in the dentition of some Pinnipeds</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Kubota</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Togawa</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Anatomical Record</title>
+		<imprint>
+			<biblScope unit="volume">150</biblScope>
+			<biblScope unit="page" from="487" to="502" />
+			<date type="published" when="1964">1964</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Functional adaptation of eruption sequence of Pinniped postcanine teeth</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">B</forename><surname>Loughlin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Mammalogy</title>
+		<imprint>
+			<biblScope unit="volume">63</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="523" to="525" />
+			<date type="published" when="1982">1982</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<monogr>
+		<title level="m" type="main">Colyer&apos;s variations and diseases of the teeth of animals</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">E</forename><surname>Miles</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Grigson</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1990">1990</date>
+			<publisher>Cambridge University Press</publisher>
+			<biblScope unit="page">672</biblScope>
+			<pubPlace>Cambridge</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Normal and abnormal dental development</title>
+		<author>
+			<persName><forename type="first">I</forename><surname>Miletich</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">T</forename><surname>Sharpe</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/hmg/ddg085</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Human Molecular Genetics</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="63" to="73" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">H</forename><surname>Miller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">C</forename><surname>Sung</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">D W</forename><surname>Moulton; G</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">K</forename><surname>Miller</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Finley</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">ZOOLOGIA</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="477" to="482" />
+			<date type="published" when="2010-06">June, 2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Variation and integration of the simple mandibular postcanine dentition in two species of phocid seals</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">B</forename><surname>Stenson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Mammalogy</title>
+		<imprint>
+			<biblScope unit="volume">88</biblScope>
+			<biblScope unit="page" from="1325" to="1334" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<monogr>
+		<title level="m" type="main">Teeth</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Miyazaki</surname></persName>
+		</author>
+		<editor>W.F. PERRIN</editor>
+		<editor>B. WÜRSIG &amp; J.G.M. THEWISSEN</editor>
+		<imprint>
+			<date type="published" when="2002">2002</date>
+			<publisher>Academic Press</publisher>
+			<biblScope unit="page">1414</biblScope>
+			<pubPlace>San Diego</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">The primitive Eutherian dental formula</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Novacek</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Vertebrate Paleontology</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="191" to="196" />
+			<date type="published" when="1986">1986</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Nota sobre os Otariidae e Phocidae (Mammalia: Carnivora) da costa norte do Rio Grande do Sul e Santa Catarina, Brasil</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">C</forename><surname>Simões-Lopes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">J</forename><surname>Drehmer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">H</forename><surname>Ott</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Szuma</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Acta Theriologica</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="393" to="412" />
+			<date type="published" when="1995">1995. 1999</date>
+		</imprint>
+	</monogr>
+	<note>Biociências</note>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">The dental pathology of feral cats on Marion Island, Part II: periodontitis, resorption lesions and mandibular thickening</title>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">J M</forename><surname>Verstraete</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J A</forename><surname>Van Aarde; B</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Nieuwoudt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">H</forename><surname>Mauer</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Kass</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Comparative Pathology</title>
+		<imprint>
+			<biblScope unit="volume">115</biblScope>
+			<biblScope unit="page" from="283" to="297" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Tooth losses and anomalies in the wolf (Canis lupus)</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Vilà</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Urios</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Castroviejo</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Zoology</title>
+		<imprint>
+			<biblScope unit="volume">71</biblScope>
+			<biblScope unit="page" from="968" to="971" />
+			<date type="published" when="1993">1993</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">The origin of extra teeth in mammals</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Wolsan</surname></persName>
+		</author>
+		<idno>UFSC 1173</idno>
+	</analytic>
+	<monogr>
+		<title level="m">Arctocephalus australis (63). BRASIL, Santa Catarina: UFSC 1040, UFSC 1042, UFSC 1043, UFSC 1056, UFSC 1063, UFSC 1064, UFSC1096, UFSC 1111, UFSC 1113, UFSC 1131, UFSC 1133, UFSC 1228, UFSC 1260, UFSC 1263, UFSC 1272, UFSC 1276, UFSC 1278, UFSC 1282, UFSC 1283, UFSC 1305, UFSC 1318, UFSC 1320, UFSC 1323, UFSC 1325, UFSC1335, UFSC 1337, UFSC 1343, UFSC 1345, UFSC 1348</title>
+		<meeting><address><addrLine>Rio Grande do Sul; UFSC; UFSC</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1149">1984. 1149. 1151. 1154. 1156. 1157. 1158, 1159. 1167. 1169. 1170</date>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="page">1166</biblScope>
+		</imprint>
+	</monogr>
+	<note>UFSC</note>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<monogr>
+		<author>
+			<persName><forename type="first">Rocha</forename><surname>Uruguai</surname></persName>
+		</author>
+		<title level="m">UFSC 1057, UFSC 1273</title>
+		<meeting><address><addrLine>UFSC</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1274">1274</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<monogr>
+		<title level="m">Arctocephalus tropicalis (17). BRASIL, Santa Catarina: UFSC 1016, UFSC 1094, UFSC 1101, UFSC 1120, UFSC 1212, UFSC 1132, UFSC 1241, UFSC 1242, UFSC 1255, UFSC 1277, UFSC 1280, UFSC 1319, UFSC 1338, UFSC 1340, UFSC 1342</title>
+		<meeting><address><addrLine>Rio Grande do Sul; UFSC</addrLine></address></meeting>
+		<imprint>
+			<publisher>UFSC 1017</publisher>
+			<date type="published" when="1172">1172</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<monogr>
+		<idno>UFSC 1055</idno>
+		<title level="m">BRASIL, Santa Catarina: UFSC 1018, UFSC 1341. Rio Grande do Sul: UFSC 1134, UFSC 1138, UFSC 1140, UFSC 1152, UFSC 1161</title>
+		<meeting><address><addrLine>UFSC; URUGUAI, Rocha</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1171">1171</date>
+			<biblScope unit="volume">1162</biblScope>
+		</imprint>
+	</monogr>
+	<note>Otaria flavescens (11)</note>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

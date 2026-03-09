@@ -1,0 +1,901 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">A novel Orthonairovirus detected in grey seal (Halichoerus grypus)</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Elsevier BV</publisher>
+				<availability status="unknown"><p>Copyright Elsevier BV</p>
+				</availability>
+				<date type="published" when="2026-06">15 February 2026 2352</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><forename type="first">Mikael</forename><surname>Leijon</surname></persName>
+							<email>mikael.leijon@sva.se</email>
+							<affiliation key="aff0">
+								<orgName type="institution">Swedish Veterinary Agency</orgName>
+								<address>
+									<postCode>751 89</postCode>
+									<settlement>Uppsala</settlement>
+									<country key="SE">Sweden</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Louise</forename><surname>Guevara</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">Swedish Veterinary Agency</orgName>
+								<address>
+									<postCode>751 89</postCode>
+									<settlement>Uppsala</settlement>
+									<country key="SE">Sweden</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department" key="dep1">The Royal (Dick) School of Veterinary Studies</orgName>
+								<orgName type="department" key="dep2">The Roslin Institute</orgName>
+								<orgName type="institution">University of Edinburgh</orgName>
+								<address>
+									<postCode>EH25 9RG</postCode>
+									<settlement>Roslin</settlement>
+									<region>Midlothian</region>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Gustav</forename><surname>Averhed</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">Swedish Veterinary Agency</orgName>
+								<address>
+									<postCode>751 89</postCode>
+									<settlement>Uppsala</settlement>
+									<country key="SE">Sweden</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Moa</forename><surname>Naalisvaara Engman</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Fereshteh</forename><surname>Banihashem</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">Swedish Veterinary Agency</orgName>
+								<address>
+									<postCode>751 89</postCode>
+									<settlement>Uppsala</settlement>
+									<country key="SE">Sweden</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Linnea</forename><surname>Cervin</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="institution">Swedish Museum of Natural History</orgName>
+								<address>
+									<postCode>104 05</postCode>
+									<settlement>Stockholm</settlement>
+									<country key="SE">Sweden</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Britt-Marie</forename><surname>Bäcklin</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="institution">Swedish Museum of Natural History</orgName>
+								<address>
+									<postCode>104 05</postCode>
+									<settlement>Stockholm</settlement>
+									<country key="SE">Sweden</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Neil</forename><forename type="middle">E</forename><surname>Anderson</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department" key="dep1">The Royal (Dick) School of Veterinary Studies</orgName>
+								<orgName type="department" key="dep2">The Roslin Institute</orgName>
+								<orgName type="institution">University of Edinburgh</orgName>
+								<address>
+									<postCode>EH25 9RG</postCode>
+									<settlement>Roslin</settlement>
+									<region>Midlothian</region>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Siamak</forename><surname>Zohari</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">Swedish Veterinary Agency</orgName>
+								<address>
+									<postCode>751 89</postCode>
+									<settlement>Uppsala</settlement>
+									<country key="SE">Sweden</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Aleksija</forename><surname>Neimanis</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">Swedish Veterinary Agency</orgName>
+								<address>
+									<postCode>751 89</postCode>
+									<settlement>Uppsala</settlement>
+									<country key="SE">Sweden</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff3">
+								<orgName type="institution">Swedish University of Agricultural Sciences</orgName>
+								<address>
+									<postCode>750 07</postCode>
+									<settlement>Uppsala</settlement>
+									<country key="SE">Sweden</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">A novel Orthonairovirus detected in grey seal (Halichoerus grypus)</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">One Health</title>
+						<title level="j" type="abbrev">One Health</title>
+						<idno type="ISSN">2352-7714</idno>
+						<imprint>
+							<publisher>Elsevier BV</publisher>
+							<biblScope unit="volume">22</biblScope>
+							<biblScope unit="page">101363</biblScope>
+							<date type="published" when="2026-06">15 February 2026 2352</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">E931C716713BCDC39E78C7F84DEE9FB8</idno>
+					<idno type="DOI">10.1016/j.onehlt.2026.101363</idno>
+					<note type="submission">Received 8 October 2025; Received in revised form 13 February 2026; Accepted 14 February 2026</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.0" ident="GROBID" when="2026-03-09T17:18+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>Orthonairovirus Grey seal Systemic infection Baltic Sea</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>The Orthonairovirus genus is currently markedly expanding, with several recently detected species causing febrile disease in humans. Orthonairoviruses have tripartite, negative-sense RNA genomes, with the segments denoted according to size: S, M and L. They infect birds and mammals and are primarily transmitted by ectoparasite vectors such as ticks.</p><p>In April 2020, a dead grey seal pup was found in the Östhammar municipality on the Swedish coast of the Baltic Sea. Histological examination showed pathological disruption of the normal hepatic architecture caused by fatty degeneration, necrosis and inflammation suggestive of viral hepatitis. Deep sequencing of liver, spleen, lung and brain tissue revealed the presence of a novel orthonairovirus. The complete genome was determined and showed the closest similarity to the Yezo virus, originally detected in human patients with febrile disease on Hokkaido, Japan. Phylogenetic analysis shows that this virus, for the M and L segments, belongs to a clade where many members cause febrile disease in humans. Sequence similarity for the L-segment (90%) is below the ICTV species demarcation criterion, and the species name ' Östhammar virus' is therefore proposed.</p><p>Screening with qPCR of archived liver and spleen samples from stranded seals and, as a potential ectoparasitic vector, archived ethanol-fixed seal lice, which had been collected along the same coastline, was all negative. Future work should screen the tick population in the vicinity of where the seal pup was found and investigate whether there are unexplained febrile disease cases among the human population in the area.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="1.">Introduction</head><p>The class Bunyaviricetes (previously the order Bunyavirales) is a large group of RNA viruses with single-stranded negative sense, or ambisense, and segmented, mainly tripartite, genomes subdivided into the orders Elliovirales and Hareavirales <ref type="bibr" target="#b0">[1]</ref>. Bunyaviruses infect a broad range of hosts and are often vector-borne and zoonotic <ref type="bibr" target="#b1">[2]</ref>. The Nairoviridae family belongs to the Hareavirales order and is maintained and transmitted by arthropods, mainly among birds, bats, and reptiles but also among mammals, including humans <ref type="bibr" target="#b2">[3]</ref>. Among the seven Nairoviridae genera, the Norwavirus genus <ref type="bibr" target="#b3">[4]</ref> and the large Orthonairovirus genus, which currently encompasses 64 classified species <ref type="bibr" target="#b4">[5]</ref>(https://ictv.globa l/report/chapter/nairoviridae/nairoviridae/orthonairovirus, accessed 2025-08-27), include viruses that can cause febrile illness in humans and livestock. Orthonairoviruses are enveloped viruses with the three segments denoted as small (S), medium (M), and large (L) gene segments. These three segments encode for, in order, the nucleoprotein (N), glycoproteins (GP, Gn, and Gc subunits), and RNA-dependent RNA polymerase (RdRp), respectively. Orthonairoviruses are predominantly tickborne and are distinguished based on their respective dominant vector, soft ticks (family Argasidae) or hard ticks (family Ixodidae) <ref type="bibr" target="#b5">[6,</ref><ref type="bibr" target="#b6">7]</ref>.</p><p>From a public health perspective, the Crimean-Congo haemorrhagic fever virus (CCHFV) is the most important orthonairovirus, with an estimated 10,000-15,000 human infections each year and a case fatality rate of 5-30% <ref type="bibr" target="#b7">[8]</ref>. In humans CCHFV can cause systemic infection, and except in blood, the virus can also be found in saliva and urine <ref type="bibr" target="#b8">[9,</ref><ref type="bibr" target="#b9">10]</ref>.</p><p>Furthermore, although rare, human-to-human transmission can occur <ref type="bibr" target="#b10">[11]</ref>. Many other animals can become asymptomatically infected by CCHFV <ref type="bibr" target="#b11">[12]</ref>, but as far as is currently known, only humans develop disease. On the other hand, Nairobi sheep disease virus (NSDV), which is eponymous for the Nairoviridae family, and the closely related Ganjam virus are significant pathogens for small ungulates <ref type="bibr" target="#b12">[13]</ref> and also have zoonotic potential <ref type="bibr" target="#b13">[14,</ref><ref type="bibr" target="#b14">15]</ref>. Furthermore, several studies have shown various orthonairoviruses, which can spill over from their natural host and infect humans, causing illnesses <ref type="bibr" target="#b15">[16]</ref><ref type="bibr" target="#b16">[17]</ref><ref type="bibr" target="#b17">[18]</ref><ref type="bibr" target="#b18">[19]</ref>. Recently there have been several outbreaks of febrile illness among humans caused by novel orthonairoviruses such as the Sōnglǐng virus <ref type="bibr" target="#b19">[20]</ref>, the Yezo virus <ref type="bibr" target="#b20">[21]</ref>, the Wetland virus <ref type="bibr" target="#b21">[22]</ref>, and the Xue-Cheng virus <ref type="bibr" target="#b22">[23]</ref>. Otherwise, to our knowledge, no other large mammals have been reported to acquire serious illness from orthonairovirus infection.</p><p>Surveillance of seals has been part of the national environmental monitoring in Sweden since 1989. Grey seals, harbour seals and ringed seals have been observed and monitored by the Swedish Museum of Natural History (SMNH) through post-mortem examination studies and aerial population surveys <ref type="bibr" target="#b23">[24]</ref>. Since 2020, through the directive of the Swedish Agency for Marine and Water Management (SwAM), surveillance programmes have been carried out on seals in the Baltic Sea by the SMNH and the Swedish Veterinary Agency (SVA). During these surveillance activities in April 2020, a male grey seal pup was found dead on the shore of the Baltic Sea outside Öregrund in the county of Uppsala. Necropsy examination of the seal pup revealed pathological changes consistent with viral hepatitis. Unexpectedly, metagenomic deep sequencing of the liver tissue showed high levels of a novel orthonairovirus. Here, we characterise this virus and screen for its presence in archived samples from Baltic Sea seal populations.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.">Materials and methods</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.1.">Necropsy</head><p>Post-mortem examination of the grey seal pup was performed two days after arrival, following standard necropsy protocols at SVA. To assess nutritional condition, blubber thickness was measured at standard sites, including over the sternum on the ventral midline. Samples for histological examination were collected from the liver, lung, kidney, stomach, intestine, nasal mucosa, and brain and fixed in 10% neutral buffered formalin. These formalin-fixed tissues were processed and embedded in paraffin. Sections 3-4 μm thick were stained with Mayer's haematoxylin and eosin for microscopic analysis <ref type="bibr" target="#b24">[25]</ref>. Samples for molecular analyses from the brain, lung, liver, kidney, and spleen were frozen at -20 • C. A sub-sample of spleen was later thawed, fixed in formalin and processed as above for microscopic examination.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.2.">Virus cultivation</head><p>Approximately 1 g of organ tissue was cut into small pieces using a scalpel blade. The pieces were placed into a suitable tube and homogenised in 2 mL of cell culture media using 3 mm stainless steel beads (2-5 beads/tube) by high-speed shaking for 2 min at 20 Hz in a tissue lyser. The tube was incubated at room temperature for 5 min, vortexed for 10 s, and centrifuged at 8000 ×g for 15 min at 4 • C. The supernatant was transferred to a new tube and stored at -80 • C until further use. The homogenate obtained from the liver sample was lightly vortexed and centrifuged at 10,000 ×g for 10 min at 4 • C. The supernatant was diluted 1:10 in Eagle's Minimum Essential Medium (EMEM) for inoculation onto Vero E6 cells (ATCC Cat# CRL-1586, American Type Culture Collection, Manassas, VA, USA) and in ATCC-formulated F-12 K Medium (ATCC  for inoculation onto A549 cells (ATCC Cat# CCL-185™), with both cell cultures grown in 25 cm 2 flasks. Inoculated flasks were incubated in a humidified, 5% CO₂ incubator at 37 • C for 2 h to allow the inoculum to adsorb. After the 2 h incubation, the inoculum was discarded, cells were washed twice with PBS, and 4 mL of cell medium, supplemented with 2% fetal bovine serum and antibiotics (penicillin/ streptomycin), was added. The cell cultures were maintained at 37 • C and 5% CO₂ and observed daily for cytopathic effect (CPE). After 7 days, the passaging was performed by transferring 1 mL of the supernatant to fresh cultures. During the second passage, 300 μL of cell supernatant was collected and replaced with an equal volume of cell medium at 24, 48, 72, and 96 h post passage. RNA was extracted from the collected supernatant and subjected to RT-qPCR amplification. The infected cells were harvested after seven days of incubation and lysed by three freezethaw cycles. The supernatant was collected by centrifugation at 10,000 ×g for 10 min at 4 • C. Positive results were determined by the presence of cytopathic effect and were confirmed by RT-qPCR.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.3.">Nucleic acids extraction and deep sequencing</head><p>Nucleic acids were extracted using Viral NA Magnetic Beads kits in an Arrow™ extraction robot (DiaSorin, Saluggia, Italy). For the extraction, 250 μL of the organ homogenate was digested with 10 μL of ≥800 U/mL proteinase K (Sigma-Aldrich, Saint Louis, MO, USA) and run in the extraction robot according to the manufacturer's recommendations.</p><p>Library construction was performed using the NEXTERA-XT kit (Illumina Inc., San Diego, CA, USA) following the manufacturer's instructions. The Agilent 2100 Bioanalyzer (Agilent Technologies, Santa Clara, CA, USA) was used to assess the quality of the obtained libraries. The libraries were sequenced on a MiSeq Instrument (Illumina Inc., San Diego, CA, USA) using a MiSeq Reagent Kit v3 in a 2 × 300-cycle pairedend run.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.4.">Bioinformatics</head><p>The paired-end reads were quality trimmed using Trimmomatic v. 0.39 <ref type="bibr" target="#b25">[26]</ref> with a sliding window of four nucleotides, and an average quality score of 15 was required. The trimmed reads were assembled using Megahit v. 1.2.9 <ref type="bibr" target="#b26">[27]</ref>. The assembled contigs were then taxonomically classified using DIAMOND v. 2.1.11 <ref type="bibr" target="#b27">[28]</ref> with a database for classification created using the NCBI nr database of GenBank release 248 and the corresponding NCBI taxonomy databases. Maximum likelihood phylogeny was calculated using the CLC genomics workbench 24.0.2 (Qiagen Aarhus A/S, Denmark) with the following parameters: a neighbour-joining start tree was used with the Whelan and Goldman amino acid substitution model using a transition/transversion ratio of 2, 4 substitution rate categories and a gamma distribution parameter of 1. Bootstrap support was calculated using 1000 replicates.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.5.">PCR screening 2.5.1. Nucleic acids extraction</head><p>To investigate the wider occurrence of this novel orthonairovirus in seals, frozen archived tissue samples from the liver and spleen of 38 grey seals, 10 harbour seals and one ringed seal, stranded along the coasts of the Baltic Sea between 2019 and 2024, were investigated. The tissue samples were thawed and sterilely sub-sampled with the Copan Liquid Amies Elution Swab (ESwab®) Collection and Transport System and stored at -70 • C until further use. For nucleic acid extraction, the ESwab tube, containing the swab, was mixed and vortexed by shaking it gently for at least 5 s. The material was then left to settle at room temperature, after which 200 μL of the sample was transferred to a deep 96-well plate and 20 μL of proteinase K was added. For total nucleic acid extraction, the IndiMag Pathogen Kit (Indical Bioscience, Leipzig, Germany) was used on a Maelstrom 9600 (TANBead, Taoyan City, Taiwan) nucleic acid extraction robot.</p><p>Because ticks have not been documented on seals, the blood-sucking seal louse (Echinophthirius horridus) was investigated as a potential orthonairovirus vector. Forty-six samples of seal lice, collected from 35 grey seal and 11 harbour seal carcasses between 2004 and 2024 and fixed in 70% ethanol, were investigated. Nucleic acid extraction of the seal lice was carried out as follows. The ethanol was removed by pipetting. The sample was left to air dry for 30 min, followed by gentle washing by pipetting 500 μL water three times, and after a one-minute delay, the water was removed. Then 500 μL of TE buffer (Thermo Fisher Scientific) and 20 μL of Proteinase K were added, and the sample was freeze-thawed twice at -70 • C. Between 2 and 5 beads (2 mm steel beads and 3 mm ceramic beads) were added to the sample, which was then vigorously vortexed for 10 s and homogenised by a 20 Hz Qiagen Tissue-Lyser for 2 min. This procedure was repeated if the sample was insufficiently homogenised. The sample was then kept at room temperature for 5 min, vortexed for 10 s and again kept at room temperature for 5 min before centrifugation at 8000 ×g for 15 min at 4 • C. Nucleic acid extraction, as described above, was done using 200 μL of the supernatant.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.5.2.">Real-time reverse transcription PCR</head><p>PCR primers (fwd.: 5'ACCGCAAAGTATGGTCCAGG, rev.: 5'GGCCCATACTCCCGAACAAA) and a TaqMan™ probe (FAM-TCAAGTCTCAGGACAGCAGG-BHQ1), targeting the L-segment of the novel orthonairovirus, were designed using the Primer3 interface of NCBI (https://www.ncbi.nlm.nih.gov/tools/primer-blast/), under the criteria to be specific with respect to ticks and mammals. The candidate systems hereby obtained were further analysed for specificity relative to other orthonairoviruses using the CLC Genomics Workbench </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.">Results</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.1.">Macroscopic pathology</head><p>The male grey seal pup was 110 cm long and weighed 12.5 kg. Sternal blubber thickness was 9 mm, bony protuberances were prominent, and there were no visible internal fat stores, indicative of very poor nutritional condition. According to the size and the date when the pup was found, it was estimated to be approximately two months old. The main findings were puncture wounds in the facial region consistent with bite wounds. Five circular to oblong penetrating wounds (0.5-1 cm in diameter) were observed over the rostral region of the face, several of which were infected and exuded yellow purulent material (Fig. <ref type="figure" target="#fig_1">1</ref>). The sinuses were also moderately filled with pus, indicative of sinusitis. Except for mild to moderate gastrointestinal parasitism, all other organs were unremarkable.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.2.">Histopathology</head><p>All fixed tissues collected were examined microscopically, and all examined organs were severely and diffusely congested. The most significant findings were seen in the liver. There was severe, diffuse hepatocellular vacuolation consistent with fatty degeneration (Fig. <ref type="figure" target="#fig_2">2</ref>). This, combined with areas of hepatocellular rupture, single-cell necrosis, loss of hepatocytes and probable haemorrhage, disrupted the normal hepatic architecture. Hepatocellular nuclei were enlarged and often contained a large, prominent, eosinophilic nucleolus. There was infiltration of moderate numbers of mononuclear cells (lymphocytes, plasma cells and macrophages), and sporadically, some of these larger cells contained indistinct, amphophilic material in the nucleus reminiscent of inclusion bodies (Fig. <ref type="figure" target="#fig_3">3</ref>). Focal parasitic inflammation was seen in the intestine. Except for severe congestion, no significant findings were observed in the kidney, lung, brain, stomach or nasal mucosa. Freezing artefacts precluded detailed microscopic examination of the spleen.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.3.">Virus culture</head><p>The inoculum induced a CPE in both cell lines, beginning 2-4 days post-inoculation at the second passage. RT-qPCR analyses of cell culture  supernatants, collected at 24, 48, 72, and 96 h post-passage, showed progressively lower CT-values of 32, 27, 24, and 19, respectively, for the Vero cells and similar values for the A549 cells (data not shown). This indicates the presence of increasing amounts of the novel orthonairovirus.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.4.">Metagenomic sequencing</head><p>Samples from the liver, spleen, lung and brain were subjected to deep sequencing. Contigs classified as orthonairovirus were found in all tissues except the brain, with the largest amount of viral nucleic acids found in the liver. From the liver sample, three segments with lengths of 1686, 4180 and 12,196 nucleotides were obtained and carried a single and complete open reading frame each, as expected for orthonairoviruses. The sequences have been deposited at GenBank with accession numbers PX251549-51. The read coverage for all three segments was high, with a calculated Lander-Waterman value <ref type="bibr" target="#b28">[29]</ref> of over 370× and a minimum of 8× coverage per nucleotide. As shown in the phylogenetic trees of Fig. <ref type="figure" target="#fig_4">4</ref>, the virus from the grey seal consistently groups with the Yezo and Sulina viruses, with the highest similarity to the Yezo viruses. Currently, there are 44-45 complete Yezo virus CDs each for the three segments in GenBank (accessed 2025-08-25). The amino acid identity for the three the nairoviruses segments of the virus detected in the grey seal are in the ranges 88.05-88.65%, 74.74-75.11% and 89.16-90.2% for the S, M and L segments, respectively. According to the ICTV species demarcation criterion for orthonairoviruses, an amino acid identity below 93% for the L segment represents a new species (https://ictv. global/report/chapter/nairoviridae/nairoviridae/orthonairovirus). Given that the L amino acid identity of the herein described virus is less than or equal to 90.2% for all available Yezo virus sequences, it should be considered a new species. Since the grey seal pup was found in the Östhammar municipality of Uppsala County in Sweden, we propose the virus name ' Östhammar virus' and the species name Orthonairovirus östhammarense.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.5.">RT-qPCR screening of seals and seal lice</head><p>Screening of seal tissues and seal lice was performed using RT-qPCR to investigate the wider occurrence of this novel orthonairovirus in Baltic Sea seals and their ectoparasites. The locations of the sampled seals and lice are shown in Fig. <ref type="figure" target="#fig_5">5</ref>. PCR results were in all cases negative for these samples although the positive control, as expected, gave a positive result.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.">Discussion</head><p>Orthonairoviruses are tick-borne pathogens capable of infecting a broad range of birds and mammals <ref type="bibr" target="#b6">[7]</ref>, but this is, to our knowledge, the first time an orthonairovirus has been found to infect a marine mammal. The ultimate death of the grey seal pup, which was in extremely poor nutritional condition and had bite wounds in the facial region, may have been multifactorial. However, the systemic orthonairovirus infection, which at least involved the liver, spleen, and lungs, was a major underlying cause. Severe pathology was observed in the liver, manifested by severe hepatic degeneration, necrosis, lipidosis and lymphoplasmacytic inflammation. Targeting of the liver and similar pathological lesions has been described in mouse infection models of other orthonairoviruses <ref type="bibr" target="#b21">[22,</ref><ref type="bibr" target="#b29">30]</ref>. The liver tissue contained large amounts of virus, allowing the determination of the complete genome of all three viral segments with deep sequencing. The presence of an active virus was shown by the CPEs observed in both Vero E6 and A546 cell cultures that had been inoculated with diluted liver homogenates. Progressively larger amounts of virus over a period of four days following passaging were demonstrated by RT-qPCR. Phylogenetic comparison with other orthonairoviruses showed the highest similarity to the Yezo virus and the Sulina virus. The Yezo virus was first identified on Hokkaido, Japan <ref type="bibr" target="#b20">[21]</ref>, while the Sulina virus was found in Ixodes ricinus ticks in the Danube delta, Romania <ref type="bibr" target="#b30">[31]</ref>. For the M and L segments, the herein described virus, the Yezo virus and the Sulina virus form a clade together with the Tacheng tick virus 1 <ref type="bibr" target="#b31">[32]</ref>, the Xue-Cheng virus <ref type="bibr" target="#b22">[23]</ref> and the Songling virus <ref type="bibr" target="#b19">[20]</ref>. These viruses form a Eurasian clade (Fig. <ref type="figure" target="#fig_4">4</ref>), and all except the Sulina virus, which has currently only been detected in ticks, cause febrile disease in humans or, in the case of the Östhammar virus, lethal disease in a seal pup. Recently a tick screening study found variants of the Sulina virus and the Tacheng tick virus 1 in Latvia and Poland, respectively <ref type="bibr" target="#b32">[33]</ref>. These observations taken together suggest that the prevalence of potentially pathogenic orthonairovirus in northeastern Europe may be underestimated and may pose a hitherto unknown health threat to humans and other mammals.</p><p>Despite screening liver and spleen samples from 49 seals (collected 2019-2024) and seal lice from 46 seals (collected 2004-2024) at collection sites that extended both northward and southward along the Swedish Baltic Sea coastline from where the infected seal pup was found (Fig. <ref type="figure" target="#fig_5">5</ref>), the novel orthonairovirus was not detected in any of these samples. Transmission from another seal, potentially through the bite wounds, cannot be excluded, as seen with CCHFV, which has been detected in saliva <ref type="bibr" target="#b8">[9,</ref><ref type="bibr" target="#b9">10]</ref>. Nonetheless, the problem of how the virus entered the seal population still remains. The negative screening results could be attributed to several factors: the limited stability of RNA viruses in dead tissue, the small sample size of seals and lice analysed, a single spillover event, the wide geographic area from which samples were collected and the possibility that seal louse is not a vector for the virus. In the Nordic region, blood-sucking Diptera of the Tabanidae, Hippoboscidae, Culicidae, Simuliidae, Ceratopogonidae, Muscidae, and Rhagionidae families are present and may potentially act as vectors. However, their association with and impact on seal colonies have not, to our knowledge, been studied. Furthermore, although some members within the Nairoviridae family infect other arthropods <ref type="bibr" target="#b6">[7]</ref>, all viruses within the orthonairovirus genus detected in arthropods have been identified exclusively in either hard or soft ticks (https://ictv.global/report/chapte r/nairoviridae/nairoviridae/orthonairovirus). Consequently, crucial next steps are to conduct a comprehensive screening of ticks in the coastal area near where the seal pup was discovered to assess the prevalence of the novel orthonairovirus within the tick population. Additionally, investigating the occurrence of unexplained fever in the local human population is also warranted.  </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Funding</head><p>Sweden's health and disease surveillance program for marine mammals is funded by the Swedish Agency for Marine and Water Management as part of Sweden's environmental monitoring.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Declaration of competing interest</head><p>All the authors declare that they have no competing interests. </p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head></head><label></label><figDesc>24 (CLC bio, Aarhus, Denmark). A 150 nt synthetic DNA sequence (Eurofins Genomic, Denmark), covering the PCR target region, was used as a positive control, and molecular-grade water as a non-template control. The PCR experiments were carried out using the AG-Path-ID™ One-Step RT-PCR Kit (Thermo Fisher Scientific) with primer and probe at final concentrations of 15 μM and 5 μM, respectively, on a Bio-Rad C1000™ Thermal Cycler with a CFX96™ Real-Time System using the thermal profile: 45 • C for 10 min, 95 • C for 10 min, and 47 cycles of 95 • C for 15 s and 60 • C for 45 s.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Fig. 1 .</head><label>1</label><figDesc>Fig. 1. Bite wounds exuding purulent material on the rostrum of the grey seal pup (Halichoerus grypus) in extremely poor nutritional condition found stranded on the east coast of Sweden on April 20, 2020.</figDesc><graphic coords="3,326.64,55.85,210.27,316.57" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Fig. 2 .</head><label>2</label><figDesc>Fig. 2. Photomicrograph of liver at 200× magnification showing severely disrupted architecture. Insert: Normal liver from another seal as a comparison. HE stain.</figDesc><graphic coords="3,310.14,430.44,243.60,183.60" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head>Fig. 3 .</head><label>3</label><figDesc>Fig. 3. Photomicrograph of liver at 400× magnification showing vacuolation of hepatocytes (black asterisk), lymphoplasmacytic inflammation (white arrow), and amphophilic intranuclear material in cells of probable histiocytic origin (white arrowhead). HE stain.</figDesc><graphic coords="4,41.19,55.79,243.72,180.62" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4"><head>Fig. 4 .</head><label>4</label><figDesc>Fig. 4. Maximum likelihood phylogenetic trees were constructed for selected orthonairoviruses. The trees were inferred from an alignment of the complete amino acid sequences of the three orthonairovirus segments: S (nucleoprotein), M (glycoprotein precursor), and L (RNA-dependent RNA polymerase). The novel Östhammar virus is highlighted with an asterisk (*). The outgroup included Sānxiá water strider virus 1, Shāyáng spider virus 1, and Xīnzhōu spider virus, which belong to the genera Striwavirus, Shaspivirus, and Xinspivirus, respectively. Bootstrap values were determined using 1000 replicates and are shown at the nodes.</figDesc><graphic coords="5,48.16,55.90,498.24,624.53" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_5"><head>Fig. 5 .</head><label>5</label><figDesc>Fig. 5. Map of locations of sampled seals and lice. The grey seal infected with orthonairovirus is denoted by a red cross in a white circle. Red and blue symbols show the locations of grey seals (Halichoerus grypus) and harbour seals (Phoca vitulina), respectively. The single black symbol, partly overlapped by the red cross, shows the location of the ringed seal (Pusa hispida hispida). Circles indicate sites of stranded seals from which organs were analysed, and triangles show sites of seals from which lice were collected. Map data from "Open Street Map", openstreetmap.org/copyright. (For interpretation of the references to colour in this figure legend, the reader is referred to the web version of this article.)</figDesc><graphic coords="6,41.19,56.07,243.84,267.36" type="bitmap" /></figure>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head>Acknowledgements</head><p>We would like to thank all colleagues involved with seal necropsies and sample collection at SVA and NRM. We also are grateful to everyone who reported and submitted seal carcasses and samples to the marine mammal surveillance program.</p></div>
+			</div>
+			<div type="availability">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Data availability</head><p>The genome sequences are available at GenBank with accession numbers PX251549-51.</p></div>
+			</div>
+
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Promotion of order Bunyavirales to class Bunyaviricetes to accommodate a rapidly increasing number of related polyploviricotine viruses</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Kuhn</surname></persName>
+		</author>
+		<idno type="DOI">10.1128/jvi.01069-24</idno>
+		<ptr target="https://doi.org/10.1128/jvi.01069-24" />
+	</analytic>
+	<monogr>
+		<title level="j">J. Virol</title>
+		<imprint>
+			<biblScope unit="volume">98</biblScope>
+			<biblScope unit="issue">10</biblScope>
+			<biblScope unit="page">106924</biblScope>
+			<date type="published" when="2024">2024</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Bunyavirales: scientific gaps and prototype pathogens for a large and diverse group of zoonotic viruses</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">L</forename><surname>Hartman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">J</forename><surname>Myler</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/infdis/jiac338</idno>
+		<ptr target="https://doi.org/10.1093/infdis/jiac338" />
+	</analytic>
+	<monogr>
+		<title level="j">J. Infect. Dis</title>
+		<imprint>
+			<biblScope unit="volume">228</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="376" to="S389" />
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+	<note>Suppl.</note>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">ICTV virus taxonomy profile: Nairoviridae 2024</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Kuhn</surname></persName>
+		</author>
+		<idno type="DOI">10.1099/jgv.0.001974</idno>
+		<ptr target="https://doi.org/10.1099/jgv.0.001974" />
+	</analytic>
+	<monogr>
+		<title level="j">J. Gen. Virol</title>
+		<imprint>
+			<biblScope unit="volume">105</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<date type="published" when="2024">2024</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">A new nairo-like virus associated with human febrile illness in China</title>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">C</forename><surname>Wang</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/22221751.2021.1936197</idno>
+		<ptr target="https://doi.org/10.1080/22221751.2021.1936197" />
+	</analytic>
+	<monogr>
+		<title level="j">Emerg. Microbes Infect</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="1200" to="1208" />
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<monogr>
+		<ptr target="https://ictv.global/report/chapter/nairoviridae/nairoviridae/orthonairovirus" />
+		<title level="m">Genus: Orthonairovirus</title>
+		<imprint>
+			<publisher>ICTV</publisher>
+			<date type="published" when="2026">2026</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">The high genetic variation of viruses of the genus Nairovirus reflects the diversity of their predominant tick hosts</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">E</forename><surname>Honig</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Osborne</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">T</forename><surname>Nichol</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.virol.2003.09.021</idno>
+		<ptr target="https://doi.org/10.1016/j.virol.2003.09.021" />
+	</analytic>
+	<monogr>
+		<title level="j">Virology</title>
+		<imprint>
+			<biblScope unit="volume">318</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="10" to="16" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">A global genomic characterization of Nairoviruses identifies nine discrete Genogroups with distinctive structural characteristics and host-vector associations</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">J</forename><surname>Walker</surname></persName>
+		</author>
+		<idno type="DOI">10.4269/ajtmh.15-0917</idno>
+		<ptr target="https://doi.org/10.4269/ajtmh.15-0917" />
+	</analytic>
+	<monogr>
+		<title level="j">Am. J. Trop. Med. Hyg</title>
+		<imprint>
+			<biblScope unit="volume">94</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="1107" to="1122" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Crimean-Congo hemorrhagic fever virus and Nairoviruses of medical importance (Nairoviridae)</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Mirazimi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Burt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Papa</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Viruses as Infectious Agents: Human and Animal Viruses</title>
+		<editor>
+			<persName><forename type="first">D</forename><forename type="middle">H</forename><surname>Bamford</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">M</forename><surname>Zuckerman</surname></persName>
+		</editor>
+		<imprint>
+			<publisher>Academic Press</publisher>
+			<date type="published" when="2021">2021</date>
+			<biblScope unit="page" from="208" to="217" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Detection of Crimean-Congo hemorrhagic fever virus genome in saliva and urine</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Bodur</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.ijid.2009.04.018</idno>
+		<ptr target="https://doi.org/10.1016/j.ijid.2009.04.018" />
+	</analytic>
+	<monogr>
+		<title level="j">Int. J. Infect. Dis</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="247" to="e249" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Crimean-Congo hemorrhagic fever virus kinetics in serum, saliva, and urine, Iran, 2018</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Metanat</surname></persName>
+		</author>
+		<idno type="DOI">10.3201/eid3008.240036</idno>
+		<ptr target="https://doi.org/10.3201/eid3008.240036" />
+	</analytic>
+	<monogr>
+		<title level="j">Emerg. Infect. Dis</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="issue">8</biblScope>
+			<biblScope unit="page" from="1706" to="1709" />
+			<date type="published" when="2024">2024</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Towards a sustainable one health approach to Crimean-Congo hemorrhagic fever prevention: focus areas and gaps in knowledge</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">E</forename><surname>Sorvillo</surname></persName>
+		</author>
+		<idno type="DOI">10.3390/tropicalmed5030113</idno>
+		<ptr target="https://doi.org/10.3390/tropicalmed5030113" />
+	</analytic>
+	<monogr>
+		<title level="j">Trop. Med. Infect. Dis</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Seroepidemiological studies of Crimean-Congo hemorrhagic fever virus in domestic and wild animals</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Spengler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Bergeron</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">E</forename><surname>Rollin</surname></persName>
+		</author>
+		<idno type="DOI">10.1371/journal.pntd.0004210</idno>
+		<ptr target="https://doi.org/10.1371/journal.pntd.0004210" />
+	</analytic>
+	<monogr>
+		<title level="j">PLoS Negl. Trop. Dis</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page">4210</biblScope>
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Nairobi sheep disease virus, an important tick-borne pathogen of sheep and goats in Africa, is also present in Asia</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">I</forename><surname>Marczinke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">T</forename><surname>Nichol</surname></persName>
+		</author>
+		<idno type="DOI">10.1006/viro.2002.1514</idno>
+		<ptr target="https://doi.org/10.1006/viro.2002.1514" />
+	</analytic>
+	<monogr>
+		<title level="j">Virology</title>
+		<imprint>
+			<biblScope unit="volume">303</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="146" to="151" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Isolation of Ganjam virus from a human case of febrile illness: a report of a laboratory infection and serological survey of human sera from three different states of India</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">N</forename><surname>Dandawate</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Indian J. Med. Res</title>
+		<imprint>
+			<biblScope unit="volume">57</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="975" to="982" />
+			<date type="published" when="1969">1969</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Laboratory infections with Ganjam virus</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">V</forename><surname>Rao</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Indian J. Med. Res</title>
+		<imprint>
+			<biblScope unit="volume">74</biblScope>
+			<biblScope unit="page" from="319" to="324" />
+			<date type="published" when="1981">1981</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Outbreak of arbovirus infection in the Tadzhik SSR due to the Issyk-Kul virus (Issyk-Kul fever)</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">D</forename><surname>Vov</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Vopr. Virusol</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="89" to="92" />
+			<date type="published" when="1984">1984</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Kasokero virus: a new human pathogen from bats (Rousettus aegyptiacus) in Uganda</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Kalunda</surname></persName>
+		</author>
+		<idno type="DOI">10.4269/ajtmh.1986.35.387</idno>
+		<ptr target="https://doi.org/10.4269/ajtmh.1986.35.387" />
+	</analytic>
+	<monogr>
+		<title level="j">Am. J. Trop. Med. Hyg</title>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="387" to="392" />
+			<date type="published" when="1986">1986</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Investigation of tick-borne viruses as pathogens of humans in South Africa and evidence of Dugbe virus infection in a patient with prolonged thrombocytopenia</title>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">J</forename><surname>Burt</surname></persName>
+		</author>
+		<idno type="DOI">10.1017/s0950268800052687</idno>
+		<ptr target="https://doi.org/10.1017/s0950268800052687" />
+	</analytic>
+	<monogr>
+		<title level="j">Epidemiol. Infect</title>
+		<imprint>
+			<biblScope unit="volume">116</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="353" to="361" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Genetic characterization of Erve virus, a European Nairovirus distantly related to Crimean-Congo hemorrhagic fever virus</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Dilcher</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s11262-012-0796-8</idno>
+		<ptr target="https://doi.org/10.1007/s11262-012-0796-8" />
+	</analytic>
+	<monogr>
+		<title level="j">Virus Genes</title>
+		<imprint>
+			<biblScope unit="volume">45</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="426" to="432" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Identification of a new orthonairovirus associated with human febrile illness in China</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Ma</surname></persName>
+		</author>
+		<idno type="DOI">10.1038/s41591-020-01228-y</idno>
+		<ptr target="https://doi.org/10.1038/s41591-020-01228-y" />
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Med</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="434" to="439" />
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">A novel nairovirus associated with acute febrile illness in Hokkaido, Japan</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Kodama</surname></persName>
+		</author>
+		<idno type="DOI">10.1038/s41467-021-25857-0</idno>
+		<ptr target="https://doi.org/10.1038/s41467-021-25857-0" />
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Commun</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page">5539</biblScope>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">A new Orthonairovirus associated with human febrile illness</title>
+		<author>
+			<persName><forename type="first">X</forename><forename type="middle">A</forename><surname>Zhang</surname></persName>
+		</author>
+		<idno type="DOI">10.1056/NEJMoa2313722</idno>
+		<ptr target="https://doi.org/10.1056/NEJMoa2313722" />
+	</analytic>
+	<monogr>
+		<title level="j">N. Engl. J. Med</title>
+		<imprint>
+			<biblScope unit="volume">391</biblScope>
+			<biblScope unit="issue">9</biblScope>
+			<biblScope unit="page" from="821" to="831" />
+			<date type="published" when="2024">2024</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Human infection with a novel Tickborne Orthonairovirus species in China</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">Z</forename><surname>Zhang</surname></persName>
+		</author>
+		<idno type="DOI">10.1056/NEJMc2410853</idno>
+		<ptr target="https://doi.org/10.1056/NEJMc2410853" />
+	</analytic>
+	<monogr>
+		<title level="j">N. Engl. J. Med</title>
+		<imprint>
+			<biblScope unit="volume">392</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="200" to="202" />
+			<date type="published" when="2025">2025</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Pathological Changes in Seals in Swedish Waters: The Relation to Environmental Pollution</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Bergman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Tendencies during a 25-Year Period</title>
+		<meeting><address><addrLine>Uppsala, Sweden</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2007">2007</date>
+		</imprint>
+		<respStmt>
+			<orgName>Swedish University of Agricultural Sciences</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<monogr>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">D</forename><surname>Bancroft</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">C</forename><surname>Cook</surname></persName>
+		</author>
+		<title level="m">Manual of Histological Techniques and Their Diagnostic Application</title>
+		<meeting><address><addrLine>Edinburgh, UK</addrLine></address></meeting>
+		<imprint>
+			<publisher>Churchill Livingstone</publisher>
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Trimmomatic: a flexible trimmer for Illumina sequence data</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Bolger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Lohse</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Usadel</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/bioinformatics/btu170</idno>
+		<ptr target="https://doi.org/10.1093/bioinformatics/btu170" />
+	</analytic>
+	<monogr>
+		<title level="j">Bioinformatics</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="issue">15</biblScope>
+			<biblScope unit="page" from="2114" to="2120" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">MEGAHIT v1.0: a fast and scalable metagenome assembler driven by advanced methodologies and community practices</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Li</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.ymeth.2016.02.020</idno>
+		<ptr target="https://doi.org/10.1016/j.ymeth.2016.02.020" />
+	</analytic>
+	<monogr>
+		<title level="j">Methods</title>
+		<imprint>
+			<biblScope unit="volume">102</biblScope>
+			<biblScope unit="page" from="3" to="11" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Sensitive protein alignments at tree-of-life scale using DIAMOND</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Buchfink</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Reuter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">G</forename><surname>Drost</surname></persName>
+		</author>
+		<idno type="DOI">10.1038/s41592-021-01101-x</idno>
+		<ptr target="https://doi.org/10.1038/s41592-021-01101-x" />
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Methods</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="366" to="368" />
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Genomic mapping by fingerprinting random clones: a mathematical analysis</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">S</forename><surname>Lander</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">S</forename><surname>Waterman</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/0888-7543(88)90007-9</idno>
+		<ptr target="https://doi.org/10.1016/0888-7543(88)90007-9" />
+	</analytic>
+	<monogr>
+		<title level="j">Genomics</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="231" to="239" />
+			<date type="published" when="1988">1988</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Establishment of a lethal mouse model of emerging tick-borne orthonairovirus infections</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Ariizumi</surname></persName>
+		</author>
+		<idno type="DOI">10.1371/journal.ppat.1012101</idno>
+		<ptr target="https://doi.org/10.1371/journal.ppat.1012101" />
+	</analytic>
+	<monogr>
+		<title level="j">PLoS Pathog</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page">1012101</biblScope>
+			<date type="published" when="2024">2024</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Discovery and genetic characterization of a novel orthonairovirus in Ixodes ricinus ticks from Danube Delta</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Tomazatos</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.meegid.2021.104704</idno>
+		<ptr target="https://doi.org/10.1016/j.meegid.2021.104704" />
+	</analytic>
+	<monogr>
+		<title level="j">Infect. Genet. Evol</title>
+		<imprint>
+			<biblScope unit="volume">88</biblScope>
+			<biblScope unit="page">104704</biblScope>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">A tentative Tamdy Orthonairovirus related to febrile illness in northwestern China</title>
+		<author>
+			<persName><forename type="first">X</forename><surname>Liu</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/cid/ciz602</idno>
+		<ptr target="https://doi.org/10.1093/cid/ciz602" />
+	</analytic>
+	<monogr>
+		<title level="j">Clin. Infect. Dis</title>
+		<imprint>
+			<biblScope unit="volume">70</biblScope>
+			<biblScope unit="issue">10</biblScope>
+			<biblScope unit="page" from="2155" to="2160" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Novel clades of tick-borne pathogenic nairoviruses in Europe</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Ergunay</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.meegid.2024.105593</idno>
+		<ptr target="https://doi.org/10.1016/j.meegid.2024.105593" />
+	</analytic>
+	<monogr>
+		<title level="j">Infect. Genet. Evol</title>
+		<imprint>
+			<biblScope unit="volume">121</biblScope>
+			<biblScope unit="page">105593</biblScope>
+			<date type="published" when="2024">2024</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

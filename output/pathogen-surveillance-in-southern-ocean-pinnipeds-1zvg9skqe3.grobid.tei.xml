@@ -1,0 +1,1779 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Pathogen surveillance in Southern Ocean pinnipeds</title>
+				<funder>
+					<orgName type="full">Norwegian Antarctic Research Expeditions</orgName>
+				</funder>
+				<funder ref="#_DjjTMCM #_YHxaagR #_nCEhRkd #_SDAsu9p #_zSVSXXW #_6yUs57v #_PXYB4Wn #_ZWsR4zb">
+					<orgName type="full">unknown</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">UiT The Arctic University of Norway</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">South African Department of Environmental Affairs</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">Captain of the S.A</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Norwegian Polar Institute</publisher>
+				<availability status="unknown"><p>Copyright Norwegian Polar Institute</p>
+				</availability>
+				<date type="published" when="2020-12-17">2020-12-17</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Sandra</forename><surname>Núñez-Egido</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Arctic and Marine Biology</orgName>
+								<orgName type="institution">UiT The Arctic University of Norway</orgName>
+								<address>
+									<settlement>Tromsø</settlement>
+									<country key="NO">Norway</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Andrew</forename><surname>Lowther</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Fram Centre</orgName>
+								<orgName type="institution">Norwegian Polar Institute</orgName>
+								<address>
+									<settlement>Tromsø</settlement>
+									<country key="NO">Norway</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Ingebjørg</forename><forename type="middle">H</forename><surname>Nymo</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="institution">Norwegian Veterinary Institute</orgName>
+								<address>
+									<settlement>Tromsø</settlement>
+									<country key="NO">Norway</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Jörn</forename><surname>Klein</surname></persName>
+							<affiliation key="aff3">
+								<orgName type="department">Department of Nursing and Health Sciences</orgName>
+								<orgName type="institution">University of South-Eastern Norway</orgName>
+								<address>
+									<settlement>Kongsberg</settlement>
+									<country key="NO">Norway</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Eva</forename><forename type="middle">M</forename><surname>Breines</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Arctic and Marine Biology</orgName>
+								<orgName type="institution">UiT The Arctic University of Norway</orgName>
+								<address>
+									<settlement>Tromsø</settlement>
+									<country key="NO">Norway</country>
+								</address>
+							</affiliation>
+						</author>
+						<author role="corresp">
+							<persName><forename type="first">Morten</forename><surname>Tryland</surname></persName>
+							<email>morten.tryland@uit.no</email>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Arctic and Marine Biology</orgName>
+								<orgName type="institution">UiT The Arctic University of Norway</orgName>
+								<address>
+									<settlement>Tromsø</settlement>
+									<country key="NO">Norway</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">Fram Centre</orgName>
+								<orgName type="institution">Norwegian Polar Institute</orgName>
+								<address>
+									<settlement>Tromsø</settlement>
+									<country key="NO">Norway</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff4">
+								<orgName type="department">Department of Arctic and Marine Biology</orgName>
+								<orgName type="institution">UiT The Arctic University of Norway</orgName>
+								<address>
+									<addrLine>Framstredet 39</addrLine>
+									<postCode>NO-9019</postCode>
+									<settlement>Breivika, Tromsø</settlement>
+									<country key="NO">Norway</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff5">
+								<orgName type="institution">National Center for Biotechnology Information</orgName>
+								<address>
+									<settlement>Bethesda</settlement>
+									<region>MD</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Pathogen surveillance in Southern Ocean pinnipeds</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Polar Research</title>
+						<title level="j" type="abbrev">Polar Research</title>
+						<idno type="ISSN">0800-0395</idno>
+						<idno type="eISSN">1751-8369</idno>
+						<imprint>
+							<publisher>Norwegian Polar Institute</publisher>
+							<biblScope unit="volume">39</biblScope>
+							<date type="published" when="2020-12-17" />
+						</imprint>
+					</monogr>
+					<idno type="MD5">A77EB9FF13DA6CA4340FDE75EE4AADCC</idno>
+					<idno type="DOI">10.33265/polar.v39.3841</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.0" ident="GROBID" when="2026-03-09T17:19+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Antarctic fur seal</term>
+					<term>parapoxvirus</term>
+					<term>Southern elephant seal</term>
+					<term>Southern Ocean</term>
+					<term>wildlife disease</term>
+					<term>zoonosis Antarctic fur granulocyte macrophage colony stimulating factor</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Knowledge of the health status and potential effect of disease outbreaks among Southern Ocean fauna may be decisive for its conservation. We assessed the exposure and infection of Antarctic fur seals (Arctocephalus gazella, AFS) and Southern elephant seals (Mirounga leonine, SES) to parapoxvirus, Phocid alphaherpesvirus-1 (PhHV-1), smooth Brucella spp. and Toxoplasma gondii. AFS (n = 65) serum and swab samples, and SES (n = 13) serum samples from the sub-Antarctic island of Bouvetøya (54°25'S, 03°22'E) were collected during two austral summers (2014/15, 2017/18). Three polymerase chain reaction (PCR) tests amplifying the DNA polymerase, B2L and GIF parapoxvirus genomic regions were performed, investigating DNA from mucosal swab samples. The glycoprotein B gene was targeted to detect PhHV-1 viral DNA. Sera were assayed for T. gondii and smooth Brucella spp. antibodies with indirect enzyme-linked immunosorbent assays. Parapoxvirus PCR amplicons of the expected size were generated in two of the 29 AFS pups (nasal swabs, 2014/15), targeting the B2L (n = 2) and DNA polymerase (n = 1) genes, whereas the GIF PCR did not amplify target sequences. The PCR amplicons were sequenced and blasted in GenBank, revealing highest similarity with a seal parapoxvirus, con rming the presence of the virus in AFS for the rst time. No PhHV-1 amplicons were generated, and antibodies against T. gondii or smooth Brucella spp. were not detected. Our data indicate that these seals are host for parapoxvirus but are neither exposed to smooth Brucella spp. nor T. gondii. Evidence of PhHV-1 shedding was not detected.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Introduction</head><p>An increased monitoring of pathogens and infectious diseases in the marine environment has been reported, with factors such as climate change and anthropogenic activities contributing to the exposure of species to pathogens and impact of diseases <ref type="bibr">(Harvell et al. 1999;</ref><ref type="bibr" target="#b8">Burek et al. 2008)</ref>. Marine mammals are sentinel species, providing early warning about potential threats <ref type="bibr" target="#b5">(Bossart 2011)</ref>. The stressors that these marine species are exposed to, such as persistent organic pollutants that may impair immune responses <ref type="bibr" target="#b13">(Desforges et al. 2016)</ref> or the presence and prevalence of potential pathogens <ref type="bibr" target="#b29">(Lloyd-Smith et al. 2007)</ref>, are of major concern. Such factors could affect population dynamics with crucial biological implications; disease outbreaks and mass mortalities can trigger loss of biodiversity <ref type="bibr" target="#b11">(Daszak et al. 2000)</ref>. Additionally, some of these infectious agents might be transmissible between animals and humans and represent a threat to public health <ref type="bibr" target="#b41">(Tryland 2017)</ref>.</p><p>The Southern Ocean is a remote and vulnerable environment, hosting large seal populations. However, increasing human encroachment coupled with introduced animal species and global warming might expose immunologically naïve animals to new infectious agents <ref type="bibr" target="#b14">(Edwards et al. 1998;</ref><ref type="bibr">Frenot et al. 2005)</ref>. It is still unclear whether infectious agents present in pinniped species in other and more studied oceans are present in the Southern Ocean, with only a few reports addressing the presence of various pathogens in Southern Ocean seals, including human pathogens <ref type="bibr">(Palmgren et al. 2000;</ref><ref type="bibr" target="#b15">Hernández et al. 2007;</ref><ref type="bibr">García-Peña et al. 2010</ref>). However, some recent studies have identi ed viruses associated with this marine fauna <ref type="bibr" target="#b44">(Varsani et al. 2017;</ref><ref type="bibr" target="#b10">Crane et al. 2018;</ref><ref type="bibr">Smeele et al. 2018)</ref>, contributing to a better understanding of diseases in seals.</p><p>Members of the genus Parapoxvirus are large, enveloped, double-stranded DNA viruses that cause cutaneous and mucosal lesions in seals <ref type="bibr" target="#b40">(Tryland 2011)</ref>. Parapoxvirus has been detected in Phocidae, Otariidae and Odobenidae. Grey seal parapox virus 1 has been recently suggested as a member of the Parapoxvirus genus <ref type="bibr">(Günther et al. 2017)</ref>, along with several other parapoxviruses associated with a range of seal species <ref type="bibr" target="#b2">(Becher et al. 2002;</ref><ref type="bibr">Nollens, Gulland, Jacobson et al. 2006)</ref>. Infections in pinnipeds are characterized by rm, raised, single or multiple, proliferative nodules on the neck, head, ippers and mucosa that may ulcerate <ref type="bibr" target="#b34">(Müller et al. 2003)</ref>. Transmission takes place through contact with dermal abrasions or contaminated crusts <ref type="bibr" target="#b40">(Tryland 2011)</ref>. The virus can be transmitted from pinnipeds to humans, developing nodular abrasions as those reported with other parapoxvirus infections <ref type="bibr" target="#b16">(Hicks &amp; Worthy 1987;</ref><ref type="bibr" target="#b9">Clark et al. 2005)</ref>. The detection of a parapoxvirus from a Weddell seal (Leptonychotes weddellii) in Queen Maud Land <ref type="bibr" target="#b42">(Tryland et al. 2005)</ref> is the only evidence to date con rming the presence of this virus among Southern Ocean pinnipeds.</p><p>A neurotropic alphaherpesvirus, Phocid alphaherpesvirus-1 (PhHV-1), was rst recorded after a disease outbreak among harbour seals (Phoca vitulina) in a Dutch rehabilitation centre <ref type="bibr">(Osterhaus et al. 1985)</ref>. Fatal generalized infections are prone in neonates causing hepatitis and adrenal necrosis <ref type="bibr" target="#b4">(Borst et al. 1986;</ref><ref type="bibr">Gulland et al. 1997</ref>). In the Southern Ocean, neutralizing antibodies against alphaherpesvirus was rst documented in 1991, when all 25 investigated Weddell seals and all three crabeater seals (Lobodon carcinophagus) were tested seropositive <ref type="bibr">(Harder et al. 1991)</ref>. This was further supported by serological prevalence in Weddell seals (72%; <ref type="bibr">Stenvers et al. 1992)</ref>. <ref type="bibr" target="#b43">Tryland et al. (2012)</ref> detected antibodies against PhHV-1 in Weddell seals (100%), AFS (Arctocephalus gazella, 57%), crabeater seals (44%) and Ross seals (Ommatophoca rossii, 15%). Some alphaherpesviruses are shown to cross species barriers and infect humans; however, there are no indications that PhHV-1 represents a zoonotic threat <ref type="bibr">(Tischer &amp; Osterrider 2010)</ref>.</p><p>The Gram-negative bacteria Brucella spp. infects ectothermic and endothermic animals, including humans <ref type="bibr">(Godfroid 2002;</ref><ref type="bibr">Eisenberg et al. 2012)</ref>. A recent study by <ref type="bibr" target="#b46">Whatmore et al. (2017)</ref> identi ed seven Brucella ST in seals: ST24, ST25, ST51, ST52, ST53, ST54 and ST27. ST27 has been identi ed in and associated with reproductive pathology in California sea lion <ref type="bibr">(Zalophus californianus;</ref><ref type="bibr">Sidor et al. 2008;</ref><ref type="bibr">Goldstein et al. 2009)</ref>, and even though the zoonotic potential of the marine Brucella is unclear <ref type="bibr" target="#b27">(Larsen et al. 2013;</ref><ref type="bibr" target="#b37">Nymo et al. 2016)</ref>, ST27 has been associated with spinal osteomyelitis and neurobrucellosis in humans <ref type="bibr">(Sohn et al. 2003;</ref><ref type="bibr" target="#b31">McDonald et al. 2006;</ref><ref type="bibr" target="#b45">Whatmore et al. 2008</ref><ref type="bibr">). Retamal et al. (2000)</ref> showed the rst indication of these bacteria in the Southern Ocean when detecting ve seropositive AFS (31%) and a seropositive Weddell seal (100%). Subsequent studies also detected anti-Brucella antibodies in AFS (8%; <ref type="bibr" target="#b0">Abalos et al. 2009)</ref>, Weddell seals (37%), crabeater seals (11%) and a Ross seal (5%) <ref type="bibr" target="#b43">(Tryland et al. 2012)</ref>, and in SES (4%; Mirounga leonina; <ref type="bibr" target="#b23">Jensen et al. 2013)</ref>.</p><p>Toxoplasma gondii is an obligate intracellular protozoan suspected to be an opportunistic parasite in immunocompromised individuals <ref type="bibr" target="#b30">(Mazzariol et al. 2012</ref>). Toxoplasma gondii oocysts, which may remain viable in seawater for extended periods of time <ref type="bibr" target="#b28">(Lindsay &amp; Dubey 2009)</ref>, can infect marine mammals through surface runoff and sewage discharge <ref type="bibr" target="#b33">(Miller et al. 2002)</ref>. Serological investigations carried out on seals from the Southern Ocean have demonstrated seroprevalence of 18% and 6% in Weddell seals and SES, respectively <ref type="bibr" target="#b22">(Jensen et al. 2012)</ref>, and in SES (77%), Weddell seals (42%), AFS (2%) and in one out of two crabeater seals <ref type="bibr">(Rengifo-Herrera et al. 2012)</ref>. Humans can be infected with T. gondii from seals by consuming undercooked marine mammal meat <ref type="bibr" target="#b41">(Tryland 2017)</ref>.</p><p>Despite its geographical isolation, the Norwegian Subantarctic island of Bouvetøya (54°25′S, 03°22′E), in the Atlantic Ocean south of the Antarctic Circumpolar Current (Fig. <ref type="figure" target="#fig_0">1</ref>), represents a crucial contact point between the Antarctic ecosystem and ecosystems in other geographical regions. This small land of 49 km 2 is home to SES, AFS, brown skuas (Catharacta antarctica lonnbergi) and Southern giant petrels (Macronectes giganteus), as well as macaroni (Eudyptes chrysolophus) and chinstrap penguins (Pygoscelis antarcticus; Huyser 2001). Some of these animals carry out long-range seasonal migrations <ref type="bibr" target="#b6">(Boyd et al. 2002;</ref><ref type="bibr" target="#b17">Hindell et al. 2016)</ref>. Being in contact with different waters, food chains and ecosystems, they are potential hosts and vectors for a variety of infectious agents. SES breed and moult in small numbers on Bouvetøya, while the AFS population on this island represents the second largest breeding colony <ref type="bibr" target="#b24">(Kirkman et al. 2001;</ref><ref type="bibr" target="#b18">Hofmeyr et al. 2005)</ref>, gathering in dense concentrations and sharing a terrestrial breeding ground at Nyrøysa with various other animal species (Fig. <ref type="figure" target="#fig_0">1</ref>). This close contact during breeding, combined with poor hygienic conditions, increases the potential of cross-species transmission of infectious agents. A previous study conducted on this island did not detect antibodies against T. gondii or Brucella spp. in 68 and 64 AFS serum samples, respectively, but found 42 (57%) alphaherpesvirus seropositive individuals <ref type="bibr" target="#b43">(Tryland et al. 2012)</ref>.</p><p>The aim of this study was to evaluate the exposure and infection of AFS and SES that breed on Bouvetøya to selected pathogens. The selection of pathogens was based on their presence in other investigated seal populations, their zoonotic potential and their possible implications for population demography.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Materials and methods</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Sampling</head><p>Serum and mucosal membrane swab samples were collected from seals on Bouvetøya as part of a research effort on the foraging and reproductive ecology of Southern Ocean seals conducted by the Norwegian Polar Institute (Norwegian Food Safety Authority, permit number 12411). Serum and mucosal swab samples from AFS (n = 65) and serum samples from SES (n = 13) were collected over two austral summers (2014/15 and 2017/18; Table <ref type="table" target="#tab_0">1</ref>). The sampling was conducted at Nyrøysa, a platform of land approximately 2 km long and 500 m wide on the west side of the island (Fig. <ref type="figure" target="#fig_0">1</ref>).</p><p>Adult (&gt;1 year) SES and male AFS were immobilized with 1 mg/kg of Zoletil vet Ò (tiletamine HCl + zolazepam HCl; Virbac AH Inc.), administrated remotely using a dart gun (Paxarms). Adult female AFS were captured using a Fuhrman ex net and sedated with iso urane derived through a portable anaesthetic system (Advanced Anaesthesia Specialists), initially inducted at 5% and maintained at 0.5-1.5%. Offspring of the year was captured by hand and manually restrained.</p><p>For SES, blood was collected from the extradural intravertebral vein in blood tubes with sodium-heparin (BD Vacutainer ® ) using a 72-mm spinal tap needle. For AFS, blood was taken from the interdigital vein from the hind ippers using a hypodermic 18-gauge 45 mm needle mounted on a 5-ml syringe and transferred into blood tubes with sodium-heparin. Technical challenges prevented the centrifugation of serum in the eld; full blood was stored at -20 °C. Before analyses, the blood tubes were thawed and centrifuged (5 min, 3000 rpm). One ml aliquots of the supernatant were obtained and stored at -20 °C until analyses.</p><p>Cotton swabs (Applimed SA) were rubbed against the nostrils and conjunctival mucosae of AFS and placed into sterile cryotubes with 800 μl of Eagle's minimum essential medium with antibiotics ( nal concentrations of 100 IU/ml of penicillin, 100 μg/ml of streptomycin, 50 μg/ml of gentamicin and 2.5 μg/ml amphotericin B). Samples were stored at -80 °C until analyses. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>PCR</head><p>DNA was extracted from the swab samples using a Maxwell ® 16 Buccal Swab LEV DNA Puri cation Kit (Promega) according to the guidelines provided by the manufacturer. DNA quality was assessed using the Nanodrop 2000 spectrophotometer (Thermo Fisher Scienti c™). Samples were considered acceptable if the A260/280 ratio was higher than 1.7. The PCRs were run in a Perkin Elmer GeneAmp ® PCR System 9700.</p><p>Speci c primers were used to amplify the parapoxvirus B2L genomic region <ref type="bibr" target="#b20">(Inoshima et al. 2000)</ref> as well as the GIF gene, encoding a protein inhibiting the granulocyte macrophage colony stimulating factor and interleukin-2 <ref type="bibr">(Klein &amp; Tryland 2005)</ref>. Water was used as a non-template control. DNA extracted from a goat kid (Capra hircus) with contagious ecthyma, and veri ed Orf virus infection (Norwegian Veterinary Institute, Tromsø, Norway) was used as a positive control. Samples yielding amplicons with the B2L or GIF PCR protocols were tested for the presence of the parapoxvirus DNA polymerase gene. The PCR was carried out as described previously <ref type="bibr" target="#b7">(Bracht et al. 2006</ref>), but with an increased annealing temperature (65 °C). Water was used as non-template control. DNA extracted from an Atlantic harbour seal with a veri ed parapoxvirus infection (M. Garron, National Oceanic and Atmospheric Administration, Washington, DC) was used as positive control.</p><p>To detect PhHV-1 viral DNA, the genomic region encoding for glycoprotein B was targeted <ref type="bibr">(Goldstein et al. 2004</ref>). An initial incubation (94 °C, 4 min) was followed by 25 cycles of denaturation (94 °C, 30 s), annealing (54 °C, 30 s) and extension (72 °C, 50 s). Water was used as non-template control and PhHV-1 DNA from a harbour seal isolate as a positive control <ref type="bibr">(Frey et al. 1989)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Gel electrophoresis and sequencing</head><p>Ten μl of the PCR products were separated by electrophoresis in a 1% agarose gel (Life Technologies) in a 1 × TBE buffer (0.04 M Trisborate, 1.0 mM EDTA) containing 0.0005% GelRed, with a separation time of 1.5 h at 110 V. The bands were visualized under ultraviolet light and photographed using a gel documentation system (Bio-Rad Laboratories). ExoSAP-IT TM (Amersham Pharmacia Biotech) was used to purify the relevant amplicons. Following the clean-up, The Big Dye ® Terminator v3.1 Cycle Sequencing protocol (Applied Biosystems) was performed. Three microlitres of the puri ed PCR products was mixed with 3 µl Ready Reaction Premix, 2 µl sequencing buffer, 1 µl of each primer and 11 µl dH 2 O. The mixture was subsequently thermal cycled as described previously <ref type="bibr">(Klein &amp; Tryland 2005)</ref>. The PCR amplicons generated were sequenced (UiT The Arctic University of Norway), and similarity with available Gen-Bank sequences was compared.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Phylogenetic analyses</head><p>The phylogenetic relationship for the B2L and DNA polymerase gene was inferred using the Tamura 3-parameter model and maximum likelihood method (Tamura 1992). The bootstrap consensus trees inferred from 1000 replicates are taken to represent the evolutionary history of the taxa analysed. Branches corresponding to partitions reproduced in less than 50% bootstrap replicates are collapsed <ref type="bibr">(Felsenstein 1985)</ref>. Initial tree(s) for the heuristic search were obtained automatically by applying Neighbor-Join and BioNJ algorithms to a matrix of pairwise distances estimated using the maximum composite likelihood approach, and then selecting the topology with superior log likelihood value. The rate variation model allowed for some sites to be evolutionarily invariable ([+I], 59.69% sites for DNA polymerase). Trees were drawn to scale, with branch lengths measured in the number of substitutions per site. These analyses involved 14 (B2L) and 17 (DNA polymerase) nucleotide sequences. Codon positions included were 1st + 2nd + 3rd + noncoding. There was a total of 529 (B2L) and 355 (DNA polymerase) positions in the nal data sets. Mothers of the pups are included within the "Female group". b Blood samples from males were taken only during the 2017/18 sampling period.</p><p>Evolutionary analyses were conducted using MEGA X software <ref type="bibr" target="#b26">(Kumar et al. 2018)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Serology</head><p>A protein A/G iELISA, validated to detect smooth Brucella spp. antibodies in seals, was performed as previously described <ref type="bibr" target="#b38">(Nymo et al. 2013</ref>).</p><p>The ID Screen Toxoplasmosis Indirect Multi-species ELISA kit (IDvet) was used to test the presence of anti-T. gondii antibodies following the manufacturer's instructions.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results</head><p>Parapoxvirus PCR amplicons of the expected size were generated from DNA samples obtained from the nasal swabs of two AFS pups (2014/15), wherein fragments of B2L were detected in both samples and DNA polymerase in one sample (Table <ref type="table" target="#tab_1">2</ref>). The GIF PCR did not amplify target sequences. Amplicon sequences were submitted to GenBank (NCBI). The two generated B2L sequences had 99% (pup 15; accession number MK908011) and 88% (pup 5; accession number MK908012), respectively, sequence identity with a California sea lion parapoxvirus-2 (DQ273137.1). The PCR targeting the DNA polymerase gene (pup 5, accession number MK910261) had the highest nucleotide similarity (98%) with a parapoxvirus isolated from a spotted seal (Phoca largha; AY780678.1). None of the three parapoxvirus PCRs generated relevant amplicons from the ocular swabs.</p><p>The phylogenetic analyses of the sequences generated from the B2L genomic region (Fig. <ref type="figure" target="#fig_1">2a</ref>) of the two cases revealed that the generated parapoxvirus sequences were grouped with parapoxvirus sequences from other seal species, differentiating them from other parapoxviruses, such as Orf virus (sheep). Similarly, the phylogenetic analyses based on the DNA polymerase sequence showed that the parapoxvirus sequences generated from AFS resembled parapoxviruses from seals more than Orf virus (sheep) and Bovine popular stomatitis virus (cattle; Fig. <ref type="figure" target="#fig_1">2b</ref>).</p><p>PhHV-1 amplicons were not generated from any of the swabs. All serum samples were below the iELISA cut-off detecting Brucella spp. Similarly, no samples were classied as T. gondii-seropositive (Table <ref type="table" target="#tab_1">2</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discussion</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Parapoxvirus</head><p>The phylogenetic analyses of the PCR amplicons generated showed that two individuals included in this study had parapoxvirus-speci c DNA on their nasal mucosa. We thus report the rst veri ed case of parapoxvirus infection in AFS and the second case documented among Southern Ocean pinnipeds <ref type="bibr" target="#b42">(Tryland et al. 2005)</ref>. The AFS samples clustered phylogenetically well together with other pinniped isolates for the two genes that generated amplicons (B2L, DNA polymerase); the node branch likelihood had a value of 100 (B2L, Fig. <ref type="figure" target="#fig_1">2a</ref>), and the branch likelihood at the separation point between pinniped parapoxvirus and other parapoxviruses was 95 (DNA polymerase, Fig. <ref type="figure" target="#fig_1">2b</ref>). This suggests a well-supported node and separation point for these speci c genomic regions, and that the AFS parapoxvirus belongs to the tentative seal parapoxvirus species <ref type="bibr">(Nollens, Gulland, Jacobson et al. 2006)</ref>. In general, and for both genes, parapoxvirus from Phocidae was more closely related to each other than to parapoxvirus in Otariidae, which might indicate differences in host susceptibility. For the B2L phylogeny, AFS parapoxvirus was most closely related to a California sea lion parapoxvirus-2 (DQ273137.1). Even though the distribution areas of these two host species do not overlap, indirect contact and occasional transmission of the pathogen might have occurred. Further, it has been hypothesized that pinniped parapoxvirus can infect multiple pinniped host species from the same phylogenetic family <ref type="bibr">(Nollens, Gulland, Jacobson et al. 2006)</ref>.</p><p>Parapoxvirus has been suggested to be prevalent in pinnipeds in the Northern Hemisphere after the detection of virus-speci c antibodies in several seal species (10-40%) from north-western Europe, North America and Siberia <ref type="bibr">(Osterhaus et al. 1994)</ref> and in 693 (91%) free ranging California sea lions <ref type="bibr">(Nollens, Gulland, Hernández et al. 2006</ref>). This contrasts with the apparently low presence of the virus in the Southern Ocean <ref type="bibr" target="#b42">(Tryland et al. 2005)</ref>. There is limited knowledge regarding parapoxvirus transmission patterns among wild seals and whether this pathogen is endemic in Southern Ocean pinnipeds. Bouvetøya is a protected nature reserve where activities, sewage disposal and traf c are strictly regulated. The island is sporadically visited for a few months during scienti c expeditions, making it unlikely that human disturbances facilitate the emergence of infectious diseases in this area. After the breeding season, female AFS disperse widely in the Southern Ocean, travelling long distances beyond their normal range and interacting with different wildlife species, oceans and ecosystems <ref type="bibr" target="#b6">(Boyd et al. 2002;</ref><ref type="bibr" target="#b1">Arthur et al. 2017)</ref>. Consequently, AFS vagrants could have acquired the virus when in contact with other environments and introduced it to Bouvetøya.</p><p>Seal parapoxvirus in this study was documented in two pups, whereas parapoxvirus-speci c DNA was not recorded in their respective mothers, indicating that weanlings might be exposed to the virus within their rst weeks of life <ref type="bibr">(Nollens, Gulland, Hernández et al. 2006)</ref>. Parapoxviruses are opportunistic, often infecting and causing disease in stressed or otherwise immunosuppressed individuals. Nutritional stress in combination with insuf cient protection by maternal antibodies could have in uenced the susceptibility of the two pups to parapoxvirus infection <ref type="bibr" target="#b34">(Müller et al. 2003;</ref><ref type="bibr" target="#b42">Tryland et al. 2005)</ref>.</p><p>Even though our ndings evidence that the animals were harbouring the infection at the moment of sampling, we have, from this study, no indication that parapoxvirus infection causes a high mortality rate among the investigated population. In other wild pinniped populations, however, parapoxvirus infections are considered more common but still not representing a major threat <ref type="bibr">(Nollens, Gulland, Hernández et al. 2006)</ref>. In contrast, infections in captivity may pose a major risk, where captured-induced stress and changes of environment and nutrition may initiate disease outbreaks and facilitate transmission <ref type="bibr" target="#b16">(Hicks &amp; Worthy 1987;</ref><ref type="bibr" target="#b34">Müller et al. 2003)</ref>. Feeding and respiratory functions can be impaired when nodules develop in the oral cavity or nostrils, which together with secondary bacterial infections, can be fatal <ref type="bibr" target="#b40">(Tryland 2011)</ref>. Animal handlers should be aware of the zoonotic potential of this pathogen <ref type="bibr" target="#b41">(Tryland 2017)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>PhHV-1</head><p>Based on the previously detected prevalence of anti-herpesvirus antibodies in AFS (57%) and other Antarctic seal species, using virus neutralization test and PhHV-1 as antigen <ref type="bibr" target="#b43">(Tryland et al. 2012)</ref>, we expected to be able to detect herpesvirus shedding with the PCR screening of mucosal swab samples from AFS. The negative results may be due to the small fraction of the population tested, or the selected primers were in fact not able to detect the herpesvirus circulating in these seal populations.</p><p>Seropositive Weddell and crabeater seals have been reported in the Weddell Sea and Queen Maud Land <ref type="bibr">(Harder et al. 1991;</ref><ref type="bibr" target="#b43">Tryland et al. 2012)</ref>, suggesting that alphaherpesviruses might be endemic in these species <ref type="bibr">(Harder et al. 1991)</ref>. Future studies with larger sample sizes from seals from Bouvetøya and the use of a combination of techniques, including PCRs with more generic primers, may elucidate if an alphaherpesvirus related to PhHV-1 is in fact circulating in these seal populations.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Brucella spp.</head><p>Anti-Brucella antibodies were not detected in the studied populations, which is in agreement with previous investigations <ref type="bibr" target="#b43">(Tryland et al. 2012)</ref>. Brucella spp. might be present in other areas of the Southern Ocean, as already suggested <ref type="bibr">(Retamal et al. 2000;</ref><ref type="bibr" target="#b23">Jensen et al. 2013)</ref>. However, attempts to isolate the bacterium have so far not succeeded in Southern Ocean pinnipeds <ref type="bibr" target="#b0">(Abalos et al. 2009;</ref><ref type="bibr" target="#b32">McFarlane 2009)</ref>. The lack of anti-Brucella antibodies in the present study could be due to a lack of exposure. Alternatively, animals with high susceptibility to Brucella spp. could have been infected and died. Additional work aiming at the isolation of the bacteria could help to determine the Brucella spp. infection dynamics in Southern Ocean seals.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Toxoplasma gondii</head><p>Our results, and the lack of previous indications of T. gondii in seals from Bouvetøya, suggest that the parasite is absent or has a low prevalence in these populations <ref type="bibr" target="#b43">(Tryland et al. 2012)</ref>. Our ndings differ from earlier investigations, in which T. gondii antibodies were detected in Southern Ocean seals with agglutination tests <ref type="bibr" target="#b22">(Jensen et al. 2012;</ref><ref type="bibr">Rengifo-Herrera et al. 2012)</ref>. Nonetheless, the accuracy of these methods has been questioned, suggesting that they might yield false positives in lipid-rich samples. ELISA is considered to be a more reliable test for Toxoplasma serological screening <ref type="bibr" target="#b3">(Blanchet et al. 2014)</ref> and was used in our study.</p><p>This study provides evidence of parapoxvirus infection, but no indications of exposure to smooth Brucella spp. and T. gondii, of AFS and SES populations on Bouvetøya. Moreover, we were not able to detect an active shedding of alphaherpesvirus. Studies such as the one presented here represent data for only a small fraction of the population, and in a narrow time window. More systematic monitoring, with larger sample sizes and longer time series, are required in order to draw rm conclusions about the health status of these pinnipeds and the impact of the seal pathogens that are present in the Southern Ocean. Numerous indications of infectious diseases have been reported in Arctic pinnipeds <ref type="bibr" target="#b21">(Jensen et al. 2010;</ref><ref type="bibr">Scotter et al. 2019)</ref>. A similar scenario is expected in the Southern Hemisphere if the human-wildlife interface increases <ref type="bibr" target="#b12">(Daszak et al. 2001)</ref>. Additionally, a rising sea-surface temperature due to global warming might facilitate pathogen survival and distribution and promote changes in nutritional status, predisposing marine mammals to infectious diseases <ref type="bibr" target="#b8">(Burek et al. 2008)</ref>. Further, immunotoxic contaminants may enhance the vulnerability of wildlife populations to infections, as organic pollutants and heavy metals may have immunosuppressive effects <ref type="bibr">(Ross et al. 2002;</ref><ref type="bibr" target="#b13">Desforges et al. 2016)</ref>. Since many of the pathogens are zoonotic, humans may also be impacted.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conclusions</head><p>While testing a relatively small number of animals, during a short period of time, we detected exposure to parapoxvirus. The rst nding of parapoxvirus infection in AFS shows that these animals can host the virus, and future attempts to isolate parapoxvirus on Bouvetøya may help us to understand the prevalence and epidemiology of this virus. The lack of exposure of AFS to Brucella spp., T. gondii and alphaherpesvirus in this study indicates that these pathogens do not represent a major health threat for the local seal populations at this time. Further investigations, integrating climate change, immunotoxic contaminants and human activities, may clarify the contribution of these factors to emerging infectious diseases in the Southern Ocean. </p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Fig. 1</head><label>1</label><figDesc>Fig. 1 Map of Bouvetøya (54°25′S, 03°22′E) and its location in the Southern Ocean (inset). Nyrøysa, the breeding ground where the animals were sampled, is highlighted on the map. (Map: Norwegian Polar Institute.)</figDesc><graphic coords="3,54.02,72.31,473.73,263.41" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Fig. 2</head><label>2</label><figDesc>Fig. 2 (a) Phylogenetic comparison of the parapoxvirus sequences of the putative viral envelope gene B2L generated from nasal mucosal swab samples of two AFS (Arctocephalus gazella) pups, with similar sequences from NCBI. (b) Comparison of the sequences obtained from the DNA polymerase gene from one AFS pup with other parapoxvirus sequences (NCBI). The phylogenetic trees with the highest log likelihood are displayed. Numbers next to the branches are bootstrap values (1000 replicates) describing the reliability for each clade in percent.</figDesc><graphic coords="6,125.81,72.31,357.17,398.05" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1</head><label>1</label><figDesc>Sampling periods and number of samples taken from AFS (Arctocephalus gazella) and SES (Mirounga leonine) from Bouvetøya. Some animals were sampled for blood and nasal/ocular swabs, while others were sampled for either blood or swabs.</figDesc><table><row><cell>Seal species</cell><cell></cell><cell></cell><cell cols="2">Blood samples</cell><cell></cell><cell></cell><cell cols="3">Nasal and ocular swabs</cell><cell></cell></row><row><cell></cell><cell></cell><cell>2014/15</cell><cell></cell><cell></cell><cell>2017/18</cell><cell></cell><cell>2014/15</cell><cell></cell><cell>2017/18</cell><cell></cell></row><row><cell></cell><cell>Female a</cell><cell>Male</cell><cell>Pup</cell><cell>Female</cell><cell>Male b</cell><cell>Pup</cell><cell>Female</cell><cell>Pup</cell><cell>Female</cell><cell>Pup</cell></row><row><cell>AFS</cell><cell>17</cell><cell>-</cell><cell>17</cell><cell>11</cell><cell>8</cell><cell>4</cell><cell>36</cell><cell>39</cell><cell>28</cell><cell>17</cell></row><row><cell>SES</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>7</cell><cell>6</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell><cell>-</cell></row><row><cell>a</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 2</head><label>2</label><figDesc>Detection of DNA specific for parapoxvirus and PhHV-1 in nasal and ocular swab samples, together with serological results, investigating for specific antibodies against smooth Brucella spp. and Toxoplasma gondii in AFS (Arctocephalus gazella) and SES (Mirounga leonina). Results are presented as number positives/number tested (percentage prevalence).</figDesc><table><row><cell>Seal species (classified by age, class and sex)</cell><cell>Parapoxvirus a</cell><cell>Brucella spp.</cell><cell>PhHV-1 b</cell><cell>Toxoplasma gondii</cell></row><row><cell>AFS: adult females</cell><cell>0/34 (0)</cell><cell>0/28 (0)</cell><cell>0/64</cell><cell>0/28 (0)</cell></row><row><cell>AFS: adult males</cell><cell>not tested</cell><cell>0/8 (0)</cell><cell>not tested</cell><cell>0/8 (0)</cell></row><row><cell>AFS: pups</cell><cell>2/29 (7)</cell><cell>0/21 (0)</cell><cell>0/56</cell><cell>0/21 (0)</cell></row><row><cell>AFS (total)</cell><cell>2/63 (3)</cell><cell>0/57 (0)</cell><cell>0/120</cell><cell>0/57 (0)</cell></row><row><cell>SES: adult females</cell><cell>not tested</cell><cell>0/6(0)</cell><cell>not tested</cell><cell>0/6 (0)</cell></row><row><cell>SES: adult males</cell><cell>not tested</cell><cell>0/7(0)</cell><cell>not tested</cell><cell>0/7(0)</cell></row><row><cell>SES (total)</cell><cell>not tested</cell><cell>0/13(0)</cell><cell>not tested</cell><cell>0/13(0)</cell></row></table><note><p>a Nasal swabs. b Nasal and ocular swabs.</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head></head><label></label><figDesc>Journal of Veterinary DiagnosticsInvestigations 25, 369-375,  doi: 10.1177/1040638713485073. Osterhaus A.D., Broeders H.W., Visser I.K., Teppema J.S. &amp; Kuiken T. 1994. Isolation of a parapoxvirus from poxlike lesions in grey seals. Veterinary Records 135, 601-602, doi: 10.1136/vr.135.25.601. McCafferty D., Aspan A., Broman T., Sellin M., Wollin R., Bergström S. &amp; Olsen B. 2000. Salmonella in sub-Antarctica: low heterogeneity in Salmonella serotypes in South Georgian seals and birds. Epidemiology &amp; Infection 125, 257-262, doi: 10.1017/S0950268899004586. Rengifo-Herrera C., Ortega-Mora L.M., Álvarez-García G., Gómez-Bautista M., García-Párraga D., García-Peña F.J. &amp; Pedraza-Díaz S. 2012. Detection of Toxoplasma gondii antibodies in Antarctic pinnipeds. Veterinary Parasitology 190, 259-262, doi: 10.1016/j.vetpar.2012.05.020. Retamal P., Blank O., Abalos P. &amp; Torres D. 2000. Detection of anti-Brucella antibodies in pinnipeds from the Antarctic territory. Veterinary Records 146, 166-167, doi: 10.1136/ vr.146.6.166. Ross P.S. 2002. The role of immunotoxic environmental contaminants in facilitating the emergence of infectious diseases in marine mammals. Human and Ecological Risk Assessments 8, 277-292, doi: 10.1080/20028091056917. Scotter S.E., Tryland M., Nymo I.H., Hanssen L., Harju M., Lydersen C., Kovacs K.M., Klein J., Fisk A.T. &amp; Routti H. 2019. Contaminants in Atlantic walruses in Svalbard part 1: relationships between exposure, diet and pathogen prevalence. Environmental Pollution 244, 9-18, doi: 10.1016/j. envpol.2018.10.001. Sidor I., Goldstein T., Whatmore A.M., Zabka T.S., Frasca S., Gulland F.M.D. &amp; Dunn J.L. 2008. Transplacental infection with Brucella in California sea lion (Zalophus californianus) fetus. Paper presented at Brucellosis 2008 International Research Conference, 10-13 September, London. Smeele Z.E., Burns J.M., Van Doorsaler K., Fontenele R.S., Waits K., Stainton D., Shero M.R., Beltran R.S., Kirkham A.L., Berngartt R., Kraberger S. &amp; Varsani A. 2018. Diverse papillomaviruses identi ed in Weddell seals. The Journal of General Virology 99, 549-557, doi: 10.1099/ jgv.0.001028. Sohn A.H., Probert W.S., Glaser C.A., Gupta N., Bollen A.W., Wong J.D., Grace E.M. &amp; McDonald W.C. 2003. Human neurobrucellosis with intracerebral granuloma caused by a marine mammal Brucella spp. Emerging Infectious Diseases 9, 485-488, doi: 10.3201/eid0904.020576. Stenvers O., Plötz J. &amp; Ludwig H. 1992. Antarctic seals carry antibodies against seal herpesvirus. Archives of Virology 123, 421-424, doi: 10.1007/BF01317275. Tamura K. 1992. Estimation of the number of nucleotide substitutions when there are strong transitiontransversion and G+ C-content biases. Molecular Biology and Evolution 9, 678-687, doi: 10.1093/oxfordjournals. molbev.a040752.</figDesc><table><row><cell>Osterhaus A.D.M.E., Yang H., Spijkers H.E.M., Groen J.,</cell></row><row><cell>Teppema J.S. &amp; Van Steenis G. 1985. The isolation and</cell></row><row><cell>partial characterization of a highly pathogenic herpesvirus</cell></row><row><cell>from the harbor seal (Phoca vitulina). Archives of Virology 86,</cell></row><row><cell>239-251, doi: 10.1007/BF01309828.</cell></row><row><cell>Palmgren H.,</cell></row></table></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0"><p>(page number not for citation purpose)</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_1"><p>(page number not for citation purpose)Pathogen surveillance in Southern Ocean pinnipeds</p></note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head>Acknowledgements</head><p>The authors thank the logistic support from the <rs type="funder">South African Department of Environmental Affairs</rs>, and the <rs type="funder">Captain of the S.A</rs>. Agulhas II and biologists/collaborators from the <rs type="institution">Norwegian Polar Institute and University of Pretoria</rs> for the sample collection. Further thanks go to <rs type="person">Javier Sánchez Romano</rs> for his assistance in sequence submission and to <rs type="person">Sandra Manso Núñez</rs> for photograph editing.</p></div>
+<div><head>Disclosure statement</head><p>The authors report no con ict of interest.</p></div>
+<div><head>Funding</head><p>Financial support was provided by the <rs type="funder">Norwegian Antarctic Research Expeditions</rs>. A grant from the publication fund of <rs type="funder">UiT The Arctic University of Norway</rs> has covered the publication charges for this article.</p></div>
+			</div>
+			<div type="funding">
+<div><p><rs type="projectName">Environmental</rs> <rs type="grantNumber">Microbiology 64</rs>, <rs type="grantNumber">2596-2600</rs>, doi: <rs type="grantNumber">10.1128/ AEM.64.7.2596-2600.1998</rs>. <rs type="person">Eisenberg T.</rs>, <rs type="person">Hamann H.P.</rs>, <rs type="person">Kaim U.</rs>, <rs type="person">Schlez K</rs>., Seeger H., Schauerte N., Melzer F., Tomaso H., Scholoz H.C., Koylass M.S., Whatmore A.M. &amp; Zschöck M. 2012. Isolation of potentially novel Brucella spp. from frogs. Applied and Environmental Microbiology 78, 3753-3755, doi: 10.1128/ AEM.07509-11. Felsenstein J. 1985. Con dence limits on phylogenies: an approach using the bootstrap. Evolution 39, 783-791, doi: <rs type="grantNumber">10.1111/j.1558-5646.1985</rs>.<rs type="grantNumber">tb00420</rs>.x. <rs type="person">Frenot Y.</rs>, <rs type="person">Chown</rs> S.L., <rs type="person">Whinam J</rs>., Selkirk P.M., <rs type="person">Convey P</rs>., Skotnicki M. &amp; Bergstrom D.M. 2005. Biological invasions in the <rs type="projectName">Antarctic: extent</rs>, impacts and implications. Biological Reviews 80, 45-72, doi: 10.1017/S1464793104006542. Frey H.R., <rs type="person">Liess B</rs>., Haas L., Lehmann H. &amp; Marschall H.J. 1989. Herpesvirus in harbour seals (Phoca vitulina): isolation, partial characterization and distribution. Journal of Veterinary Medicine Series B 36, 699-708, doi: 10.1111/ j.1439-0450.1989.tb00664.x. <rs type="person">García-Peña F.J.</rs>, <rs type="person">Pérez-Boto D.</rs>, <rs type="person">Jiménez C.</rs>, <rs type="person">San Miguel E.</rs>, <rs type="person">Echeita A.</rs>, <rs type="person">Rengifo-Herrera C.</rs>, <rs type="person">García-Párraga D.</rs>, <rs type="person">Ortega-Mora</rs> L.M. &amp; Pedraza-Díaz S. 2010. Isolation and characterization of Campylobacter spp. from Antarctic fur seals (Arctocephalus gazella) at Deception Island, Antarctica. Applied Environmental Microbiology 76, 6013-6016, doi: 10.1128/AEM.00316-10. Godfroid J. 2002. Brucellosis in wildlife. Revue Scienti que et Technique-Of ce International des Épizooties 21, 277-286, doi: 10.20506/rst.21.2.1333. <rs type="person">Goldstein T.</rs>, <rs type="person">Mazet J.A.</rs>, <rs type="person">Gulland F.M.</rs>, <rs type="person">Rowles T.</rs>, <rs type="person">Harvey J.T.</rs>, <rs type="person">Allen</rs> S.G., King D.P., Aldridge B.M. &amp; Stott J.L. 2004. The transmission of phocine herpesvirus-1 in rehabilitating and free-ranging Paci c harbor seals (Phoca vitulina) in California. Veterinary Microbiology 103, 131-141, doi: 10.1016/j.vetmic.2004.06.017. <rs type="person">Goldstein T.</rs>, <rs type="person">Zabka T.S.</rs>, <rs type="person">Delong R.L.</rs>, <rs type="person">Wheeler E.A.</rs>, <rs type="person">Ylitalo G.</rs>, <rs type="person">Bargu S.</rs>, <rs type="person">Silver M.</rs>, <rs type="person">Leigh eld T.</rs>, <rs type="person">Van Dolah F</rs>., <rs type="person">Langlois G</rs>., Sidor I., Dunn J.L. &amp; Gulland F.M. 2009. The role of domoic acid in abortion and premature parturition of California sea lions (Zalophus californianus) on San Miguel Island, California. Journal of Wildlife Diseases 45, 91-108, doi: 10.7589/0090<rs type="grantNumber">-3558-45</rs>.1.91. Gulland F.M.D., Lowenstine L.J., Lapointe J.M., Spraker T. &amp; King D.P. 1997. Herpesvirus infection in stranded Paci c harbor seals of coastal California. Journal of Wildlife Diseases 33, 450-458, doi: 10.7589/0090<rs type="grantNumber">-3558-33</rs>.3.450. <rs type="person">Günther T.</rs>, <rs type="person">Haas L.</rs>, <rs type="person">Alawi M.</rs>, <rs type="person">Wohlsein P.</rs>, <rs type="person">Marks J.</rs>, <rs type="person">Grundhoff A.</rs>, <rs type="person">Becher</rs> P. &amp; Fischer N. 2017. Recovery of the rst full-length genome sequence of a parapoxvirus directly from a clinical sample. Scienti c Reports 7, article no. 3734, doi: 10.1038/<rs type="grantNumber">s41598-017-03997</rs>-y. <rs type="person">Harder T</rs>.C, Plötz J. &amp; Liess B. 1991. Antibodies against European phocine herpesvirus isolates detected in sera of Antarctic seals. Polar Biology 11, 509-512, doi: 10.1007/ BF00233087. Harvell C.D., Kim K., Burkholder J.M., Colwell R.R., Epstein P.R, Grimes D.J, Hofmann E.E, Lipp E.K., Osterhaus</p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funded-project" xml:id="_DjjTMCM">
+					<idno type="grant-number">Microbiology 64</idno>
+					<orgName type="project" subtype="full">Environmental</orgName>
+				</org>
+				<org type="funding" xml:id="_YHxaagR">
+					<idno type="grant-number">2596-2600</idno>
+				</org>
+				<org type="funding" xml:id="_nCEhRkd">
+					<idno type="grant-number">10.1128/ AEM.64.7.2596-2600.1998</idno>
+				</org>
+				<org type="funding" xml:id="_SDAsu9p">
+					<idno type="grant-number">10.1111/j.1558-5646.1985</idno>
+				</org>
+				<org type="funded-project" xml:id="_zSVSXXW">
+					<idno type="grant-number">tb00420</idno>
+					<orgName type="project" subtype="full">Antarctic: extent</orgName>
+				</org>
+				<org type="funding" xml:id="_6yUs57v">
+					<idno type="grant-number">-3558-45</idno>
+				</org>
+				<org type="funding" xml:id="_PXYB4Wn">
+					<idno type="grant-number">-3558-33</idno>
+				</org>
+				<org type="funding" xml:id="_ZWsR4zb">
+					<idno type="grant-number">s41598-017-03997</idno>
+				</org>
+			</listOrg>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Brucella infection in marine mammals in Antarctica</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Abalos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Retamal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Blank</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Torres</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Valdenegro</surname></persName>
+		</author>
+		<idno type="DOI">10.1136/vr.164.8.250</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Veterinary Record</title>
+		<imprint>
+			<biblScope unit="volume">164</biblScope>
+			<biblScope unit="page" from="346" to="346" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Winter habitat predictions of a key Southern Ocean predator, the Antarctic fur seal ( Arctocephalus gazella)</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Arthur</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Hindell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Bester</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">N</forename><surname>De Bruyn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Trathan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Goebel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Lea</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.dsr2.2016.10.009</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Deep-Sea Research Part II</title>
+		<imprint>
+			<biblScope unit="volume">140</biblScope>
+			<biblScope unit="page" from="171" to="181" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Characterization of sealpox virus, a separate member of the parapoxviruses</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Becher</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>König</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Müller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">U</forename><surname>Siebert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">J</forename><surname>Thiel</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s00705-002-0804-8</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Archives of Virology</title>
+		<imprint>
+			<biblScope unit="volume">147</biblScope>
+			<biblScope unit="page" from="1133" to="1140" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">West Greenland harbour porpoises assayed for antibodies against Toxoplasma gondii: false positives with the direct agglutination method</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Blanchet</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Godfroid</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">M</forename><surname>Breines</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">P</forename><surname>Heide-Jørgensen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">H</forename><surname>Nielsen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Hasselmeier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Iversen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">K</forename><surname>Jensen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Åsbakk</surname></persName>
+		</author>
+		<idno type="DOI">10.3354/dao02715</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Diseases of Aquatic Organisms</title>
+		<imprint>
+			<biblScope unit="volume">108</biblScope>
+			<biblScope unit="page" from="181" to="186" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">An outbreak of a herpesvirus infection in harbor seals (Phoca vitulina)</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">H A</forename><surname>Borst</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">C</forename><surname>Walvoort</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">J H</forename><surname>Reijnders</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">S</forename><surname>Van Der Kamp</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">D M E</forename><surname>Osterhaus</surname></persName>
+		</author>
+		<idno type="DOI">10.7589/0090-3558-22.1.1</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Wildlife Diseases</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="page" from="1" to="6" />
+			<date type="published" when="1986">1986</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Marine mammals as sentinel species for oceans and human health</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">D</forename><surname>Bossart</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/0300985810388525</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Veterinary Pathology</title>
+		<imprint>
+			<biblScope unit="volume">48</biblScope>
+			<biblScope unit="page" from="676" to="690" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Distribution of foraging by female Antarctic fur seals</title>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">L</forename><surname>Boyd</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">J</forename><surname>Staniland</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">R</forename><surname>Martin</surname></persName>
+		</author>
+		<idno type="DOI">10.3354/meps242285</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Marine Ecology Progress Series</title>
+		<imprint>
+			<biblScope unit="volume">242</biblScope>
+			<biblScope unit="page" from="285" to="294" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Genetic identi cation of novel poxviruses of cetaceans and pinnipeds</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">J</forename><surname>Bracht</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">L</forename><surname>Brudek</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">Y</forename><surname>Ewing</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">A</forename><surname>Manire</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">A</forename><surname>Burek</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Rosa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">B</forename><surname>Beckmen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">E</forename><surname>Maruniak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">H</forename><surname>Romero</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s00705-005-0679-6</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Archives of Virology</title>
+		<imprint>
+			<biblScope unit="volume">151</biblScope>
+			<biblScope unit="page" from="423" to="438" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Effects of climate change on Arctic marine mammal health</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">A</forename><surname>Burek</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">M</forename><surname>Gulland</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">M</forename><surname>O'hara</surname></persName>
+		</author>
+		<idno type="DOI">10.1890/06-0553.1</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Ecological Applications</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="page" from="126" to="134" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Human sealpox resulting from a seal bite: con rmation that sealpox virus is zoonotic</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Clark</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">G</forename><surname>Mcintyre</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Evans</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">J</forename><surname>Mcinnes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Lewis-Jones</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1365-2133.2005.06451.x</idno>
+	</analytic>
+	<monogr>
+		<title level="j">British Journal of Dermatology</title>
+		<imprint>
+			<biblScope unit="volume">152</biblScope>
+			<biblScope unit="page" from="791" to="793" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Novel anelloviruses identi ed in buccal swabs of Antarctic fur seals</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Crane</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">E</forename><surname>Goebel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Kraberger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">C</forename><surname>Stone</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Varsani</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s11262-018-1585-9</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Virus Genes</title>
+		<imprint>
+			<biblScope unit="volume">54</biblScope>
+			<biblScope unit="page" from="719" to="723" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Emerging infectious diseases of wildlife-threats to biodiversity and human health</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Daszak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">A</forename><surname>Cunningham</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">D</forename><surname>Hyatt</surname></persName>
+		</author>
+		<idno type="DOI">10.1126/science.287.5452.443</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Science</title>
+		<imprint>
+			<biblScope unit="volume">287</biblScope>
+			<biblScope unit="page" from="443" to="449" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Anthropogenic environmental change and the emergence of infectious diseases in wildlife</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Daszak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">A</forename><surname>Cunningham</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">D</forename><surname>Hyatt</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/S0001-706X(00)00179-0</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Acta Tropica</title>
+		<imprint>
+			<biblScope unit="volume">78</biblScope>
+			<biblScope unit="page" from="103" to="116" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Immunotoxic effects of environmental pollutants in marine mammals</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">P W</forename><surname>Desforges</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Sonne</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Levin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">U</forename><surname>Siebert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>De Guise</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Dietz</surname></persName>
+		</author>
+		<idno type="DOI">/10.1016/j.envint.2015.10.007</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Environment International</title>
+		<imprint>
+			<biblScope unit="volume">86</biblScope>
+			<biblScope unit="page" from="126" to="139" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Distribution of Clostridium perfringens and fecal sterols in a benthic coastal marine environment in uenced by the sewage outfall from McMurdo Station, Antarctica</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">D</forename><surname>Edwards</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">A</forename><surname>Mcfeters</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">I</forename><surname>Venkatesan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">D M E</forename><surname>Applied</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">M</forename><surname>Overstreet</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">W</forename><surname>Porter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">W</forename><surname>Smith</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">R</forename><surname>Vasta</surname></persName>
+		</author>
+		<idno type="DOI">10.1126/science.285.5433.1505</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Science</title>
+		<imprint>
+			<biblScope unit="volume">285</biblScope>
+			<biblScope unit="page" from="1505" to="1510" />
+			<date type="published" when="1998">1998. 1999</date>
+		</imprint>
+	</monogr>
+	<note>Emerging marine diseases-climate links and anthropogenic factors</note>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Enteropathogenic Escherichia coli (EPEC) in Antarctic fur seals Arctocephalus gazella</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Hernández</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Prado</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Torres</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Waldenström</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">D</forename><surname>Haemig</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Olsen</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s00300-007-0282-2</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Polar Biology</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="page" from="1227" to="1122" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Sealpox in captive grey seals (Halichoerus grypus) and their handlers</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">D</forename><surname>Hicks</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">A</forename><surname>Worthy</surname></persName>
+		</author>
+		<idno type="DOI">10.7589/0090-3558-23.1.1</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Wildlife Disease</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="page" from="1" to="6" />
+			<date type="published" when="1987">1987</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Circumpolar habitat use in the southern elephant seal: implications for foraging success and population trajectories</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Hindell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">R</forename><surname>Mcmahon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">N</forename><surname>Bester</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Boehme</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Costa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Fedak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Guinet</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Herraiz-Borreguero</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">G</forename><surname>Harcourt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Huckstadt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">M</forename><surname>Kovacs</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Lydersen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Mcintyre</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Muelbert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Patterson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Roquet</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Williams</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">B</forename><surname>Charrassin</surname></persName>
+		</author>
+		<idno type="DOI">10.1002/ecs2.1213</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Ecosphere</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page">1213</biblScope>
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Population changes of Antarctic fur seals at Nyrøysa, Bouvetøya</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">J G</forename><surname>Hofmeyr</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">A</forename><surname>Krafft</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">P</forename><surname>Kirkman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">N</forename><surname>Bester</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Lydersen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">M</forename><surname>Kovacs</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s00300-005-0732-7</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Polar Biology</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page" from="725" to="731" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Bouvetøya (Bouvet Island)</title>
+		<author>
+			<persName><forename type="first">O</forename><surname>Huyser</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Important bird areas in Africa and associated islands: priority sites for conservation</title>
+		<editor>
+			<persName><forename type="first">M</forename><forename type="middle">I</forename><surname>Evans</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">L</forename><forename type="middle">D C</forename><surname>Fishpool</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Newbury, UK</addrLine></address></meeting>
+		<imprint>
+			<publisher>Pisces Publications and BirdLife International</publisher>
+			<date type="published" when="2001">2001</date>
+			<biblScope unit="page" from="113" to="115" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Detection and diagnosis of parapoxvirus by the polymerase chain reaction</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Inoshima</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Morooka</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Sentsui</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/S0166-0934(99)00144-5</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Virological Methods</title>
+		<imprint>
+			<biblScope unit="volume">84</biblScope>
+			<biblScope unit="page" from="201" to="208" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">The prevalence of Toxoplasma gondii in polar bears and their marine mammal prey: evidence for a marine transmission pathway?</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">K</forename><surname>Jensen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Aars</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Lydersen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">M</forename><surname>Kovacs</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Åsbakk</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s00300-009-0735-x</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Polar Biology</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="page" from="599" to="606" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Prevalence of Toxoplasma gondii antibodies in pinnipeds from Antarctica</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">K</forename><surname>Jensen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">H</forename><surname>Nymo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Forcada</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Godfroid</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Hall</surname></persName>
+		</author>
+		<idno type="DOI">10.1136/vr.100848</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Veterinary Records</title>
+		<imprint>
+			<biblScope unit="volume">171</biblScope>
+			<biblScope unit="page" from="249" to="249" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Brucella antibody seroprevalence in Antarctic seals (Arctocephalus gazella, Leptonychotes weddellii and Mirounga leonina)</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">K</forename><surname>Jensen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">H</forename><surname>Nymo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Forcada</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Hall</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Godfroid</surname></persName>
+		</author>
+		<idno type="DOI">10.3354/dao02633</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Disease of Aquatic Organisms</title>
+		<imprint>
+			<biblScope unit="volume">105</biblScope>
+			<biblScope unit="page" from="175" to="181" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Counts of southern elephant seals, Mirounga leonina, at Bouvet Island</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">P</forename><surname>Kirkman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">J G</forename><surname>Hofmeyr</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">N</forename><surname>Bester</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Isaksen</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s003000000180</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Polar Biology</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="page" from="62" to="65" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Characterisation of parapoxviruses isolated from Norwegian semi-domesticated reindeer (Rangifer tarandus tarandus)</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Klein</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Tryland</surname></persName>
+		</author>
+		<idno type="DOI">10.1186/1743-422X-2-79</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Virology Journal</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="issue">79</biblScope>
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">MEGA X: molecular evolutionary genetics analysis across computing platforms</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Kumar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Stecher</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Knyaz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Tamura</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/molbev/msy096</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Molecular Biology and Evolution</title>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="page" from="1547" to="1549" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Entry and elimination of marine mammal Brucella spp. by hooded seal (Cystophora cristata) alveolar macrophages in vitro</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">K</forename><surname>Larsen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">H</forename><surname>Nymo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Boysen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Tryland</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Godfroid</surname></persName>
+		</author>
+		<idno type="DOI">10.1371/journal.pone.0070186</idno>
+	</analytic>
+	<monogr>
+		<title level="j">PLoS One</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page">70186</biblScope>
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Long-term survival of Toxoplasma gondii sporulated oocysts in seawater</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">S</forename><surname>Lindsay</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">P</forename><surname>Dubey</surname></persName>
+		</author>
+		<idno type="DOI">10.1645/GE-1919.1</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Parasitology</title>
+		<imprint>
+			<biblScope unit="volume">95</biblScope>
+			<biblScope unit="page" from="1019" to="1021" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Cyclical changes in seroprevalence of leptospirosis in California sea lions: endemic and epidemic disease in one host species?</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">O</forename><surname>Lloyd-Smith</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Greig</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Hietala</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">S</forename><surname>Ghneim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Palmer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>St Leger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">T</forename><surname>Grenfell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">M</forename><surname>Gulland</surname></persName>
+		</author>
+		<idno type="DOI">10.1186/1471-2334-7-125</idno>
+	</analytic>
+	<monogr>
+		<title level="j">BMC Infectious Diseases</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="issue">125</biblScope>
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Dolphin morbillivirus and Toxoplasma gondii coinfection in a Mediterranean n whale (Balaenoptera physalus)</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Mazzariol</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Marcer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Mignone</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Serracca</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Goria</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Marsili</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Di</forename><surname>Guardo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Casalone</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename></persName>
+		</author>
+		<idno type="DOI">10.1186/1746-6148-8-20</idno>
+	</analytic>
+	<monogr>
+		<title level="j">BMC Veterinary Research</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="issue">20</biblScope>
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Characterization of a Brucella sp. strain as a marine-mammal type despite isolation from a patient with spinal osteomyelitis in New Zealand</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">L</forename><surname>Mcdonald</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Jamaludin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Mackereth</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Hansen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Humphrey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Short</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Taylor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Swingler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">E</forename><surname>Dawson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Whatmore</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Stubber</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">L</forename><surname>Perrett</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Simmons</surname></persName>
+		</author>
+		<idno type="DOI">10.1128/JCM.00680-06</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Clinical Microbiology</title>
+		<imprint>
+			<biblScope unit="volume">44</biblScope>
+			<biblScope unit="page" from="4363" to="4370" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Health assessment and diseases of the Weddell seal, Leptonochotes weddelli, in Vestfold Hills, East Antarctica</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>Mcfarlane</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="s">Health of Antarctic wildlife</title>
+		<editor>
+			<persName><forename type="first">K</forename><forename type="middle">R</forename><surname>Kerry</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Riddle</surname></persName>
+		</editor>
+		<imprint>
+			<biblScope unit="page" from="139" to="166" />
+			<date type="published" when="2009">2009</date>
+			<publisher>Springer</publisher>
+			<pubPlace>Berlin</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Coastal freshwater runoff is a risk factor for Toxoplasma gondii infection of southern sea otters (Enhydra lutris nereis)</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Miller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">A</forename><surname>Gardner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Kreuder</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename><surname>Paradies</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">R</forename><surname>Worcester</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Jessup</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Dodd</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">D</forename><surname>Harris</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Ames</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">E</forename><surname>Packham</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">A</forename><surname>Conrad</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/S0020-7519(02)00069-3</idno>
+	</analytic>
+	<monogr>
+		<title level="j">International Journal of Parasitology</title>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="page" from="997" to="1006" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Parapoxvirus infection in harbor seals (Phoca vitulina) from the German North Sea</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Müller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Gröters</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">U</forename><surname>Siebert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Rosenberger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Driver</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>König</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Becher</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">U</forename><surname>Hetzel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Baumgärtner</surname></persName>
+		</author>
+		<idno type="DOI">10.1354/vp.40-4-445</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Veterinary Pathology</title>
+		<imprint>
+			<biblScope unit="volume">40</biblScope>
+			<biblScope unit="page" from="445" to="454" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Seroepidemiology of parapoxvirus infections in captive and free-ranging California sea lions Zalophus californianus</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">H</forename><surname>Nollens</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">M</forename><surname>Gulland</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Hernández</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">C</forename><surname>Condit</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">A</forename><surname>Klein</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">T</forename><surname>Walsh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">R</forename><surname>Jacobson</surname></persName>
+		</author>
+		<idno type="DOI">10.3354/dao069153</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Diseases of Aquatic Organisms</title>
+		<imprint>
+			<biblScope unit="volume">69</biblScope>
+			<biblScope unit="page" from="153" to="161" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">Parapoxviruses of seals and sea lions make up a distinct subclade within the genus Parapoxvirus</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">H</forename><surname>Nollens</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">M</forename><surname>Gulland</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">R</forename><surname>Jacobson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Hernández</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">A</forename><surname>Klein</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">T</forename><surname>Walsh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">C</forename><surname>Condit</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.virol.2006.01.020</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Virology</title>
+		<imprint>
+			<biblScope unit="volume">349</biblScope>
+			<biblScope unit="page" from="316" to="324" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">Marine mammal Brucella reference strains are attenuated in a BALB/c mouse model</title>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">H</forename><surname>Nymo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Arias</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Pardo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">P</forename><surname>Álvarez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Alcaraz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Godfroid</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">P J</forename><surname>De Bagüés</surname></persName>
+		</author>
+		<idno type="DOI">10.1371/journal.pone.0150432</idno>
+	</analytic>
+	<monogr>
+		<title level="j">PLoS One</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page">150432</biblScope>
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<monogr>
+		<title level="m" type="main">A protein A/G indirect enzyme-linked immunosorbent assay for the detection of anti-Brucella antibodies in Arctic wildlife</title>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">H</forename><surname>Nymo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Godfroid</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Åsbakk</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">K</forename><surname>Larsen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">G</forename><surname>Das Neves</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Rødven</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Tryland</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title level="a" type="main">Herpesviruses-a zoonotic threat?</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">K</forename><surname>Tischer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Osterrieder</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.vetmic.2009.06.020</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Veterinary Microbiology</title>
+		<imprint>
+			<biblScope unit="volume">140</biblScope>
+			<biblScope unit="page" from="266" to="270" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title level="a" type="main">Seal parapoxvirus</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Tryland</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Molecular detection of human viral pathogens</title>
+		<editor>
+			<persName><forename type="first">D</forename><surname>Liu</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Boca Raton</addrLine></address></meeting>
+		<imprint>
+			<publisher>CRC Press</publisher>
+			<date type="published" when="2011">2011</date>
+			<biblScope unit="page" from="1029" to="1037" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+		<title level="a" type="main">Zoonoses and public health</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Tryland</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">CRC handbook of marine mammal diseases. 2nd edn</title>
+		<editor>
+			<persName><forename type="first">F</forename><forename type="middle">M D</forename><surname>Gulland</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Boca Raton</addrLine></address></meeting>
+		<imprint>
+			<publisher>CRC Press</publisher>
+			<date type="published" when="2017">2017</date>
+			<biblScope unit="page" from="47" to="62" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<analytic>
+		<title level="a" type="main">Isolation and partial characterization of a parapoxvirus isolated from a skin lesion of a Weddell seal</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Tryland</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Klein</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">S</forename><surname>Nordøy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">S</forename><surname>Blix</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.virusres.2004.08.005</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Virus Research</title>
+		<imprint>
+			<biblScope unit="volume">108</biblScope>
+			<biblScope unit="page" from="83" to="87" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<analytic>
+		<title level="a" type="main">Serum chemistry and antibodies against pathogens in Antarctic fur seals, Weddell seals, crabeater seals, and Ross seals</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Tryland</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">H</forename><surname>Nymo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Nielsen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">S</forename><surname>Nordøy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">M</forename><surname>Kovacs</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">A</forename><surname>Krafft</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">I</forename><surname>Thoresen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Åsbakk</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Osterrieder</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">J</forename><surname>Roth</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Lydersen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Godfroid</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">S</forename><surname>Blix</surname></persName>
+		</author>
+		<idno type="DOI">10.7589/0090-3558-48.3.632</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Wildlife Diseases</title>
+		<imprint>
+			<biblScope unit="volume">48</biblScope>
+			<biblScope unit="page" from="632" to="645" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<analytic>
+		<title level="a" type="main">Identi cation of a polyomavirus in Weddell seal (Leptonychotes weddellii) from the Ross Sea (Antarctica)</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Varsani</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Frankfurter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Stainton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">F</forename><surname>Male</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Kraberger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Burns</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s00705-017-3239-y</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Archives of Virology</title>
+		<imprint>
+			<biblScope unit="volume">162</biblScope>
+			<biblScope unit="page" from="1403" to="1407" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<analytic>
+		<title level="a" type="main">Marine mammal Brucella genotype associated with zoonotic infection</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Whatmore</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">E</forename><surname>Dawson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Groussaud</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">S</forename><surname>Koylass</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">C</forename><surname>King</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">J</forename><surname>Shankster</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">H</forename><surname>Sohn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">S</forename><surname>Probert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">L</forename><surname>Mcdonald</surname></persName>
+		</author>
+		<idno type="DOI">10.3201/eid1403.070829</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Emerging Infectious Diseases</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page" from="517" to="518" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<analytic>
+		<title level="a" type="main">Characterisation of North American Brucella isolates from marine mammals</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Whatmore</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Dawson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Muchowski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">L</forename><surname>Perrett</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Stubber</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Koylass</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Foster</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">J</forename><surname>Davis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Quance</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">F</forename><surname>Sidor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">L</forename><surname>Field</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>St Leger</surname></persName>
+		</author>
+		<idno type="DOI">10.1371/journal.pone.0184758</idno>
+	</analytic>
+	<monogr>
+		<title level="j">PloS One</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page">184758</biblScope>
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

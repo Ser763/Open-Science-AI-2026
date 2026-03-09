@@ -1,0 +1,2230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Effects of disease on foraging behaviour and success in an individual free-ranging northern elephant seal</title>
+				<funder>
+					<orgName type="full">Animal Telemetry Network</orgName>
+				</funder>
+				<funder ref="#_5QjUkk6">
+					<orgName type="full">Gordon and Betty Moore Foundation</orgName>
+				</funder>
+				<funder ref="#_fEbatyc">
+					<orgName type="full">National Science Foundation</orgName>
+				</funder>
+				<funder ref="#_6Eccngs">
+					<orgName type="full">Japan Society for the Promotion of Science</orgName>
+				</funder>
+				<funder ref="#_Wyf5jch #_Pd7pfVd #_hbPnSuS #_6bPk2V2 #_aZsKeJB #_VBtXYfW">
+					<orgName type="full">unknown</orgName>
+				</funder>
+				<funder ref="#_AcjHTPm">
+					<orgName type="full">Office of Naval Research</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">Alfred P Sloan Foundation</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">David and Lucile Packard Foundation</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Oxford University Press (OUP)</publisher>
+				<availability status="unknown"><p>Copyright Oxford University Press (OUP)</p>
+				</availability>
+				<date type="published" when="2023-01-01">2023-01-01</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><forename type="first">Rachel</forename><forename type="middle">R</forename><surname>Holser</surname></persName>
+							<email>rholser@ucsc.edu</email>
+							<affiliation key="aff0">
+								<orgName type="department">Institute of Marine Sciences</orgName>
+								<orgName type="institution">University of California Santa Cruz</orgName>
+								<address>
+									<addrLine>115 McAllister Way</addrLine>
+									<postCode>95060</postCode>
+									<settlement>Santa Cruz</settlement>
+									<region>CA</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Daniel</forename><forename type="middle">E</forename><surname>Crocker</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Biology</orgName>
+								<orgName type="institution">Sonoma State University</orgName>
+								<address>
+									<postCode>94928</postCode>
+									<settlement>Rohnert Park</settlement>
+									<region>California</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Arina</forename><forename type="middle">B</forename><surname>Favilla</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="department">Department of Ecology and Evolutionary Biology</orgName>
+								<orgName type="institution">University of California Santa Cruz</orgName>
+								<address>
+									<postCode>95064</postCode>
+									<settlement>Santa Cruz</settlement>
+									<region>California</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Taiki</forename><surname>Adachi</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="department">Department of Ecology and Evolutionary Biology</orgName>
+								<orgName type="institution">University of California Santa Cruz</orgName>
+								<address>
+									<postCode>95064</postCode>
+									<settlement>Santa Cruz</settlement>
+									<region>California</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff3">
+								<orgName type="institution">National Institute of Polar Research</orgName>
+								<address>
+									<settlement>Tachikawa, Tokyo</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Theresa</forename><forename type="middle">R</forename><surname>Keates</surname></persName>
+							<affiliation key="aff4">
+								<orgName type="department">Department of Ocean Sciences</orgName>
+								<orgName type="institution">University of California Santa Cruz</orgName>
+								<address>
+									<postCode>95064</postCode>
+									<settlement>Santa Cruz</settlement>
+									<region>California</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Yasuhiko</forename><surname>Naito</surname></persName>
+							<affiliation key="aff3">
+								<orgName type="institution">National Institute of Polar Research</orgName>
+								<address>
+									<settlement>Tachikawa, Tokyo</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Daniel</forename><forename type="middle">P</forename><surname>Costa</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Institute of Marine Sciences</orgName>
+								<orgName type="institution">University of California Santa Cruz</orgName>
+								<address>
+									<addrLine>115 McAllister Way</addrLine>
+									<postCode>95060</postCode>
+									<settlement>Santa Cruz</settlement>
+									<region>CA</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="department">Department of Ecology and Evolutionary Biology</orgName>
+								<orgName type="institution">University of California Santa Cruz</orgName>
+								<address>
+									<postCode>95064</postCode>
+									<settlement>Santa Cruz</settlement>
+									<region>California</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff5">
+								<orgName type="department">Institute of Marine Sciences</orgName>
+								<orgName type="institution">University of California Santa Cruz</orgName>
+								<address>
+									<addrLine>115 McAllister Way</addrLine>
+									<postCode>95060</postCode>
+									<settlement>Santa Cruz</settlement>
+									<region>CA</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Effects of disease on foraging behaviour and success in an individual free-ranging northern elephant seal</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Conservation Physiology</title>
+						<idno type="eISSN">2051-1434</idno>
+						<imprint>
+							<publisher>Oxford University Press (OUP)</publisher>
+							<biblScope unit="volume">11</biblScope>
+							<biblScope unit="issue">1</biblScope>
+							<date type="published" when="2023-01-01" />
+						</imprint>
+					</monogr>
+					<idno type="MD5">35CC31B49944F1DBB2A918AF4BA7962D</idno>
+					<idno type="DOI">10.1093/conphys/coad034</idno>
+					<note type="submission">Received 23 September 2022; Revised 14 April 2023; Editorial Decision 23 April 2023; Accepted 17 May 2023</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.0" ident="GROBID" when="2026-03-09T17:19+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Pinniped</term>
+					<term>infection</term>
+					<term>foraging</term>
+					<term>energetics</term>
+					<term>ecophysiology</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Evaluating consequences of stressors on vital rates in marine mammals is of considerable interest to scientific and regulatory bodies. Many of these species face numerous anthropogenic and environmental disturbances. Despite its importance as a critical form of mortality, little is known about disease progression in air-breathing marine megafauna at sea. We examined the movement, diving, foraging behaviour and physiological state of an adult female northern elephant seal (Mirounga angustirostris) who suffered from an infection while at sea. Comparing her to healthy individuals, we identified abnormal behavioural patterns from high-resolution biologging instruments that are likely indicators of diseased and deteriorating condition. We observed continuous extended (3-30 minutes) surface intervals coinciding with almost no foraging attempts (jaw motion) during 2 weeks of acute illness early in her post-breeding foraging trip. Elephant seals typically spend ∼ 2 minutes at the surface. There were less frequent but highly extended (30-200 minutes) surface periods across the remainder of the trip. Dive duration declined throughout the trip rather than increasing. This seal returned in the poorest body condition recorded for an adult female elephant seal (18.3% adipose tissue; post-breeding trip average is 30.4%). She was immunocompromised at the end of her foraging trip and has not been seen since that moulting season. The timing and severity of the illness, which began during the end of the energy-intensive lactation fast, forced this animal over a tipping point from which she could not recover. Additional physiological constraints to foraging, including thermoregulation and oxygen consumption, likely exacerbated her already poor condition. These findings improve our understanding of illness in free-ranging air-breathing marine megafauna, demonstrate the vulnerability of individuals at critical points in their life history, highlight the importance of considering individual health when interpreting biologging data and could help differentiate between malnutrition and other causes of at-sea mortality from transmitted data.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Introduction</head><p>There is considerable interest in understanding the consequences of stressors on vital rates in marine mammals by quantifying links between health, physiology, behaviour and fitness <ref type="bibr" target="#b54">(Pirotta et al., 2018;</ref><ref type="bibr" target="#b35">Keen et al., 2021)</ref>. The timing, magnitude and nature of stressors play a role in the longterm consequences for individuals and populations. Stressors during vulnerable stages of an animal's life history can be more detrimental than at other times in their cycle <ref type="bibr" target="#b35">(Keen et al., 2021)</ref>. Despite its importance as a critical form of mortality, little is known about disease progression in airbreathing marine megafauna at sea. Standard biotelemetry devices provide detailed information about animal location and movement, but for individuals that never return from sea, information is limited to remotely transmitted data. These summary data are currently insufficient to differentiate between mortality due to predation, sickness, or malnutrition in part due to a lack of information about behavioural changes during illness. Implantable telemetry devices have been developed that enable researchers to identify mortality due to predation <ref type="bibr" target="#b29">(Horning et al., 2008;</ref><ref type="bibr" target="#b30">Horning and Mellish, 2012)</ref>, but that approach is not applicable to externally attached devices. Detailed behavioural records of sick animals at sea are virtually non-existent but could provide vital information to <ref type="bibr" target="#b44">(1)</ref> understand the consequences of at-sea sickness in a marine mammal; <ref type="bibr">(2)</ref> provide a behavioural model to help researchers use transmitted data to differentiate between mortality due to deteriorating body condition and other, more abrupt, causes of mortality.</p><p>Infection is typically accompanied by fever, which helps slow the spread of pathogens <ref type="bibr" target="#b37">(Kluger, 1978;</ref><ref type="bibr" target="#b16">Evans et al., 2015)</ref>, and a suite of associated behaviours, including inactivity, sleepiness and anorexia <ref type="bibr" target="#b23">(Hart and Hart, 2019)</ref>. These behaviours are consistent across vertebrate taxa and are viewed as an adaptive response, ensuring that body resources are conserved to fight the infection. Fever results from an increased thermoregulatory set point (controlled by cytokines). Animals feel chilly under conditions that would previously have felt normal. This results in the animal minimizing heat loss and generating sufficient body heat to maintain the elevated set-point, usually 1 • C to 4 • C above normal core body temperature <ref type="bibr" target="#b23">(Hart and Hart, 2019)</ref>. Heat loss is reduced through behavioural and physiological means, such as reducing movement, seeking warm places and constricting blood flow to the extremities. In marine mammals, these typical behavioural responses are confounded when an animal is at sea-in a cold environment where sedentary behaviour would leave them particularly vulnerable to predation.</p><p>Northern elephant seals (Mirounga angustirostris) have a demanding lifestyle, which includes two extended fasting periods each year in conjunction with other physiologically stressful processes (i.e. lactation/breeding and catastrophic moulting) <ref type="bibr" target="#b65">(Worthy et al., 1992;</ref><ref type="bibr" target="#b19">Fowler et al., 2016)</ref>. Their foraging behaviour is also physiologically demanding. While at sea, they dive continuously with minimal post-dive surface intervals (PDI ∼ 2 minutes) to replenish oxygen stores used during 20 to 40 minutes dives (Le <ref type="bibr" target="#b40">Boeuf et al., 2000;</ref><ref type="bibr" target="#b56">Robinson et al., 2012)</ref>. These animals regularly dive at or near their calculated aerobic dive limit <ref type="bibr" target="#b24">(Hassrick et al., 2010)</ref> and are well adapted to withstand hypoxic conditions <ref type="bibr" target="#b44">(Meir et al., 2009;</ref><ref type="bibr" target="#b45">Meir et al., 2013;</ref><ref type="bibr" target="#b60">Tift and Ponganis, 2019)</ref>.</p><p>Adult female elephant seals from the colony at Año Nuevo State Park have been tracked and monitored continuously during both their post-breeding (March-May) and postmoulting (June-January) foraging trips since 2004 <ref type="bibr" target="#b56">(Robinson et al., 2012;</ref><ref type="bibr" target="#b26">Holser, 2020)</ref>. While most animals (90.7% postbreeding and 84.2% post-moulting <ref type="bibr" target="#b27">(Holser et al., 2021)</ref>) return to Año Nuevo or another colony, a few animals disappear and presumably die during their time at sea <ref type="bibr" target="#b36">(Kienle et al., 2022)</ref>. In February 2017, an outwardly healthy individual (6018) was sedated and instrumented for tracking at the end of the breeding season. She returned to the colony to moult in May 2017 in visibly poor condition, a unique occurrence among the 664 adult females that have been instrumented since 2004. As part of our standard protocol, we collected data on the individual's movements, body condition and clinical health parameters. Comparing this female's data to our extensive control data provided a remarkable opportunity to examine the behaviour and physiology associated with disease in a freely ranging marine mammal. Our findings could help inform the interpretation of biologging data in terms of differentiating between causes of mortality and provides insight into the energetic consequences of an extended disturbance.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Methods</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Study site and ethics</head><p>This study was conducted at the northern elephant seal colony at Año Nuevo State Park, San Mateo County, California, USA. All animal handling was conducted under NMFS permits <ref type="bibr">786-1463, 87-143, 14636 and 19108</ref> and with the approval and oversight of the UCSC Institutional Animal Care and Use Committee.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Field procedures</head><p>Adult female diving and foraging behaviour was measured using biologging instruments deployed on ∼ 20 individuals per year during the post-breeding trip from 2004 to 2020 for a total of 289 deployments. These deployments are part of a long-term monitoring effort to evaluate how this species' foraging behaviour changes in response to oceanographic conditions. Following best practices <ref type="bibr" target="#b28">(Horning et al., 2019)</ref>, animals for this work are selected to maximize survival and return instruments with high-resolution data. We choose animals based on age <ref type="bibr">(5-12 years)</ref> </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>body condition)</head><p>. Elephant seals nurse their pups up until their departure for sea, so deployments are completed during late lactation, typically on Day 23 to Day 25 of a ∼ 26-day lactation period. Each animal was sedated following standard protocols <ref type="bibr" target="#b56">(Robinson et al., 2012)</ref> and equipped with a timedepth recorder (TDR) programmed to collect depth data at least every 8 seconds and with a satellite tag providing either Argos or GPS locations (Wildlife Computers, Seattle, WA, USA; Sea Mammal Research Unit, St. Andrews University, UK). Seal 6018 instrumented with a jaw accelerometer (Little Leonardo, Japan) that recorded prey capture events <ref type="bibr" target="#b48">(Naito et al., 2013)</ref> in addition to the 48 seals in our previous study <ref type="bibr" target="#b1">(Adachi et al., 2021)</ref>. Upon returning to shore, individuals were sedated again for instrument recoveries.</p><p>Body composition and energy gain values were calculated using established methods <ref type="bibr" target="#b56">(Robinson et al., 2012)</ref>. Morphometric measurements were collected during deployment and recovery sedations, including weight, blubber depths, lengths and girths. Body composition was calculated using the truncated cones method <ref type="bibr" target="#b20">(Gales and Burton, 1987)</ref> and calibrated to body water measurements <ref type="bibr" target="#b63">(Webb et al., 1998)</ref>. Blubber thickness was measured at six evenly spaced locations along the length of the body along a dorsal line and again along a lateral line (12 measurements total) using a backfat ultrasound meter (Scanoprobe, Ithaca, NY) at deployment and a Signos handheld ultrasound (Signostics, Thebarton, AUS) at recovery. Both instruments have previously been used to measure blubber thickness in elephant seals and produce comparable data. Mass was measured each time animals were sedated by suspending the seal from a hanging scale using a tripod and sling. To determine mass upon arrival and departure from the colony, measured masses were corrected to account for time spent onshore fasting before <ref type="bibr">(Simmons et al., 2010)</ref> and after measurements were taken:</p><formula xml:id="formula_0">MassCorrection Breed = (1.2209 + 0.01329 * Mass) * DaysFasting Breed (Eq. 1)</formula><p>This mass-specific correction was derived from females that were weighed repeatedly while on shore for previous studies (n = 82; Crocker, unpublished data). Departure from and arrival at the colony of each instrumented animal were determined from TDR or satellite records.</p><p>The surface area to volume ratio (SA/V) was calculated for post-breeding seals in 2017 using morphometrics measured at deployment and recovery. Each seal was represented geometrically by seven circular truncated cones from the ankle to the ears (divided at the same six locations along the length of the body where blubber thickness was measured) and a normal circular cone from the ears to the nose for the head of the seal. This method was chosen as the least likely to overestimate or underestimate the dimensions of the seal. Surface area and volume were calculated as the sum of the lateral surface areas and volumes, respectively, of each of these geometric shapes. For comparison to our best estimate methodology, a minimum and maximum SA/V were also calculated using differing geometric representations of the seal. The minimum estimate was calculated without the normal cone representing the head of the seal (only truncated cones from ankles to ears). The maximum estimate was calculated with the addition of normal circular cones for both the head (ears to nose) and tail (ankles to tail tip) to the truncated cones from ankles to ears.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Laboratory procedures</head><p>Blood samples were collected from the extradural vein at deployment and recovery in untreated and EDTA vacutainers. An EDTA whole blood sample was sent to Antech Diagnostics for a blood chemistry panel immediately following the recovery procedure. The remaining samples were centrifuged at 4 • C and 2400 rpm for 15 minutes, and samples were stored at -80 • C until analysis.</p><p>Blood samples were analysed for markers of both innate (cytokines interleukin 6 (IL-6) and interleukin 1β (IL-1β)) and adaptive (immunoglobulins IgG, IgM and IgE) immune responses, stress and thyroid hormones (cortisol, thyroxine (T4), triidothyrione (T3), reverse triidothyrione (rT3)) and metabolites (glucose, blood urea nitrogen (BUN), and nonesterified fatty acids (NEFA)). Analyses were completed using commercially available kits summarized in Table <ref type="table" target="#tab_0">1</ref>. These immunoassays methods have been validated in northern elephant seals <ref type="bibr" target="#b50">(Ortiz et al., 2001;</ref><ref type="bibr" target="#b6">Champagne et al., 2005;</ref><ref type="bibr" target="#b18">Fowler et al., 2008;</ref><ref type="bibr" target="#b5">Champagne et al., 2013;</ref><ref type="bibr" target="#b15">Ensminger et al., 2014;</ref><ref type="bibr" target="#b19">Fowler et al., 2016;</ref><ref type="bibr" target="#b53">Peck et al., 2016;</ref><ref type="bibr" target="#b49">Northey, 2021)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Data analysis</head><p>Data processing and statistical analyses were completed in R v4.2.1 and MATLAB R2021a. Tracking and diving data underwent processing and quality control prior to analysis. Location estimates were filtered and processed using the R package foieGras <ref type="bibr" target="#b32">(Jonsen et al., 2019;</ref><ref type="bibr">Jonsen et al., 2020;</ref><ref type="bibr">Jonsen and Patterson, 2020)</ref>. This software uses a state-space model to eliminate erroneous location points and interpolate between locations at one-hour intervals, generating a realistic track of the animal's movement. For each track segment, the distance between locations and distance from the colony were calculated using the MATLAB function lldistkm <ref type="bibr" target="#b46">(Meyer et al., 2022)</ref>. This allowed us to calculate the total distance travelled and maximum distance from the colony.</p><p>Diving data were processed in MATLAB using a custom toolbox (IKNOS) to zero-offset correct TDR records, identify dives and calculate basic statistics (i.e. depth, duration, ascent and descent rates, bottom time, wiggles, post-dive interval) for each dive. All dive records were subsampled to 8-second intervals to compare statistics across all deployments. Geographic locations for each dive were determined using timestamps of dives and a linear interpolation between points of the  foieGras-processed satellite track. Solar elevation was calculated for each dive using the MATLAB function SolarAzEl <ref type="bibr" target="#b38">(Koblick, 2014)</ref>. Daytime and nighttime dives were separated based on a solar elevation greater than or less than 0 • , respectively. Individuals with highly benthic foraging behaviour have distinctly different dive depths, movement and foraging rates than pelagic individuals <ref type="bibr" target="#b1">(Adachi et al., 2021)</ref>. For this reason, we excluded three benthically foraging individuals from all comparisons. Foraging and non-foraging dives were determined from jaw accelerometer data. The total number of jaw motion events per day was calculated for seal 6018 and 45 healthy seals exhibiting pelagic foraging deployed during 2011 to 2018. These data were processed following the methods detailed in <ref type="bibr" target="#b1">Adachi et al. (2021)</ref>.</p><p>We calculated means and standard deviations for foraging success and movement metrics, and grand means and root-mean-squared error (RMSE) for diving metrics in all other post-breeding females (N = 247) as well as healthy females deployed in 2017 (N = 7) for comparison to 6018 (Table <ref type="table" target="#tab_1">2</ref>). For diving metrics, we used ANOVA and Tukey's post-hoc tests to evaluate differences between 6018 and other deployments. There can be year-to-year differences in elephant seal movement and behaviour caused by environmental variation <ref type="bibr" target="#b8">(Crocker et al., 2006;</ref><ref type="bibr" target="#b26">Holser, 2020)</ref>. We therefore restricted the following diving behaviour comparative analyses to healthy individuals deployed during the same year and season as 6018, i.e. post-breeding foraging trip in 2017 (N = 7). As jaw accelerometer data are sparser than diving data (only a few seals per year carry jaw accelerometers in addition to TDRs), we chose to compare 6018's jaw acceleration record to all other pelagic foraging post-breeding seals (N = 45). We examined the relationship between 1) dive depth and dive duration and 2) dive duration and PDI by calculating two-dimensional kernel densities from the complete dive records of healthy individuals. We examined changes in diving and foraging behaviour (i.e. dive duration, prey capture events and depth) as a function of day of trip by fitting GAM smoothing curves using ggplot2 <ref type="bibr" target="#b64">(Wickham, 2016)</ref> to the dive records of healthy individuals combined and to seal 6018 for comparison. Finally, we calculated the number of jaw motion events per day as a function of the percent time the animal spent foraging (as in Fig. <ref type="figure" target="#fig_6">3</ref> from <ref type="bibr" target="#b1">(Adachi et al., 2021)</ref>) as well as the distribution of depths at which jaw motion events occurred.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results</head><p>Comparisons of 6018's body condition, foraging success and at-sea behaviour relative to other animals measured across the 2017 post-breeding trip (N = 7) and to all post-breeding seals measured between 2004 and 2020 (N = 247) are summarized in Table <ref type="table" target="#tab_1">2</ref>. Seal 6018 was six years old at the time of deployment and had produced two pups during her lifetime, the first at age five. Her standard length was 253 cm, which is small for a 6-year-old (20 th percentile; 261 ± 9.4 cm, N = 88). At departure, her mass was 294 kg, which is typical for late lactation animals of that length (Supplementary S1), and her body condition was 24.7% adipose (73 kg adipose, 221 kg fat-free mass (FFM)). Upon return to shore, her mass had declined to 245 kg and 18.3% adipose (45 kg adipose, 200 kg FFM). This is the lowest body composition we have measured in an adult female northern elephant seal (Fig. <ref type="figure" target="#fig_3">1</ref>).</p><p>Seal 6018 was lethargic at the time of recovery, and there were signs of infection on her flippers (Supplementary S2) and around a presumed cookie-cutter shark bite on her left side, mid-body, which were not present at deployment. She    of her body surface was moulted (Fig. <ref type="figure" target="#fig_14">2B</ref>). She has not been resighted at the colony in the 5 years since and is presumed to have died at sea.</p><p>Seal 6018 spent 91 days at sea during the post-breeding foraging trip prior to returning to moult. This is significantly longer than normal for a post-breeding trip (Table <ref type="table" target="#tab_1">2</ref>). Similarly long durations have been seen in otherwise healthy animals, particularly in years with poor foraging conditions <ref type="bibr" target="#b8">(Crocker et al., 2006)</ref>. Tracking data show that her movement path was not unusual for an adult female elephant seal. However, she remained further south, in warmer water, than any of the other seals tracked post-breeding 2017 (Fig. <ref type="figure" target="#fig_6">3</ref>). She travelled further from the colony and covered more total distance than is typical for a post-breeding trip (Fig. <ref type="figure" target="#fig_6">3</ref>; Table <ref type="table" target="#tab_1">2</ref>), likely in part due to the additional 10 to 16 days she spent at sea.</p><p>During the first three weeks of the foraging trip, her diving behaviour displayed abnormal characteristics, particularly between Days 8 and 20. Her PDIs were consistently long (3-8 minutes) during this period, and her dives were a mixture of typical depth and duration and unusually short and shallow (Figs. <ref type="figure" target="#fig_7">4</ref> &amp;<ref type="figure" target="#fig_9">5</ref>). After the first three weeks, her PDI duration normalized; however, her dive duration declined over the remainder of the trip (Fig. <ref type="figure" target="#fig_7">4</ref>). Her dives were often shallower than normal (Fig. <ref type="figure" target="#fig_9">5A,</ref><ref type="figure">C</ref>), and the bottom phase of her dives was half the duration of normal, healthy animals (Table <ref type="table" target="#tab_1">2</ref>). Although most of her PDIs were 1.5 to 4 minutes long, she still regularly exhibited extended surface intervals throughout the remainder of her trip, often during daytime hours (10-100 minutes; Fig. <ref type="figure" target="#fig_7">4A</ref>    of her trip, with fewer than 500 prey capture attempts per day on all but 2 days. Typical females exhibit 1000 to 1500 prey capture attempts per day at the same stage of their trip (Fig. <ref type="figure" target="#fig_13">7A</ref>). Across the entire trip, seal 6018 spent less of her time foraging than other pelagically foraging seals (Fig. <ref type="figure" target="#fig_13">7C</ref>), and she foraged in shallower water (Fig. <ref type="figure" target="#fig_13">7B,</ref><ref type="figure">D</ref>  A comparison of 6018's physiological state to previous measurements in adult female elephant seals is summarized in Table <ref type="table" target="#tab_2">3</ref>. The results of the blood chemistry panel reported from the day of 6018's recovery procedure are in Supplementary S3. Cytokine IL-1β was extremely elevated at both recovery and departure, and IL-6 was also elevated at recovery. Total IgG and IgM were both elevated at departure, but IgG and IgE were both suppressed at recovery. Her cortisol level was unusually high at deployment (15.4 μg/mL) and increased rather than decreased over the foraging trip (21.4 μg/mL at recovery). Thyroid hormones were within normal margins at departure, but at recovery T4 and T3 were both suppressed while rT3 was elevated. Blood glucose and BUN were elevated at recovery, while NEFA was low.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discussion</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Energetics and endocrine response</head><p>Adult female northern elephant seals need to forage nearly continuously (more than 1500 feeding events per day) on their post-breeding foraging trip. This is required to maintain a positive energy balance and regain some of the mass lost during the breeding fast <ref type="bibr" target="#b1">(Adachi et al., 2021)</ref>. Seal 6018 only reached that feeding rate a few times during her trip (Fig. <ref type="figure" target="#fig_13">7A</ref>). While most of the animals undergo a transit period, spending several weeks moving to richer foraging grounds, they do forage as they travel, typically exceeding 1000 prey capture events per day within ten days of departure (Fig. <ref type="figure" target="#fig_13">7A</ref>). Seal 6018 was unable to cross that threshold until the fourth week of her post-breeding trip following her lactation fast, which contributed to her deteriorating condition.</p><p>Typical adult female elephant seals gain 1663.6 ± 528.1 MJ (Table <ref type="table" target="#tab_1">2</ref>) on their post-breeding trip. Seal 6018 lost 49.1 kg during her foraging trip (Table <ref type="table" target="#tab_1">2</ref>), 27.9 kg of adipose tissue and 21.0 kg of lean tissue. This is an energy deficit of 1090 MJ, of which 9% was derived from lean tissue (lean energy: 102.0 MJ = 21 kg * 27% water-free * 17.99 MJ kg -1 ; lipid energy: 987.6 MJ = 27.9 kg * 90% water-free * 39.33 MJ kg -1 ; <ref type="bibr" target="#b52">(Pace and Rathbun, 1945;</ref><ref type="bibr" target="#b65">Worthy et al., 1992;</ref><ref type="bibr" target="#b58">Schmidt-Nielsen, 1997;</ref><ref type="bibr" target="#b12">Crocker et al., 2001)</ref>). Adult female elephant seals' average field metabolic rate (FMR) during the post-breeding foraging trip is 90.1 kJ kg -1 d -1 <ref type="bibr" target="#b41">(Maresh et al., 2015)</ref>. If seal 6018 had not foraged at all during the trip, she would incur an energy deficit of around 2212 MJ (given a departure mass of 294 kg, arrival mass of 245 kg, and assuming a linear decrease in mass across her trip), around double the 1090 MJ she did lose in body stores. Jaw motion data indicate that 6018 gradually increased foraging efforts after day 20 of her trip and video evidence shows that she foraged successfully on both fish and cephalopod prey items during the middle of her foraging trip <ref type="bibr" target="#b66">(Yoshino et al., 2020)</ref>. These video loggers have relatively short lifespans, however, and do not allow us to quantify  overall foraging success rates. While it is likely that her mass loss due is in part to poor foraging success during the trip, this explanation does not exclude the contribution of metabolic costs of illness to her declining body condition.</p><p>Mounting an immune response and maintaining an elevated body temperature are vital to fighting pathogen infections, but both are energetically costly <ref type="bibr" target="#b4">(Brock et al., 2013;</ref><ref type="bibr" target="#b23">Hart and Hart, 2019)</ref>, especially for an animal immersed in water throughout the illness. In endothermic animals, there is a 10% to 12.5% increase in metabolic rate for every 1 • C rise in body temperature <ref type="bibr" target="#b16">(Evans et al., 2015)</ref>, and shivering can increase metabolic rate 2 to 3× resting level <ref type="bibr" target="#b23">(Hart and Hart, 2019)</ref>. A 4 • fever could bring elephant seal FMR to 126.1-135.2 kJ kg -1 d -1 (assuming 10 and 12.5% increases, respectively). Combined with not foraging during the period of apparent illness early in her trip, this elevation would result in an energy cost of ∼ 556 MJ over 14 days (15% of her trip), without accounting for shivering. This is roughly half of her total energy deficit, which underscores how elevated FMR and reduced foraging effort combined could account for dramatic mass loss. Reduced foraging effort during a febrile response would help maintain the inhospitably warm environment that slows pathogens <ref type="bibr" target="#b37">(Kluger, 1978)</ref>. Ingestion of cold prey causes a drop in stomach temperature of several degrees <ref type="bibr" target="#b39">(Kuhn and Costa, 2006)</ref> which would be counter-productive to the febrile response. Compromising foraging and energy gains temporarily may be a worthwhile trade-off to maximize the effectiveness of the fever (and minimize its duration).</p><p>Normally, metabolic depression occurs at the end of extended fasting periods in elephant seals <ref type="bibr" target="#b55">(Rea and Costa, 1992)</ref>, but mounting an immune response could override that normal energy conservation process. Elephant seals' ability to spare protein as an energy source declines as their body composition decreases-at the end of the lactation fast, protein comprises 6-9% of metabolism <ref type="bibr" target="#b11">(Crocker et al., 1998)</ref>. While 6018's glucose and NEFA levels were normal at the end of lactation, her BUN and glucose were elevated at recovery. NEFA was relatively low (Table <ref type="table" target="#tab_2">3</ref>), consistent with high levels of protein metabolism even after her foraging trip. Combined, these metabolites likely indicate a shift away from fat-based metabolism that is characteristic of muscle energetics in phocids <ref type="bibr" target="#b34">(Kanatous et al., 2002)</ref>. Seal 6018 also exhibited highly elevated cortisol and suppressed thyroid function at recovery, consistent with malnutrition <ref type="bibr" target="#b61">(Tulp et al., 1979;</ref><ref type="bibr" target="#b2">Armario et al., 1987)</ref>. Upregulating core body temperature, as needed for a febrile response, should elevate thyroid activity. However, after an additional ten weeks at sea following her apparent illness, this effect may not have been evident.   After arriving on shore, 6018 fasted for 25 days and was 70% moulted at last sighting. The mass-specific mass loss rate for a 245 kg animal, calculated as in <ref type="bibr" target="#b59">Simmons et al. (2010)</ref>, was last seen, and presumably departed to (Fig. <ref type="figure" target="#fig_14">2B</ref>). Typically, moulted adult female elephant seals leave the colony at 282 ± 36 kg and 30.4 ± 2.6% adipose tissue (N = 252), having lost 137 ± 33 kg over a 43.3 ± 2.0 day fast (N = 16; Supplementary S4). Give her extremely low remaining body stores, seal 6018 was likely impelled to leave the colony in search of food before completing her moult.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Immune response</head><p>Adult female elephant seals exhibit an elevated innate and adaptive immune response throughout lactation. Females with lower fat reserves at the end of lactation generally show reduced immune responses <ref type="bibr" target="#b53">(Peck et al., 2016)</ref>. This individual, however, exhibited an unusual elevation in adaptive immune markers IgG and IgM prior to departure from the colony (Table <ref type="table" target="#tab_2">3</ref>) relative to typical late lactation females, indicating that she was already fighting an infection at the end of lactation. She also exhibited extremely high levels of IL-1β at departure, a cytokine that is released from the site of inflammation, helps battle infection and in conjunction with IL-6 can induce fever and alter animal behaviour, including reducing food intake and movement <ref type="bibr" target="#b22">(Harden et al., 2008)</ref>. Cytokines can also induce the production of haptoglobin <ref type="bibr" target="#b62">(Wang et al., 2001;</ref><ref type="bibr" target="#b53">Peck et al., 2016)</ref>, which inhibits the microbial uptake of iron by scavenging free haemoglobin and thereby restrains pathogen growth <ref type="bibr" target="#b23">(Hart and Hart, 2019)</ref>. IL-6 is a pyrogenic cytokine that is heavily involved in inflammatory responses and plays multiple roles in an organism's response to infection (i.e. pro-inflammatory, antiinflammatory and repair-oriented) <ref type="bibr" target="#b16">(Evans et al., 2015;</ref><ref type="bibr" target="#b13">Del Giudice and Gangestad, 2018)</ref>. When the animal returned to shore, her IL-1β level had dropped but was still significantly elevated relative to normal, as was IL-6. This continued cytokine elevation could reflect both illness during her foraging trip and damaged tissue (e.g. infected cookie-cutter shark bite, skin on flippers) in need of repair. While it is not uncommon for adult female elephant seals to return for the moult with one or two small sores on or around their flippers, the degree of infection observed on 6018 was unusual (Supplementary S2) and is likely symptomatic of her deteriorated condition.</p><p>The adaptive immune response is energetically costly and deteriorates if food is limited <ref type="bibr" target="#b43">(Martin 2nd et al., 2007)</ref>. The adaptive immune markers IgG and IgE were both unusually low for seal 6018 at recovery (Table <ref type="table" target="#tab_2">3</ref>). Maintaining high IgG levels requires mobilizing substantial amounts of protein from lean tissue <ref type="bibr" target="#b53">(Peck et al., 2016)</ref>, which the animal likely could not maintain given her depleted body stores and low foraging effort (she lost a further 21.0 kg of lean tissue after the lactation fast). Additionally, IgE is associated with helminth infection (parasitic worms) in elephant seals and is highest when they return from foraging. The low levels in this female may reflect reduced foraging or suppression from her high cortisol, as has been demonstrated previously in adult females <ref type="bibr" target="#b53">(Peck et al., 2016)</ref>. Her low levels for these adaptive immune markers suggest that seal 6018 had become immunocompromised by the end of her foraging trip.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Buoyancy, oxygen stores and thermoregulation</head><p>Body composition serves multiple roles in aquatic organisms-energy stores, insulation and buoyancy control. At departure, 6018 had a mass of 294 kg and an average blubber thickness of 2.55 +/-0.22 cm. At recovery these values had decreased to 245 kg and 1.72 ± 0.20 cm blubber thickness (Table <ref type="table" target="#tab_1">2</ref>). This dramatic mass loss and blubber thickness reduction would simultaneously increase the animal's locomotor costs, reduce her available oxygen stores and compromise her thermoregulation ability <ref type="bibr" target="#b57">(Rosen et al., 2007)</ref>.</p><p>Elephant seals are typically negatively buoyant at departure from the colony. Their buoyancy gradually increases throughout their trip as they increase their proportion of lipid to lean body stores, allowing them to ascend from depth with less effort and lower metabolic costs <ref type="bibr" target="#b0">(Adachi et al., 2014;</ref><ref type="bibr" target="#b41">Maresh et al., 2015)</ref>. The optimum condition for energy-efficient locomotion is neutral buoyancy, which is likely achieved at a body composition of around 40% adipose <ref type="bibr" target="#b63">(Webb et al., 1998)</ref>; both positive and negative buoyancy have greater metabolic costs <ref type="bibr" target="#b0">(Adachi et al., 2014)</ref>. The body condition of 6018 decreased (from 24.7% to 18.3%) from the start to end of her trip, causing her locomotor efficiency to also decrease as she moved further away from neutral buoyancy (towards negative buoyancy) and well outside of the normal body condition range for adult female northern elephant seals. This reduced efficiency is evident in the low ascent rates, minimal bottom time and overall decline in dive duration throughout her foraging trip (Table <ref type="table" target="#tab_1">2</ref>; Fig. <ref type="figure" target="#fig_7">4B</ref>). The increased effort required for 6018 to surface would exhaust her oxygen stores more quickly <ref type="bibr" target="#b41">(Maresh et al., 2015)</ref>. Furthermore, any metabolic increase required as part of a response to illness (either immune upregulation or maintaining fever) would also contribute to more rapid oxygen depletion <ref type="bibr" target="#b14">(Demas et al., 1997;</ref><ref type="bibr" target="#b3">Bonneaud et al., 2003;</ref><ref type="bibr" target="#b42">Martin 2nd et al., 2003;</ref><ref type="bibr" target="#b4">Brock et al., 2013)</ref> and constrain diving ability. Interestingly, 6018 had numerous shallow dives with very low descent and ascent rates (∼0.5-0.8 m/s) that we do not see in typical seals (Supplementary S5 &amp; Supplementary S6). These lowactivity dives may have provided an alternative to more typical (and deeper) passive drift dives that allow elephant seals to rest and process food <ref type="bibr" target="#b9">(Crocker et al., 1997;</ref><ref type="bibr" target="#b47">Mitani et al., 2010)</ref>, enabling 6018 to rest despite her inefficient body condition.</p><p>Oxygen stores in diving animals scale with body size, as does metabolic rate <ref type="bibr" target="#b21">(Halsey et al., 2006;</ref><ref type="bibr" target="#b10">Crocker and McDonald, 2022)</ref>. Larger animals have greater oxygen stores and a lower mass-specific metabolism, making them more efficient divers who can sustain longer periods underwater. Blood and muscle are the two primary oxygen stores for deep-diving marine mammals <ref type="bibr" target="#b21">(Halsey et al., 2006</ref>  Increasing SA/V results in greater heat loss to the environment, while decreasing blubber thickness reduces the animal's insulation, also resulting in greater heat loss to the environment. <ref type="bibr" target="#b10">Crocker and McDonald, 2022)</ref>. Both reservoirs decreased during 6018's foraging trip. The blood volume in the northern elephant seal is 20.2% of body mass <ref type="bibr" target="#b24">(Hassrick et al., 2010)</ref>, typically ranging from 66.2-84.1 L of blood from deployment to recovery. Assuming typical blood volume proportions for the species, this animal would have begun her migration with 59.4 L of blood and ended with 49.5 L. Similarly, she departed the colony with 221 kg FFM and returned with 200 kg FFM, a substantial reduction in muscle and other lean tissue. These declining oxygen stores, combined with increased metabolic costs from locomotion and illness, results in the declining dive duration we see in this animal (Fig. <ref type="figure" target="#fig_7">4B</ref>).</p><p>Thermoregulatory demands could also constrain the diving behaviour of a compromised animal. Even in temperate oceans, deep-diving animals will spend extended periods at water temperatures below 5 • C. In addition to having a thin blubber layer, 6018's surface area to volume ratio (SA/V) was unusually high by the time she returned to shore (Fig. <ref type="figure" target="#fig_16">8</ref>). Because a low SA/V reduces heat loss to the environment <ref type="bibr" target="#b25">(Herreid 2nd and Kessel, 1967;</ref><ref type="bibr" target="#b17">Favilla and Costa, 2020)</ref>, her unusually high SA/V combined with lower body mass and a decrease in insulative capacity could limit the animal's ability to sustain time spent at colder temperatures. The animal might have compensated behaviourally by spending more time at the surface in warmer water (particularly during daytime when solar radiation could contribute to warming). Many of 6018's extended surface intervals (&gt;10 minutes) took place during the day rather than at night, as is more typically seen in other individuals (Fig. <ref type="figure" target="#fig_7">4A</ref> &amp;<ref type="figure" target="#fig_11">6</ref>). While the duration of a surface interval can increase with dive duration, the extended PDIs seen in 6018's record are unrelated to the duration of her dives (Fig. <ref type="figure" target="#fig_9">5B,</ref><ref type="figure">D</ref>). Spending time at the surface during the day would leave the seal more exposed to predators. Still, the need for warmth may have overridden that risk for this individual. This shows that disease, in addition to compromising an individual's nutritional and physiolog-ical state, can induce high-risk behaviour, increasing overall vulnerability on multiple fronts.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conclusion</head><p>This study provides rare and valuable information about the progression and effects of disease in a deep-diving marine mammal. Bio-logging studies generally target healthy individuals and aim to generalize findings to the entire population of healthy individuals. The extremely poor physical conditions of 6018 at instrument recovery indicated poor health. This prompted a revaluation of her condition at deployment (via blood analytes and morphometrics) and a fine-scale examination of her diving behaviour. At deployment, the body condition of 6018 was typical of adult female elephant seals at the end of lactation (Supplementary S1) and her outward appearance was of a healthy seal. However, it is likely that she was already fighting an infection at the time. At sea, seal 6018 exhibited a clear, distinct behavioural response to this infection that aligns with the stereotypical behaviour of vertebrate animals during fever: she reduced her activity, spent more time in a warmer environment and severely reduced her food intake. These characteristics of her diving behaviour will inform the interpretation of transmitted diving data from animals lost at sea, helping researchers differentiate between body condition-related mortality and other causes.</p><p>Unfortunately, the energetic cost of this infection, which began concurrently with the end of the lactation fast, was high enough that 6018's body condition declined beyond the point of recovery. Low body condition can compromise a marine mammal's ability to dive long enough to forage adequately due to both thermoregulatory and oxygen limitations. Seal 6018's diving performance continued to deteriorate over the remainder of her trip. She returned to shore in the poorest body condition recorded for a female northern elephant seal. Four weeks later, she left the colony to completing her annual moult and presumably died at sea. This illness occurred at a point of extreme vulnerability in the animal's life-history; when she had minimal reserve body stores to sustain herself and combat the illness. The post-breeding foraging trip is a brief but critical window for adult female elephant seals to replenish body stores to fuel the moulting fast. Inadequate foraging success during this trip could compromise their ability to reproduce or even survive the next annual cycle. Further, the link between physiological state and behaviour should be carefully considered when evaluating the consequences of a stressor; a compromised state can cause high-risk behaviour. This sequence of events illustrates the importance of timing and context in determining the consequences of a stressor or disturbance, including disease.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head></head><label></label><figDesc>, prior reproductive and moulting history and health from a visual assessment of the individual (i.e. no open wounds, clear eyes and skin, typical ..........................................................................................................................................................</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head></head><label></label><figDesc>..........................................................................................................................................................</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head></head><label></label><figDesc>..........................................................................................................................................................</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head>Figure 1 :</head><label>1</label><figDesc>Figure 1: Arrival vs. departure mass (kg) for all post-breeding adult female elephant seals (N = 247). Colour indicates body composition at arrival on shore. The shaded line indicates the linear regression with 95% confidence interval for all individuals (R 2 = 0.72).</figDesc><graphic coords="6,185.58,72.75,240.01,159.04" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4"><head>Figure 2 :</head><label>2</label><figDesc>Figure 2: Photos of seal 6018 during her recovery sedation on 15 May 2017 (2 days after her arrival on shore) (top), and the last day she was seen 6 June 2017 (bottom).</figDesc><graphic coords="6,185.58,285.72,240.27,177.37" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_5"><head></head><label></label><figDesc>&amp; Fig. 6). Compared to typical pelagic adult females, seal 6018 exhibited minimal foraging effort between Days 8 and 20 ..........................................................................................................................................................</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_6"><head>Figure 3 :</head><label>3</label><figDesc>Figure 3: Map of all post-breeding 2017 tracks, overlaid on mean sea surface temperature (SST) for March 15-April 15. 6018 is shown here in black, with the start and end of her unusual dive behaviour (Days 8-20) indicated with diamonds. SST data are monthly 0.01 • resolution from NOAA ERD and CoastWatch West Coast Regional Node (https://coastwatch.pfeg.noaa.gov/erddap/info/jplMURSST41mday/index.html).</figDesc><graphic coords="7,126.18,73.05,360.04,210.76" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_7"><head>Figure 4 :</head><label>4</label><figDesc>Figure 4: Diving characteristics of 6018 across her foraging trip. Shaded area indicates days 8-20. A) Post-dive intervals (minutes) following each dive during the daytime (open circles) and night-time (filled circles). Colour indicates the surface water temperature, measured in situ. B) Duration of each dive (minutes) in 6018's TDR record. Colour indicates local time of day (solar elevation) at the start of each dive. The confidence intervals of fitted curves are represented by solid lines for 6018 and dashed lines for all other 2017 post-breeding animals.</figDesc><graphic coords="7,138.18,344.88,336.04,248.80" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_8"><head></head><label></label><figDesc>). ..........................................................................................................................................................</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_9"><head>Figure 5 :</head><label>5</label><figDesc>Figure 5: Diving characteristics of seal 6018 compared to typical adult female elephant seals. Daytime (A and B) and night-time (C and D) dive depth (m) and post-dive interval (minutes) relation to dive duration (minutes). Contour lines indicate density distribution of all other post-breeding seals in 2017. Post-dive interval is presented on a log scale to accommodate the wide range of values observed. Each point represents a single dive in 6018's dive record, with colour indicating the day of trip (red is the first 20 days of the trip and orange to yellow is from Day 20 on).</figDesc><graphic coords="8,66.06,73.20,480.04,238.60" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_10"><head></head><label></label><figDesc>..........................................................................................................................................................</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_11"><head>Figure 6 :</head><label>6</label><figDesc>Figure 6: Cumulative contribution of different duration post-dive intervals during daytime (A and B) and night-time (C and D) in seal 6018 (black line) and other 2017 post-breeding seals (coloured A and B are zoomed in to the top 2% of the cumulative density function (area highlighted with light grey in B and C) and show extended surface durations. The longest daytime surface interval recorded for 6018 was 264 minutes and the longest night-time PDI was 208 minutes.</figDesc><graphic coords="9,66.18,72.84,480.04,265.96" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_12"><head></head><label></label><figDesc>..........................................................................................................................................................</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_13"><head>Figure 7 :</head><label>7</label><figDesc>Figure 7: Spatial and temporal distribution of foraging during 6018's trip (orange) as compared with other pelagic foraging post-breeding seals (blue; N = 43). Panels A and B show GAM of total number of jaw motion events per day (A) and average depth of jaw motion events each day (B). The dashed line in panel A indicates the 1500 jaw motions per day threshold. Panel C shows the relationship between number of jaw motion events per day and percent time spent foraging. Panel D is the density distribution of the depth of jaw motion events, showing an unusual shallow peak in 6018's foraging effort between 200 and 300 m depth.</figDesc><graphic coords="10,65.58,73.68,480.04,244.12" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_14"><head>is 2 .</head><label>2</label><figDesc>37 kg lost per day of fasting or ∼ 59.3 kg lost at the end of 25 days, suggesting that seal 6018's mass was approximately 189 kg (and below 18.3% adipose tissue) at the time she ..........................................................................................................................................................</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_15"><head></head><label></label><figDesc>; ..........................................................................................................................................................</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_16"><head>Figure 8 :</head><label>8</label><figDesc>Figure 8: Surface area to volume ratio (SA/V) and average blubber thickness (cm) 6018 and other 2017 post-breeding females. X-axis error bars indicate ±1 sd from the mean. Y-axis bars indicate SA/V calculated from tail to nose (max) and from ankles to ears (minutes) with the centre symbol indicating SA/V calculated from ankles to nose. Increasing SA/V results in greater heat loss to the environment, while decreasing blubber thickness reduces the animal's insulation, also resulting in greater heat loss to the environment.</figDesc><graphic coords="12,185.58,72.87,240.01,149.92" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_17"><head></head><label></label><figDesc>..........................................................................................................................................................</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1 :</head><label>1</label><figDesc>Assays used to measure analytes reported here</figDesc><table><row><cell></cell><cell>Analyte</cell><cell>Sample</cell><cell>Assay</cell><cell>Manufacturer</cell><cell>Validation</cell></row><row><cell>Cytokine</cell><cell>IL-1β</cell><cell>Serum</cell><cell>Canine IL-1 beta ELISA</cell><cell>RayBio, Morcross, GA, USA</cell><cell>Peck et al., 2016</cell></row><row><cell>Cytokine</cell><cell>IL-6</cell><cell>Serum</cell><cell>Canine IL-6 ELISA</cell><cell>RayBio, Morcross, GA, USA</cell><cell>Peck et al., 2016</cell></row><row><cell>Immunoglobulin</cell><cell>IgG</cell><cell>Serum</cell><cell>Easy-Titer Human IgG</cell><cell>Fisher Easy</cell><cell>Peck et al., 2016</cell></row><row><cell>Immunoglobulin</cell><cell>IgM</cell><cell>Serum</cell><cell>Easy-Titer Human IgM</cell><cell>Fisher</cell><cell>Peck et al., 2016</cell></row><row><cell>Immunoglobulin</cell><cell>IgE</cell><cell>Serum</cell><cell>Canine IgE ELISA</cell><cell>GenWay Biotech Inc.,</cell><cell>Peck et al., 2016</cell></row><row><cell>Hormone</cell><cell>Cortisol</cell><cell>Serum</cell><cell>DPC RIA</cell><cell>Siemens, Washington DC, USA</cell><cell>Ortiz et al., 2001</cell></row><row><cell>Hormone</cell><cell>T4</cell><cell>Serum</cell><cell>RIA</cell><cell>Siemens, Washington DC, USA</cell><cell>Ensminger et al., 2014</cell></row><row><cell>Hormone</cell><cell>T3</cell><cell>Serum</cell><cell>RIA</cell><cell>Siemens, Washington DC, USA</cell><cell>Ensminger et al., 2014</cell></row><row><cell>Hormone</cell><cell>rT3</cell><cell>Serum</cell><cell>RIA</cell><cell>Alpco, Salem, NH, USA</cell><cell>Northey, 2021</cell></row><row><cell>Metabolite</cell><cell>Glucose</cell><cell>Plasma</cell><cell>YSI 2300 glucose autoanalyser</cell><cell>YSI Inc., Yellow Springs, OH, USA</cell><cell></cell></row><row><cell>Metabolite</cell><cell>BUN</cell><cell>Plasma</cell><cell>Enzymatic colorimetric assay</cell><cell>Stanbio, Boerne, TX, USA</cell><cell></cell></row><row><cell>Metabolite</cell><cell>NEFA</cell><cell>Plasma</cell><cell>Enzymatic colorimetric assay</cell><cell>Wako Diagnostics, Richmond, VA, USA</cell><cell></cell></row></table><note><p>IL, interleukin; Ig, immunoglobulin</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 2 :</head><label>2</label><figDesc>Foraging success and behaviour of 6018 compared with all other post-breeding seals and with other 2017 post-breeding seals Mean ± s.d. is reported for all values for 6018 and Trip Metric values for PB2004-2020 and PB2017. Diving Metric values for PB2004-2020 and PB2017 are grand means ± RMSE. For diving metrics, values in bold are significantly different (ANOVA with Tukey's post hoc) from both other females from all years and other 2017 females</figDesc><table><row><cell>Trip Metric</cell><cell>PB2004-2020 (N = 247)</cell><cell>6018</cell><cell>PB2017 (N = 7)</cell></row><row><cell>Mass gain (kg)</cell><cell>86.7 ± 22.5</cell><cell>-49.1</cell><cell>87.5 ± 17.4</cell></row><row><cell>Mass gain rate (kg/d)</cell><cell>1.2 ± 0.3</cell><cell>-0.54</cell><cell>1.1 ± 0.2</cell></row><row><cell>% Mass gain</cell><cell>27.5 ± 8.0</cell><cell>-17.9</cell><cell>29.9 ± 7.0</cell></row><row><cell>Energy gain (MJ)</cell><cell>1663.6 ± 528.1</cell><cell>-1121.9</cell><cell>1424.0 ± 330.3</cell></row><row><cell>Energy gain rate (MJ/d)</cell><cell>22.3 ± 7.8</cell><cell>-12.4</cell><cell>18.4 ± 5.1</cell></row><row><cell>Departure %Adipose</cell><cell>28.2 ± 2.1</cell><cell>24.7</cell><cell>28.3 ± 1.2</cell></row><row><cell>Arrival % adipose</cell><cell>31.5 ± 2.5</cell><cell>18.3</cell><cell>29.6 ± 1.6</cell></row><row><cell>Deploy blubber depth (cm)</cell><cell>3.35 ± 0.76</cell><cell>2.55 ± 0.22</cell><cell>3.33 ± 0.45</cell></row><row><cell>Recovery blubber depth (cm)</cell><cell>3.79 ± 0.67</cell><cell>1.72 ± 0.20</cell><cell>3.51 ± 0.42</cell></row><row><cell>Trip duration (days)</cell><cell>75.6 ± 11.0</cell><cell>91</cell><cell>78.7 ± 8.6</cell></row><row><cell>Max distance (km)</cell><cell>2108 ± 562</cell><cell>2884</cell><cell>2041 ± 703</cell></row><row><cell>Total distance (km)</cell><cell>5099 ± 1293</cell><cell>6569</cell><cell>5579 ± 661</cell></row><row><cell># Dives per trip</cell><cell>4502 ± 890</cell><cell>6857</cell><cell>4734.1 ± 552.0</cell></row><row><cell># PDI &gt; 4 min per trip</cell><cell>48.0 ± 63.2</cell><cell>209</cell><cell>34.1 ± 18.3</cell></row><row><cell>Diving Metric</cell><cell>PB2004-2020 (N = 236)</cell><cell>6018</cell><cell>PB2017 (N = 8)</cell></row><row><cell>Max depth (m)</cell><cell>1193.0 ± 171.6</cell><cell>920</cell><cell>1218.1 ± 138.9</cell></row><row><cell>Mean depth (m)</cell><cell>542.7 ± 146.6</cell><cell>426.5 ± 166.4</cell><cell>534.8 ± 149.6</cell></row><row><cell>Mean depth day (m)</cell><cell>588.6 ± 146.4</cell><cell>445.9 ± 197.6</cell><cell>568.2 ± 153.7</cell></row><row><cell>Mean depth night (m)</cell><cell>503.5 ± 130.1</cell><cell>407.5 ± 130.2</cell><cell>493.5 ± 127.9</cell></row><row><cell>Dive duration (min)</cell><cell>22.3 ± 4.8</cell><cell>16.3 ± 3.9</cell><cell>21.2 ± 4.2</cell></row><row><cell>Dive duration day (min)</cell><cell>24.5 ± 4.4</cell><cell>17.9 ± 4.0</cell><cell>23.2 ± 4.1</cell></row><row><cell>Dive duration night (min)</cell><cell>20.4 ± 4.2</cell><cell>15.0 ± 2.9</cell><cell>19.5 ± 3.4</cell></row><row><cell>Bottom time (min)</cell><cell>10.3 ± 4.3</cell><cell>4.8 ± 2.6</cell><cell>8.2 ± 4.1</cell></row><row><cell>Bottom time day (min)</cell><cell>11.2 ± 4.4</cell><cell>4.8 ± 2.8</cell><cell>9.8 ± 4.1</cell></row><row><cell>Bottom time night (min)</cell><cell>9.4 ± 3.9</cell><cell>4.6 ± 2.3</cell><cell>8.2 ± 3.2</cell></row><row><cell>Ascent rate (m/s)</cell><cell>1.26 ± 1.03</cell><cell>1.05 ± 0.24</cell><cell>1.19 ± 0.23</cell></row><row><cell>Ascent rate day (m/s)</cell><cell>1.26 ± 1.10</cell><cell>0.98 ± 0.25</cell><cell>1.18 ± 0.22</cell></row><row><cell>Ascent rate night (m/s)</cell><cell>1.26 ± 0.90</cell><cell>1.10 ± 0.22</cell><cell>1.19 ± 0.25</cell></row><row><cell>Descent rate (m/s)</cell><cell>1.33 ± 0.71</cell><cell>1.29 ± 0.43</cell><cell>1.29 ± 0.35</cell></row><row><cell>Descent rate day (m/s)</cell><cell>1.34 ± 0.63</cell><cell>1.17 ± 0.47</cell><cell>1.29 ± 0.34</cell></row><row><cell>Descent rate night (m/s)</cell><cell>1.33 ± 0.57</cell><cell>1.43 ± 0.36</cell><cell>1.30 ± 0.35</cell></row><row><cell>PDI (min)</cell><cell>2.1 ± 5.1</cell><cell>2.6 ± 8.3</cell><cell>2.1 ± 6.1</cell></row><row><cell>PDI day (min)</cell><cell>2.1 ± 4.2</cell><cell>3.1 ± 10.4</cell><cell>2.1 ± 5.4</cell></row><row><cell>PDI night (min)</cell><cell>2.1 ± 5.8</cell><cell>2.2 ± 6.0</cell><cell>2.1 ± 6.6</cell></row></table><note><p>arrived on shore on May 13, 2017, for the moulting haul out and was sighted consistently for 25 days at the colony. While she was initially isolated from most other animals on the beach, she moved over half a mile to a larger group of hauledout moulting animals within days. She began to moult visibly 14 days after arrival. At last sighting, approximately 70% ..........................................................................................................................................................</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 3 :</head><label>3</label><figDesc>Analytes measured from blood samples at instrument deployment (Late Breeding or LB) and recovery (Early Moult or EM), compared to mean values (± sd) in adult female elephant seals measured at the same life history stage Values in bold are higher than normal for that life history stage. Bold italicized values are lower than normal.</figDesc><table><row><cell></cell><cell></cell><cell>6018</cell><cell></cell><cell cols="2">Population Means</cell><cell></cell></row><row><cell>Analyte</cell><cell></cell><cell>Deploy</cell><cell>Recovery</cell><cell>Mean LB</cell><cell>Mean EM</cell><cell>Source</cell></row><row><cell>IL-6</cell><cell>(ng/mL)</cell><cell>0.44</cell><cell>0.55</cell><cell>0.45 ± 0.30</cell><cell>0.14 ± 0.10</cell><cell>Peck et al., 2016</cell></row><row><cell>IL-1β</cell><cell>(pg/mL)</cell><cell>231.5</cell><cell>76.4</cell><cell>43.4 ± 7.7</cell><cell>21.6 ± 8.5</cell><cell>Peck et al., 2016</cell></row><row><cell>IgM</cell><cell>(mg/mL)</cell><cell>1.89</cell><cell>0.23</cell><cell>0.41 ± 0.18</cell><cell>0.27 ± 0.05</cell><cell>Peck et al., 2016</cell></row><row><cell>IgG</cell><cell>(mg/mL)</cell><cell>16.68</cell><cell>0.78</cell><cell>9.14 ± 5.25</cell><cell>7.15 ± 1.55</cell><cell>Peck et al., 2016</cell></row><row><cell>IgE</cell><cell>(ug/mL)</cell><cell>2.65</cell><cell>0.98</cell><cell>1.96 ± 0.58</cell><cell>2.62 ± 0.92</cell><cell>Peck et al., 2016</cell></row><row><cell>Cortisol</cell><cell>(ug/mL)</cell><cell>15.4</cell><cell>21.4</cell><cell>10.8 ± 3.6</cell><cell>3.0 ± 3.1</cell><cell>Peck et al., 2016</cell></row><row><cell>T4</cell><cell>(ug/dL)</cell><cell>3.2</cell><cell>2</cell><cell>3.3 ± 1.1</cell><cell>5.2 ± 1.6</cell><cell>Crocker, unpublished</cell></row><row><cell>T3</cell><cell>(ng/dL)</cell><cell>143.5</cell><cell>98.1</cell><cell>162.7 ± 33.2</cell><cell>173.9 ± 23.6</cell><cell>Crocker, unpublished</cell></row><row><cell>rT3</cell><cell>(ng/mL)</cell><cell>2.4</cell><cell>4.1</cell><cell>1.9 ± 0.7</cell><cell>1.4 ± 0.6</cell><cell>Crocker, unpublished</cell></row><row><cell>glucose</cell><cell>(mg/dL)</cell><cell>120</cell><cell>149</cell><cell>119 ± 15</cell><cell>120 ± 12</cell><cell>Crocker et al. 2014, unpublished</cell></row><row><cell>BUN</cell><cell>(mg/dL)</cell><cell>19</cell><cell>37</cell><cell>22 ± 1</cell><cell>20 ± 2</cell><cell>Crocker et al. 2014, unpublished</cell></row><row><cell>NEFA</cell><cell>(mmol)</cell><cell>2.25</cell><cell>0.78</cell><cell>2.59 ± 1.12</cell><cell>1.00 ± 0.22</cell><cell>Fowler et al., 2016</cell></row></table></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="2" xml:id="foot_0"><p>Downloaded from https://academic.oup.com/conphys/article/11/1/coad034/7179824 by guest on 19 September 2023</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="4" xml:id="foot_1"><p>Downloaded from https://academic.oup.com/conphys/article/11/1/coad034/7179824 by guest on 19 September 2023</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="5" xml:id="foot_2"><p>Downloaded from https://academic.oup.com/conphys/article/11/1/coad034/7179824 by guest on 19 September 2023</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="6" xml:id="foot_3"><p>Downloaded from https://academic.oup.com/conphys/article/11/1/coad034/7179824 by guest on 19 September 2023</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="7" xml:id="foot_4"><p>Downloaded from https://academic.oup.com/conphys/article/11/1/coad034/7179824 by guest on 19 September 2023</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="8" xml:id="foot_5"><p>Downloaded from https://academic.oup.com/conphys/article/11/1/coad034/7179824 by guest on 19 September 2023</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="9" xml:id="foot_6"><p>Downloaded from https://academic.oup.com/conphys/article/11/1/coad034/7179824 by guest on 19 September 2023</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="10" xml:id="foot_7"><p>Downloaded from https://academic.oup.com/conphys/article/11/1/coad034/7179824 by guest on 19 September 2023</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_8"><p>Downloaded from https://academic.oup.com/conphys/article/11/1/coad034/7179824 by guest on 19 September 2023</p></note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head>Acknowledgments</head><p>The authors would like to thank <rs type="institution">Año Nuevo State Park</rs> for their ongoing support of elephant seal research. In additional, all the students, volunteers and researchers who have contributed to the data collection completed at the Año Nuevo colony, including <rs type="person">Akinori Takahashi</rs>, <rs type="person">Patrick Robinson</rs>, <rs type="person">Elizabeth McHuron</rs>, <rs type="person">Carey Kuhn</rs>, <rs type="person">Samantha Simmons</rs>, <rs type="person">Jason Hassrick</rs>, <rs type="person">Melinda Fowler</rs>, <rs type="person">Luis Hückstädt</rs>, <rs type="person">Birgitte McDonald</rs> and <rs type="person">Sarah Peterson</rs>. The authors would also like to thank two anonymous reviewers for their thoughtful and constructive feedback which helped us strengthen this study.</p></div>
+			</div>
+			<div type="funding">
+<div><head>Funding</head><p>This work was supported by the <rs type="funder">Office of Naval Research</rs> [<rs type="grantNumber">N00014-18-1-2822</rs> and <rs type="grantNumber">N000014-13-1-0134</rs> to D.P.C and D.E.C.]; and the <rs type="programName">Strategic Environmental Research Development Program</rs> [<rs type="grantNumber">RC20-C2-1284</rs> to D.P.C and D.E.C.]; and the <rs type="funder">National Science Foundation</rs> [<rs type="grantNumber">1644256</rs> to D.P.C and D.E.C. and <rs type="grantNumber">1537203</rs> to D.P.C]; and the <rs type="funder">Japan Society for the Promotion of Science</rs> <rs type="grantName">[Grant-in-Aid for Scientific Research</rs>: <rs type="grantNumber">23255001</rs> &amp; <rs type="grantNumber">15 K14793</rs>; <rs type="grantName">Grant-in-Aid for JSPS Fellows</rs>: <rs type="grantNumber">12 J04316</rs> &amp; <rs type="grantNumber">16 J02935</rs>; <rs type="grantName">Grant-in-Aid for Research Activity Start-</rs>up: <rs type="grantNumber">15H06824</rs>]; and the <rs type="programName">Tagging of Pacific Predators Program</rs> including support from the <rs type="funder">Gordon and Betty Moore Foundation</rs>, the <rs type="funder">David and Lucile Packard Foundation</rs>, <rs type="funder">Alfred P Sloan Foundation</rs> and the <rs type="funder">Animal Telemetry Network</rs>.</p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funding" xml:id="_AcjHTPm">
+					<idno type="grant-number">N00014-18-1-2822</idno>
+				</org>
+				<org type="funding" xml:id="_Wyf5jch">
+					<idno type="grant-number">N000014-13-1-0134</idno>
+					<orgName type="program" subtype="full">Strategic Environmental Research Development Program</orgName>
+				</org>
+				<org type="funding" xml:id="_fEbatyc">
+					<idno type="grant-number">RC20-C2-1284</idno>
+				</org>
+				<org type="funding" xml:id="_Pd7pfVd">
+					<idno type="grant-number">1644256</idno>
+				</org>
+				<org type="funding" xml:id="_6Eccngs">
+					<idno type="grant-number">1537203</idno>
+					<orgName type="grant-name">[Grant-in-Aid for Scientific Research</orgName>
+				</org>
+				<org type="funding" xml:id="_hbPnSuS">
+					<idno type="grant-number">23255001</idno>
+				</org>
+				<org type="funding" xml:id="_6bPk2V2">
+					<idno type="grant-number">15 K14793</idno>
+					<orgName type="grant-name">Grant-in-Aid for JSPS Fellows</orgName>
+				</org>
+				<org type="funding" xml:id="_aZsKeJB">
+					<idno type="grant-number">12 J04316</idno>
+				</org>
+				<org type="funding" xml:id="_VBtXYfW">
+					<idno type="grant-number">16 J02935</idno>
+					<orgName type="grant-name">Grant-in-Aid for Research Activity Start-</orgName>
+				</org>
+				<org type="funding" xml:id="_5QjUkk6">
+					<idno type="grant-number">15H06824</idno>
+					<orgName type="program" subtype="full">Tagging of Pacific Predators Program</orgName>
+				</org>
+			</listOrg>
+
+			<div type="availability">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Data Availability</head><p>Foraging success data are available at the Dryad Digital Repository https://doi.org/10.7291/D1W101, tracking and diving data are available at the Dryad Digital Repository https:// doi.org/10.7291/D18D7W and jaw motion data are available at the ADS (Arctic Data archive System) of the National Institute of Polar Research (https://ads.nipr.ac.jp/dataset/A20210316-001). Code used in data analysis are available at GitHub (https:// github.com/rholser/EsealDiseaseAtSea) and Zenodo (http://doi. org/10.5281/zenodo.7864665).</p></div>
+			</div>
+
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Supplementary Information</head><p>The Supplementary Materials file includes four figures and two tables (Supplementary S1-S6) that show 1) the relationship between mass and standard length of post-breeding deployment female elephant seals, 2) a photograph of the hind flippers of seal 6018, 3) the blood chemistry results from 6018's recovery sample, 4) across-moult changes in body composition and length of time onshore for animals tracked before and after the moult in the same year, 5) descent and ascent rate in all of 6018's dives compared to a typical seal and 6) depth versus duration with ascent and descent rate in all of 6018's dives compared to a typical seal. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Author Contributions</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conflicts of Interest</head><p>The authors have no conflicts of interest to declare.</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<monogr>
+		<title level="m" type="main">The foraging benefits of being fat in a highly migratory marine mammal</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Adachi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Maresh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">W</forename><surname>Robinson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">H</forename><surname>Peterson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">P</forename><surname>Costa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Naito</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">Y</forename><surname>Watanabe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Takahashi</surname></persName>
+		</author>
+		<idno type="DOI">10.1098/rspb.2014.2120</idno>
+		<ptr target="https://doi.org/10.1098/rspb.2014.2120" />
+		<imprint>
+			<date type="published" when="2014">2014</date>
+			<biblScope unit="volume">281</biblScope>
+			<biblScope unit="page">20142120</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Forced into an ecological corner: round-the-clock deep foraging on small prey by elephant seals</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Adachi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Takahashi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">P</forename><surname>Costa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">W</forename><surname>Robinson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">A</forename><surname>Huckstadt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">H</forename><surname>Peterson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">R</forename><surname>Holser</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">S</forename><surname>Beltran</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">R</forename><surname>Keates</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Naito</surname></persName>
+		</author>
+		<idno type="DOI">10.1126/sciadv.abg3628</idno>
+		<ptr target="https://doi.org/10.1126/sciadv.abg3628" />
+	</analytic>
+	<monogr>
+		<title level="j">Sci Adv</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Chronic food restriction and the circadian rhythms of pituitary-adrenal hormones, growth hormone and thyroid-stimulating hormone</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Armario</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Montero</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Jolin</surname></persName>
+		</author>
+		<idno type="DOI">10.1159/000177254</idno>
+		<ptr target="https://doi.org/10.1159/000177254" />
+	</analytic>
+	<monogr>
+		<title level="j">Ann Nutr Metab</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="page" from="81" to="87" />
+			<date type="published" when="1987">1987</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Assessing the cost of mounting an immune response</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Bonneaud</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Mazuc</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Gonzalez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Haussy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Chastel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Faivre</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Sorci</surname></persName>
+		</author>
+		<idno type="DOI">10.1086/346134</idno>
+		<ptr target="https://doi.org/10.1086/346134" />
+	</analytic>
+	<monogr>
+		<title level="j">Am Nat</title>
+		<imprint>
+			<biblScope unit="volume">161</biblScope>
+			<biblScope unit="page" from="367" to="379" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Immune activity, body condition and human-associated environmental impacts in a wild marine mammal</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">M</forename><surname>Brock</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">J</forename><surname>Hall</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">J</forename><surname>Goodman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Cruz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Acevedo-Whitehouse</surname></persName>
+		</author>
+		<idno type="DOI">10.1371/journal.pone.0067132</idno>
+		<ptr target="https://doi.org/10.1371/journal.pone.0067132" />
+	</analytic>
+	<monogr>
+		<title level="j">PloS One</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page">67132</biblScope>
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">A profile of carbohydrate metabolites in the fasting northern elephant seal</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">D</forename><surname>Champagne</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Boaz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Fowler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">S</forename><surname>Houser</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">P</forename><surname>Costa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">E</forename><surname>Crocker</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.cbd.2013.02.002</idno>
+		<ptr target="https://doi.org/10.1016/j.cbd.2013.02.002" />
+	</analytic>
+	<monogr>
+		<title level="j">Comparative Biochemistry and Physiology Part D: Genomics and Proteomics</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page" from="141" to="151" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Glucose production and substrate cycle activity in a fasting adapted animal, the northern elephant seal</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">D</forename><surname>Champagne</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">S</forename><surname>Houser</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">E</forename><surname>Crocker</surname></persName>
+		</author>
+		<idno type="DOI">10.1242/jeb.01476</idno>
+		<ptr target="https://doi.org/10.1242/jeb.01476" />
+	</analytic>
+	<monogr>
+		<title level="j">J Exp Biol</title>
+		<imprint>
+			<biblScope unit="volume">208</biblScope>
+			<biblScope unit="page" from="859" to="868" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Adiposity and fat metabolism in lactating and fasting northern elephant seals</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">E</forename><surname>Crocker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">D</forename><surname>Champagne</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Fowler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">S</forename><surname>Houser</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Advances in Nutrition</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="57" to="64" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Impact of el niño on the foraging behavior of female northern elephant seals</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">E</forename><surname>Crocker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">P</forename><surname>Costa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Le</forename><surname>Boeuf</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">J</forename><surname>Webb</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">M</forename><surname>Houser</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">S</forename></persName>
+		</author>
+		<idno type="DOI">10.3354/meps309001</idno>
+		<ptr target="https://doi.org/10.3354/meps309001" />
+	</analytic>
+	<monogr>
+		<title level="j">Mar Ecol Prog Ser</title>
+		<imprint>
+			<biblScope unit="volume">309</biblScope>
+			<biblScope unit="page" from="1" to="10" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Drift diving in female northern elephant seals: implications for food processing</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">E</forename><surname>Crocker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Le</forename><surname>Boeuf</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">J</forename><surname>Costa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">P</forename></persName>
+		</author>
+		<idno type="DOI">10.1139/z97-004</idno>
+		<ptr target="https://doi.org/10.1139/z97-004" />
+	</analytic>
+	<monogr>
+		<title level="j">Can J Zool</title>
+		<imprint>
+			<biblScope unit="volume">75</biblScope>
+			<biblScope unit="page" from="27" to="39" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Physiological capacity and constraint impact behavioral phenotype in phocid seals</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">E</forename><surname>Crocker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">I</forename><surname>Mcdonald</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/978-3-030-88923-4_4</idno>
+		<ptr target="https://doi.org/10.1007/978-3-030-88923-4_4" />
+	</analytic>
+	<monogr>
+		<title level="j">Ethology and behavioral ecology of phocids</title>
+		<imprint>
+			<biblScope unit="page" from="101" to="126" />
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Protein catabolism and renal function in lactating northern elephant seals</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">E</forename><surname>Crocker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">M</forename><surname>Webb</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">P</forename><surname>Costa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Le</forename><surname>Boeuf</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">J</forename></persName>
+		</author>
+		<idno type="DOI">10.1086/515971</idno>
+		<ptr target="https://doi.org/10.1086/515971" />
+	</analytic>
+	<monogr>
+		<title level="j">Physiol Zool</title>
+		<imprint>
+			<biblScope unit="volume">71</biblScope>
+			<biblScope unit="page" from="485" to="491" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Maternal traits and reproductive effort in northern elephant seals</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">E</forename><surname>Crocker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">D</forename><surname>Williams</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">P</forename><surname>Costa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Le</forename><surname>Boeuf</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">J</forename></persName>
+		</author>
+		<idno type="DOI">10.1890/0012-9658(2001)082[3541:MTAREI]2.0.CO;2</idno>
+		<ptr target="https://doi.org/10.1890/0012-9658(2001)082[3541:MTAREI]2.0" />
+	</analytic>
+	<monogr>
+		<title level="j">Ecology</title>
+		<imprint>
+			<biblScope unit="volume">82</biblScope>
+			<biblScope unit="page" from="3541" to="3555" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Rethinking il-6 and crp: why they are more than inflammatory biomarkers, and why it matters</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Del Giudice</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">W</forename><surname>Gangestad</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.bbi.2018.02.013</idno>
+		<ptr target="https://doi.org/10.1016/j.bbi.2018.02.013" />
+	</analytic>
+	<monogr>
+		<title level="j">Brain Behav Immun</title>
+		<imprint>
+			<biblScope unit="volume">70</biblScope>
+			<biblScope unit="page" from="61" to="75" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Metabolic costs of mounting an antigen-stimulated immune response in adult and aged c57bl/6j mice</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">E</forename><surname>Demas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Chefer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">I</forename><surname>Talan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Nelson</surname></persName>
+		</author>
+		<idno type="DOI">10.1152/ajpregu.1997.273.5.R1631</idno>
+		<ptr target="https://doi.org/10.1152/ajpregu.1997.273" />
+	</analytic>
+	<monogr>
+		<title level="j">Am J Physiol</title>
+		<imprint>
+			<biblScope unit="volume">273</biblScope>
+			<biblScope unit="page" from="1631" to="R1637" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Metabolic responses to adrenocorticotropic hormone (acth) vary with life-history stage in adult male northern elephant seals</title>
+		<author>
+			<persName><surname>R1631</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">C</forename><surname>Ensminger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Somo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">S</forename><surname>Houser</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">E</forename><surname>Crocker</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.ygcen.2014.04.024</idno>
+		<ptr target="https://doi.org/10.1016/j.ygcen.2014.04.024" />
+	</analytic>
+	<monogr>
+		<title level="j">Gen Comp Endocrinol</title>
+		<imprint>
+			<biblScope unit="volume">204</biblScope>
+			<biblScope unit="page" from="150" to="157" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Fever and the thermal regulation of immunity: the immune system feels the heat</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">S</forename><surname>Evans</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">A</forename><surname>Repasky</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">T</forename><surname>Fisher</surname></persName>
+		</author>
+		<idno type="DOI">10.1038/nri3843</idno>
+		<ptr target="https://doi.org/10.1038/nri3843" />
+	</analytic>
+	<monogr>
+		<title level="j">Nat Rev Immunol</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page" from="335" to="349" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Thermoregulatory strategies of diving airbreathing marine vertebrates: a review</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">B</forename><surname>Favilla</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">P</forename><surname>Costa</surname></persName>
+		</author>
+		<idno type="DOI">10.3389/fevo.2020.555509</idno>
+		<ptr target="https://doi.org/10.3389/fevo.2020.555509" />
+	</analytic>
+	<monogr>
+		<title level="j">Front Ecol Evol</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Hormonal regulation of glucose clearance in lactating northern elephant seals (Mirounga angustirostris)</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Fowler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">D</forename><surname>Champagne</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">S</forename><surname>Houser</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">E</forename><surname>Crocker</surname></persName>
+		</author>
+		<idno type="DOI">10.1242/jeb.018176</idno>
+		<ptr target="https://doi.org/10.1242/jeb.018176" />
+	</analytic>
+	<monogr>
+		<title level="j">J Exp Biol</title>
+		<imprint>
+			<biblScope unit="volume">211</biblScope>
+			<biblScope unit="page" from="2943" to="2949" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">The demands of lactation promote differential regulation of lipid stores in fasting elephant seals</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Fowler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Debier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">D</forename><surname>Champagne</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">E</forename><surname>Crocker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">P</forename><surname>Costa</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.ygcen.2015.09.024</idno>
+		<ptr target="https://doi.org/10.1016/j.ygcen.2015.09.024" />
+	</analytic>
+	<monogr>
+		<title level="j">Gen Comp Endocrinol</title>
+		<imprint>
+			<biblScope unit="volume">225</biblScope>
+			<biblScope unit="page" from="125" to="132" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Ultrasonic measurement of blubber thickness of the southern elephant seal, mirounga-leonina (Linn)</title>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">J</forename><surname>Gales</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">R</forename><surname>Burton</surname></persName>
+		</author>
+		<idno type="DOI">10.1071/ZO9870207</idno>
+		<ptr target="https://doi.org/10.1071/ZO9870207" />
+	</analytic>
+	<monogr>
+		<title level="j">Aust J Zool</title>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="page" from="207" to="217" />
+			<date type="published" when="1987">1987</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">A phylogenetic analysis of the allometry of diving</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">G</forename><surname>Halsey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">J</forename><surname>Butler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">M</forename><surname>Blackburn</surname></persName>
+		</author>
+		<idno type="DOI">10.1086/499439</idno>
+		<ptr target="https://doi.org/10.1086/499439" />
+	</analytic>
+	<monogr>
+		<title level="j">Am Nat</title>
+		<imprint>
+			<biblScope unit="volume">167</biblScope>
+			<biblScope unit="page" from="276" to="287" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Interleukin (il)-6 and il-1 beta act synergistically within the brain to induce sickness behavior and fever in rats</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">M</forename><surname>Harden</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Du Plessis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Poole</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">P</forename><surname>Laburn</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.bbi.2007.12.006</idno>
+		<ptr target="https://doi.org/10.1016/j.bbi.2007.12.006" />
+	</analytic>
+	<monogr>
+		<title level="j">Brain Behav Immun</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="page" from="838" to="849" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Sickness behavior in animals: implications for health and wellness</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">L</forename><surname>Hart</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">A</forename><surname>Hart</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/B978-0-12-809633-8.20750-4</idno>
+		<ptr target="https://doi.org/10.1016/B978-0-12-809633-8.20750-4" />
+	</analytic>
+	<monogr>
+		<title level="j">Encyclopedia of Animal Behavior</title>
+		<imprint>
+			<biblScope unit="page" from="171" to="175" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Condition and mass impact oxygen stores and dive duration in adult female northern elephant seals</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Hassrick</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">E</forename><surname>Crocker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">M</forename><surname>Teutschel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">I</forename><surname>Mcdonald</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">W</forename><surname>Robinson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">E</forename><surname>Simmons</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">P</forename><surname>Costa</surname></persName>
+		</author>
+		<idno type="DOI">10.1242/jeb.037168</idno>
+		<ptr target="https://doi.org/10.1242/jeb.037168" />
+	</analytic>
+	<monogr>
+		<title level="j">J Exp Biol</title>
+		<imprint>
+			<biblScope unit="volume">213</biblScope>
+			<biblScope unit="page" from="585" to="592" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Thermal conductance in birds and mammals</title>
+		<author>
+			<persName><surname>Herreid Cf 2nd</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Kessel</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/0010-406X(67)90802-X</idno>
+		<ptr target="https://doi.org/10.1016/0010-406X(67)90802-X" />
+	</analytic>
+	<monogr>
+		<title level="j">Comp Biochem Physiol</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="page" from="405" to="414" />
+			<date type="published" when="1967">1967</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">A top predator in hot water: Effects of a marine heatwave on foraging and reproduction in the northern elephant sealPhD</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">R</forename><surname>Holser</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">University of California</title>
+		<imprint>
+			<date type="published" when="2020">2020</date>
+			<pubPlace>Santa Cruz</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Densitydependent effects on reproductive output in a capital breeding carnivore, the northern elephant seal (Mirounga angustirostris). Proceedings of the</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">R</forename><surname>Holser</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">E</forename><surname>Crocker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">W</forename><surname>Robinson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Condit</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">P</forename><surname>Costa</surname></persName>
+		</author>
+		<idno type="DOI">10.1098/rspb.2021.1258</idno>
+		<ptr target="https://doi.org/10.1098/rspb.2021.1258" />
+	</analytic>
+	<monogr>
+		<title level="j">Royal Society B-Biological Sciences</title>
+		<imprint>
+			<biblScope unit="volume">288</biblScope>
+			<biblScope unit="page">20211258</biblScope>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">practice recommendations for the use of external telemetry devices on pinnipeds</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Horning</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">D</forename><surname>Andrews</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Bishop</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">L</forename><surname>Boveng</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">P</forename><surname>Costa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">E</forename><surname>Crocker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Haulena</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Hindell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">G</forename><surname>Hindle</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">R</forename><surname>Holser</surname></persName>
+		</author>
+		<idno type="DOI">10.1186/s40317-019-0182-6</idno>
+		<ptr target="https://doi.org/10.1186/s40317-019-0182-6" />
+	</analytic>
+	<monogr>
+		<title level="j">Animal Biotelemetry</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="issue">20</biblScope>
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+	<note>Best</note>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Intraperitoneal implantation of life-long telemetry transmitters in otariids</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Horning</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Haulena</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">A</forename><surname>Tuomi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jae</forename><surname>Mellish</surname></persName>
+		</author>
+		<idno type="DOI">10.1186/1746-6148-4-51</idno>
+		<ptr target="https://doi.org/10.1186/1746-6148-4-51" />
+	</analytic>
+	<monogr>
+		<title level="j">BMC Vet Res</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page">51</biblScope>
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Predation on an upper trophic marine predator, the steller sea lion: evaluating high juvenile mortality in a density dependent conceptual framework</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Horning</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Mellish</surname></persName>
+		</author>
+		<idno type="DOI">10.1371/journal.pone.0030173</idno>
+		<ptr target="https://doi.org/10.1371/journal.pone.0030173" />
+	</analytic>
+	<monogr>
+		<title level="j">PloS One</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page">30173</biblScope>
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<monogr>
+		<title level="m" type="main">Fit latent variable movement models to animal tracking data for location quality and control behvaioural inference</title>
+		<author>
+			<persName><forename type="first">I</forename><surname>Jonsen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Patterson</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Movement responses to environment: fast inference of variation among southern elephant seals with a mixed effects model</title>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">D</forename><surname>Jonsen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">R</forename><surname>Mcmahon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">A</forename><surname>Patterson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Auger-Methe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Harcourt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Hindell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Bestley</surname></persName>
+		</author>
+		<idno type="DOI">10.1002/ecy.2566</idno>
+		<ptr target="https://doi.org/10.1002/ecy.2566" />
+	</analytic>
+	<monogr>
+		<title level="j">Ecology</title>
+		<imprint>
+			<biblScope unit="volume">100</biblScope>
+			<biblScope unit="page">2566</biblScope>
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">A continuous-time state-space model for rapid quality control of Argos locations from animal-borne tags</title>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">D</forename><surname>Jonsen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">A</forename><surname>Patterson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">P</forename><surname>Costa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">D</forename><surname>Doherty</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">J</forename><surname>Godley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">J</forename><surname>Grecian</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Guinet</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Hoenner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">S</forename><surname>Kienle</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">W</forename><surname>Robinson</surname></persName>
+		</author>
+		<idno type="DOI">10.1186/s40462-020-00217-7</idno>
+		<ptr target="https://doi.org/10.1186/s40462-020-00217-7" />
+	</analytic>
+	<monogr>
+		<title level="j">Mov Ecol</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page">31</biblScope>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Aerobic capacities in the skeletal muscles of weddell seals: key to longer dive durations?</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">B</forename><surname>Kanatous</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">W</forename><surname>Davis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Watson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Polasek</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">M</forename><surname>Williams</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Mathieu-Costello</surname></persName>
+		</author>
+		<idno type="DOI">10.1242/jeb.205.23.3601</idno>
+		<ptr target="https://doi.org/10.1242/jeb.205.23.3601" />
+	</analytic>
+	<monogr>
+		<title level="j">J Exp Biol</title>
+		<imprint>
+			<biblScope unit="volume">205</biblScope>
+			<biblScope unit="page" from="3601" to="3608" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Emerging themes in population consequences of disturbance models</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">A</forename><surname>Keen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">S</forename><surname>Beltran</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Pirotta</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">P</forename><surname>Costa</surname></persName>
+		</author>
+		<idno type="DOI">10.1098/rspb.2021.0325</idno>
+		<ptr target="https://doi.org/10.1098/rspb.2021.0325" />
+	</analytic>
+	<monogr>
+		<title level="j">Proc Biol Sci</title>
+		<imprint>
+			<biblScope unit="volume">288</biblScope>
+			<biblScope unit="page">20210325</biblScope>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">Trade-offs between foraging reward and mortality risk drive sex-specific foraging strategies in sexually dimorphic northern elephant seals</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">S</forename><surname>Kienle</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">S</forename><surname>Friedlaender</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">E</forename><surname>Crocker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">S</forename><surname>Mehta</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">P</forename><surname>Costa</surname></persName>
+		</author>
+		<idno type="DOI">10.1098/rsos.210522</idno>
+		<ptr target="https://doi.org/10.1098/rsos.210522" />
+	</analytic>
+	<monogr>
+		<title level="j">R Soc Open Sci</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page">210522</biblScope>
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">The evolution and adaptive value of fever: long regarded as a harmful by-product of infection, fever may instead be an ancient ally against disease, enhancing resistance and increasing chances of survival</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Kluger</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am Sci</title>
+		<imprint>
+			<biblScope unit="volume">66</biblScope>
+			<biblScope unit="page" from="38" to="43" />
+			<date type="published" when="1978">1978</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<monogr>
+		<title level="m" type="main">Solarazel</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">C</forename><surname>Koblick</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2014">2014</date>
+			<publisher>GitHub</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title level="a" type="main">Identifying and quantifying prey consumption using stomach temperature change in pinnipeds</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">E</forename><surname>Kuhn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">P</forename><surname>Costa</surname></persName>
+		</author>
+		<idno type="DOI">10.1242/jeb.02530</idno>
+		<ptr target="https://doi.org/10.1242/jeb.02530" />
+	</analytic>
+	<monogr>
+		<title level="j">J Exp Biol</title>
+		<imprint>
+			<biblScope unit="volume">209</biblScope>
+			<biblScope unit="page" from="4524" to="4532" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title level="a" type="main">Foraging ecology of northern elephant seals</title>
+		<author>
+			<persName><forename type="first">Le</forename><surname>Boeuf</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">J</forename><surname>Crocker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">E</forename><surname>Costa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">P</forename><surname>Blackwell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">B</forename><surname>Webb</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">M</forename><surname>Houser</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">S</forename></persName>
+		</author>
+		<idno type="DOI">10.1890/0012-9615(2000)070[0353:FEONES]2.0.CO;2</idno>
+		<ptr target="https://doi.org/10.1890/0012-9615(2000)070[0353:FEONES]2.0" />
+	</analytic>
+	<monogr>
+		<title level="j">Ecological Monographs</title>
+		<imprint>
+			<biblScope unit="volume">70</biblScope>
+			<biblScope unit="page" from="353" to="382" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+		<title level="a" type="main">Summing the strokes: energy economy in northern elephant seals during large-scale foraging migrations</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Maresh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Adachi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Takahashi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Naito</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">E</forename><surname>Crocker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Horning</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">M</forename><surname>Williams</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">P</forename><surname>Costa</surname></persName>
+		</author>
+		<idno type="DOI">10.1186/s40462-015-0049-2</idno>
+		<ptr target="https://doi.org/10.1186/s40462-015-0049-2" />
+	</analytic>
+	<monogr>
+		<title level="j">Mov Ecol</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page">22</biblScope>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<analytic>
+		<title level="a" type="main">Immune activity elevates energy expenditure of house sparrows: a link between direct and indirect costs?</title>
+		<author>
+			<persName><surname>Martin Lb 2nd</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Scheuerlein</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Wikelski</surname></persName>
+		</author>
+		<idno type="DOI">10.1098/rspb.2002.2185</idno>
+		<ptr target="https://doi.org/10.1098/rspb.2002.2185" />
+	</analytic>
+	<monogr>
+		<title level="j">Proc Biol Sci</title>
+		<imprint>
+			<biblScope unit="volume">270</biblScope>
+			<biblScope unit="page" from="153" to="158" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<analytic>
+		<title level="a" type="main">Immune defense and reproductive pace of life in peromyscus mice</title>
+		<author>
+			<persName><surname>Martin Lb 2nd</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><forename type="middle">M</forename><surname>Weil</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Nelson</surname></persName>
+		</author>
+		<idno type="DOI">10.1890/07-0060.1</idno>
+		<ptr target="https://doi.org/10.1890/07-0060" />
+	</analytic>
+	<monogr>
+		<title level="j">Ecology</title>
+		<imprint>
+			<biblScope unit="volume">88</biblScope>
+			<biblScope unit="page" from="2516" to="2528" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<analytic>
+		<title level="a" type="main">Extreme hypoxemic tolerance and blood oxygen depletion in diving elephant seals</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">U</forename><surname>Meir</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">D</forename><surname>Champagne</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">P</forename><surname>Costa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">L</forename><surname>Williams</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">J</forename><surname>Ponganis</surname></persName>
+		</author>
+		<idno type="DOI">10.1152/ajpregu.00247.2009</idno>
+		<ptr target="https://doi.org/10.1152/ajpregu.00247.2009" />
+	</analytic>
+	<monogr>
+		<title level="j">Am J Physiol Regul Integr Comp Physiol</title>
+		<imprint>
+			<biblScope unit="volume">297</biblScope>
+			<biblScope unit="page" from="R927" to="R939" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<analytic>
+		<title level="a" type="main">Blood oxygen depletion is independent of dive function in a deep diving vertebrate, the northern elephant seal</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">U</forename><surname>Meir</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">W</forename><surname>Robinson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">I</forename><surname>Vilchis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">L</forename><surname>Kooyman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">P</forename><surname>Costa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">J</forename><surname>Ponganis</surname></persName>
+		</author>
+		<idno type="DOI">10.1371/journal.pone.0083248</idno>
+		<ptr target="https://doi.org/10.1371/journal.pone.0083248" />
+	</analytic>
+	<monogr>
+		<title level="j">PloS One</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page">83248</biblScope>
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<analytic>
+		<title level="a" type="main">Mixing (mx) oceanographic toolbox for em-apex float data</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Meyer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">E</forename><surname>Philips</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">M</forename><surname>Sloyan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">L</forename><surname>Polzin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">MATLAB Central File Exchange</title>
+		<imprint>
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<analytic>
+		<title level="a" type="main">Threedimensional resting behaviour of northern elephant seals: drifting like a falling leaf</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Mitani</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">D</forename><surname>Andrews</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Sato</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Kato</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Naito</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">P</forename><surname>Costa</surname></persName>
+		</author>
+		<idno type="DOI">10.1098/rsbl.2009.0719</idno>
+		<ptr target="https://doi.org/10.1098/rsbl.2009.0719" />
+	</analytic>
+	<monogr>
+		<title level="j">Biol Lett</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="163" to="166" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<analytic>
+		<title level="a" type="main">Unravelling the mysteries of a mesopelagic diet: a large apex predator specializes on small prey</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Naito</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">P</forename><surname>Costa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Adachi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">W</forename><surname>Robinson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Fowler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Takahashi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Franklin</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/1365-2435.12083</idno>
+		<ptr target="https://doi.org/10.1111/1365-2435.12083" />
+	</analytic>
+	<monogr>
+		<title level="j">Functional Ecology</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="page" from="710" to="717" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<analytic>
+		<title level="a" type="main">northern elephant seals (Mirounga angustirostris)Masters Thesis</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Northey</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Adrenal response to acth challenge alters thyroid and immune function and varies with body reserves in molting adult female</title>
+		<imprint>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+		<respStmt>
+			<orgName>Sonoma State University</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b50">
+	<analytic>
+		<title level="a" type="main">Effects of prolonged fasting on plasma cortisol and th in postweaned northern elephant seal pups</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">M</forename><surname>Ortiz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">E</forename><surname>Wade</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">L</forename><surname>Ortiz</surname></persName>
+		</author>
+		<idno type="DOI">10.1152/ajpregu.2001.280.3.R790</idno>
+		<ptr target="https://doi.org/10.1152/ajpregu.2001.280" />
+	</analytic>
+	<monogr>
+		<title level="j">Am J Physiol Regul Integr Comp Physiol</title>
+		<imprint>
+			<biblScope unit="volume">280</biblScope>
+			<biblScope unit="page" from="R790" to="R795" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b51">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">R</forename></persName>
+		</author>
+		<idno type="DOI">10.1152/ajpregu.2001.280.3.R790</idno>
+		<imprint>
+			<biblScope unit="page">790</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b52">
+	<analytic>
+		<title level="a" type="main">Studies on body composition</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Pace</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">N</forename><surname>Rathbun</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/S0021-9258(19)51345-X</idno>
+		<ptr target="https://doi.org/10.1016/S0021-9258(19)51345-X" />
+	</analytic>
+	<monogr>
+		<title level="j">J Biol Chem</title>
+		<imprint>
+			<biblScope unit="volume">158</biblScope>
+			<biblScope unit="page" from="685" to="691" />
+			<date type="published" when="1945">1945</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b53">
+	<analytic>
+		<title level="a" type="main">Body reserves influence allocation to immune responses in capital breeding female northern elephant seals</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">E</forename><surname>Peck</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">P</forename><surname>Costa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">E</forename><surname>Crocker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Goldbogen</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/1365-2435.12504</idno>
+		<ptr target="https://doi.org/10.1111/1365-2435.12504" />
+	</analytic>
+	<monogr>
+		<title level="j">Functional Ecology</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="page" from="389" to="397" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b54">
+	<analytic>
+		<title level="a" type="main">Understanding the population consequences of disturbance</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Pirotta</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">G</forename><surname>Booth</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">P</forename><surname>Costa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Fleishman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">D</forename><surname>Kraus</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Lusseau</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Moretti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">F</forename><surname>New</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">S</forename><surname>Schick</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">K</forename><surname>Schwarz</surname></persName>
+		</author>
+		<idno type="DOI">10.1002/ece3.4458</idno>
+		<ptr target="https://doi.org/10.1002/ece3.4458" />
+	</analytic>
+	<monogr>
+		<title level="j">Ecol Evol</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page" from="9934" to="9946" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b55">
+	<analytic>
+		<title level="a" type="main">Changes in standard metabolism during long-term fasting in northern elephant seal pups (Mirounga angustirostris)</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Rea</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">P</forename><surname>Costa</surname></persName>
+		</author>
+		<idno type="DOI">10.1086/physzool.65.1.30158241</idno>
+		<ptr target="https://doi.org/10.1086/physzool.65.1.30158241" />
+	</analytic>
+	<monogr>
+		<title level="j">Physiol Zool</title>
+		<imprint>
+			<biblScope unit="volume">65</biblScope>
+			<biblScope unit="page" from="97" to="111" />
+			<date type="published" when="1992">1992</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b56">
+	<analytic>
+		<title level="a" type="main">Foraging behavior and success of a mesopelagic predator in the northeast pacific ocean: insights from a data-rich species, the northern elephant seal</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">W</forename><surname>Robinson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">P</forename><surname>Costa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">E</forename><surname>Crocker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">P</forename><surname>Gallo-Reynoso</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">D</forename><surname>Champagne</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Fowler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Goetsch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">T</forename><surname>Goetz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Hassrick</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">A</forename><surname>Huckstadt</surname></persName>
+		</author>
+		<idno type="DOI">10.1371/journal.pone.0036728</idno>
+		<ptr target="https://doi.org/10.1371/journal.pone.0036728" />
+	</analytic>
+	<monogr>
+		<title level="j">PloS One</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page">36728</biblScope>
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b57">
+	<analytic>
+		<title level="a" type="main">Thermal and digestive constraints to foraging behaviour in marine mammals</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Rosen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">J</forename><surname>Winship</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">A</forename><surname>Hoopes</surname></persName>
+		</author>
+		<idno type="DOI">10.1098/rstb.2007.2108</idno>
+		<ptr target="https://doi.org/10.1098/rstb.2007.2108" />
+	</analytic>
+	<monogr>
+		<title level="j">Philos Trans R Soc Lond B Biol Sci</title>
+		<imprint>
+			<biblScope unit="volume">362</biblScope>
+			<biblScope unit="page" from="2151" to="2168" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b58">
+	<monogr>
+		<author>
+			<persName><forename type="first">K</forename><surname>Schmidt-Nielsen</surname></persName>
+		</author>
+		<title level="m">Animal physiology: Adaptation and environment</title>
+		<imprint>
+			<publisher>Cambridge University Press</publisher>
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b59">
+	<analytic>
+		<title level="a" type="main">Climate-scale hydrographic features related to foraging success in a capital breeder, the northern elephant seal Mirounga angustirostris</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">E</forename><surname>Simmons</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">E</forename><surname>Crocker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Hassrick</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">E</forename><surname>Kuhn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">W</forename><surname>Robinson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Tremblay</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">P</forename><surname>Costa</surname></persName>
+		</author>
+		<idno type="DOI">10.3354/esr00254</idno>
+		<ptr target="https://doi.org/10.3354/esr00254" />
+	</analytic>
+	<monogr>
+		<title level="j">Endangered Species Research</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page" from="233" to="243" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b60">
+	<analytic>
+		<title level="a" type="main">Time domains of hypoxia adaptationelephant seals stand out among divers</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">S</forename><surname>Tift</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">J</forename><surname>Ponganis</surname></persName>
+		</author>
+		<idno type="DOI">10.3389/fphys.2019.00677</idno>
+		<ptr target="https://doi.org/10.3389/fphys.2019.00677" />
+	</analytic>
+	<monogr>
+		<title level="j">Front Physiol</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page">677</biblScope>
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b61">
+	<analytic>
+		<title level="a" type="main">Characteristics of thyroid function in experimental protein malnutrition</title>
+		<author>
+			<persName><forename type="first">O</forename><forename type="middle">L</forename><surname>Tulp</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">P</forename><surname>Krupp</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Danforth</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Jr</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">S</forename><surname>Horton</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/jn/109.7.1321</idno>
+		<ptr target="https://doi.org/10.1093/jn/109.7.1321" />
+	</analytic>
+	<monogr>
+		<title level="j">J Nutr</title>
+		<imprint>
+			<biblScope unit="volume">109</biblScope>
+			<biblScope unit="page" from="1321" to="1332" />
+			<date type="published" when="1979">1979</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b62">
+	<analytic>
+		<title level="a" type="main">Haptoglobin, an inflammation-inducible plasma protein</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Kinzie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">G</forename><surname>Berger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">K</forename><surname>Lim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Baumann</surname></persName>
+		</author>
+		<idno type="DOI">10.1179/135100001101536580</idno>
+		<ptr target="https://doi.org/10.1179/135100001101536580" />
+	</analytic>
+	<monogr>
+		<title level="j">Redox Rep</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="379" to="385" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b63">
+	<analytic>
+		<title level="a" type="main">Effects of buoyancy on the diving behavior of northern elephant seals</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">M</forename><surname>Webb</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">E</forename><surname>Crocker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">B</forename><surname>Blackwell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">P</forename><surname>Costa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">J</forename><surname>Boeuf</surname></persName>
+		</author>
+		<idno type="DOI">10.1242/jeb.201.16.2349</idno>
+		<ptr target="https://doi.org/10.1242/jeb.201.16.2349" />
+	</analytic>
+	<monogr>
+		<title level="j">J Exp Biol</title>
+		<imprint>
+			<biblScope unit="volume">201</biblScope>
+			<biblScope unit="page" from="2349" to="2358" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b64">
+	<monogr>
+		<title level="m" type="main">ggplot2: Elegant Graphics for Data Analysis</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Wickham</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2016">2016</date>
+			<publisher>Springer-Verlag</publisher>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b65">
+	<analytic>
+		<title level="a" type="main">Moult energetics of the northern elephant seal (mirounga-angustirostris)</title>
+		<author>
+			<persName><forename type="first">Gaj</forename><surname>Worthy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">A</forename><surname>Morris</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">P</forename><surname>Costa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Le</forename><surname>Boeuf</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">J</forename></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1469-7998.1992.tb04821.x</idno>
+		<ptr target="https://doi.org/10.1111/j.1469-7998.1992.tb04821.x" />
+	</analytic>
+	<monogr>
+		<title level="j">J Zool</title>
+		<imprint>
+			<biblScope unit="volume">227</biblScope>
+			<biblScope unit="page" from="257" to="265" />
+			<date type="published" when="1992">1992</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b66">
+	<analytic>
+		<title level="a" type="main">Acceleration-triggered animal-borne videos show a dominance of fish in the diet of female northern elephant seals</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Yoshino</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Takahashi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Adachi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">P</forename><surname>Costa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">W</forename><surname>Robinson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">H</forename><surname>Peterson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">A</forename><surname>Huckstadt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">R</forename><surname>Holser</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Naito</surname></persName>
+		</author>
+		<idno type="DOI">10.1242/jeb.212936</idno>
+		<ptr target="https://doi.org/10.1242/jeb.212936" />
+	</analytic>
+	<monogr>
+		<title level="j">J Exp Biol</title>
+		<imprint>
+			<biblScope unit="volume">223</biblScope>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>
