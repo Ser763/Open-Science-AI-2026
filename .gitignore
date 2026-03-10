@@ -1,0 +1,33 @@
+# --- ENTORNOS VIRTUALES (Lo que el checklist prohíbe subir) ---
+venv/
+env/
+.env/
+.conda/
+bin/
+lib/
+share/
+Include/
+
+# --- ARCHIVOS DE PYTHON Y CACHÉ ---
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.ipynb_checkpoints/
+
+# --- RESULTADOS DEL ANÁLISIS (Para que el repo esté limpio) ---
+# Ignoramos los archivos que genera tu script main.py
+output/*.xml
+*.png
+lista_enlaces.txt
+
+# --- CONFIGURACIÓN DE EDITORES Y SISTEMA ---
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# --- DOCKER ---
+# No es estrictamente necesario, pero limpia logs de docker
+.docker/
